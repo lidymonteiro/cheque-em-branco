@@ -20,16 +20,15 @@ A documentação oficial de cada endpoint está em [`docs/api/`](docs/api/) (arq
 ## Setup
 
 ```bash
+git clone https://github.com/lidymonteiro/cheque-em-branco.git
+cd cheque-em-branco
+
 python3 -m venv venv
 source venv/bin/activate
 pip install requests
 ```
 
-Os scripts usam apenas `requests` (o resto é biblioteca padrão). 
-
 ## Como rodar a coleta
-
-Da raiz do projeto, com a venv ativa (ou usando `venv/bin/python`):
 
 ```bash
 python scripts/coleta_vereadores.py       # 49 vereadores + perfis completos
@@ -41,7 +40,7 @@ python scripts/coleta_comissoes.py        # 18 comissões (composição históri
 python scripts/medir_eixos.py             # medições de viabilidade (lê só arquivos locais)
 ```
 
-- [`scripts/api.py`](scripts/api.py) — cliente HTTP compartilhado (`requests` com retry/timeout).
+- [`scripts/api.py`](scripts/api.py) :  cliente HTTP compartilhado (`requests` com retry/timeout).
 - Os coletores de sessões e normas-detalhe são **resumíveis** (pulam arquivos já salvos).
 - Os nomes de campo são **os originais da API** (compatibilidade). PDFs: só os links.
 
@@ -75,9 +74,9 @@ dados/18-legislatura/
 
 ## Documentação
 
-- [`docs/plano-grafos.md`](docs/plano-grafos.md) — modelo de grafo, eixos, plano de ML.
-- [`docs/resumo-para-cientista-de-dados.md`](docs/resumo-para-cientista-de-dados.md) — resumo técnico da base e do potencial de ML.
-- [`docs/api/`](docs/api/) — documentação oficial dos endpoints.
+- [`docs/plano-grafos.md`](docs/plano-grafos.md) : modelo de grafo, eixos, plano de ML.
+- [`docs/analise-exploratoria.md`](docs/analise-exploratoria.md) : resumo técnico da base e do potencial de ML.
+- [`docs/api/`](docs/api/) : documentação oficial dos endpoints.
 
 ## Status
 
