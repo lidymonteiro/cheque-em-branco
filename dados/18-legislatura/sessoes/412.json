@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/412",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/412/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/412/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/412_ata_sessao.pdf",
+      "filename": "412_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-02-15",
+  "description": "4ª Reunião Ordinária - 15/02/2022",
+  "endTime": "",
+  "id": "412",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/412_pauta_sessao.pdf",
+      "filename": "412_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "4ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

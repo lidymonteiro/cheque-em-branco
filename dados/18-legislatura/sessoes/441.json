@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/441",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/441/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/441/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/441_ata_sessao.pdf",
+      "filename": "441_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-03-17",
+  "description": "9ª Reunião Solene - 17/03/2022",
+  "endTime": "",
+  "id": "441",
+  "pauta": [],
+  "startTime": "19:00",
+  "title": "9ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

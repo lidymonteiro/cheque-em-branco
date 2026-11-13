@@ -1,0 +1,5289 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/417/votacao",
+  "@type": "votacaoNominal",
+  "description": "6ª Reunião Ordinária – 22/02/2022",
+  "items": [
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/120665",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Parlamentar",
+          "id": "140",
+          "primeiro_autor": true,
+          "title": "Luiz Eustáquio"
+        }
+      ],
+      "contrario": 0,
+      "description": "Indicação à Secretária de Saúde do Recife para implementar um posto de vacinação volante durante quatro dias intercalados (uma vez por semana), no período de um mês, visando ampliar a vacinação de moradores que possuem dificuldades de acesso tecnológico, de transporte ou até mesmo de locomoção, na comunidade do Alto José do Pinho.",
+      "favoravel": 0,
+      "id": "120665",
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Nominal",
+      "title": "Requerimento nº 1191/2022",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/120705",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Parlamentar",
+          "id": "135",
+          "primeiro_autor": true,
+          "title": "Almir Fernando"
+        }
+      ],
+      "contrario": 0,
+      "description": " Indicação ao Prefeito do Município do Recife para autorizar a implantação de corrimão na escadaria da Rua Augusto Lima, no bairro do Vasco da Gama.",
+      "favoravel": 0,
+      "id": "120705",
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Nominal",
+      "title": "Requerimento nº 1231/2022",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/120842",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Parlamentar",
+          "id": "250",
+          "primeiro_autor": true,
+          "title": "Alcides Cardoso"
+        }
+      ],
+      "contrario": 0,
+      "description": "Indicação à Presidente da EMLURB para determinar o serviço de substituição da areia por gramado sintético, ou algum outro material adequado,\r\nna Praça Vila do Moinho, no bairro da Encruzilhada.",
+      "favoravel": 0,
+      "id": "120842",
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Nominal",
+      "title": "Requerimento nº 1360/2022",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [
+        {
+          "resultado": "Aprovado"
+        }
+      ],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/109979",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Parlamentar",
+          "id": "251",
+          "primeiro_autor": true,
+          "title": "Cida Pedrosa"
+        }
+      ],
+      "contrario": 0,
+      "description": "INSTITUI A OBRIGATORIEDADE DOS CLUBES DE FUTEBOL SEDIADOS NO MUNICÍPIO DO RECIFE PROMOVEREM FORMAÇÃO EM DIREITOS HUMANOS AOS ATLETAS DE SUAS CATEGORIAS DE BASE.",
+      "favoravel": 0,
+      "id": "109979",
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Nominal",
+      "title": "Projeto de Lei Ordinária nº 248/2021",
+      "turno": "1ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "1ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "1ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "1ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "1ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "1ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "1ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "contrario": 0,
+      "favoravel": 0,
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Simbólica",
+      "turno": "1ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116500",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Parlamentar",
+          "id": "245",
+          "primeiro_autor": true,
+          "title": "Marco Aurélio Filho"
+        }
+      ],
+      "contrario": 0,
+      "description": "Concede a Medalha de Mérito Olegária Mariano a Senhora Ana Paula de Oliveira Vilaça Leal. ",
+      "favoravel": 0,
+      "id": "116500",
+      "presidencia": 0,
+      "quorum": "Maioria qualificada - 3/5",
+      "tipo_votacao": "Nominal",
+      "title": "Projeto de Decreto Legislativo nº 37/2021",
+      "turno": "Discussão Única",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    }
+  ],
+  "title": "Lista de votação nominal"
+}

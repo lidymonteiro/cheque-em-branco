@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/453",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/453/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/453/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/453_ata_sessao.pdf",
+      "filename": "453_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-03-31",
+  "description": "18ª Reunião Solene - 31/03/2022",
+  "endTime": "",
+  "id": "453",
+  "pauta": [],
+  "startTime": "15:00",
+  "title": "18ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

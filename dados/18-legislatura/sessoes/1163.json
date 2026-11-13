@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1163",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1163/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1163/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1163_ata_sessao.pdf",
+      "filename": "1163_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-12-10",
+  "description": "77ª Reunião Ordinária - 10/12/2024",
+  "endTime": "11:31",
+  "id": "1163",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1163_pauta_sessao.pdf",
+      "filename": "1163_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:00",
+  "title": "77ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

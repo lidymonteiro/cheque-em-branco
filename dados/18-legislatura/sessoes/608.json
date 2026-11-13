@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/608",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/608/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/608/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/608_ata_sessao.pdf",
+      "filename": "608_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-11-21",
+  "description": "16ª Reunião Extraordinária - 21/11/2022",
+  "endTime": "12:39",
+  "id": "608",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/608_pauta_sessao.pdf",
+      "filename": "608_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:00",
+  "title": "16ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1531",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1531",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1531_anexo_1522",
+          "filename": "1531_anexo_1522",
+          "size": "258 KB"
+        }
+      ],
+      "id": "1522",
+      "title": "PDF da publicação da lei 19123 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-11-09",
+  "data_publicacao": "2023-11-11",
+  "description": "Institui a “Semana da Gastronomia do Recife”, no Calendário Oficial de Eventos do Município do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1531&texto_original=1",
+      "filename": "1531_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "65.9 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19123, de 09/11/2023",
+  "id": "1531",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1531&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/143238",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=203",
+          "@type": "Autor",
+          "id": "203",
+          "primeiro_autor": true,
+          "title": "Professora Ana Lúcia"
+        }
+      ],
+      "autoria_nomes": "Professora Ana Lúcia",
+      "description": "Institui a “Semana da Gastronomia do Recife”, no Calendário Oficial de Eventos do Município do Recife.",
+      "id": "143238",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=143238",
+      "title": "Projeto de Lei Ordinária nº 196/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQzMjM4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19123/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-11-09",
+    "dataPromulgacaoBR": "09/11/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19123, de 09/11/2023",
+    "numNorma": 19123,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui a “Semana da Gastronomia do Recife”, no Calendário Oficial de Eventos do Município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1531",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1531",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

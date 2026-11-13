@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/13",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/13",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/13_anexo_108",
+          "filename": "13_anexo_108",
+          "size": "248.8 KB"
+        }
+      ],
+      "id": "108",
+      "title": "PDF da publicação da lei 19184/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-03-05",
+  "data_publicacao": "2024-03-05",
+  "description": "Altera os Artigos 5° e 7° da Lei Municipal nº 19.166, de 20 de dezembro de 2023 e dá outras providências",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=13&texto_original=1",
+      "filename": "13_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "61.8 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19184, de 05/03/2024",
+  "id": "13",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=13&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/148650",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Altera os Artigos 5° e 7° da Lei Municipal nº 19.166, de 20 de dezembro de 2023 e dá outras providências",
+      "id": "148650",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=148650",
+      "title": "Projeto de Lei do Executivo nº 1/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ4NjUw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 2,
+  "num_pag_inicio_publ": 2,
+  "publicacao": {
+    "numPagFim": 2,
+    "numPagInicio": 2,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19184/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-03-05",
+    "dataPromulgacaoBR": "05/03/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19184, de 05/03/2024",
+    "numNorma": 19184,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Altera os Artigos 5° e 7° da Lei Municipal nº 19.166, de 20 de dezembro de 2023 e dá outras providências",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=13",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=13",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

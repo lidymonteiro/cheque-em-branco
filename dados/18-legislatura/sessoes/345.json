@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/345",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/345/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/345/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/345_ata_sessao.pdf",
+      "filename": "345_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-05-31",
+  "description": "34ª Reunião Ordinária - 31/05/2021",
+  "endTime": "13:00",
+  "id": "345",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/345_pauta_sessao.pdf",
+      "filename": "345_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "34ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

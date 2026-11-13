@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/409",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/409/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/409/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/409_ata_sessao.pdf",
+      "filename": "409_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-02-07",
+  "description": "1ª Reunião Ordinária - 07/02/2022",
+  "endTime": "",
+  "id": "409",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/409_pauta_sessao.pdf",
+      "filename": "409_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "1ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

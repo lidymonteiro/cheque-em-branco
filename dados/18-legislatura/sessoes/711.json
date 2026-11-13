@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/711",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/711/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/711/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/711_ata_sessao.pdf",
+      "filename": "711_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-03",
+  "description": "38ª Reunião Solene - 03/05/2023",
+  "endTime": "",
+  "id": "711",
+  "pauta": [],
+  "startTime": "18:10",
+  "title": "38ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/663",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/663",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/663_anexo_602",
+          "filename": "663_anexo_602",
+          "size": "83.8 KB"
+        }
+      ],
+      "id": "602",
+      "title": "PDF da Publicação do Decreto Legislativo Nº 972/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-04-12",
+  "data_publicacao": "2021-05-06",
+  "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO A CLÁUDIO JOSÉ SÁ LEITÃO.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 972, de 12/04/2021",
+  "id": "663",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/102591",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=201",
+          "@type": "Autor",
+          "id": "201",
+          "primeiro_autor": true,
+          "title": "Fred Ferreira"
+        }
+      ],
+      "autoria_nomes": "Fred Ferreira",
+      "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO A CLÁUDIO JOSÉ SÁ LEITÃO.",
+      "id": "102591",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=102591",
+      "title": "Projeto de Decreto Legislativo nº 42/2020",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTAyNTkx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 10,
+  "num_pag_inicio_publ": 10,
+  "publicacao": {
+    "numPagFim": 10,
+    "numPagInicio": 10,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 972/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-04-12",
+    "dataPromulgacaoBR": "12/04/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 972, de 12/04/2021",
+    "numNorma": 972,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO A CLÁUDIO JOSÉ SÁ LEITÃO.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=663",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=663",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

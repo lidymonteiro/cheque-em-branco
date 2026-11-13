@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/772",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/772/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/772/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/772_ata_sessao.pdf",
+      "filename": "772_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-08-01",
+  "description": "40ª Reunião Ordinária - 01/08/2023",
+  "endTime": "11:57",
+  "id": "772",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/772_pauta_sessao.pdf",
+      "filename": "772_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:14",
+  "title": "40ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

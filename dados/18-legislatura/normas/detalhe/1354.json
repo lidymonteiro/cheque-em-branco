@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1354",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1354",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1354_anexo_1335",
+          "filename": "1354_anexo_1335",
+          "size": "283.7 KB"
+        }
+      ],
+      "id": "1335",
+      "title": "PDF da publicação da lei 19075 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-06-16",
+  "data_publicacao": "2023-06-17",
+  "description": "Institui o Dia do Pescador no calendário oficial do município do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1354&texto_original=1",
+      "filename": "1354_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "58.5 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19075, de 16/06/2023",
+  "id": "1354",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1354&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/134943",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=233",
+          "@type": "Autor",
+          "id": "233",
+          "primeiro_autor": true,
+          "title": "Samuel Salazar"
+        }
+      ],
+      "autoria_nomes": "Samuel Salazar",
+      "description": "Institui o Dia do Pescador no calendário oficial do município do Recife.",
+      "id": "134943",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=134943",
+      "title": "Projeto de Lei Ordinária nº 23/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM0OTQz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19075/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-06-16",
+    "dataPromulgacaoBR": "16/06/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19075, de 16/06/2023",
+    "numNorma": 19075,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui o Dia do Pescador no calendário oficial do município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1354",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1354",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

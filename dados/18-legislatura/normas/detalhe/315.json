@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/315",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/315",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/315_anexo_288",
+          "filename": "315_anexo_288",
+          "size": "362.6 KB"
+        }
+      ],
+      "id": "288",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1141/2024 "
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-04-15",
+  "data_publicacao": "2024-04-20",
+  "description": "Concede o Título de Cidadão do Recife ao empresário Victor Bretas Alecrim.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=315&texto_original=1",
+      "filename": "315_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "26.6 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1141, de 15/04/2024",
+  "id": "315",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=315&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/149712",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=35",
+          "@type": "Autor",
+          "id": "35",
+          "primeiro_autor": true,
+          "title": "Osmar Ricardo"
+        }
+      ],
+      "autoria_nomes": "Osmar Ricardo",
+      "description": "Concede o Título de Cidadão do Recife ao empresário Victor Bretas Alecrim.",
+      "id": "149712",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=149712",
+      "title": "Projeto de Decreto Legislativo nº 14/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ5NzEy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 58,
+  "num_pag_inicio_publ": 58,
+  "publicacao": {
+    "numPagFim": 58,
+    "numPagInicio": 58,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1141/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-04-15",
+    "dataPromulgacaoBR": "15/04/2024",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1141, de 15/04/2024",
+    "numNorma": 1141,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede o Título de Cidadão do Recife ao empresário Victor Bretas Alecrim.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=315",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=315",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

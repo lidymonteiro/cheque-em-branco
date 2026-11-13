@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/730",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/730",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/730_anexo_671",
+          "filename": "730_anexo_671",
+          "size": "335.7 KB"
+        }
+      ],
+      "id": "671",
+      "title": "PDF da publicação da lei 18823/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-08-30",
+  "data_publicacao": "2021-08-31",
+  "description": "ESTABELECE NORMAS SOBRE A ALIENAÇÃO DE BENS IMÓVEIS NAS MODALIDADES LICITATÓRIAS LEILÃO E CONCORRÊNCIA, BEM COMO TRATA DA PERMUTA DE BENS IMÓVEIS, DE PROPRIEDADE DO MUNICÍPIO OU DAS ENTIDADES DA ADMINISTRAÇÃO PÚBLICA INDIRETA, POR BENS IMÓVEIS PÚBLICOS OU PARTICULARES, OU POR OBRAS E SERVIÇOS NECESSÁRIOS AO DESENVOLVIMENTO DE PROJETOS DE INTERESSE PÚBLICO.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=730&texto_original=1",
+      "filename": "730_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "95.9 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18823, de 30/08/2021",
+  "id": "730",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=730&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/108385",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "ESTABELECE NORMAS SOBRE A ALIENAÇÃO DE BENS IMÓVEIS NAS MODALIDADES LICITATÓRIAS LEILÃO E CONCORRÊNCIA, BEM COMO TRATA DA PERMUTA DE BENS IMÓVEIS, DE PROPRIEDADE DO MUNICÍPIO OU DAS ENTIDADES DA ADMINISTRAÇÃO PÚBLICA INDIRETA, POR BENS IMÓVEIS PÚBLICOS OU PARTICULARES, OU POR OBRAS E SERVIÇOS NECESSÁRIOS AO DESENVOLVIMENTO DE PROJETOS DE INTERESSE PÚBLICO.",
+      "id": "108385",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=108385",
+      "title": "Projeto de Lei do Executivo nº 20/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA4Mzg1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18823/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-08-30",
+    "dataPromulgacaoBR": "30/08/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18823, de 30/08/2021",
+    "numNorma": 18823,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "ESTABELECE NORMAS SOBRE A ALIENAÇÃO DE BENS IMÓVEIS NAS MODALIDADES LICITATÓRIAS LEILÃO E CONCORRÊNCIA, BEM COMO TRATA DA PERMUTA DE BENS IMÓVEIS, DE PROPRIEDADE DO MUNICÍPIO OU DAS ENTIDADES DA ADMINISTRAÇÃO PÚBLICA INDIRETA, POR BENS IMÓVEIS PÚBLICOS OU PARTICULARES, OU POR OBRAS E SERVIÇOS NECESSÁRIOS AO DESENVOLVIMENTO DE PROJETOS DE INTERESSE PÚBLICO.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=730",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=730",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

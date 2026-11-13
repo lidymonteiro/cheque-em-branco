@@ -1,0 +1,890 @@
+{
+  "@type": "Vereadores",
+  "legislatura": 18,
+  "description": "Councilmembers of the 18th Legislature (deduplicated list)",
+  "total": 49,
+  "items": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/145",
+      "@type": "Vereador",
+      "cod_autor": "182",
+      "description": "Aderaldo Pinto",
+      "id": 145,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Aderaldo Pinto",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/145_foto_parlamentar&v=1793522508133674229",
+      "votos": 10062
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/413",
+      "@type": "Vereador",
+      "cod_autor": "250",
+      "description": "Alcides Cardoso",
+      "id": 413,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Liberal",
+          "token": "PL"
+        }
+      ],
+      "title": "Alcides Cardoso",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/413_foto_parlamentar&v=1793522508262674670",
+      "votos": 4019
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/168",
+      "@type": "Vereador",
+      "cod_autor": "206",
+      "description": "Alcides Teixeira Neto",
+      "id": 168,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "AVANTE",
+          "token": "Avante"
+        }
+      ],
+      "title": "Alcides Teixeira Neto",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/168_foto_parlamentar&v=1793522508162674328",
+      "votos": 8379
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/123",
+      "@type": "Vereador",
+      "cod_autor": "158",
+      "description": "Aline Mariano",
+      "id": 123,
+      "image": [],
+      "mandato": "Suplente",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Aline Mariano",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/123_foto_parlamentar&v=1793522508107674140",
+      "votos": 6530
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/108",
+      "@type": "Vereador",
+      "cod_autor": "135",
+      "description": "Almir Fernando",
+      "id": 108,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Almir Fernando",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/108_foto_parlamentar&v=1793522508102674123",
+      "votos": 7304
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/61",
+      "@type": "Vereador",
+      "cod_autor": "76",
+      "description": "Amaro Cipriano Maguari",
+      "id": 61,
+      "image": [],
+      "mandato": "Suplente",
+      "partido": [
+        {
+          "title": "Partido Progressista",
+          "token": "PP"
+        }
+      ],
+      "title": "Amaro Cipriano Maguari",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/61_foto_parlamentar&v=1793522508321674872",
+      "votos": 5420
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/165",
+      "@type": "Vereador",
+      "cod_autor": "203",
+      "description": "Ana Lúcia do Rego Ferreira",
+      "id": 165,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Republicanos",
+          "token": "REP"
+        }
+      ],
+      "title": "Professora Ana Lúcia",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/165_foto_parlamentar&v=1793522508158674314",
+      "votos": 7901
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/402",
+      "@type": "Vereador",
+      "cod_autor": "239",
+      "description": "Andreza Romero",
+      "id": 402,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Andreza Romero",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/402_foto_parlamentar&v=1793522508251674632",
+      "votos": 13249
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/405",
+      "@type": "Vereador",
+      "cod_autor": "242",
+      "description": "Carlos Muniz",
+      "id": 405,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Carlos Muniz",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/405_foto_parlamentar&v=1793522508256674649",
+      "votos": 8586
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/167",
+      "@type": "Vereador",
+      "cod_autor": "205",
+      "description": "Chico Kiko",
+      "id": 167,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Chico Kiko",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/167_foto_parlamentar&v=1793522508160674321",
+      "votos": 9194
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/414",
+      "@type": "Vereador",
+      "cod_autor": "251",
+      "description": "Cida Pedrosa",
+      "id": 414,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Comunista do Brasil",
+          "token": "PCdoB"
+        }
+      ],
+      "title": "Cida Pedrosa",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/414_foto_parlamentar&v=1793522508262674670",
+      "votos": 3697
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/401",
+      "@type": "Vereador",
+      "cod_autor": "238",
+      "description": "Dani Portela",
+      "id": 401,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialismo e Leberdade",
+          "token": "PSOL"
+        }
+      ],
+      "title": "Dani Portela",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/401_foto_parlamentar&v=1793522508251674632",
+      "votos": 14114
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/148",
+      "@type": "Vereador",
+      "cod_autor": "185",
+      "description": "Davi Muniz",
+      "id": 148,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Social Democrata",
+          "token": "PSD"
+        }
+      ],
+      "title": "Davi Muniz",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/148_foto_parlamentar&v=1793522508136674239",
+      "votos": 10498
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/412",
+      "@type": "Vereador",
+      "cod_autor": "249",
+      "description": "Dilson Batista",
+      "id": 412,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "AVANTE",
+          "token": "Avante"
+        }
+      ],
+      "title": "Dilson Batista",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/412_foto_parlamentar&v=1793522508261674666",
+      "votos": 4404
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/416",
+      "@type": "Vereador",
+      "cod_autor": "253",
+      "description": "Doduel Varela",
+      "id": 416,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Social Democrata",
+          "token": "PSD"
+        }
+      ],
+      "title": "Doduel Varela",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/416_foto_parlamentar&v=1793542865065411892",
+      "votos": 2302
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/425",
+      "@type": "Vereador",
+      "cod_autor": "263",
+      "description": "Ebinho Florêncio",
+      "id": 425,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Rede",
+          "token": "REDE"
+        }
+      ],
+      "title": "Ebinho Florêncio",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/425_foto_parlamentar&v=1793522508281674735",
+      "votos": 4133
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/8",
+      "@type": "Vereador",
+      "cod_autor": "11",
+      "description": "Eduardo Marques",
+      "id": 8,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Eduardo Marques",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/8_foto_parlamentar&v=1793522508329674899",
+      "votos": 7706
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/424",
+      "@type": "Vereador",
+      "cod_autor": "262",
+      "description": "Elaine Cristina",
+      "id": 424,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialismo e Leberdade",
+          "token": "PSOL"
+        }
+      ],
+      "title": "Elaine Cristina",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/424_foto_parlamentar&v=1793522508280674731",
+      "votos": 2965
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/150",
+      "@type": "Vereador",
+      "cod_autor": "187",
+      "description": "Eriberto Rafael",
+      "id": 150,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Eriberto Rafael",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/150_foto_parlamentar&v=1793522508140674253",
+      "votos": 11938
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/410",
+      "@type": "Vereador",
+      "cod_autor": "247",
+      "description": "Fabiano Ferraz",
+      "id": 410,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+          "token": "MDB"
+        }
+      ],
+      "title": "Fabiano Ferraz",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/410_foto_parlamentar&v=1793522508259674660",
+      "votos": 5276
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/411",
+      "@type": "Vereador",
+      "cod_autor": "248",
+      "description": "Felipe Alecrim",
+      "id": 411,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Novo",
+          "token": "NOVO"
+        }
+      ],
+      "title": "Felipe Alecrim",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/411_foto_parlamentar&v=1793522508260674663",
+      "votos": 0
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/152",
+      "@type": "Vereador",
+      "cod_autor": "189",
+      "description": "Felipe Francismar",
+      "id": 152,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Felipe Francismar",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/152_foto_parlamentar&v=1793522508144674266",
+      "votos": 10037
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/163",
+      "@type": "Vereador",
+      "cod_autor": "201",
+      "description": "Fred Ferreira",
+      "id": 163,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Liberal",
+          "token": "PL"
+        }
+      ],
+      "title": "Fred Ferreira",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/163_foto_parlamentar&v=1793522508154674300",
+      "votos": 8407
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/127",
+      "@type": "Vereador",
+      "cod_autor": "162",
+      "description": "Gilberto Alves",
+      "id": 127,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Renovação Democrática ",
+          "token": "PRD"
+        }
+      ],
+      "title": "Gilberto Alves",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/127_foto_parlamentar&v=1793522508110674150",
+      "votos": 0
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/172",
+      "@type": "Vereador",
+      "cod_autor": "210",
+      "description": "Hélio Guabiraba",
+      "id": 172,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Hélio Guabiraba",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/172_foto_parlamentar&v=1793522508167674345",
+      "votos": 10393
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/171",
+      "@type": "Vereador",
+      "cod_autor": "209",
+      "description": "Inaldo Gerson Pereira Freires",
+      "id": 171,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Social Democrata",
+          "token": "PSD"
+        }
+      ],
+      "title": "Júnior Bocão",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/171_foto_parlamentar&v=1793522508164674335",
+      "votos": 6256
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/170",
+      "@type": "Vereador",
+      "cod_autor": "208",
+      "description": "Ivan Moraes",
+      "id": 170,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialismo e Leberdade",
+          "token": "PSOL"
+        }
+      ],
+      "title": "Ivan Moraes",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/170_foto_parlamentar&v=1793522508164674335",
+      "votos": 6319
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/130",
+      "@type": "Vereador",
+      "cod_autor": "165",
+      "description": "Jairo Brito",
+      "id": 130,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido dos Trabalhadores",
+          "token": "PT"
+        }
+      ],
+      "title": "Jairo Britto",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/130_foto_parlamentar&v=1793522508113674160",
+      "votos": 6635
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/415",
+      "@type": "Vereador",
+      "cod_autor": "252",
+      "description": "José Lourenço de Sobral Neto",
+      "id": 415,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Zé Neto",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/415_foto_parlamentar&v=1793522508263674673",
+      "votos": 3278
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/404",
+      "@type": "Vereador",
+      "cod_autor": "241",
+      "description": "Joselito Ferreira",
+      "id": 404,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Joselito Ferreira",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/404_foto_parlamentar&v=1793522508255674646",
+      "votos": 7429
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/406",
+      "@type": "Vereador",
+      "cod_autor": "243",
+      "description": "Liana Cirne",
+      "id": 406,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido dos Trabalhadores",
+          "token": "PT"
+        }
+      ],
+      "title": "Liana Cirne",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/406_foto_parlamentar&v=1793522508256674649",
+      "votos": 6819
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/111",
+      "@type": "Vereador",
+      "cod_autor": "140",
+      "description": "Luiz Eustáquio ",
+      "id": 111,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Luiz Eustáquio",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/111_foto_parlamentar&v=1793522508103674126",
+      "votos": 7889
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/408",
+      "@type": "Vereador",
+      "cod_autor": "245",
+      "description": "Marco Aurélio Filho",
+      "id": 408,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Verde",
+          "token": "PV"
+        }
+      ],
+      "title": "Marco Aurélio Filho",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/408_foto_parlamentar&v=1793522508258674656",
+      "votos": 5810
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/420",
+      "@type": "Vereador",
+      "cod_autor": "257",
+      "description": "Marcos Antônio Gomes da Silva Júnior",
+      "id": 420,
+      "image": [],
+      "mandato": "Suplente",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Marcos di Bria Júnior",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/420_foto_parlamentar&v=1793542865078411930",
+      "votos": 7192
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/155",
+      "@type": "Vereador",
+      "cod_autor": "192",
+      "description": "Michele Collins",
+      "id": 155,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Progressista",
+          "token": "PP"
+        }
+      ],
+      "title": "Michele Collins",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/155_foto_parlamentar&v=1793522508148674280",
+      "votos": 6823
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/164",
+      "@type": "Vereador",
+      "cod_autor": "202",
+      "description": "Natália de Menudo",
+      "id": 164,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Natália de Menudo",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/164_foto_parlamentar&v=1793522508156674307",
+      "votos": 8424
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/42",
+      "@type": "Vereador",
+      "cod_autor": "35",
+      "description": "Osmar Ricardo Cabral Barreto",
+      "id": 42,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido dos Trabalhadores",
+          "token": "PT"
+        }
+      ],
+      "title": "Osmar Ricardo",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/42_foto_parlamentar&v=1793522508301674803",
+      "votos": 5838
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/403",
+      "@type": "Vereador",
+      "cod_autor": "240",
+      "description": "Pastor Júnior Tércio",
+      "id": 403,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Progressista",
+          "token": "PP"
+        }
+      ],
+      "title": "Pastor Júnior Tércio",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/403_foto_parlamentar&v=1793522508253674639",
+      "votos": 12207
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/407",
+      "@type": "Vereador",
+      "cod_autor": "244",
+      "description": "Paulo Muniz",
+      "id": 407,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Liberal",
+          "token": "PL"
+        }
+      ],
+      "title": "Paulo Muniz",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/407_foto_parlamentar&v=1793522508257674653",
+      "votos": 5908
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/417",
+      "@type": "Vereador",
+      "cod_autor": "254",
+      "description": "Prof Mirinho",
+      "id": 417,
+      "image": [],
+      "mandato": "Suplente",
+      "partido": [
+        {
+          "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+          "token": "MDB"
+        }
+      ],
+      "title": "Prof Mirinho",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/417_foto_parlamentar&v=1793542865067411898",
+      "votos": 2572
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/175",
+      "@type": "Vereador",
+      "cod_autor": "213",
+      "description": "Renato Antunes",
+      "id": 175,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Liberal",
+          "token": "PL"
+        }
+      ],
+      "title": "Renato Antunes",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/175_foto_parlamentar&v=1793522508171674359",
+      "votos": 8104
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/166",
+      "@type": "Vereador",
+      "cod_autor": "204",
+      "description": "Rinaldo Júnior",
+      "id": 166,
+      "image": [],
+      "mandato": "Suplente",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Rinaldo Júnior",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/166_foto_parlamentar&v=1793522508160674321",
+      "votos": 7342
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/174",
+      "@type": "Vereador",
+      "cod_autor": "212",
+      "description": "Rodrigo Coutinho",
+      "id": 174,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Republicanos",
+          "token": "REP"
+        }
+      ],
+      "title": "Rodrigo Coutinho",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/174_foto_parlamentar&v=1793522508170674355",
+      "votos": 8359
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/160",
+      "@type": "Vereador",
+      "cod_autor": "197",
+      "description": "Romero Jatobá Cavalcanti Neto",
+      "id": 160,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Romerinho Jatobá",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/160_foto_parlamentar&v=1793522508151674290",
+      "votos": 11500
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/422",
+      "@type": "Vereador",
+      "cod_autor": "259",
+      "description": "Ronaldo Lopes",
+      "id": 422,
+      "image": [],
+      "mandato": "Suplente",
+      "partido": [
+        {
+          "title": "Partido Progressista",
+          "token": "PP"
+        }
+      ],
+      "title": "Ronaldo Lopes",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/422_foto_parlamentar&v=1793542865080411936",
+      "votos": 3715
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/177",
+      "@type": "Vereador",
+      "cod_autor": "233",
+      "description": "Samuel Salazar",
+      "id": 177,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+          "token": "MDB"
+        }
+      ],
+      "title": "Samuel Salazar",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/177_foto_parlamentar&v=1793522508174674369",
+      "votos": 9188
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/409",
+      "@type": "Vereador",
+      "cod_autor": "246",
+      "description": "Tadeu Calheiros",
+      "id": 409,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+          "token": "MDB"
+        }
+      ],
+      "title": "Tadeu Calheiros",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/409_foto_parlamentar&v=1793522508259674660",
+      "votos": 5610
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/423",
+      "@type": "Vereador",
+      "cod_autor": "261",
+      "description": "Victor André Gomes Cavalcanti Batista",
+      "id": 423,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Verde",
+          "token": "PV"
+        }
+      ],
+      "title": "Victor André Gomes",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/423_foto_parlamentar&v=1793522508279674728",
+      "votos": 2260
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/158",
+      "@type": "Vereador",
+      "cod_autor": "195",
+      "description": "Wilton Brito",
+      "id": 158,
+      "image": [],
+      "mandato": "Titular",
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "title": "Wilton Brito",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/158_foto_parlamentar&v=1793522508150674287",
+      "votos": 7539
+    }
+  ]
+}

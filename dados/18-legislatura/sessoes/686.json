@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/686",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/686/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/686/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/686_ata_sessao.pdf",
+      "filename": "686_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-04-17",
+  "description": "17ª Reunião Ordinária - 17/04/2023",
+  "endTime": "12:00",
+  "id": "686",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/686_pauta_sessao.pdf",
+      "filename": "686_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:15",
+  "title": "17ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

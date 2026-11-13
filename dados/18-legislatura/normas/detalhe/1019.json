@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1019",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1019",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1019_anexo_963",
+          "filename": "1019_anexo_963",
+          "size": "343.4 KB"
+        }
+      ],
+      "id": "963",
+      "title": "pdf da Publicação da Resolução de Nº 2752/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-10-04",
+  "data_publicacao": "2021-10-09",
+  "description": "INSTITUI, NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE, A “FRENTE PARLAMENTAR DOS DIREITOS E BEM-ESTAR DOS ANIMAIS”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1019&texto_original=1",
+      "filename": "1019_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "1009.7 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2752, de 04/10/2021",
+  "id": "1019",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1019&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/107670",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=239",
+          "@type": "Autor",
+          "id": "239",
+          "primeiro_autor": true,
+          "title": "Andreza Romero"
+        }
+      ],
+      "autoria_nomes": "Andreza Romero",
+      "description": "INSTITUI, NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE, A &#8220;FRENTE PARLAMENTAR DOS DIREITOS E BEM-ESTAR DOS ANIMAIS&#8221;.",
+      "id": "107670",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=107670",
+      "title": "Projeto de Resolução nº 21/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA3Njcw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 15,
+  "num_pag_inicio_publ": 15,
+  "publicacao": {
+    "numPagFim": 15,
+    "numPagInicio": 15,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2752/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-10-04",
+    "dataPromulgacaoBR": "04/10/2021",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2752, de 04/10/2021",
+    "numNorma": 2752,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "INSTITUI, NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE, A “FRENTE PARLAMENTAR DOS DIREITOS E BEM-ESTAR DOS ANIMAIS”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1019",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1019",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

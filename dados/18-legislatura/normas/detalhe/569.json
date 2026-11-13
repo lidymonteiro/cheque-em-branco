@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/569",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/569",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/569_anexo_482",
+          "filename": "569_anexo_482",
+          "size": "612.6 KB"
+        }
+      ],
+      "id": "482",
+      "title": "PDF da Publicação do Decreto Legislativo 977 do dia 15/05/2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-05-11",
+  "data_publicacao": "2021-05-15",
+  "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO SENHOR ALBERTO FERREIRA DA COSTA.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 977, de 11/05/2021",
+  "id": "569",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/102914",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=250",
+          "@type": "Autor",
+          "id": "250",
+          "primeiro_autor": true,
+          "title": "Alcides Cardoso"
+        }
+      ],
+      "autoria_nomes": "Alcides Cardoso",
+      "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO SENHOR ALBERTO FERREIRA DA COSTA.",
+      "id": "102914",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=102914",
+      "title": "Projeto de Decreto Legislativo nº 2/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTAyOTE0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 10,
+  "num_pag_inicio_publ": 10,
+  "publicacao": {
+    "numPagFim": 10,
+    "numPagInicio": 10,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 977/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-05-11",
+    "dataPromulgacaoBR": "11/05/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 977, de 11/05/2021",
+    "numNorma": 977,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO SENHOR ALBERTO FERREIRA DA COSTA.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=569",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=569",
+  "veiculo_publicacao": "Diário oficial do município"
+}

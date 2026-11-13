@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/583",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/583/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/583/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/583_ata_sessao.pdf",
+      "filename": "583_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-09-23",
+  "description": "94ª Reunião Solene - 23/09/2022",
+  "endTime": "",
+  "id": "583",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "94ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

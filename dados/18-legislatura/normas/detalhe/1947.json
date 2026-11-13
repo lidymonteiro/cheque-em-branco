@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1947",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1947",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1947_anexo_1962",
+          "filename": "1947_anexo_1962",
+          "size": "1.3 MB"
+        }
+      ],
+      "id": "1962",
+      "title": "PDF da publicação da lei 19.339/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-12-30",
+  "data_publicacao": "2024-12-31",
+  "description": "Denomina “Rua Enéas Alves Freire” a via pública localizada próximo à Praça Sérgio Loreto, entre a Travessa do Gusmão e a Rua do Muniz, no Bairro de São José, município do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1947&texto_original=1",
+      "filename": "1947_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "1.3 MB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19339, de 30/12/2024",
+  "id": "1947",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1947&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116485",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=250",
+          "@type": "Autor",
+          "id": "250",
+          "primeiro_autor": true,
+          "title": "Alcides Cardoso"
+        }
+      ],
+      "autoria_nomes": "Alcides Cardoso",
+      "description": "Denomina “Rua Enéas Alves Freire” a via pública localizada próximo à Praça Sérgio Loreto, entre a Travessa do Gusmão e a Rua do Muniz, no Bairro de São José, município do Recife.",
+      "id": "116485",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=116485",
+      "title": "Projeto de Lei Ordinária nº 390/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE2NDg1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19339/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-12-30",
+    "dataPromulgacaoBR": "30/12/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19339, de 30/12/2024",
+    "numNorma": 19339,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Denomina “Rua Enéas Alves Freire” a via pública localizada próximo à Praça Sérgio Loreto, entre a Travessa do Gusmão e a Rua do Muniz, no Bairro de São José, município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1947",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1947",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

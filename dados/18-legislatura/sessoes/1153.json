@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1153",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1153/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1153/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1153_ata_sessao.pdf",
+      "filename": "1153_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-12-02",
+  "description": "74ª Reunião Ordinária - 02/12/2024",
+  "endTime": "13:16",
+  "id": "1153",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1153_pauta_sessao.pdf",
+      "filename": "1153_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:02",
+  "title": "74ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

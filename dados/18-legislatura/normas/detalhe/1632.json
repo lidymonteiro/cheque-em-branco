@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1632",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1632",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1632_anexo_1625",
+          "filename": "1632_anexo_1625",
+          "size": "311.2 KB"
+        }
+      ],
+      "id": "1625",
+      "title": "PDF da publicação da lei 19166 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-12-20",
+  "data_publicacao": "2023-12-21",
+  "description": "Institui alterações à Lei Municipal n° 18.207, de 30 de dezembro de 2015.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1632&texto_original=1",
+      "filename": "1632_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "73 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19166, de 20/12/2023",
+  "id": "1632",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1632&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/146523",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Institui alterações à Lei Municipal n° 18.207, de 30 de dezembro de 2015.",
+      "id": "146523",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=146523",
+      "title": "Projeto de Lei do Executivo nº 56/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ2NTIz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19166/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-12-20",
+    "dataPromulgacaoBR": "20/12/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19166, de 20/12/2023",
+    "numNorma": 19166,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui alterações à Lei Municipal n° 18.207, de 30 de dezembro de 2015.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1632",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1632",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

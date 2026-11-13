@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1895",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1895",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1895_anexo_1911",
+          "filename": "1895_anexo_1911",
+          "size": "882.3 KB"
+        }
+      ],
+      "id": "1911",
+      "title": "PDF da publicação da lei 19327/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-11-28",
+  "data_publicacao": "2024-11-30",
+  "description": "Denomina \"Engenheiro Sebastião Barreto Campello\" a creche a ser construída na Rua Guaíra, s/n, bairro Linha do Tiro, município do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1895&texto_original=1",
+      "filename": "1895_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "882.3 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19327, de 28/11/2024",
+  "id": "1895",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1895&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/155087",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=233",
+          "@type": "Autor",
+          "id": "233",
+          "primeiro_autor": true,
+          "title": "Samuel Salazar"
+        }
+      ],
+      "autoria_nomes": "Samuel Salazar",
+      "description": "Denomina \"Engenheiro Sebastião Barreto Campello\" a creche a ser construída na Rua Guaíra, s/n, bairro Linha do Tiro, município do Recife.",
+      "id": "155087",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=155087",
+      "title": "Projeto de Lei Ordinária nº 172/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTU1MDg3"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19327/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-11-28",
+    "dataPromulgacaoBR": "28/11/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19327, de 28/11/2024",
+    "numNorma": 19327,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Denomina \"Engenheiro Sebastião Barreto Campello\" a creche a ser construída na Rua Guaíra, s/n, bairro Linha do Tiro, município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1895",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1895",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

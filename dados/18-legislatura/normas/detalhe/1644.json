@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1644",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1644",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1644_anexo_1637",
+          "filename": "1644_anexo_1637",
+          "size": "408.9 KB"
+        }
+      ],
+      "id": "1637",
+      "title": "PDF da publicação da lei 19178 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-12-29",
+  "data_publicacao": "2023-12-29",
+  "description": "Dispõe sobre a recepção local e à aplicabilidade do artigo 3º, IX da Declaração de Direitos de Liberdade Econômica, prevista na Lei Federal nº 13.874, de 20 de setembro de 2019, no âmbito do Município do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1644&texto_original=1",
+      "filename": "1644_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "63.7 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19178, de 29/12/2023",
+  "id": "1644",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1644&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/146534",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Dispõe sobre a recepção local e à aplicabilidade do artigo 3º, IX da Declaração de Direitos de Liberdade Econômica, prevista na Lei Federal nº 13.874, de 20 de setembro de 2019, no âmbito do Município do Recife.",
+      "id": "146534",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=146534",
+      "title": "Projeto de Lei do Executivo nº 67/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ2NTM0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 9,
+  "num_pag_inicio_publ": 9,
+  "publicacao": {
+    "numPagFim": 9,
+    "numPagInicio": 9,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19178/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-12-29",
+    "dataPromulgacaoBR": "29/12/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19178, de 29/12/2023",
+    "numNorma": 19178,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre a recepção local e à aplicabilidade do artigo 3º, IX da Declaração de Direitos de Liberdade Econômica, prevista na Lei Federal nº 13.874, de 20 de setembro de 2019, no âmbito do Município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1644",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1644",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

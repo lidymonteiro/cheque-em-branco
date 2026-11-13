@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/971",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/971/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/971/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/971_ata_sessao.pdf",
+      "filename": "971_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-03-20",
+  "description": "19ª Reunião Solene - 20/03/2024",
+  "endTime": "",
+  "id": "971",
+  "pauta": [],
+  "startTime": "18:40",
+  "title": "19ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

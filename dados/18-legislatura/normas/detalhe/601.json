@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/601",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/601",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/601_anexo_537",
+          "filename": "601_anexo_537",
+          "size": "701 KB"
+        }
+      ],
+      "id": "537",
+      "title": "PDF da Publicação do Decreto Legislativo 990 do dia 31/08/2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-08-30",
+  "data_publicacao": "2021-08-31",
+  "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO JORNALISTA SENHOR TIAGO MEDEIROS.\r\n",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 990, de 30/08/2021",
+  "id": "601",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/111103",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=197",
+          "@type": "Autor",
+          "id": "197",
+          "primeiro_autor": true,
+          "title": "Romerinho Jatobá"
+        }
+      ],
+      "autoria_nomes": "Romerinho Jatobá",
+      "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO JORNALISTA SENHOR TIAGO MEDEIROS.\r\n",
+      "id": "111103",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=111103",
+      "title": "Projeto de Decreto Legislativo nº 18/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTExMTAz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 10,
+  "num_pag_inicio_publ": 10,
+  "publicacao": {
+    "numPagFim": 10,
+    "numPagInicio": 10,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 990/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-08-30",
+    "dataPromulgacaoBR": "30/08/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 990, de 30/08/2021",
+    "numNorma": 990,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO JORNALISTA SENHOR TIAGO MEDEIROS.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=601",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=601",
+  "veiculo_publicacao": "Diário oficial do município"
+}

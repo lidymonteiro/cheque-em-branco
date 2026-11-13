@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1000",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1000/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1000/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1000_ata_sessao.pdf",
+      "filename": "1000_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-04-16",
+  "description": "38ª Reunião Solene - 16/04/2024",
+  "endTime": "",
+  "id": "1000",
+  "pauta": [],
+  "startTime": "17:35",
+  "title": "38ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

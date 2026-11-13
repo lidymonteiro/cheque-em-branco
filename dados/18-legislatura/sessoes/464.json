@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/464",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/464/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/464/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/464_ata_sessao.pdf",
+      "filename": "464_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-04-25",
+  "description": "23ª Reunião Ordinária - 25/04/2022",
+  "endTime": "12:40",
+  "id": "464",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/464_pauta_sessao.pdf",
+      "filename": "464_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:01",
+  "title": "23ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1010",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1010",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1010_anexo_954",
+          "filename": "1010_anexo_954",
+          "size": "327.3 KB"
+        }
+      ],
+      "id": "954",
+      "title": "pdf da Publicação da Resolução de Nº 2746/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-03-02",
+  "data_publicacao": "2021-08-05",
+  "description": "INSTITUI NA CÂMARA MUNICIPAL DO RECIFE A “SEMANA DO MEIO AMBIENTE”.\r\n\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1010&texto_original=1",
+      "filename": "1010_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "845.3 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2746, de 02/03/2021",
+  "id": "1010",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1010&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/102953",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=233",
+          "@type": "Autor",
+          "id": "233",
+          "primeiro_autor": true,
+          "title": "Samuel Salazar"
+        }
+      ],
+      "autoria_nomes": "Samuel Salazar",
+      "description": "INSTITUI NA CÂMARA MUNICIPAL DO RECIFE A &#8220;SEMANA DO MEIO AMBIENTE&#8221;.\r\n\r\n",
+      "id": "102953",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=102953",
+      "title": "Projeto de Resolução nº 3/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTAyOTUz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 14,
+  "num_pag_inicio_publ": 14,
+  "publicacao": {
+    "numPagFim": 14,
+    "numPagInicio": 14,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2746/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-03-02",
+    "dataPromulgacaoBR": "02/03/2021",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2746, de 02/03/2021",
+    "numNorma": 2746,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "INSTITUI NA CÂMARA MUNICIPAL DO RECIFE A “SEMANA DO MEIO AMBIENTE”.\r\n\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1010",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1010",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1358",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1358",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1358_anexo_1340",
+          "filename": "1358_anexo_1340",
+          "size": "266.4 KB"
+        }
+      ],
+      "id": "1340",
+      "title": "PDF da publicação da lei 19079 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-06-22",
+  "data_publicacao": "2023-06-29",
+  "description": "Declara de Utilidade Pública, no âmbito do Município do Recife, a Associação Católica dos Samaritanos.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1358&texto_original=1",
+      "filename": "1358_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "57.8 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19079, de 22/06/2023",
+  "id": "1358",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1358&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/133292",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=208",
+          "@type": "Autor",
+          "id": "208",
+          "primeiro_autor": true,
+          "title": "Ivan Moraes"
+        }
+      ],
+      "autoria_nomes": "Ivan Moraes",
+      "description": "Declara de Utilidade Pública, no âmbito do Município do Recife, a Associação Católica dos Samaritanos.",
+      "id": "133292",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=133292",
+      "title": "Projeto de Lei Ordinária nº 1/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTMzMjky"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19079/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-06-22",
+    "dataPromulgacaoBR": "22/06/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19079, de 22/06/2023",
+    "numNorma": 19079,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Declara de Utilidade Pública, no âmbito do Município do Recife, a Associação Católica dos Samaritanos.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1358",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1358",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

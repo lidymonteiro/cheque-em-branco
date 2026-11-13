@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1643",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1643",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1643_anexo_1636",
+          "filename": "1643_anexo_1636",
+          "size": "675.2 KB"
+        }
+      ],
+      "id": "1636",
+      "title": "PDF da publicação da lei 19177 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-12-29",
+  "data_publicacao": "2023-12-29",
+  "description": "Estabelece as normas e procedimentos para aplicação do instrumento urbanístico Estudo de Impacto de Vizinhança - EIV no Município do Recife, em cumprimento à Lei Complementar nº 02, de 23 de abril de 2021, que instituiu o Plano Diretor do Município do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1643&texto_original=1",
+      "filename": "1643_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "90.2 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19177, de 29/12/2023",
+  "id": "1643",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1643&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/146532",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Estabelece as normas e procedimentos para aplicação do instrumento urbanístico Estudo de Impacto de Vizinhança - EIV no Município do Recife, em cumprimento à Lei Complementar nº 02, de 23 de abril de 2021, que instituiu o Plano Diretor do Município do Recife.",
+      "id": "146532",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=146532",
+      "title": "Projeto de Lei do Executivo nº 65/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ2NTMy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 8,
+  "num_pag_inicio_publ": 7,
+  "publicacao": {
+    "numPagFim": 8,
+    "numPagInicio": 7,
+    "veiculo": null
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19177/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-12-29",
+    "dataPromulgacaoBR": "29/12/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19177, de 29/12/2023",
+    "numNorma": 19177,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Estabelece as normas e procedimentos para aplicação do instrumento urbanístico Estudo de Impacto de Vizinhança - EIV no Município do Recife, em cumprimento à Lei Complementar nº 02, de 23 de abril de 2021, que instituiu o Plano Diretor do Município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1643",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1643",
+  "veiculo_publicacao": ""
+}

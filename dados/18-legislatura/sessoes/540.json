@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/540",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/540/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/540/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/540_ata_sessao.pdf",
+      "filename": "540_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-08-12",
+  "description": "67ª Reunião Solene - 12/08/2022",
+  "endTime": "",
+  "id": "540",
+  "pauta": [],
+  "startTime": "15:10",
+  "title": "67ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

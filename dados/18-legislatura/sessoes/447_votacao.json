@@ -1,0 +1,107 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/447/votacao",
+  "@type": "votacaoNominal",
+  "description": "5ª Reunião Extraordinária – 05/04/2022",
+  "items": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/123146",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Poder Executivo",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "contrario": 0,
+      "description": "Promove alterações na Lei Municipal nº 18.894, de 21 de fevereiro e 2022, cria cargos efetivos e dispõe sobre a remuneração dos servidores públicos que indica.",
+      "favoravel": 0,
+      "id": "123146",
+      "presidencia": 0,
+      "quorum": "Maioria absoluta",
+      "tipo_votacao": "Nominal",
+      "title": "Projeto de Lei do Executivo nº 10/2022",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/104580",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Parlamentar",
+          "id": "213",
+          "primeiro_autor": true,
+          "title": "Renato Antunes"
+        }
+      ],
+      "contrario": 0,
+      "description": "SUBSTITUI O ART. 261 DA LEI MUNICIPAL Nº 16.292, DE 29 DE JANEIRO DE 1997, QUE REGULA AS ATIVIDADES DE EDIFICAÇÕES E INSTALAÇÕES, NO MUNICÍPIO DO RECIFE. ",
+      "favoravel": 0,
+      "id": "104580",
+      "presidencia": 0,
+      "quorum": "Maioria absoluta",
+      "tipo_votacao": "Nominal",
+      "title": "Projeto de Lei Ordinária nº 70/2021",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/106224",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Comissao",
+          "id": "124",
+          "primeiro_autor": true,
+          "title": "Legislação e Justiça-inativa"
+        }
+      ],
+      "contrario": 0,
+      "description": "DA COMISSÃO DE LEGISLAÇÃO E JUSTIÇA SOBRE O PROJETO DE LEI ORDINÁRIA (PLO) N.º 70/2021, QUE SUBSTITUI O ART. 261 DA LEI MUNICIPAL Nº 16.292, DE 29 DE JANEIRO DE 1997, QUE REGULA AS ATIVIDADES DE EDIFICAÇÕES E INSTALAÇÕES, NO MUNICÍPIO DO RECIFE; PELA APROVAÇÃO.\r\n",
+      "favoravel": 0,
+      "id": "106224",
+      "presidencia": 0,
+      "quorum": "Maioria absoluta",
+      "tipo_votacao": "Nominal",
+      "title": "Parecer nº 101/2021",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    }
+  ],
+  "title": "Lista de votação nominal"
+}

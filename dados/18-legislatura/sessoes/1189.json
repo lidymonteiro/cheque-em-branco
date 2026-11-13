@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1189",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1189/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1189/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1189_ata_sessao.pdf",
+      "filename": "1189_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-12-20",
+  "description": "148ª Reunião Solene - 20/12/2024",
+  "endTime": "",
+  "id": "1189",
+  "pauta": [],
+  "startTime": "11:40",
+  "title": "148ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

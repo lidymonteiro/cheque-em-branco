@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1935",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1935",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1935_anexo_1950",
+          "filename": "1935_anexo_1950",
+          "size": "1.3 MB"
+        }
+      ],
+      "id": "1950",
+      "title": "PDF da publicação da lei 19.340/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-12-30",
+  "data_publicacao": "2024-12-31",
+  "description": "Dispõe sobre os cargos de Auxiliar de Enfermagem do Quadro de Cargos Efetivos da Secretaria de Saúde do Recife.\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1935&texto_original=1",
+      "filename": "1935_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "1.3 MB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19340, de 30/12/2024",
+  "id": "1935",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1935&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/153860",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=251",
+          "@type": "Autor",
+          "id": "251",
+          "primeiro_autor": true,
+          "title": "Cida Pedrosa"
+        }
+      ],
+      "autoria_nomes": "Cida Pedrosa",
+      "description": "Dispõe sobre os cargos de Auxiliar de Enfermagem do Quadro de Cargos Efetivos da Secretaria de Saúde do Recife.\r\n",
+      "id": "153860",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=153860",
+      "title": "Projeto de Lei Ordinária nº 150/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTUzODYw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19340/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-12-30",
+    "dataPromulgacaoBR": "30/12/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19340, de 30/12/2024",
+    "numNorma": 19340,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre os cargos de Auxiliar de Enfermagem do Quadro de Cargos Efetivos da Secretaria de Saúde do Recife.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1935",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1935",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

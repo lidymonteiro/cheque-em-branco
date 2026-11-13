@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1078",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1078/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1078/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1078_ata_sessao.pdf",
+      "filename": "1078_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-06-17",
+  "description": "6ª Reunião Extraordinária - 17/06/2024",
+  "endTime": "12:51",
+  "id": "1078",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1078_pauta_sessao.pdf",
+      "filename": "1078_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:05",
+  "title": "6ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

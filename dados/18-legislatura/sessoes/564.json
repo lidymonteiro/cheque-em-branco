@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/564",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/564/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/564/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/564_ata_sessao.pdf",
+      "filename": "564_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-09-13",
+  "description": "58ª Reunião Ordinária - 13/09/2022",
+  "endTime": "11:11",
+  "id": "564",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/564_pauta_sessao.pdf",
+      "filename": "564_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:15",
+  "title": "58ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

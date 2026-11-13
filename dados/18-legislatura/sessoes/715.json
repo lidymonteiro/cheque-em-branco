@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/715",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/715/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/715/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/715_ata_sessao.pdf",
+      "filename": "715_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-09",
+  "description": "6ª Reunião Extraordinária - 09/05/2023",
+  "endTime": "13:11",
+  "id": "715",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/715_pauta_sessao.pdf",
+      "filename": "715_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:54",
+  "title": "6ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

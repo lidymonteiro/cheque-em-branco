@@ -1,0 +1,16 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/413",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/413/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/413/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [],
+  "date": "2021-12-22",
+  "description": "1ª Reunião Encerramento - 22/12/2021",
+  "endTime": "",
+  "id": "413",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "1ª Reunião Encerramento",
+  "type": "Encerramento",
+  "type_id": 6
+}

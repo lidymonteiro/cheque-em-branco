@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1129",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1129/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1129/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1129_ata_sessao.pdf",
+      "filename": "1129_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-10-29",
+  "description": "65ª Reunião Ordinária - 29/10/2024",
+  "endTime": "12:08",
+  "id": "1129",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1129_pauta_sessao.pdf",
+      "filename": "1129_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:01",
+  "title": "65ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

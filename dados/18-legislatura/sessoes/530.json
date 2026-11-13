@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/530",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/530/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/530/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/530_ata_sessao.pdf",
+      "filename": "530_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-08-09",
+  "description": "48ª Reunião Ordinária - 09/08/2022",
+  "endTime": "11:53",
+  "id": "530",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/530_pauta_sessao.pdf",
+      "filename": "530_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:35",
+  "title": "48ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/364",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/364",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/364_anexo_310",
+          "filename": "364_anexo_310",
+          "size": "342.2 KB"
+        }
+      ],
+      "id": "310",
+      "title": "PDF da publicação da lei 19.000/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-11-25",
+  "data_publicacao": "2022-11-26",
+  "description": "Reduz temporariamente a alíquota do Imposto sobre Transmissão \"inter vivos\" de Bens Imóveis e de Direitos a eles Relativos -ITBI, incidente sobre as transmissões a título oneroso prevista no inciso ii do artigo 52 da Lei Municipal nº 15.563, de 27 de dezembro de 1991.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=364&texto_original=1",
+      "filename": "364_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "31.4 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19000, de 25/11/2022",
+  "id": "364",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=364&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/131724",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Reduz temporariamente a alíquota do Imposto sobre Transmissão \"inter vivos\" de Bens Imóveis e de Direitos a eles Relativos -ITBI, incidente sobre as transmissões a título oneroso prevista no inciso ii do artigo 52 da Lei Municipal nº 15.563, de 27 de dezembro de 1991.",
+      "id": "131724",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=131724",
+      "title": "Projeto de Lei do Executivo nº 45/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTMxNzI0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio "
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19000/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-11-25",
+    "dataPromulgacaoBR": "25/11/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19000, de 25/11/2022",
+    "numNorma": 19000,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Reduz temporariamente a alíquota do Imposto sobre Transmissão \"inter vivos\" de Bens Imóveis e de Direitos a eles Relativos -ITBI, incidente sobre as transmissões a título oneroso prevista no inciso ii do artigo 52 da Lei Municipal nº 15.563, de 27 de dezembro de 1991.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=364",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=364",
+  "veiculo_publicacao": "Diário Oficial do Munícipio "
+}

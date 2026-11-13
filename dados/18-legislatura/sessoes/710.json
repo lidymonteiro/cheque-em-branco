@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/710",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/710/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/710/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/710_ata_sessao.pdf",
+      "filename": "710_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-02",
+  "description": "37ª Reunião Solene - 02/05/2023",
+  "endTime": "",
+  "id": "710",
+  "pauta": [],
+  "startTime": "18:35",
+  "title": "37ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

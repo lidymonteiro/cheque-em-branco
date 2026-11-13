@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1068",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1068/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1068/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1068_ata_sessao.pdf",
+      "filename": "1068_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-06-18",
+  "description": "38ª Reunião Ordinária - 18/06/2024",
+  "endTime": "12:11",
+  "id": "1068",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1068_pauta_sessao.pdf",
+      "filename": "1068_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:17",
+  "title": "38ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

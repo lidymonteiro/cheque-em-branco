@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/214",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/214",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/214_anexo_219",
+          "filename": "214_anexo_219",
+          "size": "265.4 KB"
+        }
+      ],
+      "id": "219",
+      "title": "PDF da publicação da lei 19.005/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-12-12",
+  "data_publicacao": "2022-12-13",
+  "description": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana Municipal de Enfrentamento à Psicofobia”. ",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=214&texto_original=1",
+      "filename": "214_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "42.7 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19005, de 12/12/2022",
+  "id": "214",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=214&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/126842",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=246",
+          "@type": "Autor",
+          "id": "246",
+          "primeiro_autor": true,
+          "title": "Tadeu Calheiros"
+        }
+      ],
+      "autoria_nomes": "Tadeu Calheiros",
+      "description": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana Municipal de Enfrentamento à Psicofobia”. ",
+      "id": "126842",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=126842",
+      "title": "Projeto de Lei Ordinária nº 209/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTI2ODQy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio "
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19005/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-12-12",
+    "dataPromulgacaoBR": "12/12/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19005, de 12/12/2022",
+    "numNorma": 19005,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana Municipal de Enfrentamento à Psicofobia”. ",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=214",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=214",
+  "veiculo_publicacao": "Diário Oficial do Munícipio "
+}

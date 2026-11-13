@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1092",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1092",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1092_anexo_1037",
+          "filename": "1092_anexo_1037",
+          "size": "333.6 KB"
+        }
+      ],
+      "id": "1037",
+      "title": "PDF da publicação da lei 18.993/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 12,
+  "cod_situacao": 12,
+  "data_norma": "2022-10-19",
+  "data_publicacao": "2022-11-05",
+  "description": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DO RECIFE O “DIA DO CATÓLICO”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1092&texto_original=1",
+      "filename": "1092_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "72 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18993, de 19/10/2022",
+  "id": "1092",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1092&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/105744",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=248",
+          "@type": "Autor",
+          "id": "248",
+          "primeiro_autor": true,
+          "title": "Felipe Alecrim"
+        }
+      ],
+      "autoria_nomes": "Felipe Alecrim",
+      "description": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DO RECIFE O “DIA DO CATÓLICO”.",
+      "id": "105744",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=105744",
+      "title": "Projeto de Lei Ordinária nº 123/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA1NzQ0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor, com revogação parcial",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18993/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-10-19",
+    "dataPromulgacaoBR": "19/10/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18993, de 19/10/2022",
+    "numNorma": 18993,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DO RECIFE O “DIA DO CATÓLICO”.",
+  "txt_observacao": "Revogação parcial pelo Ofício nº 080 GP/SEGOV ",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1092",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1092",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

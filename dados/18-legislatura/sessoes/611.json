@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/611",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/611/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/611/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/611_ata_sessao.pdf",
+      "filename": "611_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-11-28",
+  "description": "77ª Reunião Ordinária - 28/11/2022",
+  "endTime": "10:42",
+  "id": "611",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/611_pauta_sessao.pdf",
+      "filename": "611_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:07",
+  "title": "77ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

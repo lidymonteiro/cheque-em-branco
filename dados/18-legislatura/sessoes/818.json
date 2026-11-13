@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/818",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/818/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/818/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/818_ata_sessao.pdf",
+      "filename": "818_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-09-19",
+  "description": "54ª Reunião Ordinária - 19/09/2023",
+  "endTime": "12:27",
+  "id": "818",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/818_pauta_sessao.pdf",
+      "filename": "818_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:05",
+  "title": "54ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

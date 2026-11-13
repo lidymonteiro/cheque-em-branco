@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1373",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1373",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1373_anexo_1660",
+          "filename": "1373_anexo_1660",
+          "size": "277.6 KB"
+        }
+      ],
+      "id": "1660",
+      "title": "PDF da publicação da lei 19.092/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-07-18",
+  "data_publicacao": "2023-07-20",
+  "description": "OBRIGA A AFIXAÇÃO DE AVISOS NOS ELEVADORES DE PRÉDIOS RESIDENCIAIS E COMERCIAIS DO MUNICÍPIO DO RECIFE, CONTENDO INFORMAÇÕES ACERCA DA ÚLTIMA MANUTENÇÃO DOS ELEVADORES.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1373&texto_original=1",
+      "filename": "1373_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "68.3 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19092, de 18/07/2023",
+  "id": "1373",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1373&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/106688",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=253",
+          "@type": "Autor",
+          "id": "253",
+          "primeiro_autor": true,
+          "title": "Doduel Varela"
+        }
+      ],
+      "autoria_nomes": "Doduel Varela",
+      "description": "OBRIGA A AFIXAÇÃO DE AVISOS NOS ELEVADORES DE PRÉDIOS RESIDENCIAIS E COMERCIAIS DO MUNICÍPIO DO RECIFE, CONTENDO INFORMAÇÕES ACERCA DA ÚLTIMA MANUTENÇÃO DOS ELEVADORES.",
+      "id": "106688",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=106688",
+      "title": "Projeto de Lei Ordinária nº 150/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA2Njg4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19092/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-07-18",
+    "dataPromulgacaoBR": "18/07/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19092, de 18/07/2023",
+    "numNorma": 19092,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "OBRIGA A AFIXAÇÃO DE AVISOS NOS ELEVADORES DE PRÉDIOS RESIDENCIAIS E COMERCIAIS DO MUNICÍPIO DO RECIFE, CONTENDO INFORMAÇÕES ACERCA DA ÚLTIMA MANUTENÇÃO DOS ELEVADORES.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1373",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1373",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

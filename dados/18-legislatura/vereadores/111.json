@@ -1,0 +1,2202 @@
+{
+  "@type": "Vereador",
+  "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/111",
+  "id": "111",
+  "_scope": "all",
+  "title": "Luiz Eustáquio",
+  "description": "Luiz Eustáquio ",
+  "nome_exibicao": "Luiz Eustáquio",
+  "nome_exibicao_partido": "Luiz Eustáquio",
+  "email": "leustaquioneto@uol.com.br",
+  "telefone_gabinete": " (81) 3301-1213",
+  "whatsapp_gabinete": "",
+  "cod_autor": "140",
+  "em_exercicio": true,
+  "partido_atual": {
+    "sgl": "PSB",
+    "nome": "Partido Socialista Brasileiro",
+    "cod_partido": 9,
+    "url_logo": ""
+  },
+  "biografia": "<p class=\"MsoNormal\"><span>Luiz Eustáquio nasceu em 25 de dezembro de 1961, no bairro de Campo Grande, cidade do Recife. Ainda criança, passou a residir em Santo Amaro, onde teve uma infância humilde. Desde cedo, foi conduzido pela religiosidade, tornando-se evangélico e membro da Assembléia de Deus. A partir da sua juventude, incorporou a importância da coerência na vida pública. O vereador estudou em escolas públicas e, aos 23 anos, foi aprovado no concurso público do Instituto Nacional do Seguro Social (INSS). No início da sua carreira como servidor público, começou a participar de lutas sindicais, sociais e partidárias.</span></p>\r\n<p class=\"MsoNormal\"><span>Em 1985, Luiz Eustáquio participou da primeira greve dos previdenciários e foi conselheiro de base em todas as gestões do Sindicato dos Trabalhadores Públicos Federais da Saúde e Previdência Social em Pernambuco (Sindsprev-PE). A partir de 1996, passou a integrar a direção da entidade, chegando a ser seu coordenador geral. Em 1998, formou-se no curso de bacharel em Teologia no Seminário Teológico da Assembleia de Deus (ESTEADEB).</span></p>\r\n<p class=\"MsoNormal\"><span>Em 2004, foi eleito para o primeiro mandato na Câmara Municipal do Recife com 6.601 votos. Luiz Eustáquio tem pautado sua atuação pela estreita relação com as comunidades, valorização da cidadania e luta contra a exclusão e desigualdades da população dos diversos bairros do Recife. Atua também nas mobilizações dos trabalhadores da saúde e previdência, movimento sindical, comunidade evangélica, movimentos sociais e populares.</span></p>\r\n<p class=\"MsoNormal\"><span>É fundador e presidente - emérito da Associação Oásis da Liberdade (AOL), ONG que resgata das ruas crianças e adolescentes em situação de risco, visando sua inserção no mercado de trabalho. Tem forte compromisso com a política de proteção e inclusão social destes futuros jovens.</span></p>\r\n<p class=\"MsoNormal\"><span>Seu primeiro mandato foi marcado por um diálogo constante com as sociedade, estabelecido por meio de audiências públicas e atividades nas comunidades e espaços de controle social. Nas eleições de 2008, recebeu o voto de confiança de 8.138 pessoas. Esse mandato teve início em 2009, dando continuidade à atuação no poder legislativo, mantendo a  mesma determinação, combinada à experiência adquirida no primeiro exercício.</span></p>\r\n<p> </p>\r\n<p class=\"MsoNormal\">Em 2012, Luiz Eustáquio conquistou 9.928 votos. Nesta terceira legislatura, o parlamentar fortaleceu a sua atuação por uma cidade mais inclusiva, pelos direitos dos trabalhadores e da comunidade evangélica e empunhou ainda com mais ênfase,   a bandeira da luta contra às drogas. Foi um dos defensores e articuladores da criação da Secretaria de Enfrentamento ao Crack e Outras Drogas (Secod). Está na presidência da Frente Parlamentar de Enfrentamento ao Crack e Outras Drogas. Em setembro de 2015, filou-se ao partido Rede Sustentabilidade, mantendo vivos os seus ideais.</p>",
+  "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/111_foto_parlamentar&v=1793522508103674126",
+  "image": [
+    {
+      "content-type": "image/png",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/111_foto_parlamentar&v=1793522508103674126",
+      "filename": "111_foto_parlamentar",
+      "width": "350",
+      "height": "350",
+      "size": "187045"
+    }
+  ],
+  "labels": {
+    "reuniao_sessao": "Reunião",
+    "reuniao_sessao_plural": "Reuniões",
+    "nome_mesa": "Comissão Executiva"
+  },
+  "ui": {
+    "showFrequencia": true,
+    "showVotacao": true
+  },
+  "filiacoes": [
+    {
+      "data_filiacao": "1911-11-11",
+      "data_desfiliacao": "2015-09-25",
+      "filiacao_atual": false,
+      "token": "PT",
+      "title": "Partido dos Trabalhadores"
+    },
+    {
+      "data_filiacao": "2015-09-28",
+      "data_desfiliacao": "2016-03-15",
+      "filiacao_atual": false,
+      "token": "REDE",
+      "title": "Rede Sustentabilidade"
+    },
+    {
+      "data_filiacao": "2016-03-18",
+      "data_desfiliacao": "",
+      "filiacao_atual": true,
+      "token": "PSB",
+      "title": "Partido Socialista Brasileiro"
+    }
+  ],
+  "mandatos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@legislaturas/19",
+      "@type": "Mandato",
+      "id": 19,
+      "votos": "",
+      "start": "2025-01-01",
+      "end": "2028-12-31",
+      "natureza": "Titular",
+      "legislatura_ano_inicio": 2025,
+      "legislatura_ano_fim": 2028
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@legislaturas/18",
+      "@type": "Mandato",
+      "id": 18,
+      "votos": 7889,
+      "start": "2021-01-01",
+      "end": "2024-12-31",
+      "natureza": "Titular",
+      "legislatura_ano_inicio": 2021,
+      "legislatura_ano_fim": 2024
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@legislaturas/17",
+      "@type": "Mandato",
+      "id": 17,
+      "votos": "",
+      "start": "2017-01-01",
+      "end": "2020-12-31",
+      "natureza": "Titular",
+      "legislatura_ano_inicio": 2017,
+      "legislatura_ano_fim": 2020
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@legislaturas/16",
+      "@type": "Mandato",
+      "id": 16,
+      "votos": 9928,
+      "start": "2013-01-01",
+      "end": "2016-12-31",
+      "natureza": "Titular",
+      "legislatura_ano_inicio": 2013,
+      "legislatura_ano_fim": 2016
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@legislaturas/15",
+      "@type": "Mandato",
+      "id": 15,
+      "votos": "",
+      "start": "2009-01-01",
+      "end": "2012-12-31",
+      "natureza": "Titular",
+      "legislatura_ano_inicio": 2009,
+      "legislatura_ano_fim": 2012
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@legislaturas/14",
+      "@type": "Mandato",
+      "id": 14,
+      "votos": "",
+      "start": "2005-01-01",
+      "end": "2008-12-31",
+      "natureza": "Titular",
+      "legislatura_ano_inicio": 2005,
+      "legislatura_ano_fim": 2008
+    }
+  ],
+  "mesas": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@mesas/15",
+      "@type": "ParticipanteMesa",
+      "id": "15",
+      "title": "2º Vice-Presidente",
+      "cod_cargo": 4,
+      "description": "03/02/2014 a 05/07/2014",
+      "start": "2014-02-03",
+      "end": "2014-07-05"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@mesas/14",
+      "@type": "ParticipanteMesa",
+      "id": "14",
+      "title": "2º Vice-Presidente",
+      "cod_cargo": 4,
+      "description": "05/08/2013 a 31/12/2013",
+      "start": "2013-08-05",
+      "end": "2013-12-31"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@mesas/13",
+      "@type": "ParticipanteMesa",
+      "id": "13",
+      "title": "2º Vice-Presidente",
+      "cod_cargo": 4,
+      "description": "01/02/2013 a 05/07/2013",
+      "start": "2013-02-01",
+      "end": "2013-07-05"
+    }
+  ],
+  "comissoes": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/55",
+      "@type": "ParticipanteComissao",
+      "id": "55",
+      "title": "Presidente",
+      "comissao": "Comissão de Desenvolvimento Econômico",
+      "cod_cargo": 1,
+      "start": "2025-02-11",
+      "end": "2026-12-31",
+      "description": "11/02/2025 a 31/12/2026",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/60",
+      "@type": "ParticipanteComissao",
+      "id": "60",
+      "title": "Vice-Presidente",
+      "comissao": "Comissão de Igualdade Racial e Enfrentamento ao Racismo",
+      "cod_cargo": 2,
+      "start": "2025-02-11",
+      "end": "2026-12-31",
+      "description": "11/02/2025 a 31/12/2026",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/46",
+      "@type": "ParticipanteComissao",
+      "id": "46",
+      "title": "Suplente",
+      "comissao": "Comissão de Direitos Humanos e Cidadania",
+      "cod_cargo": 14,
+      "start": "2023-02-13",
+      "end": "2024-12-31",
+      "description": "13/02/2023 a 31/12/2024",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/55",
+      "@type": "ParticipanteComissao",
+      "id": "55",
+      "title": "Presidente",
+      "comissao": "Comissão de Desenvolvimento Econômico",
+      "cod_cargo": 1,
+      "start": "2023-02-13",
+      "end": "2024-12-31",
+      "description": "13/02/2023 a 31/12/2024",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/60",
+      "@type": "ParticipanteComissao",
+      "id": "60",
+      "title": "Vice-Presidente",
+      "comissao": "Comissão de Igualdade Racial e Enfrentamento ao Racismo",
+      "cod_cargo": 2,
+      "start": "2023-02-13",
+      "end": "2024-12-31",
+      "description": "13/02/2023 a 31/12/2024",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/60",
+      "@type": "ParticipanteComissao",
+      "id": "60",
+      "title": "Vice-Presidente",
+      "comissao": "Comissão de Igualdade Racial e Enfrentamento ao Racismo",
+      "cod_cargo": 2,
+      "start": "2021-06-10",
+      "end": "2022-12-31",
+      "description": "10/06/2021 a 31/12/2022",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/45",
+      "@type": "ParticipanteComissao",
+      "id": "45",
+      "title": "Membro Efetivo",
+      "comissao": "Comissão de Acessibilidade e Mobilidade Urbana",
+      "cod_cargo": 3,
+      "start": "2021-02-11",
+      "end": "2022-12-31",
+      "description": "11/02/2021 a 31/12/2022",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/55",
+      "@type": "ParticipanteComissao",
+      "id": "55",
+      "title": "Presidente",
+      "comissao": "Comissão de Desenvolvimento Econômico",
+      "cod_cargo": 1,
+      "start": "2021-02-11",
+      "end": "2022-12-31",
+      "description": "11/02/2021 a 31/12/2022",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/55",
+      "@type": "ParticipanteComissao",
+      "id": "55",
+      "title": "Vice-Presidente",
+      "comissao": "Comissão de Desenvolvimento Econômico",
+      "cod_cargo": 2,
+      "start": "2019-01-01",
+      "end": "2020-12-31",
+      "description": "01/01/2019 a 31/12/2020",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/32",
+      "@type": "ParticipanteComissao",
+      "id": "32",
+      "title": "Membro Efetivo",
+      "comissao": "Higiene, Saúde e Bem Estar Social-inativa",
+      "cod_cargo": 3,
+      "start": "2015-01-01",
+      "end": "2016-12-31",
+      "description": "01/01/2015 a 31/12/2016",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/28",
+      "@type": "ParticipanteComissao",
+      "id": "28",
+      "title": "Suplente",
+      "comissao": "Desenvolvimento Econômico-inativa",
+      "cod_cargo": 14,
+      "start": "2011-01-01",
+      "end": "2012-12-31",
+      "description": "01/01/2011 a 31/12/2012",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31",
+      "@type": "ParticipanteComissao",
+      "id": "31",
+      "title": "Vice-Presidente",
+      "comissao": "Comissão de Educação, Cultura, Turismo e Esportes",
+      "cod_cargo": 2,
+      "start": "2011-01-01",
+      "end": "2012-12-31",
+      "description": "01/01/2011 a 31/12/2012",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/23",
+      "@type": "ParticipanteComissao",
+      "id": "23",
+      "title": "Membro Efetivo",
+      "comissao": "Finanças e Orçamento-inativa",
+      "cod_cargo": 3,
+      "start": "2011-01-01",
+      "end": "2012-12-31",
+      "description": "01/01/2011 a 31/12/2012",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/32",
+      "@type": "ParticipanteComissao",
+      "id": "32",
+      "title": "Presidente",
+      "comissao": "Higiene, Saúde e Bem Estar Social-inativa",
+      "cod_cargo": 1,
+      "start": "2011-01-01",
+      "end": "2012-12-31",
+      "description": "01/01/2011 a 31/12/2012",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/28",
+      "@type": "ParticipanteComissao",
+      "id": "28",
+      "title": "Suplente",
+      "comissao": "Desenvolvimento Econômico-inativa",
+      "cod_cargo": 14,
+      "start": "2009-03-14",
+      "end": "2010-12-31",
+      "description": "14/03/2009 a 31/12/2010",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31",
+      "@type": "ParticipanteComissao",
+      "id": "31",
+      "title": "Suplente",
+      "comissao": "Comissão de Educação, Cultura, Turismo e Esportes",
+      "cod_cargo": 14,
+      "start": "2009-03-05",
+      "end": "2010-12-31",
+      "description": "05/03/2009 a 31/12/2010",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/32",
+      "@type": "ParticipanteComissao",
+      "id": "32",
+      "title": "Presidente",
+      "comissao": "Higiene, Saúde e Bem Estar Social-inativa",
+      "cod_cargo": 1,
+      "start": "2009-02-21",
+      "end": "2010-12-31",
+      "description": "21/02/2009 a 31/12/2010",
+      "mandato": "Titular"
+    }
+  ],
+  "proposicoes": {
+    "page": 1,
+    "page_size": 10,
+    "ordem_dat_apresentacao": "desc",
+    "total": 2382,
+    "items": [
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=181921",
+        "id": "181921",
+        "title": "REQ 7575/2026",
+        "ementa": "Voto de Pesar com o objetivo de expressar os mais profundos sentimentos em razão do falecimento da Sra. Josabete Maria da Silva, carinhosamente conhecida por toda a População como “Irmã Babate”, aos 73 anos de idade.",
+        "data_apresentacao": "29/10/2026",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2026",
+        "ultima_votacao_resultado": "",
+        "ultima_votacao_kind": ""
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=181838",
+        "id": "181838",
+        "title": "REQ 7502/2026",
+        "ementa": "Voto de Aplausos ao Desembargador Fábio André de Farias, por ter sido eleito o novo Presidente do Tribunal Regional do Trabalho da 6ª Região (TRT-6), em Pernambuco, para o biênio 2027–2029.",
+        "data_apresentacao": "26/10/2026",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2026",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/emenda/emenda_mostrar_proc?cod_emenda=5493",
+        "id": "e-5493",
+        "title": "Emenda Modificativa nº 143 ao PLE 12/2026",
+        "ementa": "Emenda Modificativa ao Projeto de Lei do Executivo nº 12/2026 - Prefeito do Recife - Dispõe sobre a Lei Orçamentária Anual, que estima a receita e fixa a despesa do Município do Recife para o exercício de 2027.",
+        "data_apresentacao": "26/10/2026",
+        "tipo": "Emenda Modificativa",
+        "item_kind": "emenda",
+        "emenda_impositiva": false,
+        "ano": "2026",
+        "ultima_votacao_resultado": "",
+        "ultima_votacao_kind": ""
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/emenda/emenda_mostrar_proc?cod_emenda=5490",
+        "id": "e-5490",
+        "title": "Emenda Modificativa nº 140 ao PLE 12/2026",
+        "ementa": "Emenda Modificativa ao Projeto de Lei do Executivo nº 12/2026 - Prefeito do Recife - Dispõe sobre a Lei Orçamentária Anual, que estima a receita e fixa a despesa do Município do Recife para o exercício de 2027.",
+        "data_apresentacao": "26/10/2026",
+        "tipo": "Emenda Modificativa",
+        "item_kind": "emenda",
+        "emenda_impositiva": false,
+        "ano": "2026",
+        "ultima_votacao_resultado": "",
+        "ultima_votacao_kind": ""
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/emenda/emenda_mostrar_proc?cod_emenda=5489",
+        "id": "e-5489",
+        "title": "Emenda Modificativa nº 139 ao PLE 12/2026",
+        "ementa": "Emenda Modificativa ao Projeto de Lei do Executivo nº 12/2026 - Prefeito do Recife - Dispõe sobre a Lei Orçamentária Anual, que estima a receita e fixa a despesa do Município do Recife para o exercício de 2027.",
+        "data_apresentacao": "26/10/2026",
+        "tipo": "Emenda Modificativa",
+        "item_kind": "emenda",
+        "emenda_impositiva": false,
+        "ano": "2026",
+        "ultima_votacao_resultado": "",
+        "ultima_votacao_kind": ""
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/emenda/emenda_mostrar_proc?cod_emenda=5488",
+        "id": "e-5488",
+        "title": "Emenda Modificativa nº 217 ao PLE 13/2026",
+        "ementa": "Emenda Modificativa ao Projeto de Lei do Executivo nº 13/2026 - Prefeito do Recife - Dispõe sobre a revisão do Plano Plurianual 2026-2029 do Município do Recife para o exercício de 2027.",
+        "data_apresentacao": "26/10/2026",
+        "tipo": "Emenda Modificativa",
+        "item_kind": "emenda",
+        "emenda_impositiva": false,
+        "ano": "2026",
+        "ultima_votacao_resultado": "",
+        "ultima_votacao_kind": ""
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/emenda/emenda_mostrar_proc?cod_emenda=5487",
+        "id": "e-5487",
+        "title": "Emenda Modificativa nº 216 ao PLE 13/2026",
+        "ementa": "Emenda Modificativa ao Projeto de Lei do Executivo nº 13/2026 - Prefeito do Recife - Dispõe sobre a revisão do Plano Plurianual 2026-2029 do Município do Recife para o exercício de 2027.",
+        "data_apresentacao": "26/10/2026",
+        "tipo": "Emenda Modificativa",
+        "item_kind": "emenda",
+        "emenda_impositiva": false,
+        "ano": "2026",
+        "ultima_votacao_resultado": "",
+        "ultima_votacao_kind": ""
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=181314",
+        "id": "181314",
+        "title": "REQ 7012/2026",
+        "ementa": "Indicação ao Presidente da EMLURB para determinar, com urgência, a realização do serviço de terraplanagem do Campo Barreirão, localizado na Rua Professor Lurdes Dutra, em frente aos números 246 e 240, Comunidade Alto do Pereirinha, Bairro Água Fria.",
+        "data_apresentacao": "17/09/2026",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2026",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=181184",
+        "id": "181184",
+        "title": "REQ 6895/2026",
+        "ementa": "Indicação ao Presidente da EMLURB para determinar o conserto de buraco na Rua Doutor Pereira da Silva, em frente ao nº 123, bairro Água Fria.",
+        "data_apresentacao": "08/09/2026",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2026",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=181183",
+        "id": "181183",
+        "title": "REQ 6894/2026",
+        "ementa": "Indicação ao Presidente da Autarquia de Manutenção e Limpeza Urbana do Recife EMLURB para providenciar o serviço de poda de árvore na Rua Antônio Novais, N° 74, Bairro Graças.",
+        "data_apresentacao": "08/09/2026",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2026",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      }
+    ],
+    "filters": {
+      "tipo": "",
+      "ano": "",
+      "tipo_desc": ""
+    },
+    "facets_todos": {
+      "tipo": [
+        {
+          "value": "em:emenda",
+          "label": "Emenda",
+          "count": 87
+        },
+        {
+          "value": "PDL",
+          "label": "Projeto de Decreto Legislativo",
+          "count": 19
+        },
+        {
+          "value": "PLO",
+          "label": "Projeto de Lei Ordinária",
+          "count": 142
+        },
+        {
+          "value": "PRES",
+          "label": "Projeto de Resolução",
+          "count": 5
+        },
+        {
+          "value": "REQ",
+          "label": "Requerimento",
+          "count": 2129
+        }
+      ],
+      "ano": [
+        {
+          "value": "2026",
+          "label": "2026",
+          "count": 157
+        },
+        {
+          "value": "2025",
+          "label": "2025",
+          "count": 193
+        },
+        {
+          "value": "2024",
+          "label": "2024",
+          "count": 133
+        },
+        {
+          "value": "2023",
+          "label": "2023",
+          "count": 274
+        },
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 226
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 270
+        },
+        {
+          "value": "2020",
+          "label": "2020",
+          "count": 327
+        },
+        {
+          "value": "2016",
+          "label": "2016",
+          "count": 62
+        },
+        {
+          "value": "2015",
+          "label": "2015",
+          "count": 45
+        },
+        {
+          "value": "2014",
+          "label": "2014",
+          "count": 30
+        },
+        {
+          "value": "2013",
+          "label": "2013",
+          "count": 56
+        },
+        {
+          "value": "2012",
+          "label": "2012",
+          "count": 66
+        },
+        {
+          "value": "2011",
+          "label": "2011",
+          "count": 145
+        },
+        {
+          "value": "2010",
+          "label": "2010",
+          "count": 81
+        },
+        {
+          "value": "2009",
+          "label": "2009",
+          "count": 121
+        },
+        {
+          "value": "2008",
+          "label": "2008",
+          "count": 90
+        },
+        {
+          "value": "2007",
+          "label": "2007",
+          "count": 82
+        },
+        {
+          "value": "2005",
+          "label": "2005",
+          "count": 24
+        }
+      ]
+    },
+    "facets": {
+      "tipo": [
+        {
+          "value": "em:emenda",
+          "label": "Emenda",
+          "count": 87
+        },
+        {
+          "value": "PDL",
+          "label": "Projeto de Decreto Legislativo",
+          "count": 19
+        },
+        {
+          "value": "PLO",
+          "label": "Projeto de Lei Ordinária",
+          "count": 142
+        },
+        {
+          "value": "PRES",
+          "label": "Projeto de Resolução",
+          "count": 5
+        },
+        {
+          "value": "REQ",
+          "label": "Requerimento",
+          "count": 2129
+        }
+      ],
+      "ano": [
+        {
+          "value": "2026",
+          "label": "2026",
+          "count": 157
+        },
+        {
+          "value": "2025",
+          "label": "2025",
+          "count": 193
+        },
+        {
+          "value": "2024",
+          "label": "2024",
+          "count": 133
+        },
+        {
+          "value": "2023",
+          "label": "2023",
+          "count": 274
+        },
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 226
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 270
+        },
+        {
+          "value": "2020",
+          "label": "2020",
+          "count": 327
+        },
+        {
+          "value": "2016",
+          "label": "2016",
+          "count": 62
+        },
+        {
+          "value": "2015",
+          "label": "2015",
+          "count": 45
+        },
+        {
+          "value": "2014",
+          "label": "2014",
+          "count": 30
+        },
+        {
+          "value": "2013",
+          "label": "2013",
+          "count": 56
+        },
+        {
+          "value": "2012",
+          "label": "2012",
+          "count": 66
+        },
+        {
+          "value": "2011",
+          "label": "2011",
+          "count": 145
+        },
+        {
+          "value": "2010",
+          "label": "2010",
+          "count": 81
+        },
+        {
+          "value": "2009",
+          "label": "2009",
+          "count": 121
+        },
+        {
+          "value": "2008",
+          "label": "2008",
+          "count": 90
+        },
+        {
+          "value": "2007",
+          "label": "2007",
+          "count": 82
+        },
+        {
+          "value": "2005",
+          "label": "2005",
+          "count": 24
+        }
+      ],
+      "xy": [
+        {
+          "tipo": "PDL",
+          "ano": "2005",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2005",
+          "count": 6
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2005",
+          "count": 17
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2007",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2007",
+          "count": 7
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2007",
+          "count": 74
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2008",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2008",
+          "count": 5
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2008",
+          "count": 84
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2009",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2009",
+          "count": 5
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2009",
+          "count": 115
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2010",
+          "count": 8
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2010",
+          "count": 73
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2011",
+          "count": 5
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2011",
+          "count": 140
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2012",
+          "count": 2
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2012",
+          "count": 6
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2012",
+          "count": 58
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2013",
+          "count": 9
+        },
+        {
+          "tipo": "PRES",
+          "ano": "2013",
+          "count": 1
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2013",
+          "count": 46
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2014",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2014",
+          "count": 6
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2014",
+          "count": 23
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2015",
+          "count": 4
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2015",
+          "count": 41
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2016",
+          "count": 3
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2016",
+          "count": 7
+        },
+        {
+          "tipo": "PRES",
+          "ano": "2016",
+          "count": 2
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2016",
+          "count": 50
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2020",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2020",
+          "count": 9
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2020",
+          "count": 317
+        },
+        {
+          "tipo": "em:emenda",
+          "ano": "2021",
+          "count": 39
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2021",
+          "count": 5
+        },
+        {
+          "tipo": "PRES",
+          "ano": "2021",
+          "count": 1
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2021",
+          "count": 225
+        },
+        {
+          "tipo": "em:emenda",
+          "ano": "2022",
+          "count": 20
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2022",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2022",
+          "count": 4
+        },
+        {
+          "tipo": "PRES",
+          "ano": "2022",
+          "count": 1
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2022",
+          "count": 200
+        },
+        {
+          "tipo": "em:emenda",
+          "ano": "2023",
+          "count": 11
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2023",
+          "count": 4
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2023",
+          "count": 6
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2023",
+          "count": 253
+        },
+        {
+          "tipo": "em:emenda",
+          "ano": "2024",
+          "count": 6
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2024",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2024",
+          "count": 4
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2024",
+          "count": 122
+        },
+        {
+          "tipo": "em:emenda",
+          "ano": "2025",
+          "count": 5
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2025",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2025",
+          "count": 17
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2025",
+          "count": 170
+        },
+        {
+          "tipo": "em:emenda",
+          "ano": "2026",
+          "count": 6
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2026",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2026",
+          "count": 29
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2026",
+          "count": 121
+        }
+      ]
+    }
+  },
+  "relatorias": {
+    "page": 1,
+    "page_size": 10,
+    "ordem_dat_apresentacao": "desc",
+    "total": 35,
+    "items": [
+      {
+        "id": "4535",
+        "title": "PLO 341/2025",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=167336",
+        "comissao": "Comissão de Desenvolvimento Econômico",
+        "num_parecer": 2,
+        "ano_parecer": 2026,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "11/09/2025",
+        "data_designacao": "21/05/2026",
+        "data_destituicao": "21/05/2026",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2025"
+      },
+      {
+        "id": "4534",
+        "title": "PLO 339/2025",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=167250",
+        "comissao": "Comissão de Desenvolvimento Econômico",
+        "num_parecer": 1,
+        "ano_parecer": 2026,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "10/09/2025",
+        "data_designacao": "21/05/2026",
+        "data_destituicao": "21/05/2026",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2025"
+      },
+      {
+        "id": "4536",
+        "title": "PLO 299/2025",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=165894",
+        "comissao": "Comissão de Desenvolvimento Econômico",
+        "num_parecer": 3,
+        "ano_parecer": 2026,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "11/08/2025",
+        "data_designacao": "21/05/2026",
+        "data_destituicao": "21/05/2026",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2025"
+      },
+      {
+        "id": "3406",
+        "title": "PLE 14/2025",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=163629",
+        "comissao": "Comissão de Desenvolvimento Econômico",
+        "num_parecer": 3,
+        "ano_parecer": 2025,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "06/06/2025",
+        "data_designacao": "13/06/2025",
+        "data_destituicao": "13/06/2025",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2025"
+      },
+      {
+        "id": "3836",
+        "title": "PLO 131/2025",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=161477",
+        "comissao": "Comissão de Desenvolvimento Econômico",
+        "num_parecer": 7,
+        "ano_parecer": 2025,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "22/04/2025",
+        "data_designacao": "29/10/2025",
+        "data_destituicao": "29/10/2025",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2025"
+      },
+      {
+        "id": "3155",
+        "title": "PLE 4/2025",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=161171",
+        "comissao": "Comissão de Desenvolvimento Econômico",
+        "num_parecer": 1,
+        "ano_parecer": 2025,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "14/04/2025",
+        "data_designacao": "16/04/2025",
+        "data_destituicao": "16/04/2025",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2025"
+      },
+      {
+        "id": "3186",
+        "title": "PLE 3/2025",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=161000",
+        "comissao": "Comissão de Desenvolvimento Econômico",
+        "num_parecer": 2,
+        "ano_parecer": 2025,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "11/04/2025",
+        "data_designacao": "28/04/2025",
+        "data_destituicao": "28/04/2025",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2025"
+      },
+      {
+        "id": "3834",
+        "title": "PLO 29/2025",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=158800",
+        "comissao": "Comissão de Desenvolvimento Econômico",
+        "num_parecer": 5,
+        "ano_parecer": 2025,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "17/02/2025",
+        "data_designacao": "29/10/2025",
+        "data_destituicao": "29/10/2025",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2025"
+      },
+      {
+        "id": "3833",
+        "title": "PLO 14/2025",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=158321",
+        "comissao": "Comissão de Desenvolvimento Econômico",
+        "num_parecer": 4,
+        "ano_parecer": 2025,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "29/01/2025",
+        "data_designacao": "29/10/2025",
+        "data_destituicao": "29/10/2025",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2025"
+      },
+      {
+        "id": "3835",
+        "title": "PLO 7/2025",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=158263",
+        "comissao": "Comissão de Desenvolvimento Econômico",
+        "num_parecer": 6,
+        "ano_parecer": 2025,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "20/01/2025",
+        "data_designacao": "29/10/2025",
+        "data_destituicao": "29/10/2025",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2025"
+      }
+    ],
+    "filters": {
+      "tipo": "",
+      "ano": "",
+      "tipo_desc": ""
+    },
+    "facets_todos": {
+      "tipo": [
+        {
+          "value": "PLE",
+          "label": "Projeto de Lei do Executivo",
+          "count": 14
+        },
+        {
+          "value": "PLO",
+          "label": "Projeto de Lei Ordinária",
+          "count": 21
+        }
+      ],
+      "ano": [
+        {
+          "value": "2025",
+          "label": "2025",
+          "count": 10
+        },
+        {
+          "value": "2024",
+          "label": "2024",
+          "count": 3
+        },
+        {
+          "value": "2023",
+          "label": "2023",
+          "count": 7
+        },
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 9
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 6
+        }
+      ]
+    },
+    "facets": {
+      "tipo": [
+        {
+          "value": "PLE",
+          "label": "Projeto de Lei do Executivo",
+          "count": 14
+        },
+        {
+          "value": "PLO",
+          "label": "Projeto de Lei Ordinária",
+          "count": 21
+        }
+      ],
+      "ano": [
+        {
+          "value": "2025",
+          "label": "2025",
+          "count": 10
+        },
+        {
+          "value": "2024",
+          "label": "2024",
+          "count": 3
+        },
+        {
+          "value": "2023",
+          "label": "2023",
+          "count": 7
+        },
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 9
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 6
+        }
+      ],
+      "xy": [
+        {
+          "tipo": "PLO",
+          "ano": "2021",
+          "count": 6
+        },
+        {
+          "tipo": "PLE",
+          "ano": "2022",
+          "count": 2
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2022",
+          "count": 7
+        },
+        {
+          "tipo": "PLE",
+          "ano": "2023",
+          "count": 6
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2023",
+          "count": 1
+        },
+        {
+          "tipo": "PLE",
+          "ano": "2024",
+          "count": 3
+        },
+        {
+          "tipo": "PLE",
+          "ano": "2025",
+          "count": 3
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2025",
+          "count": 7
+        }
+      ]
+    }
+  },
+  "frequencia": {
+    "page": 1,
+    "page_size": 10,
+    "ordem_data_sessao": "desc",
+    "total": 565,
+    "items": [
+      {
+        "id": "17904",
+        "sessao_id": "1501",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1501&dat_sessao=10/11/2026",
+        "title": "63ª Reunião Ordinária",
+        "identificacao_sessao": "63ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "numero_sessao": "63",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2026-11-10",
+        "data_sessao_br": "10/11/2026",
+        "ano": "2026",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "17867",
+        "sessao_id": "1500",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1500&dat_sessao=09/11/2026",
+        "title": "62ª Reunião Ordinária",
+        "identificacao_sessao": "62ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "numero_sessao": "62",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2026-11-09",
+        "data_sessao_br": "09/11/2026",
+        "ano": "2026",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "17855",
+        "sessao_id": "1499",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1499&dat_sessao=03/11/2026",
+        "title": "61ª Reunião Ordinária",
+        "identificacao_sessao": "61ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "numero_sessao": "61",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2026-11-03",
+        "data_sessao_br": "03/11/2026",
+        "ano": "2026",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "17793",
+        "sessao_id": "1497",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1497&dat_sessao=27/10/2026",
+        "title": "60ª Reunião Ordinária",
+        "identificacao_sessao": "60ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "numero_sessao": "60",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2026-10-27",
+        "data_sessao_br": "27/10/2026",
+        "ano": "2026",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "17756",
+        "sessao_id": "1496",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1496&dat_sessao=26/10/2026",
+        "title": "59ª Reunião Ordinária",
+        "identificacao_sessao": "59ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "numero_sessao": "59",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2026-10-26",
+        "data_sessao_br": "26/10/2026",
+        "ano": "2026",
+        "frequencia": "F",
+        "frequencia_label": "Falta",
+        "justificativa": ""
+      },
+      {
+        "id": "17682",
+        "sessao_id": "1494",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1494&dat_sessao=20/10/2026",
+        "title": "58ª Reunião Ordinária",
+        "identificacao_sessao": "58ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "numero_sessao": "58",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2026-10-20",
+        "data_sessao_br": "20/10/2026",
+        "ano": "2026",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "17645",
+        "sessao_id": "1492",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1492&dat_sessao=19/10/2026",
+        "title": "57ª Reunião Ordinária",
+        "identificacao_sessao": "57ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "numero_sessao": "57",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2026-10-19",
+        "data_sessao_br": "19/10/2026",
+        "ano": "2026",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "17608",
+        "sessao_id": "1491",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1491&dat_sessao=13/10/2026",
+        "title": "56ª Reunião Ordinária",
+        "identificacao_sessao": "56ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "numero_sessao": "56",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2026-10-13",
+        "data_sessao_br": "13/10/2026",
+        "ano": "2026",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "17571",
+        "sessao_id": "1490",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1490&dat_sessao=06/10/2026",
+        "title": "55ª Reunião Ordinária",
+        "identificacao_sessao": "55ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "numero_sessao": "55",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2026-10-06",
+        "data_sessao_br": "06/10/2026",
+        "ano": "2026",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "17534",
+        "sessao_id": "1489",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1489&dat_sessao=05/10/2026",
+        "title": "54ª Reunião Ordinária",
+        "identificacao_sessao": "54ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "numero_sessao": "54",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2026-10-05",
+        "data_sessao_br": "05/10/2026",
+        "ano": "2026",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      }
+    ],
+    "filters": {
+      "tipo": "",
+      "ano": "",
+      "tipo_desc": ""
+    },
+    "fonte": "ordem_dia",
+    "fonte_rotulo": "Presença na ordem do dia",
+    "fonte_tabela": "ordem_dia_presenca",
+    "resumo": {
+      "presencas": 423,
+      "ausencias_justificadas": 14,
+      "faltas": 128,
+      "total_sessoes": 565,
+      "frequencia_percentual": 77.35
+    },
+    "facets_select": {
+      "tipo": [
+        {
+          "value": "2",
+          "label": "Extraordinária",
+          "count": 98
+        },
+        {
+          "value": "1",
+          "label": "Ordinária",
+          "count": 467
+        }
+      ],
+      "ano": [
+        {
+          "value": "2026",
+          "label": "2026",
+          "count": 71
+        },
+        {
+          "value": "2025",
+          "label": "2025",
+          "count": 96
+        },
+        {
+          "value": "2024",
+          "label": "2024",
+          "count": 94
+        },
+        {
+          "value": "2023",
+          "label": "2023",
+          "count": 100
+        },
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 103
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 99
+        },
+        {
+          "value": "2020",
+          "label": "2020",
+          "count": 2
+        }
+      ]
+    },
+    "facets_todos": {
+      "tipo": [
+        {
+          "value": "2",
+          "label": "Extraordinária",
+          "count": 98
+        },
+        {
+          "value": "1",
+          "label": "Ordinária",
+          "count": 467
+        }
+      ],
+      "ano": [
+        {
+          "value": "2026",
+          "label": "2026",
+          "count": 71
+        },
+        {
+          "value": "2025",
+          "label": "2025",
+          "count": 96
+        },
+        {
+          "value": "2024",
+          "label": "2024",
+          "count": 94
+        },
+        {
+          "value": "2023",
+          "label": "2023",
+          "count": 100
+        },
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 103
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 99
+        },
+        {
+          "value": "2020",
+          "label": "2020",
+          "count": 2
+        }
+      ]
+    },
+    "facets": {
+      "tipo": [
+        {
+          "value": "2",
+          "label": "Extraordinária",
+          "count": 98
+        },
+        {
+          "value": "1",
+          "label": "Ordinária",
+          "count": 467
+        }
+      ],
+      "ano": [
+        {
+          "value": "2026",
+          "label": "2026",
+          "count": 71
+        },
+        {
+          "value": "2025",
+          "label": "2025",
+          "count": 96
+        },
+        {
+          "value": "2024",
+          "label": "2024",
+          "count": 94
+        },
+        {
+          "value": "2023",
+          "label": "2023",
+          "count": 100
+        },
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 103
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 99
+        },
+        {
+          "value": "2020",
+          "label": "2020",
+          "count": 2
+        }
+      ],
+      "xy": [
+        {
+          "tipo": "1",
+          "ano": "2020",
+          "count": 2
+        },
+        {
+          "tipo": "1",
+          "ano": "2021",
+          "count": 81
+        },
+        {
+          "tipo": "2",
+          "ano": "2021",
+          "count": 18
+        },
+        {
+          "tipo": "1",
+          "ano": "2022",
+          "count": 85
+        },
+        {
+          "tipo": "2",
+          "ano": "2022",
+          "count": 18
+        },
+        {
+          "tipo": "1",
+          "ano": "2023",
+          "count": 81
+        },
+        {
+          "tipo": "2",
+          "ano": "2023",
+          "count": 19
+        },
+        {
+          "tipo": "1",
+          "ano": "2024",
+          "count": 79
+        },
+        {
+          "tipo": "2",
+          "ano": "2024",
+          "count": 15
+        },
+        {
+          "tipo": "1",
+          "ano": "2025",
+          "count": 76
+        },
+        {
+          "tipo": "2",
+          "ano": "2025",
+          "count": 20
+        },
+        {
+          "tipo": "1",
+          "ano": "2026",
+          "count": 63
+        },
+        {
+          "tipo": "2",
+          "ano": "2026",
+          "count": 8
+        }
+      ]
+    }
+  },
+  "votacoes": {
+    "page": 1,
+    "page_size": 10,
+    "ordem_data_sessao": "desc",
+    "total": 529,
+    "items": [
+      {
+        "cod_materia": 180532,
+        "cod_votacao": "78048",
+        "id": "78048",
+        "title": "PDL 30/2026",
+        "ementa": "Concede o Título de Cidadão do Recife ao Sr. Júlio Mannuel Tavares Diniz.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=180532",
+        "tipo": "Projeto de Decreto Legislativo",
+        "ano": "2026",
+        "data_sessao": "2026-10-27",
+        "data_sessao_br": "27/10/2026",
+        "data_votacao": "2026-10-27",
+        "data_votacao_br": "27/10/2026",
+        "identificacao_sessao": "60ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1497&dat_sessao=27/10/2026",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Paulo Muniz"
+      },
+      {
+        "cod_materia": 180844,
+        "cod_votacao": "78049",
+        "id": "78049",
+        "title": "PDL 32/2026",
+        "ementa": "Concede a Medalha de Mérito José Mariano ao Cantor e Compositor André Rio Moraes de Melo.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=180844",
+        "tipo": "Projeto de Decreto Legislativo",
+        "ano": "2026",
+        "data_sessao": "2026-10-27",
+        "data_sessao_br": "27/10/2026",
+        "data_votacao": "2026-10-27",
+        "data_votacao_br": "27/10/2026",
+        "identificacao_sessao": "60ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1497&dat_sessao=27/10/2026",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Chico Kiko"
+      },
+      {
+        "cod_materia": 180693,
+        "cod_votacao": "77587",
+        "id": "77587",
+        "title": "PDL 31/2026",
+        "ementa": "Concede o Título de Cidadão do Recife ao Sr. Victor Leite, por relevantes serviços prestados à sociedade recifense.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=180693",
+        "tipo": "Projeto de Decreto Legislativo",
+        "ano": "2026",
+        "data_sessao": "2026-09-21",
+        "data_sessao_br": "21/09/2026",
+        "data_votacao": "2026-09-21",
+        "data_votacao_br": "21/09/2026",
+        "identificacao_sessao": "50ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1480&dat_sessao=21/09/2026",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Felipe Alecrim"
+      },
+      {
+        "cod_materia": 164298,
+        "cod_votacao": "77199",
+        "id": "77199",
+        "title": "PLO 232/2025",
+        "ementa": "Altera a denominação da atual Praça “Engenheiro Hélio Almeida Araújo”, situada na Rua dos Palmares, no Bairro Santo Amaro, no município do Recife, para “Ciclista Hélio Almeida Araújo”.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=164298",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2026",
+        "data_sessao": "2026-08-24",
+        "data_sessao_br": "24/08/2026",
+        "data_votacao": "2026-08-24",
+        "data_votacao_br": "24/08/2026",
+        "identificacao_sessao": "43ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1471&dat_sessao=24/08/2026",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Liana Cirne"
+      },
+      {
+        "cod_materia": 177192,
+        "cod_votacao": "77003",
+        "id": "77003",
+        "title": "PLO 147/2026",
+        "ementa": "Institui o \"Dia Municipal da Mestra Ritinha\" no Calendário Oficial de Eventos do Município do Recife.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=177192",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2026",
+        "data_sessao": "2026-08-17",
+        "data_sessao_br": "17/08/2026",
+        "data_votacao": "2026-08-17",
+        "data_votacao_br": "17/08/2026",
+        "identificacao_sessao": "41ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1462&dat_sessao=17/08/2026",
+        "vot_parlamentar": "Nao",
+        "voto_classe": "nao",
+        "voto_label": "Não",
+        "autoria": "Jô Cavalcanti"
+      },
+      {
+        "cod_materia": 179562,
+        "cod_votacao": "76957",
+        "id": "76957",
+        "title": "PLE 10/2026",
+        "ementa": "Dispõe sobre a ratificação do Protocolo de Intenções do Consórcio Público Intermunicipal do Agreste Pernambucano e Fronteiras – CONIAPE para a celebração de contrato de consórcio público.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=179562",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2026",
+        "data_sessao": "2026-08-11",
+        "data_sessao_br": "11/08/2026",
+        "data_votacao": "2026-08-11",
+        "data_votacao_br": "11/08/2026",
+        "identificacao_sessao": "40ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1460&dat_sessao=11/08/2026",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 177936,
+        "cod_votacao": "76958",
+        "id": "76958",
+        "title": "PDL 17/2026",
+        "ementa": "Concede o Título de Cidadão do Recife ao Ator, Diretor, Roteirista, Produtor e Músico, Wagner Maniçoba de Moura.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=177936",
+        "tipo": "Projeto de Decreto Legislativo",
+        "ano": "2026",
+        "data_sessao": "2026-08-11",
+        "data_sessao_br": "11/08/2026",
+        "data_votacao": "2026-08-11",
+        "data_votacao_br": "11/08/2026",
+        "identificacao_sessao": "40ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1460&dat_sessao=11/08/2026",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Carlos Muniz"
+      },
+      {
+        "cod_materia": 179562,
+        "cod_votacao": "76959",
+        "id": "76959",
+        "title": "PLE 10/2026",
+        "ementa": "Dispõe sobre a ratificação do Protocolo de Intenções do Consórcio Público Intermunicipal do Agreste Pernambucano e Fronteiras – CONIAPE para a celebração de contrato de consórcio público.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=179562",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2026",
+        "data_sessao": "2026-08-11",
+        "data_sessao_br": "11/08/2026",
+        "data_votacao": "2026-08-11",
+        "data_votacao_br": "11/08/2026",
+        "identificacao_sessao": "8ª Reunião Extraordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1461&dat_sessao=11/08/2026",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 179639,
+        "cod_votacao": "75856",
+        "id": "75856",
+        "title": "REQ 5471/2026",
+        "ementa": "Moção de Repúdio em face das declarações do Presidente da República, Luiz Inácio Lula da Silva, durante evento público realizado em 10 de junho de 2026, ocasião na qual insinuou que cidadãos teriam receio de procurar delegacias de polícia para regularizar a situação de aparelhos celulares roubados, furtados ou receptados por temor da conduta de agentes policiais, afirmações que atingem a honra, a credibilidade e a dignidade de profissionais responsáveis pela investigação criminal e pela preservação da ordem jurídica.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=179639",
+        "tipo": "Requerimento",
+        "ano": "2026",
+        "data_sessao": "2026-06-30",
+        "data_sessao_br": "30/06/2026",
+        "data_votacao": "2026-06-30",
+        "data_votacao_br": "30/06/2026",
+        "identificacao_sessao": "36ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1447&dat_sessao=30/06/2026",
+        "vot_parlamentar": "Nao",
+        "voto_classe": "nao",
+        "voto_label": "Não",
+        "autoria": "Thiago Medina"
+      },
+      {
+        "cod_materia": 179615,
+        "cod_votacao": "75857",
+        "id": "75857",
+        "title": "REQ 5450/2026",
+        "ementa": "Indicação ao Exmo. Prefeito do Recife para que encaminhe a esta Casa Legislativa um Projeto de Lei que institua a criação de reserva obrigatória de vagas para participação de mulheres em cargos comissionados e funções de confiança do Poder Executivo Municipal, conforme minuta em anexo.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=179615",
+        "tipo": "Requerimento",
+        "ano": "2026",
+        "data_sessao": "2026-06-30",
+        "data_sessao_br": "30/06/2026",
+        "data_votacao": "2026-06-30",
+        "data_votacao_br": "30/06/2026",
+        "identificacao_sessao": "36ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 19ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1447&dat_sessao=30/06/2026",
+        "vot_parlamentar": "Nao",
+        "voto_classe": "nao",
+        "voto_label": "Não",
+        "autoria": "Jô Cavalcanti"
+      }
+    ],
+    "resumo": {
+      "voto_sim": 449,
+      "voto_nao": 69,
+      "voto_abstencao": 11
+    },
+    "filters": {
+      "tipo": "",
+      "voto": "",
+      "voto_desc": "",
+      "tipo_desc": ""
+    },
+    "facets_todos": {
+      "tipo": [
+        {
+          "value": "ADP",
+          "label": "Aditamento a Parecer",
+          "count": 1
+        },
+        {
+          "value": "PAR",
+          "label": "Parecer",
+          "count": 9
+        },
+        {
+          "value": "PDL",
+          "label": "Projeto de Decreto Legislativo",
+          "count": 119
+        },
+        {
+          "value": "PELO",
+          "label": "Projeto de Emenda à Lei Orgânica",
+          "count": 4
+        },
+        {
+          "value": "PLC",
+          "label": "Projeto de Lei Complementar",
+          "count": 2
+        },
+        {
+          "value": "PLE",
+          "label": "Projeto de Lei do Executivo",
+          "count": 216
+        },
+        {
+          "value": "PLO",
+          "label": "Projeto de Lei Ordinária",
+          "count": 45
+        },
+        {
+          "value": "PRES",
+          "label": "Projeto de Resolução",
+          "count": 2
+        },
+        {
+          "value": "REQ",
+          "label": "Requerimento",
+          "count": 83
+        },
+        {
+          "value": "VET",
+          "label": "Veto",
+          "count": 48
+        }
+      ],
+      "voto": [
+        {
+          "value": "sim",
+          "label": "Sim",
+          "count": 449
+        },
+        {
+          "value": "nao",
+          "label": "Não",
+          "count": 69
+        },
+        {
+          "value": "abstencao",
+          "label": "Abstenção",
+          "count": 11
+        }
+      ]
+    },
+    "facets": {
+      "tipo": [
+        {
+          "value": "ADP",
+          "label": "Aditamento a Parecer",
+          "count": 1
+        },
+        {
+          "value": "PAR",
+          "label": "Parecer",
+          "count": 9
+        },
+        {
+          "value": "PDL",
+          "label": "Projeto de Decreto Legislativo",
+          "count": 119
+        },
+        {
+          "value": "PELO",
+          "label": "Projeto de Emenda à Lei Orgânica",
+          "count": 4
+        },
+        {
+          "value": "PLC",
+          "label": "Projeto de Lei Complementar",
+          "count": 2
+        },
+        {
+          "value": "PLE",
+          "label": "Projeto de Lei do Executivo",
+          "count": 216
+        },
+        {
+          "value": "PLO",
+          "label": "Projeto de Lei Ordinária",
+          "count": 45
+        },
+        {
+          "value": "PRES",
+          "label": "Projeto de Resolução",
+          "count": 2
+        },
+        {
+          "value": "REQ",
+          "label": "Requerimento",
+          "count": 83
+        },
+        {
+          "value": "VET",
+          "label": "Veto",
+          "count": 48
+        }
+      ],
+      "voto": [
+        {
+          "value": "sim",
+          "label": "Sim",
+          "count": 449
+        },
+        {
+          "value": "nao",
+          "label": "Não",
+          "count": 69
+        },
+        {
+          "value": "abstencao",
+          "label": "Abstenção",
+          "count": 11
+        }
+      ],
+      "xy": [
+        {
+          "tipo": "PLE",
+          "voto": "abstencao",
+          "count": 3
+        },
+        {
+          "tipo": "REQ",
+          "voto": "abstencao",
+          "count": 8
+        },
+        {
+          "tipo": "PELO",
+          "voto": "nao",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "voto": "nao",
+          "count": 4
+        },
+        {
+          "tipo": "REQ",
+          "voto": "nao",
+          "count": 16
+        },
+        {
+          "tipo": "VET",
+          "voto": "nao",
+          "count": 48
+        },
+        {
+          "tipo": "ADP",
+          "voto": "sim",
+          "count": 1
+        },
+        {
+          "tipo": "PAR",
+          "voto": "sim",
+          "count": 9
+        },
+        {
+          "tipo": "PDL",
+          "voto": "sim",
+          "count": 119
+        },
+        {
+          "tipo": "PELO",
+          "voto": "sim",
+          "count": 3
+        },
+        {
+          "tipo": "PLC",
+          "voto": "sim",
+          "count": 2
+        },
+        {
+          "tipo": "PLE",
+          "voto": "sim",
+          "count": 213
+        },
+        {
+          "tipo": "PLO",
+          "voto": "sim",
+          "count": 41
+        },
+        {
+          "tipo": "PRES",
+          "voto": "sim",
+          "count": 2
+        },
+        {
+          "tipo": "REQ",
+          "voto": "sim",
+          "count": 59
+        }
+      ]
+    }
+  },
+  "verba_indenizatoria_ativa": false
+}

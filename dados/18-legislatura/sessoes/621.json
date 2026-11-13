@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/621",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/621/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/621/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/621_ata_sessao.pdf",
+      "filename": "621_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-12-06",
+  "description": "80ª Reunião Ordinária - 06/12/2022",
+  "endTime": "12:06",
+  "id": "621",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/621_pauta_sessao.pdf",
+      "filename": "621_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:50",
+  "title": "80ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

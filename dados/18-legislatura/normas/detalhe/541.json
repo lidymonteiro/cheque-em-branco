@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/541",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/541",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/541_anexo_466",
+          "filename": "541_anexo_466",
+          "size": "320.2 KB"
+        }
+      ],
+      "id": "466",
+      "title": "PDF da publicação da lei 18.997/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 12,
+  "cod_situacao": 12,
+  "data_norma": "2022-11-04",
+  "data_publicacao": "2022-11-22",
+  "description": "Dispõe sobre a alternância de denominação de\r\nlogradouros e prédios públicos do município do\r\nRecife com nomes de homens e de mulheres.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=541&texto_original=1",
+      "filename": "541_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "81.5 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18997, de 04/11/2022",
+  "id": "541",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=541&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/122167",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=35",
+          "@type": "Autor",
+          "id": "35",
+          "primeiro_autor": true,
+          "title": "Osmar Ricardo"
+        }
+      ],
+      "autoria_nomes": "Osmar Ricardo",
+      "description": "Dispõe sobre a alternância de denominação de\r\nlogradouros e prédios públicos do município do\r\nRecife com nomes de homens e de mulheres.",
+      "id": "122167",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=122167",
+      "title": "Projeto de Lei Ordinária nº 112/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTIyMTY3"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor, com revogação parcial",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18997/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-11-04",
+    "dataPromulgacaoBR": "04/11/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18997, de 04/11/2022",
+    "numNorma": 18997,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre a alternância de denominação de\r\nlogradouros e prédios públicos do município do\r\nRecife com nomes de homens e de mulheres.",
+  "txt_observacao": "Revogação parcial pelo Ofício nº 103/2022 GP/SEGOV ",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=541",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=541",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/721",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/721/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/721/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/721_ata_sessao.pdf",
+      "filename": "721_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-15",
+  "description": "45ª Reunião Solene - 15/05/2023",
+  "endTime": "",
+  "id": "721",
+  "pauta": [],
+  "startTime": "15:30",
+  "title": "45ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

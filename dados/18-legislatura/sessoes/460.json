@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/460",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/460/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/460/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/460_ata_sessao.pdf",
+      "filename": "460_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-04-18",
+  "description": "21ª Reunião Ordinária - 18/04/2022",
+  "endTime": "",
+  "id": "460",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/460_pauta_sessao.pdf",
+      "filename": "460_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "21ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

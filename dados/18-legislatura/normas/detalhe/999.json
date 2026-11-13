@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/999",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/999",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/999_anexo_943",
+          "filename": "999_anexo_943",
+          "size": "416.7 KB"
+        }
+      ],
+      "id": "943",
+      "title": "pdf da Publicação da Resolução de Nº 2777/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-09-05",
+  "data_publicacao": "2022-09-06",
+  "description": "Da Comissão Comissão Mista, opinando sobre a prestação de contas do Prefeito da Cidade do Recife, referente ao exercício financeiro de 2017.",
+  "file": [],
+  "heading_label": "Resolução nº 2777, de 05/09/2022",
+  "id": "999",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/130071",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=260",
+          "@type": "Autor",
+          "id": "260",
+          "primeiro_autor": false,
+          "title": "Comissão Mista para opinar sobre as contas do Poder Executivo"
+        }
+      ],
+      "autoria_nomes": "Comissão Mista para opinar sobre as contas do Poder Executivo",
+      "description": "Da Comissão Comissão Mista, opinando sobre a prestação de contas do Prefeito da Cidade do Recife, referente ao exercício financeiro de 2017.",
+      "id": "130071",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=130071",
+      "title": "Projeto de Resolução nº 21/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTMwMDcx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 11,
+  "num_pag_inicio_publ": 11,
+  "publicacao": {
+    "numPagFim": 11,
+    "numPagInicio": 11,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2777/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-09-05",
+    "dataPromulgacaoBR": "05/09/2022",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2777, de 05/09/2022",
+    "numNorma": 2777,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "Da Comissão Comissão Mista, opinando sobre a prestação de contas do Prefeito da Cidade do Recife, referente ao exercício financeiro de 2017.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=999",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=999",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

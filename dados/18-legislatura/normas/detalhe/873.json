@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/873",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/873",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/873_anexo_838",
+          "filename": "873_anexo_838",
+          "size": "301.5 KB"
+        }
+      ],
+      "id": "838",
+      "title": "PDF da publicação da lei 18870/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-12-09",
+  "data_publicacao": "2021-12-09",
+  "description": "Altera o art. 1º da Lei Municipal nº 18.291, de 30 de dezembro de 2016, que dispõe sobre a adequação da estrutura da Administração Direta e Indireta do Município do Recife às novas diretrizes administrativas, e dá outras providências.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=873&texto_original=1",
+      "filename": "873_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "76.7 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18870, de 09/12/2021",
+  "id": "873",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=873&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116474",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Altera o art. 1º da Lei Municipal nº 18.291, de 30 de dezembro de 2016, que dispõe sobre a adequação da estrutura da Administração Direta e Indireta do Município do Recife às novas diretrizes administrativas, e dá outras providências.",
+      "id": "116474",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=116474",
+      "title": "Projeto de Lei do Executivo nº 51/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE2NDc0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18870/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-12-09",
+    "dataPromulgacaoBR": "09/12/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18870, de 09/12/2021",
+    "numNorma": 18870,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Altera o art. 1º da Lei Municipal nº 18.291, de 30 de dezembro de 2016, que dispõe sobre a adequação da estrutura da Administração Direta e Indireta do Município do Recife às novas diretrizes administrativas, e dá outras providências.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=873",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=873",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

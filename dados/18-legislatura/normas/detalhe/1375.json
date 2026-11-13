@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1375",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1375",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1375_anexo_1363",
+          "filename": "1375_anexo_1363",
+          "size": "2.1 MB"
+        }
+      ],
+      "id": "1363",
+      "title": "PDF da publicação da lei 19096 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-09-21",
+  "data_publicacao": "2023-09-23",
+  "description": "Declara a “Parada da Diversidade de Dois Unidos” como Patrimônio Cultural Imaterial do Município do Recife.\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1375&texto_original=1",
+      "filename": "1375_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "57 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19096, de 21/09/2023",
+  "id": "1375",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1375&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/131874",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=208",
+          "@type": "Autor",
+          "id": "208",
+          "primeiro_autor": true,
+          "title": "Ivan Moraes"
+        }
+      ],
+      "autoria_nomes": "Ivan Moraes",
+      "description": "Declara a “Parada da Diversidade de Dois Unidos” como Patrimônio Cultural Imaterial do Município do Recife.\r\n",
+      "id": "131874",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=131874",
+      "title": "Projeto de Lei Ordinária nº 295/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTMxODc0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19096/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-09-21",
+    "dataPromulgacaoBR": "21/09/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19096, de 21/09/2023",
+    "numNorma": 19096,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Declara a “Parada da Diversidade de Dois Unidos” como Patrimônio Cultural Imaterial do Município do Recife.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1375",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1375",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

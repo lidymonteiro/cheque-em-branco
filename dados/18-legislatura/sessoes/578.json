@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/578",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/578/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/578/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/578_ata_sessao.pdf",
+      "filename": "578_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-10-03",
+  "description": "63ª Reunião Ordinária - 03/10/2022",
+  "endTime": "11:23",
+  "id": "578",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/578_pauta_sessao.pdf",
+      "filename": "578_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:20",
+  "title": "63ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

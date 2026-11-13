@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/457",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/457/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/457/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/457_ata_sessao.pdf",
+      "filename": "457_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-04-07",
+  "description": "22ª Reunião Solene - 07/04/2022",
+  "endTime": "",
+  "id": "457",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "22ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

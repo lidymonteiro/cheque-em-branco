@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/835",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/835/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/835/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/835_ata_sessao.pdf",
+      "filename": "835_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-09-27",
+  "description": "122ª Reunião Solene - 27/09/2023",
+  "endTime": "",
+  "id": "835",
+  "pauta": [],
+  "startTime": "14:33",
+  "title": "122ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

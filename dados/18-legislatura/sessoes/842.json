@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/842",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/842/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/842/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/842_ata_sessao.pdf",
+      "filename": "842_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-10-03",
+  "description": "58ª Reunião Ordinária - 03/10/2023",
+  "endTime": "11:26",
+  "id": "842",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/842_pauta_sessao.pdf",
+      "filename": "842_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:49",
+  "title": "58ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

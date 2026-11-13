@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1246",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1246",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1246_anexo_1263",
+          "filename": "1246_anexo_1263",
+          "size": "357.7 KB"
+        }
+      ],
+      "id": "1263",
+      "title": "PDF da publicação da lei 19049 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-04-25",
+  "data_publicacao": "",
+  "description": "Altera o zoneamento da cidade, instituindo, com fundamento no art. 79 e art. 65, inciso II da Lei Complementar nº 2, de 23 de abril de 2021, ZEIS 2. (Conjunto Habitacional Imbiribeira I - São Francisco)",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1246&texto_original=1",
+      "filename": "1246_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "66.9 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19049, de 25/04/2023",
+  "id": "1246",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1246&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/134822",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Altera o zoneamento da cidade, instituindo, com fundamento no art. 79 e art. 65, inciso II da Lei Complementar nº 2, de 23 de abril de 2021, ZEIS 2. (Conjunto Habitacional Imbiribeira I - São Francisco)",
+      "id": "134822",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=134822",
+      "title": "Projeto de Lei do Executivo nº 9/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM0ODIy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": null,
+  "num_pag_inicio_publ": null,
+  "publicacao": {
+    "numPagFim": null,
+    "numPagInicio": null,
+    "veiculo": null
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19049/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-04-25",
+    "dataPromulgacaoBR": "25/04/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19049, de 25/04/2023",
+    "numNorma": 19049,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Altera o zoneamento da cidade, instituindo, com fundamento no art. 79 e art. 65, inciso II da Lei Complementar nº 2, de 23 de abril de 2021, ZEIS 2. (Conjunto Habitacional Imbiribeira I - São Francisco)",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1246",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1246",
+  "veiculo_publicacao": ""
+}

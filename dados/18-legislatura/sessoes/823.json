@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/823",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/823/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/823/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/823_ata_sessao.pdf",
+      "filename": "823_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-09-18",
+  "description": "114ª Reunião Solene - 18/09/2023",
+  "endTime": "",
+  "id": "823",
+  "pauta": [],
+  "startTime": "18:33",
+  "title": "114ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

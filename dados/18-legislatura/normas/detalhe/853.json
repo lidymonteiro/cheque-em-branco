@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/853",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/853",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/853_anexo_817",
+          "filename": "853_anexo_817",
+          "size": "272.8 KB"
+        }
+      ],
+      "id": "817",
+      "title": "PDF da publicação da lei 18842/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-09-28",
+  "data_publicacao": "2021-09-30",
+  "description": "ADICIONA O INCISO XIII AO ART. 6º DA LEI MUNICIPAL Nº 18.212, DE15 DE JANEIRO DE 2016,    QUE INSTITUI PROCEDIMENTOS PARA LICENCIAMENTO, CONSTRUÇÃO E INSTALAÇÃO DE POSTOS DE  ABASTECIMENTO DE COMBUSTÍVEIS AUTOMOTIVOS NO MUNICÍPIO DO RECIFE E ALTERA A LEI Nº 16.786, DE 22 DE JULHO DE 2002.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=853&texto_original=1",
+      "filename": "853_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "83.6 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18842, de 28/09/2021",
+  "id": "853",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=853&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/107130",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=182",
+          "@type": "Autor",
+          "id": "182",
+          "primeiro_autor": true,
+          "title": "Aderaldo Pinto"
+        }
+      ],
+      "autoria_nomes": "Aderaldo Pinto",
+      "description": "ADICIONA O INCISO XIII AO ART. 6º DA LEI MUNICIPAL Nº 18.212, DE15 DE JANEIRO DE 2016,    QUE INSTITUI PROCEDIMENTOS PARA LICENCIAMENTO, CONSTRUÇÃO E INSTALAÇÃO DE POSTOS DE  ABASTECIMENTO DE COMBUSTÍVEIS AUTOMOTIVOS NO MUNICÍPIO DO RECIFE E ALTERA A LEI Nº 16.786, DE 22 DE JULHO DE 2002.",
+      "id": "107130",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=107130",
+      "title": "Projeto de Lei Ordinária nº 168/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA3MTMw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18842/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-09-28",
+    "dataPromulgacaoBR": "28/09/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18842, de 28/09/2021",
+    "numNorma": 18842,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "ADICIONA O INCISO XIII AO ART. 6º DA LEI MUNICIPAL Nº 18.212, DE15 DE JANEIRO DE 2016,    QUE INSTITUI PROCEDIMENTOS PARA LICENCIAMENTO, CONSTRUÇÃO E INSTALAÇÃO DE POSTOS DE  ABASTECIMENTO DE COMBUSTÍVEIS AUTOMOTIVOS NO MUNICÍPIO DO RECIFE E ALTERA A LEI Nº 16.786, DE 22 DE JULHO DE 2002.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=853",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=853",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

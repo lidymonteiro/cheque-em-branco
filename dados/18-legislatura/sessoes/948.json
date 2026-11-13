@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/948",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/948/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/948/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/948_ata_sessao.pdf",
+      "filename": "948_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-03-04",
+  "description": "7ª Reunião Ordinária - 04/03/2024",
+  "endTime": "12:59",
+  "id": "948",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/948_pauta_sessao.pdf",
+      "filename": "948_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:06",
+  "title": "7ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

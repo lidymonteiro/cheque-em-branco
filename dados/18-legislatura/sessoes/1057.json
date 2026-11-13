@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1057",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1057/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1057/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1057_ata_sessao.pdf",
+      "filename": "1057_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-06-10",
+  "description": "35ª Reunião Ordinária - 10/06/2024",
+  "endTime": "11:44",
+  "id": "1057",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1057_pauta_sessao.pdf",
+      "filename": "1057_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:11",
+  "title": "35ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

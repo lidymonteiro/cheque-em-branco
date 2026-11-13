@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1392",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1392",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1392_anexo_1380",
+          "filename": "1392_anexo_1380",
+          "size": "271.1 KB"
+        }
+      ],
+      "id": "1380",
+      "title": "PDF da publicação da lei 19113 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-10-17",
+  "data_publicacao": "2023-10-19",
+  "description": "Institui no Calendário Oficial de Eventos do Município do Recife o “Dia Municipal do Maracatu Nação.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1392&texto_original=1",
+      "filename": "1392_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "58 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19113, de 17/10/2023",
+  "id": "1392",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1392&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/133067",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=243",
+          "@type": "Autor",
+          "id": "243",
+          "primeiro_autor": true,
+          "title": "Liana Cirne"
+        }
+      ],
+      "autoria_nomes": "Liana Cirne",
+      "description": "Institui no Calendário Oficial de Eventos do Município do Recife o “Dia Municipal do Maracatu Nação.",
+      "id": "133067",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=133067",
+      "title": "Projeto de Lei Ordinária nº 320/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTMzMDY3"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19113/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-10-17",
+    "dataPromulgacaoBR": "17/10/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19113, de 17/10/2023",
+    "numNorma": 19113,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui no Calendário Oficial de Eventos do Município do Recife o “Dia Municipal do Maracatu Nação.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1392",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1392",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

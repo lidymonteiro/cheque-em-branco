@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1344",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1344",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1344_anexo_1665",
+          "filename": "1344_anexo_1665",
+          "size": "320.4 KB"
+        }
+      ],
+      "id": "1665",
+      "title": "PDF da publicação da lei 19.070/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-06-12",
+  "data_publicacao": "2023-06-13",
+  "description": "Institui o Programa VALORIZAÇÃO DE INICIATIVAS JUVENIS - VAI JOVEM - no âmbito da Secretaria de Desenvolvimento Social, Direitos Humanos, Juventude e Políticas Sobre Drogas.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1344&texto_original=1",
+      "filename": "1344_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "76.1 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19070, de 12/06/2023",
+  "id": "1344",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1344&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/136973",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Institui o Programa VALORIZAÇÃO DE INICIATIVAS JUVENIS - VAI JOVEM - no âmbito da Secretaria de Desenvolvimento Social, Direitos Humanos, Juventude e Políticas Sobre Drogas.",
+      "id": "136973",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=136973",
+      "title": "Projeto de Lei do Executivo nº 15/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM2OTcz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19070/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-06-12",
+    "dataPromulgacaoBR": "12/06/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19070, de 12/06/2023",
+    "numNorma": 19070,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui o Programa VALORIZAÇÃO DE INICIATIVAS JUVENIS - VAI JOVEM - no âmbito da Secretaria de Desenvolvimento Social, Direitos Humanos, Juventude e Políticas Sobre Drogas.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1344",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1344",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

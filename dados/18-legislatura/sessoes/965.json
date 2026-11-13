@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/965",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/965/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/965/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/965_ata_sessao.pdf",
+      "filename": "965_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-03-14",
+  "description": "14ª Reunião Solene - 14/03/2024",
+  "endTime": "",
+  "id": "965",
+  "pauta": [],
+  "startTime": "15:32",
+  "title": "14ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

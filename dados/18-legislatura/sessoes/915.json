@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/915",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/915/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/915/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/915_ata_sessao.pdf",
+      "filename": "915_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-12-05",
+  "description": "15ª Reunião Extraordinária - 05/12/2023",
+  "endTime": "12:02",
+  "id": "915",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/915_pauta_sessao.pdf",
+      "filename": "915_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "11:42",
+  "title": "15ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

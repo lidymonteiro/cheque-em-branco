@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/576",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/576",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/576_anexo_494",
+          "filename": "576_anexo_494",
+          "size": "637.9 KB"
+        }
+      ],
+      "id": "494",
+      "title": "PDF da Publicação do Decreto Legislativo 983 do dia /2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-06-29",
+  "data_publicacao": "2021-07-08",
+  "description": "CONCEDE O TÍTULO DE CIDADÃO DO RECIFE AO CANTOR E COMPOSITOR JOÃO LACERDA NETO. ",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 983, de 29/06/2021",
+  "id": "576",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/105321",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=247",
+          "@type": "Autor",
+          "id": "247",
+          "primeiro_autor": true,
+          "title": "Fabiano Ferraz"
+        }
+      ],
+      "autoria_nomes": "Fabiano Ferraz",
+      "description": "CONCEDE O TÍTULO DE CIDADÃO DO RECIFE AO CANTOR E COMPOSITOR JOÃO LACERDA NETO. ",
+      "id": "105321",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=105321",
+      "title": "Projeto de Decreto Legislativo nº 8/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA1MzIx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 22,
+  "num_pag_inicio_publ": 22,
+  "publicacao": {
+    "numPagFim": 22,
+    "numPagInicio": 22,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 983/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-06-29",
+    "dataPromulgacaoBR": "29/06/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 983, de 29/06/2021",
+    "numNorma": 983,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE O TÍTULO DE CIDADÃO DO RECIFE AO CANTOR E COMPOSITOR JOÃO LACERDA NETO. ",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=576",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=576",
+  "veiculo_publicacao": "Diário oficial do município"
+}

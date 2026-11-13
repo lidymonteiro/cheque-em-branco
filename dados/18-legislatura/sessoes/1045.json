@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1045",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1045/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1045/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1045_ata_sessao.pdf",
+      "filename": "1045_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-05-28",
+  "description": "32ª Reunião Ordinária - 28/05/2024",
+  "endTime": "12:35",
+  "id": "1045",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1045_pauta_sessao.pdf",
+      "filename": "1045_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:07",
+  "title": "32ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

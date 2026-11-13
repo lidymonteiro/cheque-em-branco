@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/985",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/985/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/985/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/985_ata_sessao.pdf",
+      "filename": "985_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-04-03",
+  "description": "28ª Reunião Solene - 03/04/2024",
+  "endTime": "",
+  "id": "985",
+  "pauta": [],
+  "startTime": "15:22",
+  "title": "28ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

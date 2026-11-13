@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/720",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/720/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/720/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/720_ata_sessao.pdf",
+      "filename": "720_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-10",
+  "description": "44ª Reunião Solene - 10/05/2023",
+  "endTime": "",
+  "id": "720",
+  "pauta": [],
+  "startTime": "15:30",
+  "title": "44ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

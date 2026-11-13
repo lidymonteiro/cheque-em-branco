@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/917",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/917/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/917/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/917_ata_sessao.pdf",
+      "filename": "917_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-12-11",
+  "description": "77ª Reunião Ordinária - 11/12/2023",
+  "endTime": "14:04",
+  "id": "917",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/917_pauta_sessao.pdf",
+      "filename": "917_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:20",
+  "title": "77ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

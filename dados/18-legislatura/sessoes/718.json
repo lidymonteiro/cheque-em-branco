@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/718",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/718/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/718/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/718_ata_sessao.pdf",
+      "filename": "718_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-16",
+  "description": "25ª Reunião Ordinária - 16/05/2023",
+  "endTime": "12:06",
+  "id": "718",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/718_pauta_sessao.pdf",
+      "filename": "718_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:14",
+  "title": "25ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/341",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/341/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/341/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/341_ata_sessao.pdf",
+      "filename": "341_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-05-11",
+  "description": "29ª Reunião Ordinária - 11/05/2021",
+  "endTime": "13:00",
+  "id": "341",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/341_pauta_sessao.pdf",
+      "filename": "341_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "29ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

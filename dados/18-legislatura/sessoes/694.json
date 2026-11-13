@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/694",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/694/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/694/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/694_ata_sessao.pdf",
+      "filename": "694_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-04-17",
+  "description": "27ª Reunião Solene - 17/04/2023",
+  "endTime": "",
+  "id": "694",
+  "pauta": [],
+  "startTime": "16:10",
+  "title": "27ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

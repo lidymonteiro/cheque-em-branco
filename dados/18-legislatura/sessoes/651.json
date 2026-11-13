@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/651",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/651/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/651/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/651_ata_sessao.pdf",
+      "filename": "651_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-02-13",
+  "description": "2ª Reunião Solene - 13/02/2023",
+  "endTime": "",
+  "id": "651",
+  "pauta": [],
+  "startTime": "16:20",
+  "title": "2ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

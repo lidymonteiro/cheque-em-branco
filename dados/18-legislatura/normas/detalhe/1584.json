@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1584",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1584",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1584_anexo_1578",
+          "filename": "1584_anexo_1578",
+          "size": "292 KB"
+        }
+      ],
+      "id": "1578",
+      "title": "PDF da publicação da lei 18.948/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-06-27",
+  "data_publicacao": "2022-06-28",
+  "description": "Institui, no Calendário Oficial de Eventos do Município do Recife, a “Semana dos Esportes Radicais de Ação e Aventura”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1584&texto_original=1",
+      "filename": "1584_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "40.2 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18948, de 27/06/2022",
+  "id": "1584",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1584&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116116",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=247",
+          "@type": "Autor",
+          "id": "247",
+          "primeiro_autor": true,
+          "title": "Fabiano Ferraz"
+        }
+      ],
+      "autoria_nomes": "Fabiano Ferraz",
+      "description": "Institui, no Calendário Oficial de Eventos do Município do Recife, a “Semana dos Esportes Radicais de Ação e Aventura”.",
+      "id": "116116",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=116116",
+      "title": "Projeto de Lei Ordinária nº 373/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE2MTE2"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18948/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-06-27",
+    "dataPromulgacaoBR": "27/06/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18948, de 27/06/2022",
+    "numNorma": 18948,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui, no Calendário Oficial de Eventos do Município do Recife, a “Semana dos Esportes Radicais de Ação e Aventura”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1584",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1584",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

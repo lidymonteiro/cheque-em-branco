@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/578",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/578",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/578_anexo_496",
+          "filename": "578_anexo_496",
+          "size": "638.1 KB"
+        }
+      ],
+      "id": "496",
+      "title": "PDF da Publicação do Decreto Legislativo 985 do dia 08/07/2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-06-29",
+  "data_publicacao": "2021-07-08",
+  "description": "CONCEDE O TÍTULO DE CIDADÃ DO RECIFE A ALESSANDRA PIRES.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 985, de 29/06/2021",
+  "id": "578",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/105997",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=201",
+          "@type": "Autor",
+          "id": "201",
+          "primeiro_autor": true,
+          "title": "Fred Ferreira"
+        }
+      ],
+      "autoria_nomes": "Fred Ferreira",
+      "description": "CONCEDE O TÍTULO DE CIDADÃ DO RECIFE A ALESSANDRA PIRES.",
+      "id": "105997",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=105997",
+      "title": "Projeto de Decreto Legislativo nº 10/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA1OTk3"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 22,
+  "num_pag_inicio_publ": 22,
+  "publicacao": {
+    "numPagFim": 22,
+    "numPagInicio": 22,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 985/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-06-29",
+    "dataPromulgacaoBR": "29/06/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 985, de 29/06/2021",
+    "numNorma": 985,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE O TÍTULO DE CIDADÃ DO RECIFE A ALESSANDRA PIRES.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=578",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=578",
+  "veiculo_publicacao": "Diário oficial do município"
+}

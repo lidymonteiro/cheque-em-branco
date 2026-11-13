@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/598",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/598",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/598_anexo_783",
+          "filename": "598_anexo_783",
+          "size": "798.3 KB"
+        }
+      ],
+      "id": "783",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1008/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-02-14",
+  "data_publicacao": "2022-02-17",
+  "description": "CONCEDE A MEDALHA DE MÉRITO OLEGÁRIA MARIANO À SRA. LEDA ALVES.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=598&texto_original=1",
+      "filename": "598_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "30.8 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1008, de 14/02/2022",
+  "id": "598",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=598&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/110005",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=251",
+          "@type": "Autor",
+          "id": "251",
+          "primeiro_autor": true,
+          "title": "Cida Pedrosa"
+        }
+      ],
+      "autoria_nomes": "Cida Pedrosa",
+      "description": "CONCEDE A MEDALHA DE MÉRITO OLEGÁRIA MARIANO À SRA. LEDA ALVES.",
+      "id": "110005",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=110005",
+      "title": "Projeto de Decreto Legislativo nº 15/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTEwMDA1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 13,
+  "num_pag_inicio_publ": 13,
+  "publicacao": {
+    "numPagFim": 13,
+    "numPagInicio": 13,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1008/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-02-14",
+    "dataPromulgacaoBR": "14/02/2022",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1008, de 14/02/2022",
+    "numNorma": 1008,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE A MEDALHA DE MÉRITO OLEGÁRIA MARIANO À SRA. LEDA ALVES.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=598",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=598",
+  "veiculo_publicacao": "Diário oficial do município"
+}

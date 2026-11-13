@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/563",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/563",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/563_anexo_478",
+          "filename": "563_anexo_478",
+          "size": "378.1 KB"
+        }
+      ],
+      "id": "478",
+      "title": "PDF da publicação da lei 18790/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-03-30",
+  "data_publicacao": "2021-04-01",
+  "description": "DISPÕE SOBRE AUTORIZAÇÃO PARA CONTRATAÇÃO DE OPERAÇÃO DE CRÉDITO JUNTO À CAIXA ECONÔMICA FEDERAL NO PROGRAMA AVANÇAR CIDADES – SES BEBERIBE, NO VALOR DE R$ 56.078.344,69.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=563&texto_original=1",
+      "filename": "563_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "93.1 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18790, de 30/03/2021",
+  "id": "563",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=563&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/104179",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "DISPÕE SOBRE AUTORIZAÇÃO PARA CONTRATAÇÃO DE OPERAÇÃO DE CRÉDITO JUNTO À CAIXA ECONÔMICA FEDERAL NO PROGRAMA AVANÇAR CIDADES &#8211; SES BEBERIBE, NO VALOR DE R$ 56.078.344,69.",
+      "id": "104179",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=104179",
+      "title": "Projeto de Lei do Executivo nº 4/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA0MTc5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18790/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-03-30",
+    "dataPromulgacaoBR": "30/03/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18790, de 30/03/2021",
+    "numNorma": 18790,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "DISPÕE SOBRE AUTORIZAÇÃO PARA CONTRATAÇÃO DE OPERAÇÃO DE CRÉDITO JUNTO À CAIXA ECONÔMICA FEDERAL NO PROGRAMA AVANÇAR CIDADES – SES BEBERIBE, NO VALOR DE R$ 56.078.344,69.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=563",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=563",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

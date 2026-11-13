@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1047",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1047/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1047/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1047_ata_sessao.pdf",
+      "filename": "1047_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-06-03",
+  "description": "33ª Reunião Ordinária - 03/06/2024",
+  "endTime": "13:13",
+  "id": "1047",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1047_pauta_sessao.pdf",
+      "filename": "1047_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:09",
+  "title": "33ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

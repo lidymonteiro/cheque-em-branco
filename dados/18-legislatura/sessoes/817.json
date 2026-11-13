@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/817",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/817/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/817/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/817_ata_sessao.pdf",
+      "filename": "817_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-09-18",
+  "description": "53ª Reunião Ordinária - 18/09/2023",
+  "endTime": "13:00",
+  "id": "817",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/817_pauta_sessao.pdf",
+      "filename": "817_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:49",
+  "title": "53ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

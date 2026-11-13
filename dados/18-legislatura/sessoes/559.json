@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/559",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/559/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/559/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/559_ata_sessao.pdf",
+      "filename": "559_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-08-31",
+  "description": "78ª Reunião Solene - 31/08/2022",
+  "endTime": "",
+  "id": "559",
+  "pauta": [],
+  "startTime": "18:20",
+  "title": "78ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

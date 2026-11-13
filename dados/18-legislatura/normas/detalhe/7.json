@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/7",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/7",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/7_anexo_1",
+          "filename": "7_anexo_1",
+          "size": "2.4 MB"
+        }
+      ],
+      "id": "1",
+      "title": "PDF da publicação da lei 19201/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-03-26",
+  "data_publicacao": "2024-03-26",
+  "description": "Altera a Lei Municipal nº 16.729, de 27 de dezembro de 2001.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=7&texto_original=1",
+      "filename": "7_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "58.8 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19201, de 26/03/2024",
+  "id": "7",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=7&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/149699",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Altera a Lei Municipal nº 16.729, de 27 de dezembro de 2001.",
+      "id": "149699",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=149699",
+      "title": "Projeto de Lei do Executivo nº 6/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ5Njk5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 5,
+  "num_pag_inicio_publ": 5,
+  "publicacao": {
+    "numPagFim": 5,
+    "numPagInicio": 5,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19201/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-03-26",
+    "dataPromulgacaoBR": "26/03/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19201, de 26/03/2024",
+    "numNorma": 19201,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Altera a Lei Municipal nº 16.729, de 27 de dezembro de 2001.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=7",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=7",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/602",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/602/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/602/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/602_ata_sessao.pdf",
+      "filename": "602_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-10-27",
+  "description": "103ª Reunião Solene - 27/10/2022",
+  "endTime": "",
+  "id": "602",
+  "pauta": [],
+  "startTime": "17:00",
+  "title": "103ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1854",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1854",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1854_anexo_1867",
+          "filename": "1854_anexo_1867",
+          "size": "1.3 MB"
+        }
+      ],
+      "id": "1867",
+      "title": "PDF da publicação da lei 19.303/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-09-16",
+  "data_publicacao": "2024-09-19",
+  "description": "Denominar-se-á “JOSÉ LIMA DA SILVA – Sr. Nelson” a escadaria construída no final da Rua 1ª Travessa Córrego do Marreco.",
+  "file": [],
+  "heading_label": "Lei Ordinária nº 19303, de 16/09/2024",
+  "id": "1854",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/121262",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=210",
+          "@type": "Autor",
+          "id": "210",
+          "primeiro_autor": true,
+          "title": "Hélio Guabiraba"
+        }
+      ],
+      "autoria_nomes": "Hélio Guabiraba",
+      "description": "Denominar-se-á “JOSÉ LIMA DA SILVA – Sr. Nelson” a escadaria construída no final da Rua 1ª Travessa Córrego do Marreco.",
+      "id": "121262",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=121262",
+      "title": "Projeto de Lei Ordinária nº 83/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTIxMjYy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 2,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 2,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19303/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-09-16",
+    "dataPromulgacaoBR": "16/09/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19303, de 16/09/2024",
+    "numNorma": 19303,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Denominar-se-á “JOSÉ LIMA DA SILVA – Sr. Nelson” a escadaria construída no final da Rua 1ª Travessa Córrego do Marreco.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1854",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1854",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1347",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1347",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1347_anexo_1328",
+          "filename": "1347_anexo_1328",
+          "size": "376.9 KB"
+        }
+      ],
+      "id": "1328",
+      "title": "PDF da publicação da lei 18.973/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-07-28",
+  "data_publicacao": "2022-08-04",
+  "description": "Revoga a Lei Ordinária nº 16.458, de 13 de janeiro de 1999, que Estabelece penalidades aos estabelecimentos que pratiquem atos de vendas ou locação de fita de programação em vídeo em desacordo com a classificação atribuída pelo órgão competente.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1347&texto_original=1",
+      "filename": "1347_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "41.8 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18973, de 28/07/2022",
+  "id": "1347",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1347&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/119545",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=244",
+          "@type": "Autor",
+          "id": "244",
+          "primeiro_autor": true,
+          "title": "Paulo Muniz"
+        }
+      ],
+      "autoria_nomes": "Paulo Muniz",
+      "description": "Revoga a Lei Ordinária nº 16.458, de 13 de janeiro de 1999, que Estabelece penalidades aos estabelecimentos que pratiquem atos de vendas ou locação de fita de programação em vídeo em desacordo com a classificação atribuída pelo órgão competente.",
+      "id": "119545",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=119545",
+      "title": "Projeto de Lei Ordinária nº 28/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE5NTQ1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18973/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-07-28",
+    "dataPromulgacaoBR": "28/07/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18973, de 28/07/2022",
+    "numNorma": 18973,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Revoga a Lei Ordinária nº 16.458, de 13 de janeiro de 1999, que Estabelece penalidades aos estabelecimentos que pratiquem atos de vendas ou locação de fita de programação em vídeo em desacordo com a classificação atribuída pelo órgão competente.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1347",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1347",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

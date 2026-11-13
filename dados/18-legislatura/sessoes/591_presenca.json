@@ -1,0 +1,1046 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/591/presenca",
+  "@type": "presencaSessao",
+  "chamadaRegimental": [
+    {
+      "ausentes": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/155",
+          "@type": "Vereador",
+          "description": "Michele Collins",
+          "id": "155",
+          "partido": [
+            {
+              "title": "Partido Progressista",
+              "token": "PP"
+            }
+          ],
+          "title": "Michele Collins"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/158",
+          "@type": "Vereador",
+          "description": "Wilton Brito",
+          "id": "158",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Wilton Brito"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/166",
+          "@type": "Vereador",
+          "description": "Rinaldo Júnior",
+          "id": "166",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Rinaldo Júnior"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/170",
+          "@type": "Vereador",
+          "description": "Ivan Moraes",
+          "id": "170",
+          "partido": [
+            {
+              "title": "Partido Socialismo e Leberdade",
+              "token": "PSOL"
+            }
+          ],
+          "title": "Ivan Moraes"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/404",
+          "@type": "Vereador",
+          "description": "Joselito Ferreira",
+          "id": "404",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Joselito Ferreira"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/410",
+          "@type": "Vereador",
+          "description": "Fabiano Ferraz",
+          "id": "410",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "title": "Fabiano Ferraz"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/414",
+          "@type": "Vereador",
+          "description": "Cida Pedrosa",
+          "id": "414",
+          "partido": [
+            {
+              "title": "Partido Comunista do Brasil",
+              "token": "PCdoB"
+            }
+          ],
+          "title": "Cida Pedrosa"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/420",
+          "@type": "Vereador",
+          "description": "Marcos Antônio Gomes da Silva Júnior",
+          "id": "420",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Marcos di Bria Júnior"
+        }
+      ],
+      "ausentes_qtde": "8",
+      "justificados": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/160",
+          "@type": "Vereador",
+          "description": "Romero Jatobá Cavalcanti Neto",
+          "id": "160",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Romerinho Jatobá"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/163",
+          "@type": "Vereador",
+          "description": "Fred Ferreira",
+          "id": "163",
+          "partido": [
+            {
+              "title": "Partido Liberal",
+              "token": "PL"
+            }
+          ],
+          "title": "Fred Ferreira"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/415",
+          "@type": "Vereador",
+          "description": "José Lourenço de Sobral Neto",
+          "id": "415",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Zé Neto"
+        }
+      ],
+      "justificados_qtde": "3",
+      "presentes": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/8",
+          "@type": "Vereador",
+          "description": "Eduardo Marques",
+          "id": "8",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Eduardo Marques"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/42",
+          "@type": "Vereador",
+          "description": "Osmar Ricardo Cabral Barreto",
+          "id": "42",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "title": "Osmar Ricardo"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/108",
+          "@type": "Vereador",
+          "description": "Almir Fernando",
+          "id": "108",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Almir Fernando"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/111",
+          "@type": "Vereador",
+          "description": "Luiz Eustáquio ",
+          "id": "111",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Luiz Eustáquio"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/130",
+          "@type": "Vereador",
+          "description": "Jairo Brito",
+          "id": "130",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "title": "Jairo Britto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/145",
+          "@type": "Vereador",
+          "description": "Aderaldo Pinto",
+          "id": "145",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Aderaldo Pinto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/150",
+          "@type": "Vereador",
+          "description": "Eriberto Rafael",
+          "id": "150",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Eriberto Rafael"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/152",
+          "@type": "Vereador",
+          "description": "Felipe Francismar",
+          "id": "152",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Felipe Francismar"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/164",
+          "@type": "Vereador",
+          "description": "Natália de Menudo",
+          "id": "164",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Natália de Menudo"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/165",
+          "@type": "Vereador",
+          "description": "Ana Lúcia do Rego Ferreira",
+          "id": "165",
+          "partido": [
+            {
+              "title": "Republicanos",
+              "token": "REP"
+            }
+          ],
+          "title": "Professora Ana Lúcia"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/167",
+          "@type": "Vereador",
+          "description": "Chico Kiko",
+          "id": "167",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Chico Kiko"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/168",
+          "@type": "Vereador",
+          "description": "Alcides Teixeira Neto",
+          "id": "168",
+          "partido": [
+            {
+              "title": "AVANTE",
+              "token": "Avante"
+            }
+          ],
+          "title": "Alcides Teixeira Neto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/171",
+          "@type": "Vereador",
+          "description": "Inaldo Gerson Pereira Freires",
+          "id": "171",
+          "partido": [
+            {
+              "title": "Partido Social Democrata",
+              "token": "PSD"
+            }
+          ],
+          "title": "Júnior Bocão"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/172",
+          "@type": "Vereador",
+          "description": "Hélio Guabiraba",
+          "id": "172",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Hélio Guabiraba"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/175",
+          "@type": "Vereador",
+          "description": "Renato Antunes",
+          "id": "175",
+          "partido": [
+            {
+              "title": "Partido Liberal",
+              "token": "PL"
+            }
+          ],
+          "title": "Renato Antunes"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/177",
+          "@type": "Vereador",
+          "description": "Samuel Salazar",
+          "id": "177",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "title": "Samuel Salazar"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/401",
+          "@type": "Vereador",
+          "description": "Dani Portela",
+          "id": "401",
+          "partido": [
+            {
+              "title": "Partido Socialismo e Leberdade",
+              "token": "PSOL"
+            }
+          ],
+          "title": "Dani Portela"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/402",
+          "@type": "Vereador",
+          "description": "Andreza Romero",
+          "id": "402",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Andreza Romero"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/403",
+          "@type": "Vereador",
+          "description": "Pastor Júnior Tércio",
+          "id": "403",
+          "partido": [
+            {
+              "title": "Partido Progressista",
+              "token": "PP"
+            }
+          ],
+          "title": "Pastor Júnior Tércio"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/406",
+          "@type": "Vereador",
+          "description": "Liana Cirne",
+          "id": "406",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "title": "Liana Cirne"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/407",
+          "@type": "Vereador",
+          "description": "Paulo Muniz",
+          "id": "407",
+          "partido": [
+            {
+              "title": "Partido Liberal",
+              "token": "PL"
+            }
+          ],
+          "title": "Paulo Muniz"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/408",
+          "@type": "Vereador",
+          "description": "Marco Aurélio Filho",
+          "id": "408",
+          "partido": [
+            {
+              "title": "Partido Verde",
+              "token": "PV"
+            }
+          ],
+          "title": "Marco Aurélio Filho"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/409",
+          "@type": "Vereador",
+          "description": "Tadeu Calheiros",
+          "id": "409",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "title": "Tadeu Calheiros"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/411",
+          "@type": "Vereador",
+          "description": "Felipe Alecrim",
+          "id": "411",
+          "partido": [
+            {
+              "title": "Novo",
+              "token": "NOVO"
+            }
+          ],
+          "title": "Felipe Alecrim"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/412",
+          "@type": "Vereador",
+          "description": "Dilson Batista",
+          "id": "412",
+          "partido": [
+            {
+              "title": "AVANTE",
+              "token": "Avante"
+            }
+          ],
+          "title": "Dilson Batista"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/413",
+          "@type": "Vereador",
+          "description": "Alcides Cardoso",
+          "id": "413",
+          "partido": [
+            {
+              "title": "Partido Liberal",
+              "token": "PL"
+            }
+          ],
+          "title": "Alcides Cardoso"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/416",
+          "@type": "Vereador",
+          "description": "Doduel Varela",
+          "id": "416",
+          "partido": [
+            {
+              "title": "Partido Social Democrata",
+              "token": "PSD"
+            }
+          ],
+          "title": "Doduel Varela"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/417",
+          "@type": "Vereador",
+          "description": "Prof Mirinho",
+          "id": "417",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "title": "Prof Mirinho"
+        }
+      ],
+      "presentes_qtde": "28"
+    }
+  ],
+  "description": "66ª Reunião Ordinária - 11/10/2022",
+  "ordemDia": [
+    {
+      "ausentes": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/155",
+          "@type": "Vereador",
+          "description": "Michele Collins",
+          "id": "155",
+          "partido": [
+            {
+              "title": "Partido Progressista",
+              "token": "PP"
+            }
+          ],
+          "title": "Michele Collins"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/158",
+          "@type": "Vereador",
+          "description": "Wilton Brito",
+          "id": "158",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Wilton Brito"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/166",
+          "@type": "Vereador",
+          "description": "Rinaldo Júnior",
+          "id": "166",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Rinaldo Júnior"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/170",
+          "@type": "Vereador",
+          "description": "Ivan Moraes",
+          "id": "170",
+          "partido": [
+            {
+              "title": "Partido Socialismo e Leberdade",
+              "token": "PSOL"
+            }
+          ],
+          "title": "Ivan Moraes"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/404",
+          "@type": "Vereador",
+          "description": "Joselito Ferreira",
+          "id": "404",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Joselito Ferreira"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/410",
+          "@type": "Vereador",
+          "description": "Fabiano Ferraz",
+          "id": "410",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "title": "Fabiano Ferraz"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/414",
+          "@type": "Vereador",
+          "description": "Cida Pedrosa",
+          "id": "414",
+          "partido": [
+            {
+              "title": "Partido Comunista do Brasil",
+              "token": "PCdoB"
+            }
+          ],
+          "title": "Cida Pedrosa"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/420",
+          "@type": "Vereador",
+          "description": "Marcos Antônio Gomes da Silva Júnior",
+          "id": "420",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Marcos di Bria Júnior"
+        }
+      ],
+      "ausentes_qtde": "8",
+      "justificados": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/160",
+          "@type": "Vereador",
+          "description": "Romero Jatobá Cavalcanti Neto",
+          "id": "160",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Romerinho Jatobá"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/163",
+          "@type": "Vereador",
+          "description": "Fred Ferreira",
+          "id": "163",
+          "partido": [
+            {
+              "title": "Partido Liberal",
+              "token": "PL"
+            }
+          ],
+          "title": "Fred Ferreira"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/415",
+          "@type": "Vereador",
+          "description": "José Lourenço de Sobral Neto",
+          "id": "415",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Zé Neto"
+        }
+      ],
+      "justificados_qtde": "3",
+      "presentes": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/8",
+          "@type": "Vereador",
+          "description": "Eduardo Marques",
+          "id": "8",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Eduardo Marques"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/42",
+          "@type": "Vereador",
+          "description": "Osmar Ricardo Cabral Barreto",
+          "id": "42",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "title": "Osmar Ricardo"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/108",
+          "@type": "Vereador",
+          "description": "Almir Fernando",
+          "id": "108",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Almir Fernando"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/111",
+          "@type": "Vereador",
+          "description": "Luiz Eustáquio ",
+          "id": "111",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Luiz Eustáquio"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/130",
+          "@type": "Vereador",
+          "description": "Jairo Brito",
+          "id": "130",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "title": "Jairo Britto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/145",
+          "@type": "Vereador",
+          "description": "Aderaldo Pinto",
+          "id": "145",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Aderaldo Pinto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/150",
+          "@type": "Vereador",
+          "description": "Eriberto Rafael",
+          "id": "150",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Eriberto Rafael"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/152",
+          "@type": "Vereador",
+          "description": "Felipe Francismar",
+          "id": "152",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Felipe Francismar"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/164",
+          "@type": "Vereador",
+          "description": "Natália de Menudo",
+          "id": "164",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Natália de Menudo"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/165",
+          "@type": "Vereador",
+          "description": "Ana Lúcia do Rego Ferreira",
+          "id": "165",
+          "partido": [
+            {
+              "title": "Republicanos",
+              "token": "REP"
+            }
+          ],
+          "title": "Professora Ana Lúcia"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/167",
+          "@type": "Vereador",
+          "description": "Chico Kiko",
+          "id": "167",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Chico Kiko"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/168",
+          "@type": "Vereador",
+          "description": "Alcides Teixeira Neto",
+          "id": "168",
+          "partido": [
+            {
+              "title": "AVANTE",
+              "token": "Avante"
+            }
+          ],
+          "title": "Alcides Teixeira Neto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/171",
+          "@type": "Vereador",
+          "description": "Inaldo Gerson Pereira Freires",
+          "id": "171",
+          "partido": [
+            {
+              "title": "Partido Social Democrata",
+              "token": "PSD"
+            }
+          ],
+          "title": "Júnior Bocão"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/172",
+          "@type": "Vereador",
+          "description": "Hélio Guabiraba",
+          "id": "172",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Hélio Guabiraba"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/175",
+          "@type": "Vereador",
+          "description": "Renato Antunes",
+          "id": "175",
+          "partido": [
+            {
+              "title": "Partido Liberal",
+              "token": "PL"
+            }
+          ],
+          "title": "Renato Antunes"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/177",
+          "@type": "Vereador",
+          "description": "Samuel Salazar",
+          "id": "177",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "title": "Samuel Salazar"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/401",
+          "@type": "Vereador",
+          "description": "Dani Portela",
+          "id": "401",
+          "partido": [
+            {
+              "title": "Partido Socialismo e Leberdade",
+              "token": "PSOL"
+            }
+          ],
+          "title": "Dani Portela"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/402",
+          "@type": "Vereador",
+          "description": "Andreza Romero",
+          "id": "402",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "title": "Andreza Romero"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/403",
+          "@type": "Vereador",
+          "description": "Pastor Júnior Tércio",
+          "id": "403",
+          "partido": [
+            {
+              "title": "Partido Progressista",
+              "token": "PP"
+            }
+          ],
+          "title": "Pastor Júnior Tércio"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/406",
+          "@type": "Vereador",
+          "description": "Liana Cirne",
+          "id": "406",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "title": "Liana Cirne"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/407",
+          "@type": "Vereador",
+          "description": "Paulo Muniz",
+          "id": "407",
+          "partido": [
+            {
+              "title": "Partido Liberal",
+              "token": "PL"
+            }
+          ],
+          "title": "Paulo Muniz"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/408",
+          "@type": "Vereador",
+          "description": "Marco Aurélio Filho",
+          "id": "408",
+          "partido": [
+            {
+              "title": "Partido Verde",
+              "token": "PV"
+            }
+          ],
+          "title": "Marco Aurélio Filho"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/409",
+          "@type": "Vereador",
+          "description": "Tadeu Calheiros",
+          "id": "409",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "title": "Tadeu Calheiros"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/411",
+          "@type": "Vereador",
+          "description": "Felipe Alecrim",
+          "id": "411",
+          "partido": [
+            {
+              "title": "Novo",
+              "token": "NOVO"
+            }
+          ],
+          "title": "Felipe Alecrim"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/412",
+          "@type": "Vereador",
+          "description": "Dilson Batista",
+          "id": "412",
+          "partido": [
+            {
+              "title": "AVANTE",
+              "token": "Avante"
+            }
+          ],
+          "title": "Dilson Batista"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/413",
+          "@type": "Vereador",
+          "description": "Alcides Cardoso",
+          "id": "413",
+          "partido": [
+            {
+              "title": "Partido Liberal",
+              "token": "PL"
+            }
+          ],
+          "title": "Alcides Cardoso"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/416",
+          "@type": "Vereador",
+          "description": "Doduel Varela",
+          "id": "416",
+          "partido": [
+            {
+              "title": "Partido Social Democrata",
+              "token": "PSD"
+            }
+          ],
+          "title": "Doduel Varela"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/417",
+          "@type": "Vereador",
+          "description": "Prof Mirinho",
+          "id": "417",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "title": "Prof Mirinho"
+        }
+      ],
+      "presentes_qtde": "28"
+    }
+  ],
+  "title": "Listas de presença na reunião plenária"
+}

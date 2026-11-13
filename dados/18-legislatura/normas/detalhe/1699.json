@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1699",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1699",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1699_anexo_1693",
+          "filename": "1699_anexo_1693",
+          "size": "313.6 KB"
+        }
+      ],
+      "id": "1693",
+      "title": "PDF da publicação da lei 18.921/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-05-11",
+  "data_publicacao": "2022-05-12",
+  "description": "Revoga a Lei Ordinária nº 14.207, de 27 de outubro de 1980, que Disciplina o horário de funcionamento das indústrias de panificação e dá outras providências.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1699&texto_original=1",
+      "filename": "1699_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "25.9 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18921, de 11/05/2022",
+  "id": "1699",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1699&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/119414",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=244",
+          "@type": "Autor",
+          "id": "244",
+          "primeiro_autor": true,
+          "title": "Paulo Muniz"
+        }
+      ],
+      "autoria_nomes": "Paulo Muniz",
+      "description": "Revoga a Lei Ordinária nº 14.207, de 27 de outubro de 1980, que Disciplina o horário de funcionamento das indústrias de panificação e dá outras providências.",
+      "id": "119414",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=119414",
+      "title": "Projeto de Lei Ordinária nº 1/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE5NDE0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio "
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18921/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-05-11",
+    "dataPromulgacaoBR": "11/05/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18921, de 11/05/2022",
+    "numNorma": 18921,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Revoga a Lei Ordinária nº 14.207, de 27 de outubro de 1980, que Disciplina o horário de funcionamento das indústrias de panificação e dá outras providências.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1699",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1699",
+  "veiculo_publicacao": "Diário Oficial do Munícipio "
+}

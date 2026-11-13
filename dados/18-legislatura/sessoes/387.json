@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/387",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/387/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/387/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/387_ata_sessao.pdf",
+      "filename": "387_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-09-14",
+  "description": "11ª Reunião Extraordinária - 14/09/2021",
+  "endTime": "",
+  "id": "387",
+  "pauta": [],
+  "startTime": "12:55",
+  "title": "11ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

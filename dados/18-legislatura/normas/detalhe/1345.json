@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1345",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1345",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1345_anexo_1326",
+          "filename": "1345_anexo_1326",
+          "size": "1.4 MB"
+        }
+      ],
+      "id": "1326",
+      "title": "PDF da publicação da lei 18.974/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-08-31",
+  "data_publicacao": "2022-09-03",
+  "description": "Dispõe sobre incentivos às atividades de ciência, tecnologia e inovação no Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1345&texto_original=1",
+      "filename": "1345_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "115.8 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18974, de 31/08/2022",
+  "id": "1345",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1345&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/127422",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Dispõe sobre incentivos às atividades de ciências,  tecnologias e inovações no Recife.",
+      "id": "127422",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=127422",
+      "title": "Projeto de Lei do Executivo nº 26/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTI3NDIy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 6,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 6,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18974/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-08-31",
+    "dataPromulgacaoBR": "31/08/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18974, de 31/08/2022",
+    "numNorma": 18974,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre incentivos às atividades de ciência, tecnologia e inovação no Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1345",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1345",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

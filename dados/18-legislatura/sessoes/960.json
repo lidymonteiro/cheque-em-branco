@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/960",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/960/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/960/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/960_ata_sessao.pdf",
+      "filename": "960_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-03-11",
+  "description": "10ª Reunião Solene - 11/03/2024",
+  "endTime": "",
+  "id": "960",
+  "pauta": [],
+  "startTime": "15:30",
+  "title": "10ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

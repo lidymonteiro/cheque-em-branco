@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/400",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/400/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/400/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/400_ata_sessao.pdf",
+      "filename": "400_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-12-06",
+  "description": "15ª Reunião Extraordinária - 06/12/2021",
+  "endTime": "",
+  "id": "400",
+  "pauta": [],
+  "startTime": "13:00",
+  "title": "15ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

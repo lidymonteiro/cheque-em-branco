@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1055",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1055/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1055/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1055_ata_sessao.pdf",
+      "filename": "1055_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-06-03",
+  "description": "77ª Reunião Solene - 03/06/2024",
+  "endTime": "",
+  "id": "1055",
+  "pauta": [],
+  "startTime": "15:51",
+  "title": "77ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

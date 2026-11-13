@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1137",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1137/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1137/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1137_ata_sessao.pdf",
+      "filename": "1137_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-11-12",
+  "description": "69ª Reunião Ordinária - 12/11/2024",
+  "endTime": "12:14",
+  "id": "1137",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1137_pauta_sessao.pdf",
+      "filename": "1137_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:20",
+  "title": "69ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

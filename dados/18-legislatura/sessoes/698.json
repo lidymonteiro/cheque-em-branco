@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/698",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/698/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/698/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/698_ata_sessao.pdf",
+      "filename": "698_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-04-25",
+  "description": "20ª Reunião Ordinária - 25/04/2023",
+  "endTime": "11:00",
+  "id": "698",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/698_pauta_sessao.pdf",
+      "filename": "698_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "11:00",
+  "title": "20ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

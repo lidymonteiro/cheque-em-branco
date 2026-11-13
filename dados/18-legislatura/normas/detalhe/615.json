@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/615",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/615",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/615_anexo_550",
+          "filename": "615_anexo_550",
+          "size": "283 KB"
+        }
+      ],
+      "id": "550",
+      "title": "Pdf da Publicação da Resolução de Nº 2802/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-03-26",
+  "data_publicacao": "2024-03-28",
+  "description": "Autoriza a Vice-Prefeita do Recife, Sra. ISABELLA MENEZES DE ROLDÃO FIORENZANO, a ausentar-se do País, no período de 09 de abril\r\nde 2024 a 19 de abril de 2024, com destino às cidades do Porto (Portugal) e Nantes (França), em missão oficial.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=615&texto_original=1",
+      "filename": "615_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "423.8 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2802, de 26/03/2024",
+  "id": "615",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=615&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/149990",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Autoriza a Vice-Prefeita do Recife, Sra. ISABELLA MENEZES DE ROLDÃO FIORENZANO, a ausentar-se do País, no período de 09 de abril\r\nde 2024 a 19 de abril de 2024, com destino às cidades do Porto (Portugal) e Nantes (França), em missão oficial.",
+      "id": "149990",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=149990",
+      "title": "Projeto de Resolução nº 2/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ5OTkw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 109,
+  "num_pag_inicio_publ": 109,
+  "publicacao": {
+    "numPagFim": 109,
+    "numPagInicio": 109,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2802/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-03-26",
+    "dataPromulgacaoBR": "26/03/2024",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2802, de 26/03/2024",
+    "numNorma": 2802,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "Autoriza a Vice-Prefeita do Recife, Sra. ISABELLA MENEZES DE ROLDÃO FIORENZANO, a ausentar-se do País, no período de 09 de abril\r\nde 2024 a 19 de abril de 2024, com destino às cidades do Porto (Portugal) e Nantes (França), em missão oficial.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=615",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=615",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

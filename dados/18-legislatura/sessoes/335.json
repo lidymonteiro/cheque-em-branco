@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/335",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/335/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/335/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/335_ata_sessao.pdf",
+      "filename": "335_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-04-26",
+  "description": "24ª Reunião Ordinária - 26/04/2021",
+  "endTime": "11:22",
+  "id": "335",
+  "pauta": [],
+  "startTime": "10:47",
+  "title": "24ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

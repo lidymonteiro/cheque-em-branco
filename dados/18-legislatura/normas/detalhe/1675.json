@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1675",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1675",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1675_anexo_1675",
+          "filename": "1675_anexo_1675",
+          "size": "1 MB"
+        }
+      ],
+      "id": "1675",
+      "title": "PDF da publicação da lei 18.930/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-05-20",
+  "data_publicacao": "2022-05-21",
+  "description": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana de Conscientização sobre a Síndrome de Rett”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1675&texto_original=1",
+      "filename": "1675_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "26.3 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18930, de 20/05/2022",
+  "id": "1675",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1675&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116509",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=254",
+          "@type": "Autor",
+          "id": "254",
+          "primeiro_autor": true,
+          "title": "Prof Mirinho"
+        }
+      ],
+      "autoria_nomes": "Prof Mirinho",
+      "description": "Institui no Calendário Oficial de Eventos\r\ndo Município do Recife a “Semana de\r\nConscientização sobre a Síndrome de\r\nRett”.",
+      "id": "116509",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=116509",
+      "title": "Projeto de Lei Ordinária nº 402/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE2NTA5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio "
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18930/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-05-20",
+    "dataPromulgacaoBR": "20/05/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18930, de 20/05/2022",
+    "numNorma": 18930,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana de Conscientização sobre a Síndrome de Rett”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1675",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1675",
+  "veiculo_publicacao": "Diário Oficial do Munícipio "
+}

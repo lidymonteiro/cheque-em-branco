@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/677",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/677/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/677/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/677_ata_sessao.pdf",
+      "filename": "677_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-03-27",
+  "description": "18ª Reunião Solene - 27/03/2023",
+  "endTime": "",
+  "id": "677",
+  "pauta": [],
+  "startTime": "15:21",
+  "title": "18ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,554 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/64",
+  "@type": "Comissao",
+  "ativa": true,
+  "composicao_exibir_datas_membros": false,
+  "composicao_periodo_effective": 17,
+  "composicao_periodos": [
+    {
+      "atual": true,
+      "end": "2026-12-31",
+      "id": 17,
+      "label": "11/02/2025 a 31/12/2026",
+      "start": "2025-02-11"
+    },
+    {
+      "atual": false,
+      "end": "2024-12-31",
+      "id": 14,
+      "label": "13/02/2023 a 31/12/2024",
+      "start": "2023-02-13"
+    }
+  ],
+  "description": "CDDPD",
+  "id": "64",
+  "items": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/426",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Presidente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Agora é Rubem",
+      "id": "426",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/426_foto_parlamentar&v=1793522508283674742",
+          "filename": "426_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Titular",
+      "nom_parlamentar": "Agora é Rubem",
+      "nome_exibicao": "Agora é Rubem",
+      "nome_exibicao_partido": "Agora é Rubem",
+      "ordem": 1,
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "partido_sigla": "PSB",
+      "partido_vigente": {
+        "title": "Partido Socialista Brasileiro",
+        "token": "PSB"
+      },
+      "title": "Agora é Rubem",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/426_foto_parlamentar&v=1793522508283674742"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/406",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Vice-Presidente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Liana Cirne",
+      "id": "406",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/406_foto_parlamentar&v=1793522508256674649",
+          "filename": "406_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Titular",
+      "nom_parlamentar": "Liana Cirne",
+      "nome_exibicao": "Liana Cirne",
+      "nome_exibicao_partido": "Liana Cirne",
+      "ordem": 2,
+      "partido": [
+        {
+          "title": "Partido dos Trabalhadores",
+          "token": "PT"
+        }
+      ],
+      "partido_sigla": "PT",
+      "partido_vigente": {
+        "title": "Partido dos Trabalhadores",
+        "token": "PT"
+      },
+      "title": "Liana Cirne",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/406_foto_parlamentar&v=1793522508256674649"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/407",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Membro Efetivo",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Paulo Muniz",
+      "id": "407",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/407_foto_parlamentar&v=1793522508257674653",
+          "filename": "407_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Titular",
+      "nom_parlamentar": "Paulo Muniz",
+      "nome_exibicao": "Paulo Muniz",
+      "nome_exibicao_partido": "Paulo Muniz",
+      "ordem": 4,
+      "partido": [
+        {
+          "title": "Partido Liberal",
+          "token": "PL"
+        }
+      ],
+      "partido_sigla": "PL",
+      "partido_vigente": {
+        "title": "Partido Liberal",
+        "token": "PL"
+      },
+      "title": "Paulo Muniz",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/407_foto_parlamentar&v=1793522508257674653"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/168",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Suplente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Alcides Teixeira Neto",
+      "id": "168",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/168_foto_parlamentar&v=1793522508162674328",
+          "filename": "168_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Suplente",
+      "nom_parlamentar": "Alcides Teixeira Neto",
+      "nome_exibicao": "Alcides Teixeira Neto",
+      "nome_exibicao_partido": "Alcides Teixeira Neto",
+      "ordem": 5,
+      "partido": [
+        {
+          "title": "AVANTE",
+          "token": "Avante"
+        }
+      ],
+      "partido_sigla": "Avante",
+      "partido_vigente": {
+        "title": "AVANTE",
+        "token": "Avante"
+      },
+      "title": "Alcides Teixeira Neto",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/168_foto_parlamentar&v=1793522508162674328"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/158",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Suplente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Wilton Brito",
+      "id": "158",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/158_foto_parlamentar&v=1793522508150674287",
+          "filename": "158_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Suplente",
+      "nom_parlamentar": "Wilton Brito",
+      "nome_exibicao": "Wilton Brito",
+      "nome_exibicao_partido": "Wilton Brito",
+      "ordem": 5,
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "partido_sigla": "PSB",
+      "partido_vigente": {
+        "title": "Partido Socialista Brasileiro",
+        "token": "PSB"
+      },
+      "title": "Wilton Brito",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/158_foto_parlamentar&v=1793522508150674287"
+    }
+  ],
+  "periodos": [
+    {
+      "atual": false,
+      "description": "01/01/2001 a 31/12/2002",
+      "end": "2002-12-31",
+      "id": 15,
+      "items": [],
+      "start": "2001-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2003 a 31/12/2004",
+      "end": "2004-12-31",
+      "id": 1,
+      "items": [],
+      "start": "2003-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2005 a 31/12/2006",
+      "end": "2006-12-31",
+      "id": 2,
+      "items": [],
+      "start": "2005-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "05/02/2007 a 31/12/2008",
+      "end": "2008-12-31",
+      "id": 3,
+      "items": [],
+      "start": "2007-02-05",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "04/02/2009 a 31/12/2010",
+      "end": "2010-12-31",
+      "id": 4,
+      "items": [],
+      "start": "2009-02-04",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2011 a 31/12/2012",
+      "end": "2012-12-31",
+      "id": 5,
+      "items": [],
+      "start": "2011-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/02/2013 a 31/12/2014",
+      "end": "2014-12-31",
+      "id": 6,
+      "items": [],
+      "start": "2013-02-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2015 a 31/12/2016",
+      "end": "2016-12-31",
+      "id": 7,
+      "items": [],
+      "start": "2015-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2017 a 31/12/2018",
+      "end": "2018-12-31",
+      "id": 9,
+      "items": [],
+      "start": "2017-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "21/08/2017 a 16/04/2018",
+      "end": "2018-04-16",
+      "id": 11,
+      "items": [],
+      "start": "2017-08-21",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2019 a 31/12/2020",
+      "end": "2020-12-31",
+      "id": 12,
+      "items": [],
+      "start": "2019-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "11/02/2021 a 31/12/2022",
+      "end": "2022-12-31",
+      "id": 13,
+      "items": [],
+      "start": "2021-02-11",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "13/02/2023 a 31/12/2024",
+      "end": "2024-12-31",
+      "id": 14,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/406",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Liana Cirne",
+          "id": "406",
+          "mandato": "Titular",
+          "nom_parlamentar": "Liana Cirne",
+          "nome_exibicao": "Liana Cirne",
+          "nome_exibicao_partido": "Liana Cirne",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Liana Cirne"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/423",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Victor André Gomes Cavalcanti Batista",
+          "id": "423",
+          "mandato": "Titular",
+          "nom_parlamentar": "Victor André Gomes",
+          "nome_exibicao": "Victor André Gomes",
+          "nome_exibicao_partido": "Victor André Gomes",
+          "partido": [
+            {
+              "title": "Partido Verde",
+              "token": "PV"
+            }
+          ],
+          "partido_sigla": "PV",
+          "partido_vigente": {
+            "title": "Partido Verde",
+            "token": "PV"
+          },
+          "title": "Victor André Gomes"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/165",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Ana Lúcia do Rego Ferreira",
+          "id": "165",
+          "mandato": "Titular",
+          "nom_parlamentar": "Professora Ana Lúcia",
+          "nome_exibicao": "Professora Ana Lúcia",
+          "nome_exibicao_partido": "Professora Ana Lúcia",
+          "partido": [
+            {
+              "title": "Republicanos",
+              "token": "REP"
+            }
+          ],
+          "partido_sigla": "REP",
+          "partido_vigente": {
+            "title": "Republicanos",
+            "token": "REP"
+          },
+          "title": "Professora Ana Lúcia"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/424",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Elaine Cristina",
+          "id": "424",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Elaine Cristina",
+          "nome_exibicao": "Elaine Cristina",
+          "nome_exibicao_partido": "Elaine Cristina",
+          "partido": [
+            {
+              "title": "Partido Socialismo e Leberdade",
+              "token": "PSOL"
+            }
+          ],
+          "partido_sigla": "PSOL",
+          "partido_vigente": {
+            "title": "Partido Socialismo e Leberdade",
+            "token": "PSOL"
+          },
+          "title": "Elaine Cristina"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/409",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Tadeu Calheiros",
+          "id": "409",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Tadeu Calheiros",
+          "nome_exibicao": "Tadeu Calheiros",
+          "nome_exibicao_partido": "Tadeu Calheiros",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "partido_sigla": "MDB",
+          "partido_vigente": {
+            "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+            "token": "MDB"
+          },
+          "title": "Tadeu Calheiros"
+        }
+      ],
+      "start": "2023-02-13",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "08/01/2025 a 10/02/2025",
+      "end": "2025-02-10",
+      "id": 16,
+      "items": [],
+      "start": "2025-01-08",
+      "title": "Composição da Comissão"
+    }
+  ],
+  "reunioes": {
+    "@type": "ReunioesComissao",
+    "description": "Lista de reuniões da comissão 64",
+    "items": [
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/64/reunioes/563",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/563_pauta.pdf",
+            "filename": "563_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-06-03",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "03/06/2026 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "16:00",
+        "id": "563",
+        "title": "4ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/64/reunioes/451",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/451_ata.pdf",
+            "filename": "451_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/451_pauta.pdf",
+            "filename": "451_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-09-10",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "10/09/2025 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "",
+        "id": "451",
+        "title": "3ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/64/reunioes/452",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/452_ata.pdf",
+            "filename": "452_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/452_pauta.pdf",
+            "filename": "452_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-08-13",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "13/08/2025 - 15:30",
+        "hora_abertura": "15:30",
+        "hora_encerramento": "",
+        "id": "452",
+        "title": "2ª Reunião Ordinária"
+      }
+    ]
+  },
+  "tipo": "Permanente",
+  "title": "Comissão da Defesa dos Direitos da Pessoa com Deficiência"
+}

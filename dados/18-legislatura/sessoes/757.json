@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/757",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/757/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/757/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/757_ata_sessao.pdf",
+      "filename": "757_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-06-15",
+  "description": "69ª Reunião Solene - 15/06/2023",
+  "endTime": "",
+  "id": "757",
+  "pauta": [],
+  "startTime": "11:00",
+  "title": "69ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

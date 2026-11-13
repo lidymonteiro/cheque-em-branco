@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1112",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1112",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1112_anexo_1064",
+          "filename": "1112_anexo_1064",
+          "size": "279.2 KB"
+        }
+      ],
+      "id": "1064",
+      "title": "PDF da publicação da lei 18.988/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-10-07",
+  "data_publicacao": "2022-10-08",
+  "description": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana Municipal do Empreendedorismo\"",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1112&texto_original=1",
+      "filename": "1112_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "59.6 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18988, de 07/10/2022",
+  "id": "1112",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1112&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/125214",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=252",
+          "@type": "Autor",
+          "id": "252",
+          "primeiro_autor": true,
+          "title": "Zé Neto"
+        }
+      ],
+      "autoria_nomes": "Zé Neto",
+      "description": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana Municipal do Empreendedorismo\"",
+      "id": "125214",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=125214",
+      "title": "Projeto de Lei Ordinária nº 186/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTI1MjE0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18988/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-10-07",
+    "dataPromulgacaoBR": "07/10/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18988, de 07/10/2022",
+    "numNorma": 18988,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana Municipal do Empreendedorismo\"",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1112",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1112",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

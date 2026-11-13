@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1544",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1544",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1544_anexo_1538",
+          "filename": "1544_anexo_1538",
+          "size": "280.8 KB"
+        }
+      ],
+      "id": "1538",
+      "title": "PDF da publicação da lei 19136 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 12,
+  "cod_situacao": 12,
+  "data_norma": "2023-11-27",
+  "data_publicacao": "2023-11-30",
+  "description": "Institui a “Semana Municipal de Sensibilização e Conscientização sobre a Saúde Mental” no Calendário Oficial de Eventos do Município do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1544&texto_original=1",
+      "filename": "1544_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "68.9 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19136, de 27/11/2023",
+  "id": "1544",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1544&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/140990",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=158",
+          "@type": "Autor",
+          "id": "158",
+          "primeiro_autor": true,
+          "title": "Aline Mariano"
+        }
+      ],
+      "autoria_nomes": "Aline Mariano",
+      "description": "Institui a “Semana Municipal de Sensibilização e Conscientização sobre a Saúde Mental” no Calendário Oficial de Eventos do Município do Recife.",
+      "id": "140990",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=140990",
+      "title": "Projeto de Lei Ordinária nº 146/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQwOTkw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 2,
+  "num_pag_inicio_publ": 2,
+  "publicacao": {
+    "numPagFim": 2,
+    "numPagInicio": 2,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor, com revogação parcial",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19136/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-11-27",
+    "dataPromulgacaoBR": "27/11/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19136, de 27/11/2023",
+    "numNorma": 19136,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui a “Semana Municipal de Sensibilização e Conscientização sobre a Saúde Mental” no Calendário Oficial de Eventos do Município do Recife.",
+  "txt_observacao": "Revogado parcialmente pelo Ofício nº 102/2023 GP/SEGOV",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1544",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1544",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/869",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/869/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/869/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/869_ata_sessao.pdf",
+      "filename": "869_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-10-24",
+  "description": "148ª Reunião Solene - 24/10/2023",
+  "endTime": "",
+  "id": "869",
+  "pauta": [],
+  "startTime": "16:50",
+  "title": "148ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/329",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/329/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/329/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [],
+  "date": "2021-04-05",
+  "description": "115ª Reunião Ordinária - 05/04/2021",
+  "endTime": "13:00",
+  "id": "329",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "115ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

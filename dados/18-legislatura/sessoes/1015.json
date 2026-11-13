@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1015",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1015/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1015/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1015_ata_sessao.pdf",
+      "filename": "1015_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-04-30",
+  "description": "4ª Reunião Extraordinária - 30/04/2024",
+  "endTime": "13:18",
+  "id": "1015",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1015_pauta_sessao.pdf",
+      "filename": "1015_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "13:06",
+  "title": "4ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

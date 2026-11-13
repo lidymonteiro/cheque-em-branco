@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/925",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/925/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/925/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/925_ata_sessao.pdf",
+      "filename": "925_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-12-18",
+  "description": "79ª Reunião Ordinária - 18/12/2023",
+  "endTime": "12:55",
+  "id": "925",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/925_pauta_sessao.pdf",
+      "filename": "925_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:23",
+  "title": "79ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

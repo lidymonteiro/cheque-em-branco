@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/766",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/766/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/766/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/766_ata_sessao.pdf",
+      "filename": "766_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-07-03",
+  "description": "38ª Reunião Ordinária - 03/07/2023",
+  "endTime": "13:14",
+  "id": "766",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/766_pauta_sessao.pdf",
+      "filename": "766_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:14",
+  "title": "38ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,91 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1859",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1859",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1859_anexo_1872",
+          "filename": "1859_anexo_1872",
+          "size": "803.1 KB"
+        }
+      ],
+      "id": "1872",
+      "title": "PDF da publicação da lei 19.308/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 12,
+  "cod_situacao": 12,
+  "data_norma": "2024-09-16",
+  "data_publicacao": "2024-09-19",
+  "description": "Institui o “Dia do Cooperativismo\" no Calendário Oficial de Eventos do Município do Recife.",
+  "file": [],
+  "heading_label": "Lei Ordinária nº 19308, de 16/09/2024",
+  "id": "1859",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/151651",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=233",
+          "@type": "Autor",
+          "id": "233",
+          "primeiro_autor": false,
+          "title": "Samuel Salazar"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=246",
+          "@type": "Autor",
+          "id": "246",
+          "primeiro_autor": true,
+          "title": "Tadeu Calheiros"
+        }
+      ],
+      "autoria_nomes": "Samuel Salazar, Tadeu Calheiros",
+      "description": "Institui o “Dia do Cooperativismo\" no Calendário Oficial de Eventos do Município do Recife.",
+      "id": "151651",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=151651",
+      "title": "Projeto de Lei Ordinária nº 96/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTUxNjUx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor, com revogação parcial",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19308/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-09-16",
+    "dataPromulgacaoBR": "16/09/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19308, de 16/09/2024",
+    "numNorma": 19308,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui o “Dia do Cooperativismo\" no Calendário Oficial de Eventos do Município do Recife.",
+  "txt_observacao": "Revogação Parcial pelo ofício nº 41 GP/SEGOV",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1859",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1859",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

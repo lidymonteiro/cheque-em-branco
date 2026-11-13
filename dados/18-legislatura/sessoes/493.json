@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/493",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/493/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/493/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/493_ata_sessao.pdf",
+      "filename": "493_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-05-19",
+  "description": "43ª Reunião Solene - 19/05/2022",
+  "endTime": "",
+  "id": "493",
+  "pauta": [],
+  "startTime": "17:00",
+  "title": "43ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/374",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/374",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/374_anexo_317",
+          "filename": "374_anexo_317",
+          "size": "356.9 KB"
+        }
+      ],
+      "id": "317",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1099/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-09-11",
+  "data_publicacao": "2023-09-14",
+  "description": "Concede o Título de Cidadão do Recife ao musicista Juliano Holanda.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=374&texto_original=1",
+      "filename": "374_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "26.3 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1099, de 11/09/2023",
+  "id": "374",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=374&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/138424",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=208",
+          "@type": "Autor",
+          "id": "208",
+          "primeiro_autor": true,
+          "title": "Ivan Moraes"
+        }
+      ],
+      "autoria_nomes": "Ivan Moraes",
+      "description": "Concede o Título de Cidadão do Recife ao musicista Juliano Holanda.",
+      "id": "138424",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=138424",
+      "title": "Projeto de Decreto Legislativo nº 18/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM4NDI0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 26,
+  "num_pag_inicio_publ": 26,
+  "publicacao": {
+    "numPagFim": 26,
+    "numPagInicio": 26,
+    "veiculo": "DIário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1099/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-09-11",
+    "dataPromulgacaoBR": "11/09/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1099, de 11/09/2023",
+    "numNorma": 1099,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede o Título de Cidadão do Recife ao musicista Juliano Holanda.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=374",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=374",
+  "veiculo_publicacao": "DIário Oficial do Município"
+}

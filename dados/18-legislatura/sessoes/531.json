@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/531",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/531/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/531/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/531_ata_sessao.pdf",
+      "filename": "531_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-08-03",
+  "description": "60ª Reunião Solene - 03/08/2022",
+  "endTime": "",
+  "id": "531",
+  "pauta": [],
+  "startTime": "15:45",
+  "title": "60ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

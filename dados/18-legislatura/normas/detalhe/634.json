@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/634",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/634",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/634_anexo_573",
+          "filename": "634_anexo_573",
+          "size": "913 KB"
+        }
+      ],
+      "id": "573",
+      "title": "PDF da publicação da lei 18811/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-07-07",
+  "data_publicacao": "2021-07-08",
+  "description": "INSTITUI O “PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO - PDV” DOS EMPREGADOS PÚBLICOS DA ADMINISTRAÇÃO INDIRETA DO MUNICÍPIO DO RECIFE.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=634&texto_original=1",
+      "filename": "634_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "913 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18811, de 07/07/2021",
+  "id": "634",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=634&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/108311",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "INSTITUI O &#8220;PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO - PDV&#8221; DOS EMPREGADOS PÚBLICOS DA ADMINISTRAÇÃO INDIRETA DO MUNICÍPIO DO RECIFE.",
+      "id": "108311",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=108311",
+      "title": "Projeto de Lei do Executivo nº 18/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA4MzEx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 6,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 6,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18811/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-07-07",
+    "dataPromulgacaoBR": "07/07/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18811, de 07/07/2021",
+    "numNorma": 18811,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "INSTITUI O “PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO - PDV” DOS EMPREGADOS PÚBLICOS DA ADMINISTRAÇÃO INDIRETA DO MUNICÍPIO DO RECIFE.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=634",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=634",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

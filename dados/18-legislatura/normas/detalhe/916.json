@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/916",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/916",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/916_anexo_846",
+          "filename": "916_anexo_846",
+          "size": "484.2 KB"
+        }
+      ],
+      "id": "846",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1019/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-04-11",
+  "data_publicacao": "2022-04-14",
+  "description": "Autoriza a Vice-Prefeita do Recife a se ausentar do País no período de 11 de abril de 2022 a 25 de abril de 2022.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=916&texto_original=1",
+      "filename": "916_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "31.2 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1019, de 11/04/2022",
+  "id": "916",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=916&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/123798",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Autoriza a Vice-Prefeita do Recife a se ausentar do País no período de 11 de abril de 2022 a 25 de abril de 2022.",
+      "id": "123798",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=123798",
+      "title": "Projeto de Decreto Legislativo nº 10/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTIzNzk4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 16,
+  "num_pag_inicio_publ": 16,
+  "publicacao": {
+    "numPagFim": 16,
+    "numPagInicio": 16,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1019/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-04-11",
+    "dataPromulgacaoBR": "11/04/2022",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1019, de 11/04/2022",
+    "numNorma": 1019,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Autoriza a Vice-Prefeita do Recife a se ausentar do País no período de 11 de abril de 2022 a 25 de abril de 2022.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=916",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=916",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

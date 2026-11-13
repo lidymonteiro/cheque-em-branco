@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/632",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/632/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/632/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/632_ata_sessao.pdf",
+      "filename": "632_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-12-06",
+  "description": "119ª Reunião Solene - 06/12/2022",
+  "endTime": "",
+  "id": "632",
+  "pauta": [],
+  "startTime": "17:30",
+  "title": "119ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

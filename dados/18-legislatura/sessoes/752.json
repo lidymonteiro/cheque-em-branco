@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/752",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/752/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/752/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/752_ata_sessao.pdf",
+      "filename": "752_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-06-13",
+  "description": "7ª Reunião Extraordinária - 13/06/2023",
+  "endTime": "11:35",
+  "id": "752",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/752_pauta_sessao.pdf",
+      "filename": "752_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:56",
+  "title": "7ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1712",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1712",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1712_anexo_1707",
+          "filename": "1712_anexo_1707",
+          "size": "308.1 KB"
+        }
+      ],
+      "id": "1707",
+      "title": "PDF da publicação da lei 18.918/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-05-02",
+  "data_publicacao": "2022-05-03",
+  "description": "INSTITUI, NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DO RECIFE, O “DIA MUNICIPAL DE COMBATE À FOME”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1712&texto_original=1",
+      "filename": "1712_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "25.8 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18918, de 02/05/2022",
+  "id": "1712",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1712&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/113795",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=204",
+          "@type": "Autor",
+          "id": "204",
+          "primeiro_autor": true,
+          "title": "Rinaldo Júnior"
+        }
+      ],
+      "autoria_nomes": "Rinaldo Júnior",
+      "description": "INSTITUI, NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DO RECIFE, O “DIA MUNICIPAL DE COMBATE À FOME”.",
+      "id": "113795",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=113795",
+      "title": "Projeto de Lei Ordinária nº 334/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTEzNzk1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18918/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-05-02",
+    "dataPromulgacaoBR": "02/05/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18918, de 02/05/2022",
+    "numNorma": 18918,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "INSTITUI, NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DO RECIFE, O “DIA MUNICIPAL DE COMBATE À FOME”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1712",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1712",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/282",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/282",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/282_anexo_268",
+          "filename": "282_anexo_268",
+          "size": "239.7 KB"
+        }
+      ],
+      "id": "268",
+      "title": "PDF da publicação da lei 18784/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-02-16",
+  "data_publicacao": "2021-02-18",
+  "description": "INSTITUI O AUXÍLIO MUNICIPAL EMERGENCIAL - AME CARNAVAL DO RECIFE, DESTINADO À CONCESSÃO DE BENEFÍCIO FINANCEIRO A AGREMIAÇÕES E DEMAIS ATRAÇÕES ARTÍSTICAS QUE ATUARAM NO CARNAVAL DO RECIFE EM 2020 E PREENCHAM OS DEMAIS REQUISITOS PREVISTOS NESTA LEI, DIANTE DA IMPOSSIBILIDADE DE REALIZAÇÃO DE EVENTOS CARNAVALESCOS EM 2021, POR FORÇA DA PERMANÊNCIA DA PANDEMIA DE COVID 19.    \"REGIME DE URGÊNCIA\"",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=282&texto_original=1",
+      "filename": "282_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "83 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18784, de 16/02/2021",
+  "id": "282",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=282&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/103260",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "INSTITUI O AUXÍLIO MUNICIPAL EMERGENCIAL - AME CARNAVAL DO RECIFE, DESTINADO À CONCESSÃO DE BENEFÍCIO FINANCEIRO A AGREMIAÇÕES E DEMAIS ATRAÇÕES ARTÍSTICAS QUE ATUARAM NO CARNAVAL DO RECIFE EM 2020 E PREENCHAM OS DEMAIS REQUISITOS PREVISTOS NESTA LEI, DIANTE DA IMPOSSIBILIDADE DE REALIZAÇÃO DE EVENTOS CARNAVALESCOS EM 2021, POR FORÇA DA PERMANÊNCIA DA PANDEMIA DE COVID 19.    \"REGIME DE URGÊNCIA\"",
+      "id": "103260",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=103260",
+      "title": "Projeto de Lei do Executivo nº 1/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTAzMjYw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município\t"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18784/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-02-16",
+    "dataPromulgacaoBR": "16/02/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18784, de 16/02/2021",
+    "numNorma": 18784,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "INSTITUI O AUXÍLIO MUNICIPAL EMERGENCIAL - AME CARNAVAL DO RECIFE, DESTINADO À CONCESSÃO DE BENEFÍCIO FINANCEIRO A AGREMIAÇÕES E DEMAIS ATRAÇÕES ARTÍSTICAS QUE ATUARAM NO CARNAVAL DO RECIFE EM 2020 E PREENCHAM OS DEMAIS REQUISITOS PREVISTOS NESTA LEI, DIANTE DA IMPOSSIBILIDADE DE REALIZAÇÃO DE EVENTOS CARNAVALESCOS EM 2021, POR FORÇA DA PERMANÊNCIA DA PANDEMIA DE COVID 19.    \"REGIME DE URGÊNCIA\"",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=282",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=282",
+  "veiculo_publicacao": "Diário Oficial do Município\t"
+}

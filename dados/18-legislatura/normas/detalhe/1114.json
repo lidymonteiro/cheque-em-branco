@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1114",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1114",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1114_anexo_1067",
+          "filename": "1114_anexo_1067",
+          "size": "271.5 KB"
+        }
+      ],
+      "id": "1067",
+      "title": "PDF da publicação da lei 19041 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-04-17",
+  "data_publicacao": "2023-04-20",
+  "description": "ACRESCENTA OS ARTIGOS 118-A, 118-B, 118-C, 118-D À LEI MUNICIPAL 16.292 DE 29 DE JANEIRO DE 1997, QUE REGULA AS ATIVIDADES DE EDIFICAÇÕES E INSTALAÇÕES NO MUNICÍPIO DO RECIFE, PARA CRIAR REGRAS E CRITÉRIOS PARA A CONSTRUÇÃO E MANUTENÇÃO DE GUARITAS NAS EDIFICAÇÕES COMERCIAIS E RESIDENCIAIS NO MUNICÍPIO DO RECIFE.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1114&texto_original=1",
+      "filename": "1114_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "61.6 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19041, de 17/04/2023",
+  "id": "1114",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1114&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/91710",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=204",
+          "@type": "Autor",
+          "id": "204",
+          "primeiro_autor": true,
+          "title": "Rinaldo Júnior"
+        }
+      ],
+      "autoria_nomes": "Rinaldo Júnior",
+      "description": "ACRESCENTA OS ARTIGOS 118-A, 118-B, 118-C, 118-D À LEI MUNICIPAL 16.292 DE 29 DE JANEIRO DE 1997, QUE REGULA AS ATIVIDADES DE EDIFICAÇÕES E INSTALAÇÕES NO MUNICÍPIO DO RECIFE, PARA CRIAR REGRAS E CRITÉRIOS PARA A CONSTRUÇÃO E MANUTENÇÃO DE GUARITAS NAS EDIFICAÇÕES COMERCIAIS E RESIDENCIAIS NO MUNICÍPIO DO RECIFE.",
+      "id": "91710",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=91710",
+      "title": "Projeto de Lei Ordinária nº 280/2019",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=OTE3MTA="
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19041/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-04-17",
+    "dataPromulgacaoBR": "17/04/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19041, de 17/04/2023",
+    "numNorma": 19041,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "ACRESCENTA OS ARTIGOS 118-A, 118-B, 118-C, 118-D À LEI MUNICIPAL 16.292 DE 29 DE JANEIRO DE 1997, QUE REGULA AS ATIVIDADES DE EDIFICAÇÕES E INSTALAÇÕES NO MUNICÍPIO DO RECIFE, PARA CRIAR REGRAS E CRITÉRIOS PARA A CONSTRUÇÃO E MANUTENÇÃO DE GUARITAS NAS EDIFICAÇÕES COMERCIAIS E RESIDENCIAIS NO MUNICÍPIO DO RECIFE.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1114",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1114",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

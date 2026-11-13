@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/550",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/550/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/550/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/550_ata_sessao.pdf",
+      "filename": "550_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-08-25",
+  "description": "72ª Reunião Solene - 25/08/2022",
+  "endTime": "",
+  "id": "550",
+  "pauta": [],
+  "startTime": "15:00",
+  "title": "72ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

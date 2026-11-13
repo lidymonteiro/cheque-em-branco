@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1177",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1177/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1177/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1177_ata_sessao.pdf",
+      "filename": "1177_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-12-27",
+  "description": "14ª Reunião Extraordinária - 27/12/2024",
+  "endTime": "10:23",
+  "id": "1177",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1177_pauta_sessao.pdf",
+      "filename": "1177_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:56",
+  "title": "14ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

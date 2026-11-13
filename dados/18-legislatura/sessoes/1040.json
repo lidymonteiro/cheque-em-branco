@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1040",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1040/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1040/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [],
+  "date": "2024-06-16",
+  "description": "66ª Reunião Extraordinária - 16/06/2024",
+  "endTime": "",
+  "id": "1040",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1040_pauta_sessao.pdf",
+      "filename": "1040_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:20",
+  "title": "66ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/358",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/358",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/358_anexo_308",
+          "filename": "358_anexo_308",
+          "size": "169.8 KB"
+        }
+      ],
+      "id": "308",
+      "title": "PDF da publicação do Decreto Legislativo 976/2021 no Diário Oficial do Município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-05-11",
+  "data_publicacao": "2021-05-15",
+  "description": "CONCEDE O TÍTULO DE CIDADÃO DO RECIFE AO EX-VEREADOR ANTÔNIO DE OLIVEIRA.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 976, de 11/05/2021",
+  "id": "358",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/102841",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=253",
+          "@type": "Autor",
+          "id": "253",
+          "primeiro_autor": true,
+          "title": "Doduel Varela"
+        }
+      ],
+      "autoria_nomes": "Doduel Varela",
+      "description": "CONCEDE O TÍTULO DE CIDADÃO DO RECIFE AO EX-VEREADOR ANTÔNIO DE OLIVEIRA.",
+      "id": "102841",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=102841",
+      "title": "Projeto de Decreto Legislativo nº 1/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTAyODQx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 10,
+  "num_pag_inicio_publ": 10,
+  "publicacao": {
+    "numPagFim": 10,
+    "numPagInicio": 10,
+    "veiculo": "Diario Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 976/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-05-11",
+    "dataPromulgacaoBR": "11/05/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 976, de 11/05/2021",
+    "numNorma": 976,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE O TÍTULO DE CIDADÃO DO RECIFE AO EX-VEREADOR ANTÔNIO DE OLIVEIRA.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=358",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=358",
+  "veiculo_publicacao": "Diario Oficial do Município"
+}

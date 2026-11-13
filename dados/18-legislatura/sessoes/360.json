@@ -1,0 +1,16 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/360",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/360/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/360/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [],
+  "date": "2021-08-16",
+  "description": "48ª Reunião Ordinária - 16/08/2021",
+  "endTime": "13:00",
+  "id": "360",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "48ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

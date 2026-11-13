@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/993",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/993/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/993/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/993_ata_sessao.pdf",
+      "filename": "993_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-04-15",
+  "description": "3ª Reunião Extraordinária - 15/04/2024",
+  "endTime": "13:14",
+  "id": "993",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/993_pauta_sessao.pdf",
+      "filename": "993_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:10",
+  "title": "3ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

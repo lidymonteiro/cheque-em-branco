@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/407",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/407/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/407/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/407_ata_sessao.pdf",
+      "filename": "407_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-12-20",
+  "description": "18ª Reunião Extraordinária - 20/12/2021",
+  "endTime": "",
+  "id": "407",
+  "pauta": [],
+  "startTime": "12:00",
+  "title": "18ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

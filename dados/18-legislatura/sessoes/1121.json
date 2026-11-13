@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1121",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1121/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1121/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1121_ata_sessao.pdf",
+      "filename": "1121_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-09-24",
+  "description": "57ª Reunião Ordinária - 24/09/2024",
+  "endTime": "10:32",
+  "id": "1121",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1121_pauta_sessao.pdf",
+      "filename": "1121_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:26",
+  "title": "57ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

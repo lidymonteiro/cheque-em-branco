@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/736",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/736/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/736/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/736_ata_sessao.pdf",
+      "filename": "736_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-25",
+  "description": "56ª Reunião Solene - 25/05/2023",
+  "endTime": "",
+  "id": "736",
+  "pauta": [],
+  "startTime": "18:30",
+  "title": "56ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

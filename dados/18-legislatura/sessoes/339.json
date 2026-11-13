@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/339",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/339/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/339/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/339_ata_sessao.pdf",
+      "filename": "339_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-05-10",
+  "description": "28ª Reunião Ordinária - 10/05/2021",
+  "endTime": "13:00",
+  "id": "339",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "28ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

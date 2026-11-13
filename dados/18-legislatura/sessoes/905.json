@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/905",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/905/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/905/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/905_ata_sessao.pdf",
+      "filename": "905_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-11-28",
+  "description": "74ª Reunião Ordinária - 28/11/2023",
+  "endTime": "12:17",
+  "id": "905",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/905_pauta_sessao.pdf",
+      "filename": "905_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:16",
+  "title": "74ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

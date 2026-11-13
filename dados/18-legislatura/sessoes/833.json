@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/833",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/833/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/833/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/833_ata_sessao.pdf",
+      "filename": "833_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-10-02",
+  "description": "10ª Reunião Extraordinária - 02/10/2023",
+  "endTime": "12:26",
+  "id": "833",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/833_pauta_sessao.pdf",
+      "filename": "833_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:12",
+  "title": "10ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

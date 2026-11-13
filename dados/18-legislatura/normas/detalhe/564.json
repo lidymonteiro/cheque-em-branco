@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/564",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/564",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/564_anexo_479",
+          "filename": "564_anexo_479",
+          "size": "665.7 KB"
+        }
+      ],
+      "id": "479",
+      "title": "PDF da publicação da lei 18791/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-03-30",
+  "data_publicacao": "2021-04-01",
+  "description": "ALTERA AS LEIS MUNICIPAIS NºS 15.563, DE 27 DE DEZEMBRO DE 1991 – CÓDIGO TRIBUTÁRIO MUNICIPAL, E 18.276, DE 2 DE DEZEMBRO DE 2016.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=564&texto_original=1",
+      "filename": "564_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "106.8 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18791, de 30/03/2021",
+  "id": "564",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=564&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/104667",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "ALTERA AS LEIS MUNICIPAIS NºS 15.563, DE 27 DE DEZEMBRO DE 1991 &#8211; CÓDIGO TRIBUTÁRIO MUNICIPAL, E 18.276, DE 2 DE DEZEMBRO DE 2016.",
+      "id": "104667",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=104667",
+      "title": "Projeto de Lei do Executivo nº 8/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA0NjY3"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18791/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-03-30",
+    "dataPromulgacaoBR": "30/03/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18791, de 30/03/2021",
+    "numNorma": 18791,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "ALTERA AS LEIS MUNICIPAIS NºS 15.563, DE 27 DE DEZEMBRO DE 1991 – CÓDIGO TRIBUTÁRIO MUNICIPAL, E 18.276, DE 2 DE DEZEMBRO DE 2016.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=564",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=564",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

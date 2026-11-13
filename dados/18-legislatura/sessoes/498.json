@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/498",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/498/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/498/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/498_ata_sessao.pdf",
+      "filename": "498_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-06-07",
+  "description": "36ª Reunião Ordinária - 07/06/2022",
+  "endTime": "12:53",
+  "id": "498",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/498_pauta_sessao.pdf",
+      "filename": "498_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:52",
+  "title": "36ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

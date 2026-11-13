@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1845",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1845",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1845_anexo_1855",
+          "filename": "1845_anexo_1855",
+          "size": "258.6 KB"
+        }
+      ],
+      "id": "1855",
+      "title": "PDF da publicação da lei 19298/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-07-24",
+  "data_publicacao": "2024-07-25",
+  "description": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana Municipal de Literatura”. ",
+  "file": [],
+  "heading_label": "Lei Ordinária nº 19298, de 24/07/2024",
+  "id": "1845",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/120100",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=251",
+          "@type": "Autor",
+          "id": "251",
+          "primeiro_autor": true,
+          "title": "Cida Pedrosa"
+        }
+      ],
+      "autoria_nomes": "Cida Pedrosa",
+      "description": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana Municipal de Literatura”. ",
+      "id": "120100",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=120100",
+      "title": "Projeto de Lei Ordinária nº 47/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTIwMTAw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19298/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-07-24",
+    "dataPromulgacaoBR": "24/07/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19298, de 24/07/2024",
+    "numNorma": 19298,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui no Calendário Oficial de Eventos do Município do Recife a “Semana Municipal de Literatura”. ",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1845",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1845",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

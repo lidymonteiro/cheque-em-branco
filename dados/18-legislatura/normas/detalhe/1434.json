@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1434",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1434",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1434_anexo_1425",
+          "filename": "1434_anexo_1425",
+          "size": "281.5 KB"
+        }
+      ],
+      "id": "1425",
+      "title": "PDF da publicação da lei 18.963/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 12,
+  "cod_situacao": 12,
+  "data_norma": "2022-07-22",
+  "data_publicacao": "2022-07-26",
+  "description": "Dispõe sobre a proibição de homenagens a violadores de direitos humanos no Município do Recife. ",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1434&texto_original=1",
+      "filename": "1434_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "69.3 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18963, de 22/07/2022",
+  "id": "1434",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1434&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116275",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=238",
+          "@type": "Autor",
+          "id": "238",
+          "primeiro_autor": true,
+          "title": "Dani Portela"
+        }
+      ],
+      "autoria_nomes": "Dani Portela",
+      "description": "Dispõe sobre a proibição de homenagens a violadores de direitos humanos no Município do Recife. \r\n\r\n",
+      "id": "116275",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=116275",
+      "title": "Projeto de Lei Ordinária nº 381/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE2Mjc1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 2,
+  "num_pag_inicio_publ": 2,
+  "publicacao": {
+    "numPagFim": 2,
+    "numPagInicio": 2,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor, com revogação parcial",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18963/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-07-22",
+    "dataPromulgacaoBR": "22/07/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18963, de 22/07/2022",
+    "numNorma": 18963,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre a proibição de homenagens a violadores de direitos humanos no Município do Recife. ",
+  "txt_observacao": "Revogação parcial pelo Ofício nº 61 GP/SEGOV ",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1434",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1434",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

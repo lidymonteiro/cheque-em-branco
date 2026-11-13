@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/34",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/34",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/34_anexo_26",
+          "filename": "34_anexo_26",
+          "size": "578.5 KB"
+        }
+      ],
+      "id": "26",
+      "title": "PDF da publicação da lei 19.021/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-12-28",
+  "data_publicacao": "2022-12-29",
+  "description": "Promove alterações no Estatuto dos Funcionários Públicos do Município do Recife - EFPMR, constante do Anexo Único da Lei Municipal nº 14.728, de 8 de março de 1985, e dá outras providências.\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=34&texto_original=1",
+      "filename": "34_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "86.4 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19021, de 28/12/2022",
+  "id": "34",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=34&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/131968",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Altera a Lei Municipal nº 14.728, de 8 de março de 1985.",
+      "id": "131968",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=131968",
+      "title": "Projeto de Lei do Executivo nº 53/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTMxOTY4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 5,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 5,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19021/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-12-28",
+    "dataPromulgacaoBR": "28/12/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19021, de 28/12/2022",
+    "numNorma": 19021,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Promove alterações no Estatuto dos Funcionários Públicos do Município do Recife - EFPMR, constante do Anexo Único da Lei Municipal nº 14.728, de 8 de março de 1985, e dá outras providências.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=34",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=34",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

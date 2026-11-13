@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1677",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1677",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1677_anexo_1679",
+          "filename": "1677_anexo_1679",
+          "size": "1 MB"
+        }
+      ],
+      "id": "1679",
+      "title": "PDF da publicação da lei 18.928/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-05-20",
+  "data_publicacao": "2022-05-21",
+  "description": "Institui no Calendário Oficial de Eventos do Município do Recife o “Dia Municipal da Família Acolhedora”. ",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1677&texto_original=1",
+      "filename": "1677_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "27.6 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18928, de 20/05/2022",
+  "id": "1677",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1677&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/120269",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=135",
+          "@type": "Autor",
+          "id": "135",
+          "primeiro_autor": true,
+          "title": "Almir Fernando"
+        }
+      ],
+      "autoria_nomes": "Almir Fernando",
+      "description": "Institui no Calendário Oficial de Eventos do Município do Recife o “Dia Municipal da Família Acolhedora”. ",
+      "id": "120269",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=120269",
+      "title": "Projeto de Lei Ordinária nº 54/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTIwMjY5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": null,
+  "num_pag_inicio_publ": null,
+  "publicacao": {
+    "numPagFim": null,
+    "numPagInicio": null,
+    "veiculo": null
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18928/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-05-20",
+    "dataPromulgacaoBR": "20/05/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18928, de 20/05/2022",
+    "numNorma": 18928,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui no Calendário Oficial de Eventos do Município do Recife o “Dia Municipal da Família Acolhedora”. ",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1677",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1677",
+  "veiculo_publicacao": ""
+}

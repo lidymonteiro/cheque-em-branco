@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/872",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/872",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/872_anexo_837",
+          "filename": "872_anexo_837",
+          "size": "633.1 KB"
+        }
+      ],
+      "id": "837",
+      "title": "PDF da publicação da lei 18869/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-12-09",
+  "data_publicacao": "2021-12-09",
+  "description": "Institui o RECENTRO: Plano de incentivos fiscais para atividades econômicas, moradias para fins de interesse social, construções ou intervenções destinadas à recuperação, renovação, reparo ou manutenção de imóveis situados no sítio histórico dos Bairros do Recife, Santo Antônio e São José nas condições especificadas, e dá outras providências.",
+  "file": [],
+  "heading_label": "Lei Ordinária nº 18869, de 09/12/2021",
+  "id": "872",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116484",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Institui o RECENTRO: Plano de incentivos fiscais para atividades econômicas, moradias para fins de interesse social, construções ou intervenções destinadas à recuperação, renovação, reparo ou manutenção de imóveis situados no sítio histórico dos Bairros do Recife, Santo Antônio e São José nas condições especificadas, e dá outras providências.",
+      "id": "116484",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=116484",
+      "title": "Projeto de Lei do Executivo nº 47/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE2NDg0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18869/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-12-09",
+    "dataPromulgacaoBR": "09/12/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18869, de 09/12/2021",
+    "numNorma": 18869,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui o RECENTRO: Plano de incentivos fiscais para atividades econômicas, moradias para fins de interesse social, construções ou intervenções destinadas à recuperação, renovação, reparo ou manutenção de imóveis situados no sítio histórico dos Bairros do Recife, Santo Antônio e São José nas condições especificadas, e dá outras providências.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=872",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=872",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

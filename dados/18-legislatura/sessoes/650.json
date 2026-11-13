@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/650",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/650/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/650/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/650_ata_sessao.pdf",
+      "filename": "650_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-02-14",
+  "description": "1ª Reunião Extraordinária - 14/02/2023",
+  "endTime": "12:59",
+  "id": "650",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/650_pauta_sessao.pdf",
+      "filename": "650_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:29",
+  "title": "1ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

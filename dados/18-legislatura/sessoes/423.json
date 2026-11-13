@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/423",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/423/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/423/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/423_ata_sessao.pdf",
+      "filename": "423_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-03-08",
+  "description": "2ª Reunião Extraordinária - 08/03/2022",
+  "endTime": "",
+  "id": "423",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/423_pauta_sessao.pdf",
+      "filename": "423_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:00",
+  "title": "2ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

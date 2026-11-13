@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1116",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1116/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1116/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1116_ata_sessao.pdf",
+      "filename": "1116_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-09-09",
+  "description": "52ª Reunião Ordinária - 09/09/2024",
+  "endTime": "12:53",
+  "id": "1116",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1116_pauta_sessao.pdf",
+      "filename": "1116_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:18",
+  "title": "52ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

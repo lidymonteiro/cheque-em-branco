@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1575",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1575",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1575_anexo_1569",
+          "filename": "1575_anexo_1569",
+          "size": "313.8 KB"
+        }
+      ],
+      "id": "1569",
+      "title": "PDF da publicação da lei 18.953/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-06-29",
+  "data_publicacao": "2022-06-30",
+  "description": "Autoriza o Poder Executivo a contratar operação de crédito externo junto ao Banco Interamericano de Desenvolvimento - BID, com a garantia da União, ao amparo do artigo 17, inciso III da Lei Complementar nº 178, de 13 de janeiro de 2021, e dá outras providências.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1575&texto_original=1",
+      "filename": "1575_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "45.6 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18953, de 29/06/2022",
+  "id": "1575",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1575&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/127483",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Autoriza o Poder Executivo a contratar operação de crédito externo junto ao Banco Interamericano de Desenvolvimento - BID, com a garantia da União, ao amparo do artigo 17, inciso III da Lei Complementar nº 178, de 13 de janeiro de 2021, e dá outras providências.",
+      "id": "127483",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=127483",
+      "title": "Projeto de Lei do Executivo nº 29/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTI3NDgz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 2,
+  "num_pag_inicio_publ": 2,
+  "publicacao": {
+    "numPagFim": 2,
+    "numPagInicio": 2,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18953/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-06-29",
+    "dataPromulgacaoBR": "29/06/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18953, de 29/06/2022",
+    "numNorma": 18953,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Autoriza o Poder Executivo a contratar operação de crédito externo junto ao Banco Interamericano de Desenvolvimento - BID, com a garantia da União, ao amparo do artigo 17, inciso III da Lei Complementar nº 178, de 13 de janeiro de 2021, e dá outras providências.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1575",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1575",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

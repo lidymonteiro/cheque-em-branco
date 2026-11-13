@@ -1,0 +1,121 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1321",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1321",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1321_anexo_1287",
+          "filename": "1321_anexo_1287",
+          "size": "486.3 KB"
+        }
+      ],
+      "id": "1287",
+      "title": "PDF da publicação da lei 18.984/2022"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1321",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1321_anexo_1289",
+          "filename": "1321_anexo_1289",
+          "size": "486.3 KB"
+        }
+      ],
+      "id": "1289",
+      "title": "PDF da publicação da lei 18.984/2022"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1321",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1321_anexo_1290",
+          "filename": "1321_anexo_1290",
+          "size": "486.3 KB"
+        }
+      ],
+      "id": "1290",
+      "title": "PDF da publicação da lei 18.984/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-09-13",
+  "data_publicacao": "2022-09-15",
+  "description": "Autoriza o Poder Executivo a contratar operação de crédito externo junto ao Banco Interamericano de Desenvolvimento - BID, com a garantia da União, ao amparo do artigo 17, inciso III da Lei Complementar nº 178, de 13 de janeiro de 2021, e dá outras providências.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1321&texto_original=1",
+      "filename": "1321_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "64 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18984, de 13/09/2022",
+  "id": "1321",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1321&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/130349",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Autoriza o Poder Executivo a contratar operação de crédito externo junto ao Banco Interamericano de Desenvolvimento - BID, com a garantia da União, ao amparo do artigo 17, inciso III da Lei Complementar nº 178, de 13 de janeiro de 2021, e dá outras providências.",
+      "id": "130349",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=130349",
+      "title": "Projeto de Lei do Executivo nº 34/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTMwMzQ5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18984/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-09-13",
+    "dataPromulgacaoBR": "13/09/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18984, de 13/09/2022",
+    "numNorma": 18984,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Autoriza o Poder Executivo a contratar operação de crédito externo junto ao Banco Interamericano de Desenvolvimento - BID, com a garantia da União, ao amparo do artigo 17, inciso III da Lei Complementar nº 178, de 13 de janeiro de 2021, e dá outras providências.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1321",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1321",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

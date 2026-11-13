@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/953",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/953/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/953/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/953_ata_sessao.pdf",
+      "filename": "953_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-03-11",
+  "description": "9ª Reunião Ordinária - 11/03/2024",
+  "endTime": "13:14",
+  "id": "953",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/953_pauta_sessao.pdf",
+      "filename": "953_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:21",
+  "title": "9ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/330",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/330/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/330/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/330_ata_sessao.pdf",
+      "filename": "330_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-04-06",
+  "description": "19ª Reunião Ordinária - 06/04/2021",
+  "endTime": "13:00",
+  "id": "330",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "19ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

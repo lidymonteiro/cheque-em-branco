@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1330",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1330",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1330_anexo_1310",
+          "filename": "1330_anexo_1310",
+          "size": "258 KB"
+        }
+      ],
+      "id": "1310",
+      "title": "PDF da publicação da lei 19063 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-05-24",
+  "data_publicacao": "2023-05-27",
+  "description": "Denomina “Irmã Cininha” a Creche Escola a ser construída na Comunidade Córrego do Deodato, Bairro Água Fria, município do Recife. ",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1330&texto_original=1",
+      "filename": "1330_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "57.5 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19063, de 24/05/2023",
+  "id": "1330",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1330&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/135329",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=204",
+          "@type": "Autor",
+          "id": "204",
+          "primeiro_autor": true,
+          "title": "Rinaldo Júnior"
+        }
+      ],
+      "autoria_nomes": "Rinaldo Júnior",
+      "description": "Denomina “Irmã Cininha” a Creche Escola a ser construída na Comunidade Córrego do Deodato, Bairro Água Fria, município do Recife. ",
+      "id": "135329",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=135329",
+      "title": "Projeto de Lei Ordinária nº 35/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM1MzI5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19063/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-05-24",
+    "dataPromulgacaoBR": "24/05/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19063, de 24/05/2023",
+    "numNorma": 19063,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Denomina “Irmã Cininha” a Creche Escola a ser construída na Comunidade Córrego do Deodato, Bairro Água Fria, município do Recife. ",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1330",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1330",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

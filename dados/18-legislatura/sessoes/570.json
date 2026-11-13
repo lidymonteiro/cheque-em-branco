@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/570",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/570/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/570/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/570_ata_sessao.pdf",
+      "filename": "570_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-09-19",
+  "description": "59ª Reunião Ordinária - 19/09/2022",
+  "endTime": "11:02",
+  "id": "570",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/570_pauta_sessao.pdf",
+      "filename": "570_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:24",
+  "title": "59ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

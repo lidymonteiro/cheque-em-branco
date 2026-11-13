@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/526",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/526/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/526/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/526_ata_sessao.pdf",
+      "filename": "526_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-07-04",
+  "description": "12ª Reunião Extraordinária - 04/07/2022",
+  "endTime": "15:10",
+  "id": "526",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/526_pauta_sessao.pdf",
+      "filename": "526_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "14:49",
+  "title": "12ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

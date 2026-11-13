@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1357",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1357",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1357_anexo_1339",
+          "filename": "1357_anexo_1339",
+          "size": "266.4 KB"
+        }
+      ],
+      "id": "1339",
+      "title": "PDF da publicação da lei 19078 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-06-22",
+  "data_publicacao": "2023-06-29",
+  "description": "Institui, no “Calendário Oficial de Eventos do Município do Recife”, a Semana de Conscientização sobre a Terceirização sem Calote.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1357&texto_original=1",
+      "filename": "1357_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "58.5 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19078, de 22/06/2023",
+  "id": "1357",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1357&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/134624",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=204",
+          "@type": "Autor",
+          "id": "204",
+          "primeiro_autor": true,
+          "title": "Rinaldo Júnior"
+        }
+      ],
+      "autoria_nomes": "Rinaldo Júnior",
+      "description": "Institui, no “Calendário Oficial de Eventos do Município do Recife”, a Semana de Conscientização sobre a Terceirização sem Calote.",
+      "id": "134624",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=134624",
+      "title": "Projeto de Lei Ordinária nº 19/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM0NjI0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19078/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-06-22",
+    "dataPromulgacaoBR": "22/06/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19078, de 22/06/2023",
+    "numNorma": 19078,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui, no “Calendário Oficial de Eventos do Município do Recife”, a Semana de Conscientização sobre a Terceirização sem Calote.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1357",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1357",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

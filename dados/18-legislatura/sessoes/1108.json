@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1108",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1108/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1108/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1108_ata_sessao.pdf",
+      "filename": "1108_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-08-12",
+  "description": "44ª Reunião Ordinária - 12/08/2024",
+  "endTime": "11:19",
+  "id": "1108",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1108_pauta_sessao.pdf",
+      "filename": "1108_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:11",
+  "title": "44ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/999",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/999/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/999/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/999_ata_sessao.pdf",
+      "filename": "999_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-04-16",
+  "description": "37ª Reunião Solene - 16/04/2024",
+  "endTime": "",
+  "id": "999",
+  "pauta": [],
+  "startTime": "15:07",
+  "title": "37ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

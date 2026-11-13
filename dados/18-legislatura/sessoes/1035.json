@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1035",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1035/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1035/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1035_ata_sessao.pdf",
+      "filename": "1035_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-05-21",
+  "description": "30ª Reunião Ordinária - 21/05/2024",
+  "endTime": "13:15",
+  "id": "1035",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1035_pauta_sessao.pdf",
+      "filename": "1035_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:18",
+  "title": "30ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

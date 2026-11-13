@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/597",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/597",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/597_anexo_533",
+          "filename": "597_anexo_533",
+          "size": "754.2 KB"
+        }
+      ],
+      "id": "533",
+      "title": "PDF da Publicação do Decreto Legislativo 996 do dia 27/11/2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-11-22",
+  "data_publicacao": "2021-11-27",
+  "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO SENHOR DESEMBARGADOR ADALBERTO DE OLIVEIRA MELO.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 996, de 22/11/2021",
+  "id": "597",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/109976",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=239",
+          "@type": "Autor",
+          "id": "239",
+          "primeiro_autor": true,
+          "title": "Andreza Romero"
+        }
+      ],
+      "autoria_nomes": "Andreza Romero",
+      "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO SENHOR DESEMBARGADOR ADALBERTO DE OLIVEIRA MELO.",
+      "id": "109976",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=109976",
+      "title": "Projeto de Decreto Legislativo nº 14/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA5OTc2"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 20,
+  "num_pag_inicio_publ": 20,
+  "publicacao": {
+    "numPagFim": 20,
+    "numPagInicio": 20,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 996/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-11-22",
+    "dataPromulgacaoBR": "22/11/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 996, de 22/11/2021",
+    "numNorma": 996,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO SENHOR DESEMBARGADOR ADALBERTO DE OLIVEIRA MELO.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=597",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=597",
+  "veiculo_publicacao": "Diário oficial do município"
+}

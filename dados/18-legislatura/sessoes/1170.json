@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1170",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1170/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1170/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1170_ata_sessao.pdf",
+      "filename": "1170_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-12-17",
+  "description": "79ª Reunião Ordinária - 17/12/2024",
+  "endTime": "",
+  "id": "1170",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1170_pauta_sessao.pdf",
+      "filename": "1170_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "79ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

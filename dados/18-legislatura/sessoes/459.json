@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/459",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/459/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/459/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/459_ata_sessao.pdf",
+      "filename": "459_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-04-08",
+  "description": "24ª Reunião Solene - 08/04/2022",
+  "endTime": "",
+  "id": "459",
+  "pauta": [],
+  "startTime": "15:00",
+  "title": "24ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

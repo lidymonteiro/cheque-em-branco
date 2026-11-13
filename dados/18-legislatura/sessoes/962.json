@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/962",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/962/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/962/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/962_ata_sessao.pdf",
+      "filename": "962_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-03-12",
+  "description": "11ª Reunião Solene - 12/03/2024",
+  "endTime": "",
+  "id": "962",
+  "pauta": [],
+  "startTime": "18:12",
+  "title": "11ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

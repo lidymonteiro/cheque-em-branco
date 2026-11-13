@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/907",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/907/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/907/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/907_ata_sessao.pdf",
+      "filename": "907_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-11-28",
+  "description": "13ª Reunião Extraordinária - 28/11/2023",
+  "endTime": "12:41",
+  "id": "907",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/907_pauta_sessao.pdf",
+      "filename": "907_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:22",
+  "title": "13ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/855",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/855",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/855_anexo_819",
+          "filename": "855_anexo_819",
+          "size": "272.8 KB"
+        }
+      ],
+      "id": "819",
+      "title": "PDF da publicação da lei 18844/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-09-28",
+  "data_publicacao": "2021-09-30",
+  "description": "DISPÕE SOBRE OS PROCEDIMENTOS RELACIONADOS À HUMANIZAÇÃO DO LUTO MATERNO E PARENTAL NAS INSTITUIÇÕES DE SAÚDE DO MUNICÍPIO DO RECIFE.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=855&texto_original=1",
+      "filename": "855_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "106.8 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18844, de 28/09/2021",
+  "id": "855",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=855&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/103998",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=233",
+          "@type": "Autor",
+          "id": "233",
+          "primeiro_autor": true,
+          "title": "Samuel Salazar"
+        }
+      ],
+      "autoria_nomes": "Samuel Salazar",
+      "description": "DISPÕE SOBRE OS PROCEDIMENTOS RELACIONADOS À HUMANIZAÇÃO DO LUTO MATERNO E PARENTAL NAS INSTITUIÇÕES DE SAÚDE DO MUNICÍPIO DO RECIFE.",
+      "id": "103998",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=103998",
+      "title": "Projeto de Lei Ordinária nº 44/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTAzOTk4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18844/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-09-28",
+    "dataPromulgacaoBR": "28/09/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18844, de 28/09/2021",
+    "numNorma": 18844,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "DISPÕE SOBRE OS PROCEDIMENTOS RELACIONADOS À HUMANIZAÇÃO DO LUTO MATERNO E PARENTAL NAS INSTITUIÇÕES DE SAÚDE DO MUNICÍPIO DO RECIFE.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=855",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=855",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

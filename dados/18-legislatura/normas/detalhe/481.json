@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/481",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/481",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/481_anexo_402",
+          "filename": "481_anexo_402",
+          "size": "436.4 KB"
+        }
+      ],
+      "id": "402",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1107/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-10-02",
+  "data_publicacao": "2023-10-05",
+  "description": "Concede o Título de Cidadão do Recife ao Sr. Paulo Augusto Rodrigues Moura – Paulo Moura.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=481&texto_original=1",
+      "filename": "481_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "26.9 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1107, de 02/10/2023",
+  "id": "481",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=481&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/144453",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=203",
+          "@type": "Autor",
+          "id": "203",
+          "primeiro_autor": true,
+          "title": "Professora Ana Lúcia"
+        }
+      ],
+      "autoria_nomes": "Professora Ana Lúcia",
+      "description": "Concede o Título de Cidadão do Recife ao Sr. Paulo Augusto Rodrigues Moura – Paulo Moura.",
+      "id": "144453",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=144453",
+      "title": "Projeto de Decreto Legislativo nº 39/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ0NDUz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 40,
+  "num_pag_inicio_publ": 40,
+  "publicacao": {
+    "numPagFim": 40,
+    "numPagInicio": 40,
+    "veiculo": "DIário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1107/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-10-02",
+    "dataPromulgacaoBR": "02/10/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1107, de 02/10/2023",
+    "numNorma": 1107,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede o Título de Cidadão do Recife ao Sr. Paulo Augusto Rodrigues Moura – Paulo Moura.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=481",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=481",
+  "veiculo_publicacao": "DIário Oficial do Município"
+}

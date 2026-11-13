@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/717",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/717/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/717/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/717_ata_sessao.pdf",
+      "filename": "717_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-15",
+  "description": "24ª Reunião Ordinária - 15/05/2023",
+  "endTime": "13:04",
+  "id": "717",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/717_pauta_sessao.pdf",
+      "filename": "717_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:45",
+  "title": "24ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

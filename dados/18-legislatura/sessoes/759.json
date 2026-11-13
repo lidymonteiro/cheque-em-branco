@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/759",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/759/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/759/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/759_ata_sessao.pdf",
+      "filename": "759_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-06-26",
+  "description": "36ª Reunião Ordinária - 26/06/2023",
+  "endTime": "13:16",
+  "id": "759",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/759_pauta_sessao.pdf",
+      "filename": "759_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:49",
+  "title": "36ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

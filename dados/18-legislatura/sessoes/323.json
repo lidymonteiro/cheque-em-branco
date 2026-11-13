@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/323",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/323/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/323/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/323_ata_sessao.pdf",
+      "filename": "323_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-03-16",
+  "description": "13ª Reunião Ordinária - 16/03/2021",
+  "endTime": "13:00",
+  "id": "323",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "13ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

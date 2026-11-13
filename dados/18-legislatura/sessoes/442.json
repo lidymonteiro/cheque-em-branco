@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/442",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/442/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/442/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/442_ata_sessao.pdf",
+      "filename": "442_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-03-18",
+  "description": "10ª Reunião Solene - 18/03/2022",
+  "endTime": "",
+  "id": "442",
+  "pauta": [],
+  "startTime": "16:00",
+  "title": "10ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

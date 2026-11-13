@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/411",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/411/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/411/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/411_ata_sessao.pdf",
+      "filename": "411_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-02-14",
+  "description": "3ª Reunião Ordinária - 14/02/2022",
+  "endTime": "",
+  "id": "411",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/411_pauta_sessao.pdf",
+      "filename": "411_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "3ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

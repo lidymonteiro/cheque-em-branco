@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1122",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1122/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1122/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1122_ata_sessao.pdf",
+      "filename": "1122_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-09-30",
+  "description": "58ª Reunião Ordinária - 30/09/2024",
+  "endTime": "10:32",
+  "id": "1122",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1122_pauta_sessao.pdf",
+      "filename": "1122_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:32",
+  "title": "58ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

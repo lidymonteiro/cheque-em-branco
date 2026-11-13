@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1740",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1740",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1740_anexo_1741",
+          "filename": "1740_anexo_1741",
+          "size": "650.3 KB"
+        }
+      ],
+      "id": "1741",
+      "title": "PDF da publicação da lei 18.890/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-01-05",
+  "data_publicacao": "2022-01-08",
+  "description": "Dispõe sobre a administração e o funcionamento dos mercados públicos e seus anexos, pátios de feira, feiras livres, praças de alimentação e outros equipamentos diversos de promoção de comércio popular do Município do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1740&texto_original=1",
+      "filename": "1740_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "96.5 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18890, de 05/01/2022",
+  "id": "1740",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1740&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116479",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Dispõe sobre a administração e o funcionamento dos mercados públicos e seus anexos, pátios de feira, feiras livres, praças de alimentação e outros equipamentos diversos de promoção de comércio popular do Município do Recife.",
+      "id": "116479",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=116479",
+      "title": "Projeto de Lei do Executivo nº 43/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE2NDc5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18890/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-01-05",
+    "dataPromulgacaoBR": "05/01/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18890, de 05/01/2022",
+    "numNorma": 18890,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre a administração e o funcionamento dos mercados públicos e seus anexos, pátios de feira, feiras livres, praças de alimentação e outros equipamentos diversos de promoção de comércio popular do Município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1740",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1740",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

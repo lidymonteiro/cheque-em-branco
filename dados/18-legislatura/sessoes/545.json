@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/545",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/545/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/545/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/545_ata_sessao.pdf",
+      "filename": "545_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-08-17",
+  "description": "1ª Reunião Eleição da Comissão Executiva - 17/08/2022",
+  "endTime": "",
+  "id": "545",
+  "pauta": [],
+  "startTime": "11:00",
+  "title": "1ª Reunião Eleição da Comissão Executiva",
+  "type": "Eleição da Comissão Executiva",
+  "type_id": 7
+}

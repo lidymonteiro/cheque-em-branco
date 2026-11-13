@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/739",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/739/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/739/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/739_ata_sessao.pdf",
+      "filename": "739_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-06-06",
+  "description": "31ª Reunião Ordinária - 06/06/2023",
+  "endTime": "12:12",
+  "id": "739",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/739_pauta_sessao.pdf",
+      "filename": "739_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:12",
+  "title": "31ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

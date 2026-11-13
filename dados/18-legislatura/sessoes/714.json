@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/714",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/714/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/714/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/714_ata_sessao.pdf",
+      "filename": "714_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-05",
+  "description": "41ª Reunião Solene - 05/05/2023",
+  "endTime": "",
+  "id": "714",
+  "pauta": [],
+  "startTime": "15:10",
+  "title": "41ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

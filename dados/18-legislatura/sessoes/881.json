@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/881",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/881/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/881/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/881_ata_sessao.pdf",
+      "filename": "881_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-11-13",
+  "description": "69ª Reunião Ordinária - 13/11/2023",
+  "endTime": "13:00",
+  "id": "881",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/881_pauta_sessao.pdf",
+      "filename": "881_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:37",
+  "title": "69ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/419",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/419/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/419/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/419_ata_sessao.pdf",
+      "filename": "419_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-02-01",
+  "description": "1ª Reunião Solene - 01/02/2022",
+  "endTime": "",
+  "id": "419",
+  "pauta": [],
+  "startTime": "15:00",
+  "title": "1ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/514",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/514/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/514/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/514_ata_sessao.pdf",
+      "filename": "514_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-06-28",
+  "description": "11ª Reunião Extraordinária - 28/06/2022",
+  "endTime": "13:16",
+  "id": "514",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/514_pauta_sessao.pdf",
+      "filename": "514_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:43",
+  "title": "11ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

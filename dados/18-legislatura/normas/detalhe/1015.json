@@ -1,0 +1,100 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1015",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1015",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1015_anexo_959",
+          "filename": "1015_anexo_959",
+          "size": "342.8 KB"
+        }
+      ],
+      "id": "959",
+      "title": "pdf da Publicação da Resolução de Nº 2743/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-06-01",
+  "data_publicacao": "2021-06-08",
+  "description": "INSTITUI, NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE, A “FRENTE PARLAMENTAR PELA PRIMEIRA INFÂNCIA”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1015&texto_original=1",
+      "filename": "1015_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "579.4 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2743, de 01/06/2021",
+  "id": "1015",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1015&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/104166",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=203",
+          "@type": "Autor",
+          "id": "203",
+          "primeiro_autor": true,
+          "title": "Professora Ana Lúcia"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=208",
+          "@type": "Autor",
+          "id": "208",
+          "primeiro_autor": false,
+          "title": "Ivan Moraes"
+        }
+      ],
+      "autoria_nomes": "Professora Ana Lúcia, Ivan Moraes",
+      "description": "INSTITUI, NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE, A &#8220;FRENTE PARLAMENTAR PELA PRIMEIRA INFÂNCIA&#8221;.",
+      "id": "104166",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=104166",
+      "title": "Projeto de Resolução nº 11/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA0MTY2"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 9,
+  "num_pag_inicio_publ": 9,
+  "publicacao": {
+    "numPagFim": 9,
+    "numPagInicio": 9,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2743/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-06-01",
+    "dataPromulgacaoBR": "01/06/2021",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2743, de 01/06/2021",
+    "numNorma": 2743,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "INSTITUI, NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE, A “FRENTE PARLAMENTAR PELA PRIMEIRA INFÂNCIA”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1015",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1015",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/600",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/600",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/600_anexo_536",
+          "filename": "600_anexo_536",
+          "size": "907.6 KB"
+        }
+      ],
+      "id": "536",
+      "title": "PDF da Publicação do Decreto Legislativo 993 do dia 23/09/2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-09-16",
+  "data_publicacao": "2021-09-23",
+  "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO DR. CRISTIANO HECKSHER. ",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 993, de 16/09/2021",
+  "id": "600",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/110523",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=246",
+          "@type": "Autor",
+          "id": "246",
+          "primeiro_autor": true,
+          "title": "Tadeu Calheiros"
+        }
+      ],
+      "autoria_nomes": "Tadeu Calheiros",
+      "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ \r\nMARIANO AO DR. CRISTIANO HECKSHER. ",
+      "id": "110523",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=110523",
+      "title": "Projeto de Decreto Legislativo nº 17/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTEwNTIz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 14,
+  "num_pag_inicio_publ": 14,
+  "publicacao": {
+    "numPagFim": 14,
+    "numPagInicio": 14,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 993/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-09-16",
+    "dataPromulgacaoBR": "16/09/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 993, de 16/09/2021",
+    "numNorma": 993,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO DR. CRISTIANO HECKSHER. ",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=600",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=600",
+  "veiculo_publicacao": "Diário oficial do município"
+}

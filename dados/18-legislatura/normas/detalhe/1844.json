@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1844",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1844",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1844_anexo_1854",
+          "filename": "1844_anexo_1854",
+          "size": "258.6 KB"
+        }
+      ],
+      "id": "1854",
+      "title": "PDF da publicação da lei 19297/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-07-24",
+  "data_publicacao": "2024-07-25",
+  "description": "Dispõe sobre as diretrizes para a “Política Municipal de Estímulo, Incentivo e Promoção da Mulher Empreendedora” no município do Recife.",
+  "file": [],
+  "heading_label": "Lei Ordinária nº 19297, de 24/07/2024",
+  "id": "1844",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/121895",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=251",
+          "@type": "Autor",
+          "id": "251",
+          "primeiro_autor": true,
+          "title": "Cida Pedrosa"
+        }
+      ],
+      "autoria_nomes": "Cida Pedrosa",
+      "description": "Dispõe sobre as diretrizes para a “Política Municipal de Estímulo, Incentivo e Promoção da Mulher Empreendedora” no município do Recife.",
+      "id": "121895",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=121895",
+      "title": "Projeto de Lei Ordinária nº 98/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTIxODk1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19297/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-07-24",
+    "dataPromulgacaoBR": "24/07/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19297, de 24/07/2024",
+    "numNorma": 19297,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre as diretrizes para a “Política Municipal de Estímulo, Incentivo e Promoção da Mulher Empreendedora” no município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1844",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1844",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

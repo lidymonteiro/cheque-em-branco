@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/394",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/394/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/394/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/394_ata_sessao.pdf",
+      "filename": "394_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-11-22",
+  "description": "68ª Reunião Ordinária - 22/11/2021",
+  "endTime": "",
+  "id": "394",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/394_pauta_sessao.pdf",
+      "filename": "394_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "68ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/416",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/416/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/416/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/416_ata_sessao.pdf",
+      "filename": "416_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-02-21",
+  "description": "5ª Reunião Ordinária - 21/02/2022",
+  "endTime": "",
+  "id": "416",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/416_pauta_sessao.pdf",
+      "filename": "416_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "5ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

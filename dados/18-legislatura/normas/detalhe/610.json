@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/610",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/610",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/610_anexo_546",
+          "filename": "610_anexo_546",
+          "size": "694 KB"
+        }
+      ],
+      "id": "546",
+      "title": "PDF da Publicação do Decreto Legislativo 994 do dia 11/11/2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-11-09",
+  "data_publicacao": "2021-11-11",
+  "description": "Concede a Medalha de Mérito José Mariano ao Senhor José Roberto Tadros.\r\n",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 994, de 09/11/2021",
+  "id": "610",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/114882",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=245",
+          "@type": "Autor",
+          "id": "245",
+          "primeiro_autor": true,
+          "title": "Marco Aurélio Filho"
+        }
+      ],
+      "autoria_nomes": "Marco Aurélio Filho",
+      "description": "Concede a Medalha de Mérito José Mariano ao Senhor José Roberto Tadros.\r\n",
+      "id": "114882",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=114882",
+      "title": "Projeto de Decreto Legislativo nº 27/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE0ODgy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 35,
+  "num_pag_inicio_publ": 35,
+  "publicacao": {
+    "numPagFim": 35,
+    "numPagInicio": 35,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 994/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-11-09",
+    "dataPromulgacaoBR": "09/11/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 994, de 09/11/2021",
+    "numNorma": 994,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito José Mariano ao Senhor José Roberto Tadros.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=610",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=610",
+  "veiculo_publicacao": "Diário oficial do município"
+}

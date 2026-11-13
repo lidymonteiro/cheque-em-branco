@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/867",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/867",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/867_anexo_832",
+          "filename": "867_anexo_832",
+          "size": "576.4 KB"
+        }
+      ],
+      "id": "832",
+      "title": "PDF da publicação da lei 18863/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-11-29",
+  "data_publicacao": "2021-11-30",
+  "description": "INSTITUI A POLÍTICA MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL – PMHIS, DISPÕE SOBRE O SISTEMA MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL – SIMHIS, E INSTITUI ELEMENTOS PARA ELABORAÇÃO DO PLANO LOCAL DE HABITAÇÃO DE INTERESSE SOCIAL – PLHIS DO MUNICÍPIO DO RECIFE.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=867&texto_original=1",
+      "filename": "867_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "119 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18863, de 29/11/2021",
+  "id": "867",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=867&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/114191",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "INSTITUI A POLÍTICA MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL – PMHIS, DISPÕE SOBRE O SISTEMA MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL – SIMHIS, E INSTITUI ELEMENTOS PARA ELABORAÇÃO DO PLANO LOCAL DE HABITAÇÃO DE INTERESSE SOCIAL – PLHIS DO MUNICÍPIO DO RECIFE.",
+      "id": "114191",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=114191",
+      "title": "Projeto de Lei do Executivo nº 31/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE0MTkx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18863/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-11-29",
+    "dataPromulgacaoBR": "29/11/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18863, de 29/11/2021",
+    "numNorma": 18863,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "INSTITUI A POLÍTICA MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL – PMHIS, DISPÕE SOBRE O SISTEMA MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL – SIMHIS, E INSTITUI ELEMENTOS PARA ELABORAÇÃO DO PLANO LOCAL DE HABITAÇÃO DE INTERESSE SOCIAL – PLHIS DO MUNICÍPIO DO RECIFE.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=867",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=867",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

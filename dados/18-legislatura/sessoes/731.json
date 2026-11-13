@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/731",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/731/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/731/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/731_ata_sessao.pdf",
+      "filename": "731_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-22",
+  "description": "52ª Reunião Solene - 22/05/2023",
+  "endTime": "",
+  "id": "731",
+  "pauta": [],
+  "startTime": "15:15",
+  "title": "52ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

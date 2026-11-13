@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/425",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/425",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/425_anexo_339",
+          "filename": "425_anexo_339",
+          "size": "684.2 KB"
+        }
+      ],
+      "id": "339",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1105/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-09-18",
+  "data_publicacao": "2023-09-23",
+  "description": "Concede o Título de Cidadão do Recife ao Médico Perito “Dr. Luiz Pereira de Mello”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=425&texto_original=1",
+      "filename": "425_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "27.2 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1105, de 18/09/2023",
+  "id": "425",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=425&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/143839",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=135",
+          "@type": "Autor",
+          "id": "135",
+          "primeiro_autor": true,
+          "title": "Almir Fernando"
+        }
+      ],
+      "autoria_nomes": "Almir Fernando",
+      "description": "Concede o Título de Cidadão do Recife ao Médico Perito “Dr. Luiz Pereira de Mello”.",
+      "id": "143839",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=143839",
+      "title": "Projeto de Decreto Legislativo nº 36/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQzODM5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 23,
+  "num_pag_inicio_publ": 23,
+  "publicacao": {
+    "numPagFim": 23,
+    "numPagInicio": 23,
+    "veiculo": "DIário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1105/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-09-18",
+    "dataPromulgacaoBR": "18/09/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1105, de 18/09/2023",
+    "numNorma": 1105,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede o Título de Cidadão do Recife ao Médico Perito “Dr. Luiz Pereira de Mello”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=425",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=425",
+  "veiculo_publicacao": "DIário Oficial do Município"
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/418",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/418/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/418/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/418_ata_sessao.pdf",
+      "filename": "418_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-02-28",
+  "description": "7ª Reunião Ordinária - 28/02/2022",
+  "endTime": "",
+  "id": "418",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/418_pauta_sessao.pdf",
+      "filename": "418_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "7ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1052",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1052/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1052/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1052_ata_sessao.pdf",
+      "filename": "1052_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-05-30",
+  "description": "75ª Reunião Solene - 30/05/2024",
+  "endTime": "",
+  "id": "1052",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "75ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

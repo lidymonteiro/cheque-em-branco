@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/709",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/709/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/709/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/709_ata_sessao.pdf",
+      "filename": "709_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-09",
+  "description": "23ª Reunião Ordinária - 09/05/2023",
+  "endTime": "12:49",
+  "id": "709",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/709_pauta_sessao.pdf",
+      "filename": "709_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:08",
+  "title": "23ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

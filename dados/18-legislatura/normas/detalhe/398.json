@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/398",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/398",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/398_anexo_326",
+          "filename": "398_anexo_326",
+          "size": "487.8 KB"
+        }
+      ],
+      "id": "326",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1093/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-08-22",
+  "data_publicacao": "2023-08-24",
+  "description": "Concede o Título de Cidadã do Recife à Sra. Iva das Neves Lima de Souza.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=398&texto_original=1",
+      "filename": "398_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "26.4 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1093, de 22/08/2023",
+  "id": "398",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=398&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/139022",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=185",
+          "@type": "Autor",
+          "id": "185",
+          "primeiro_autor": true,
+          "title": "Davi Muniz"
+        }
+      ],
+      "autoria_nomes": "Davi Muniz",
+      "description": "Concede o Título de Cidadã do Recife à Sra. Iva das Neves Lima de Souza.",
+      "id": "139022",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=139022",
+      "title": "Projeto de Decreto Legislativo nº 25/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM5MDIy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 16,
+  "num_pag_inicio_publ": 16,
+  "publicacao": {
+    "numPagFim": 16,
+    "numPagInicio": 16,
+    "veiculo": "DIário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1093/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-08-22",
+    "dataPromulgacaoBR": "22/08/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1093, de 22/08/2023",
+    "numNorma": 1093,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede o Título de Cidadã do Recife à Sra. Iva das Neves Lima de Souza.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=398",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=398",
+  "veiculo_publicacao": "DIário Oficial do Município"
+}

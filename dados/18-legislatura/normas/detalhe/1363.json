@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1363",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1363",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1363_anexo_1346",
+          "filename": "1363_anexo_1346",
+          "size": "701.1 KB"
+        }
+      ],
+      "id": "1346",
+      "title": "PDF da publicação da lei 18.968/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 12,
+  "cod_situacao": 12,
+  "data_norma": "2022-07-26",
+  "data_publicacao": "2022-07-28",
+  "description": "Dispõe sobre a Política Municipal de Atenção Integral à População em situação de rua.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1363&texto_original=1",
+      "filename": "1363_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "136 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18968, de 26/07/2022",
+  "id": "1363",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1363&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/127070",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Dispõe sobre a Política Municipal de Atenção Integral à População em situação de rua.",
+      "id": "127070",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=127070",
+      "title": "Projeto de Lei do Executivo nº 23/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTI3MDcw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 6,
+  "num_pag_inicio_publ": 5,
+  "publicacao": {
+    "numPagFim": 6,
+    "numPagInicio": 5,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor, com revogação parcial",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18968/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-07-26",
+    "dataPromulgacaoBR": "26/07/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18968, de 26/07/2022",
+    "numNorma": 18968,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre a Política Municipal de Atenção Integral à População em situação de rua.",
+  "txt_observacao": "Revogação parcial pelo Ofício nº 062 GP/SEGOV ",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1363",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1363",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

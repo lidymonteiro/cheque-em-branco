@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/404",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/404/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/404/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [],
+  "date": "2021-12-14",
+  "description": "75ª Reunião Ordinária - 14/12/2021",
+  "endTime": "",
+  "id": "404",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/404_pauta_sessao.pdf",
+      "filename": "404_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "75ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

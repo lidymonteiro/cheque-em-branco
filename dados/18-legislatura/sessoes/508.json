@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/508",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/508/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/508/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/508_ata_sessao.pdf",
+      "filename": "508_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-06-16",
+  "description": "49ª Reunião Solene - 16/06/2022",
+  "endTime": "",
+  "id": "508",
+  "pauta": [],
+  "startTime": "18:25",
+  "title": "49ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

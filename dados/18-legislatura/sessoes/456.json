@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/456",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/456/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/456/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/456_ata_sessao.pdf",
+      "filename": "456_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-04-06",
+  "description": "21ª Reunião Solene - 06/04/2022",
+  "endTime": "",
+  "id": "456",
+  "pauta": [],
+  "startTime": "18:00",
+  "title": "21ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

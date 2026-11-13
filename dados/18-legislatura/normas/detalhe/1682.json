@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1682",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1682",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1682_anexo_1683",
+          "filename": "1682_anexo_1683",
+          "size": "1 MB"
+        }
+      ],
+      "id": "1683",
+      "title": "PDF da publicação da lei 18.924/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-05-13",
+  "data_publicacao": "2022-05-19",
+  "description": "Revoga a Lei Ordinária nº 17.217, de 31 de maio de 2006, que dispõe sobre a obrigatoriedade para que todos os cartões telefônicos disponíveis para venda na cidade do Recife apresentem o seu valor de comercialização impresso em sua face.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1682&texto_original=1",
+      "filename": "1682_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "41.6 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18924, de 13/05/2022",
+  "id": "1682",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1682&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/119417",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=244",
+          "@type": "Autor",
+          "id": "244",
+          "primeiro_autor": true,
+          "title": "Paulo Muniz"
+        }
+      ],
+      "autoria_nomes": "Paulo Muniz",
+      "description": "Revoga a Lei Ordinária nº 17.217, de 31 de maio de 2006, que dispõe sobre a obrigatoriedade para que todos os cartões telefônicos disponíveis para venda na cidade do Recife apresentem o seu valor de comercialização impresso em sua face.",
+      "id": "119417",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=119417",
+      "title": "Projeto de Lei Ordinária nº 3/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE5NDE3"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio "
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18924/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-05-13",
+    "dataPromulgacaoBR": "13/05/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18924, de 13/05/2022",
+    "numNorma": 18924,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Revoga a Lei Ordinária nº 17.217, de 31 de maio de 2006, que dispõe sobre a obrigatoriedade para que todos os cartões telefônicos disponíveis para venda na cidade do Recife apresentem o seu valor de comercialização impresso em sua face.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1682",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1682",
+  "veiculo_publicacao": "Diário Oficial do Munícipio "
+}

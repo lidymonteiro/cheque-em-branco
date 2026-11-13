@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/389",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/389/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/389/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/389_ata_sessao.pdf",
+      "filename": "389_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-10-26",
+  "description": "64ª Reunião Ordinária - 26/10/2021",
+  "endTime": "",
+  "id": "389",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/389_pauta_sessao.pdf",
+      "filename": "389_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "64ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

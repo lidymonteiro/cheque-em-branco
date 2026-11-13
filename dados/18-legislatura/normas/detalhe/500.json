@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/500",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/500",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/500_anexo_421",
+          "filename": "500_anexo_421",
+          "size": "335.9 KB"
+        }
+      ],
+      "id": "421",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1136/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-03-18",
+  "data_publicacao": "2024-03-21",
+  "description": "Concede o Título de Cidadão do Recife ao Sr. Álvaro Porto de Barros.\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=500&texto_original=1",
+      "filename": "500_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "25 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1136, de 18/03/2024",
+  "id": "500",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=500&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/147134",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=261",
+          "@type": "Autor",
+          "id": "261",
+          "primeiro_autor": true,
+          "title": "Victor André Gomes"
+        }
+      ],
+      "autoria_nomes": "Victor André Gomes",
+      "description": "Concede o Título de Cidadão do Recife ao Sr. Álvaro Porto de Barros.\r\n",
+      "id": "147134",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=147134",
+      "title": "Projeto de Decreto Legislativo nº 62/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ3MTM0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 41,
+  "num_pag_inicio_publ": 41,
+  "publicacao": {
+    "numPagFim": 41,
+    "numPagInicio": 41,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1136/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-03-18",
+    "dataPromulgacaoBR": "18/03/2024",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1136, de 18/03/2024",
+    "numNorma": 1136,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede o Título de Cidadão do Recife ao Sr. Álvaro Porto de Barros.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=500",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=500",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/631",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/631/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/631/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/631_ata_sessao.pdf",
+      "filename": "631_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-12-19",
+  "description": "83ª Reunião Ordinária - 19/12/2022",
+  "endTime": "12:02",
+  "id": "631",
+  "pauta": [],
+  "startTime": "09:33",
+  "title": "83ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

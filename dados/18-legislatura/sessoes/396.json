@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/396",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/396/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/396/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/396_ata_sessao.pdf",
+      "filename": "396_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-11-23",
+  "description": "14ª Reunião Extraordinária - 23/11/2021",
+  "endTime": "",
+  "id": "396",
+  "pauta": [],
+  "startTime": "16:00",
+  "title": "14ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

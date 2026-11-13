@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/415",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/415/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/415/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/415_ata_sessao.pdf",
+      "filename": "415_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-02-15",
+  "description": "1ª Reunião Extraordinária - 15/02/2022",
+  "endTime": "",
+  "id": "415",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/415_pauta_sessao.pdf",
+      "filename": "415_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "13:00",
+  "title": "1ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

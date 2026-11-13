@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/730",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/730/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/730/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/730_ata_sessao.pdf",
+      "filename": "730_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-29",
+  "description": "28ª Reunião Ordinária - 29/05/2023",
+  "endTime": "12:54",
+  "id": "730",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/730_pauta_sessao.pdf",
+      "filename": "730_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:15",
+  "title": "28ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

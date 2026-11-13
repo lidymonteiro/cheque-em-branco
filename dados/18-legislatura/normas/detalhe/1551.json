@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1551",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1551",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1551_anexo_1652",
+          "filename": "1551_anexo_1652",
+          "size": "349.4 KB"
+        }
+      ],
+      "id": "1652",
+      "title": "PDF da publicação da lei 19144 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-12-06",
+  "data_publicacao": "2023-12-07",
+  "description": "Dispõe sobre os Agentes de Contratação, Equipes de Apoio e Comissões de Contratação, no âmbito da Administração Pública Municipal direta, autárquica e fundacional, cria os cargos e funções gratificadas que indica, e altera a Lei Municipal nº 16.365, de 6 de janeiro de 1998.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1551&texto_original=1",
+      "filename": "1551_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "75.5 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19144, de 06/12/2023",
+  "id": "1551",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1551&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/145694",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Dispõe sobre os Agentes de Contratação, Equipes de Apoio e Comissões de Contratação, no âmbito da Administração Pública Municipal direta, autárquica e fundacional, cria os cargos e funções gratificadas que indica, e altera a Lei Municipal nº 16.365, de 6 de janeiro de 1998.",
+      "id": "145694",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=145694",
+      "title": "Projeto de Lei do Executivo nº 42/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ1Njk0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19144/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-12-06",
+    "dataPromulgacaoBR": "06/12/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19144, de 06/12/2023",
+    "numNorma": 19144,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre os Agentes de Contratação, Equipes de Apoio e Comissões de Contratação, no âmbito da Administração Pública Municipal direta, autárquica e fundacional, cria os cargos e funções gratificadas que indica, e altera a Lei Municipal nº 16.365, de 6 de janeiro de 1998.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1551",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1551",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1348",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1348",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1348_anexo_1329",
+          "filename": "1348_anexo_1329",
+          "size": "376.9 KB"
+        }
+      ],
+      "id": "1329",
+      "title": "PDF da publicação da lei 18.972/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-07-28",
+  "data_publicacao": "2022-08-04",
+  "description": "Revoga a Lei Ordinária nº 17.219, de 31 de maio de 2006, que Torna obrigatória a presença de ascensoristas no interior de elevadores em prédios comerciais e mistos do município do Recife e dá outras providências",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1348&texto_original=1",
+      "filename": "1348_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "41 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18972, de 28/07/2022",
+  "id": "1348",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1348&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/119415",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=244",
+          "@type": "Autor",
+          "id": "244",
+          "primeiro_autor": true,
+          "title": "Paulo Muniz"
+        }
+      ],
+      "autoria_nomes": "Paulo Muniz",
+      "description": "Revoga a Lei Ordinária nº 17.219, de 31 de maio de 2006, que Torna obrigatória a presença de ascensoristas no interior de elevadores em prédios comerciais e mistos do município do Recife e dá outras providências",
+      "id": "119415",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=119415",
+      "title": "Projeto de Lei Ordinária nº 2/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE5NDE1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18972/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-07-28",
+    "dataPromulgacaoBR": "28/07/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18972, de 28/07/2022",
+    "numNorma": 18972,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Revoga a Lei Ordinária nº 17.219, de 31 de maio de 2006, que Torna obrigatória a presença de ascensoristas no interior de elevadores em prédios comerciais e mistos do município do Recife e dá outras providências",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1348",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1348",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

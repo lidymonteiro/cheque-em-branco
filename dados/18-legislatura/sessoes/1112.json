@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1112",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1112/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1112/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1112_ata_sessao.pdf",
+      "filename": "1112_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-08-26",
+  "description": "48ª Reunião Ordinária - 26/08/2024",
+  "endTime": "11:25",
+  "id": "1112",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1112_pauta_sessao.pdf",
+      "filename": "1112_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:22",
+  "title": "48ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

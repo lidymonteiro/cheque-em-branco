@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/642",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/642/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/642/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/642_ata_sessao.pdf",
+      "filename": "642_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-02-01",
+  "description": "1ª Reunião Solene de Instalação - 01/02/2023",
+  "endTime": "11:53",
+  "id": "642",
+  "pauta": [],
+  "startTime": "11:50",
+  "title": "1ª Reunião Solene de Instalação",
+  "type": " Solene de Instalação",
+  "type_id": 4
+}

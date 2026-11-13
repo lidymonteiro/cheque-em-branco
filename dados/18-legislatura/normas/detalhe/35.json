@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/35",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/35",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/35_anexo_258",
+          "filename": "35_anexo_258",
+          "size": "319.1 KB"
+        }
+      ],
+      "id": "258",
+      "title": "PDF da publicação da lei 18779/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-01-15",
+  "data_publicacao": "2021-01-16",
+  "description": "DENOMINA DE MESTRE GERALDO DE ALMEIDA A  PRÓXIMA RUA  A SER CRIADA  NA CIDADE DO RECIFE.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=35&texto_original=1",
+      "filename": "35_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "113.4 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18779, de 15/01/2021",
+  "id": "35",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=35&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/101310",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=6",
+          "@type": "Autor",
+          "id": "6",
+          "primeiro_autor": true,
+          "title": "Antonio Luiz Neto"
+        }
+      ],
+      "autoria_nomes": "Antonio Luiz Neto",
+      "description": "DENOMINA DE MESTRE GERALDO DE ALMEIDA A  PRÓXIMA RUA  A SER CRIADA  NA CIDADE DO RECIFE.",
+      "id": "101310",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=101310",
+      "title": "Projeto de Lei Ordinária nº 180/2020",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTAxMzEw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18779/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-01-15",
+    "dataPromulgacaoBR": "15/01/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18779, de 15/01/2021",
+    "numNorma": 18779,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "DENOMINA DE MESTRE GERALDO DE ALMEIDA A  PRÓXIMA RUA  A SER CRIADA  NA CIDADE DO RECIFE.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=35",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=35",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

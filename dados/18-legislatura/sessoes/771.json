@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/771",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/771/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/771/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/771_ata_sessao.pdf",
+      "filename": "771_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-07-19",
+  "description": "39ª Reunião Ordinária - 19/07/2023",
+  "endTime": "13:59",
+  "id": "771",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/771_pauta_sessao.pdf",
+      "filename": "771_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "13:49",
+  "title": "39ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

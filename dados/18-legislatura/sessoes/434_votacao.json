@@ -1,0 +1,74 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/434/votacao",
+  "@type": "votacaoNominal",
+  "description": "4ª Reunião Extraordinária – 29/03/2022",
+  "items": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/123021",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Comissão Executiva",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "contrario": 0,
+      "description": "Dispõe sobre o reajuste da remuneração\r\ndos servidores do Poder Legislativo\r\nMunicipal e dá outras providências.",
+      "favoravel": 0,
+      "id": "123021",
+      "presidencia": 0,
+      "quorum": "Maioria absoluta",
+      "tipo_votacao": "Nominal",
+      "title": "Projeto de Lei Ordinária nº 120/2022",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116181",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Comissao",
+          "id": "226",
+          "primeiro_autor": true,
+          "title": "Comissão de Legislação e Justiça"
+        }
+      ],
+      "contrario": 0,
+      "description": "Da Comissão de Legislação e Justiça sobre o PLO 310/2021, que ALTERA A LEI MUNICIPAL Nº 16.292, DE 29 DE JANEIRO DE 1997, QUE REGULA AS ATIVIDADES DE EDIFICAÇÕES E INSTALAÇÕES, NO MUNICÍPIO DO RECIFE, E DÁ OUTRAS PROVIDÊNCIAS; pela APROVAÇÃO.",
+      "favoravel": 0,
+      "id": "116181",
+      "presidencia": 0,
+      "quorum": "Maioria absoluta",
+      "tipo_votacao": "Nominal",
+      "title": "Parecer nº 783/2021",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    }
+  ],
+  "title": "Lista de votação nominal"
+}

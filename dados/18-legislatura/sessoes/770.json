@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/770",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/770/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/770/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/770_ata_sessao.pdf",
+      "filename": "770_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-06-30",
+  "description": "78ª Reunião Solene - 30/06/2023",
+  "endTime": "",
+  "id": "770",
+  "pauta": [],
+  "startTime": "15:03",
+  "title": "78ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

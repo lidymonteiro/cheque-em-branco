@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/571",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/571/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/571/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/571_ata_sessao.pdf",
+      "filename": "571_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-09-20",
+  "description": "60ª Reunião Ordinária - 20/09/2022",
+  "endTime": "22:13",
+  "id": "571",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/571_pauta_sessao.pdf",
+      "filename": "571_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "22:11",
+  "title": "60ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

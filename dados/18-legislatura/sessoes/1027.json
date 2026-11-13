@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1027",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1027/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1027/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1027_ata_sessao.pdf",
+      "filename": "1027_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-05-09",
+  "description": "57ª Reunião Solene - 09/05/2024",
+  "endTime": "",
+  "id": "1027",
+  "pauta": [],
+  "startTime": "18:46",
+  "title": "57ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

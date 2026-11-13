@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/922",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/922/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/922/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/922_ata_sessao.pdf",
+      "filename": "922_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-12-11",
+  "description": "16ª Reunião Extraordinária - 11/12/2023",
+  "endTime": "14:35",
+  "id": "922",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/922_pauta_sessao.pdf",
+      "filename": "922_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "14:09",
+  "title": "16ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

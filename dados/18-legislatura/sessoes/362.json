@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/362",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/362/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/362/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/362_ata_sessao.pdf",
+      "filename": "362_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-08-23",
+  "description": "49ª Reunião Ordinária - 23/08/2021",
+  "endTime": "13:00",
+  "id": "362",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "49ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/916",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/916/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/916/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/916_ata_sessao.pdf",
+      "filename": "916_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-12-04",
+  "description": "178ª Reunião Solene - 04/12/2023",
+  "endTime": "",
+  "id": "916",
+  "pauta": [],
+  "startTime": "15:50",
+  "title": "178ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/546",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/546/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/546/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/546_ata_sessao.pdf",
+      "filename": "546_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-08-23",
+  "description": "69ª Reunião Solene - 23/08/2022",
+  "endTime": "",
+  "id": "546",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "69ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

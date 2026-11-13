@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/455",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/455",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/455_anexo_376",
+          "filename": "455_anexo_376",
+          "size": "370.5 KB"
+        }
+      ],
+      "id": "376",
+      "title": "PDF da Publicação do Decreto Legislativo de Nº 1046/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-08-16",
+  "data_publicacao": "2022-08-23",
+  "description": "Concede a Medalha de Mérito Olegária Mariano à Sra. Mônica Oliveira.\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=455&texto_original=1",
+      "filename": "455_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "24.7 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1046, de 16/08/2022",
+  "id": "455",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=455&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/126990",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=238",
+          "@type": "Autor",
+          "id": "238",
+          "primeiro_autor": true,
+          "title": "Dani Portela"
+        }
+      ],
+      "autoria_nomes": "Dani Portela",
+      "description": "Concede a Medalha de Mérito Olegária Mariano à Sra. Mônica Oliveira.\r\n",
+      "id": "126990",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=126990",
+      "title": "Projeto de Decreto Legislativo nº 35/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTI2OTkw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 10,
+  "num_pag_inicio_publ": 10,
+  "publicacao": {
+    "numPagFim": 10,
+    "numPagInicio": 10,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1046/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-08-16",
+    "dataPromulgacaoBR": "16/08/2022",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1046, de 16/08/2022",
+    "numNorma": 1046,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito Olegária Mariano à Sra. Mônica Oliveira.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=455",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=455",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

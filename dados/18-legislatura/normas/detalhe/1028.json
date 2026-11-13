@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1028",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1028",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1028_anexo_972",
+          "filename": "1028_anexo_972",
+          "size": "955.1 KB"
+        }
+      ],
+      "id": "972",
+      "title": "pdf da Publicação da Resolução de Nº 2755/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-11-09",
+  "data_publicacao": "2021-11-11",
+  "description": "Dispõe acerca da retomada parcial das Reuniões deliberativas plenárias presenciais e da retomada  das atividades presenciais  nas unidades administrativas na Câmara Municipal do Recife e dá outras providências.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1028&texto_original=1",
+      "filename": "1028_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "437.9 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2755, de 09/11/2021",
+  "id": "1028",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1028&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/115888",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Dispõe acerca da retomada parcial das Reuniões deliberativas plenárias presenciais e da retomada  das atividades presenciais  nas unidades administrativas na Câmara Municipal do Recife e dá outras providências.",
+      "id": "115888",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=115888",
+      "title": "Projeto de Resolução nº 35/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE1ODg4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 36,
+  "num_pag_inicio_publ": 35,
+  "publicacao": {
+    "numPagFim": 36,
+    "numPagInicio": 35,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2755/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-11-09",
+    "dataPromulgacaoBR": "09/11/2021",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2755, de 09/11/2021",
+    "numNorma": 2755,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "Dispõe acerca da retomada parcial das Reuniões deliberativas plenárias presenciais e da retomada  das atividades presenciais  nas unidades administrativas na Câmara Municipal do Recife e dá outras providências.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1028",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1028",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

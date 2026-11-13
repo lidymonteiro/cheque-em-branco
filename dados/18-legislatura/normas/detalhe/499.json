@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/499",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/499",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/499_anexo_420",
+          "filename": "499_anexo_420",
+          "size": "388.2 KB"
+        }
+      ],
+      "id": "420",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1120/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-12-11",
+  "data_publicacao": "2023-12-16",
+  "description": "Concede a Medalha de Mérito José Mariano ao Cel. PM  Fred Jorge Parente Saraiva.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=499&texto_original=1",
+      "filename": "499_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "30.1 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1120, de 11/12/2023",
+  "id": "499",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=499&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/147035",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Concede a Medalha de Mérito José Mariano ao Cel. PM  Fred Jorge Parente Saraiva.",
+      "id": "147035",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=147035",
+      "title": "Projeto de Decreto Legislativo nº 61/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ3MDM1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 32,
+  "num_pag_inicio_publ": 32,
+  "publicacao": {
+    "numPagFim": 32,
+    "numPagInicio": 32,
+    "veiculo": "DIário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1120/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-12-11",
+    "dataPromulgacaoBR": "11/12/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1120, de 11/12/2023",
+    "numNorma": 1120,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito José Mariano ao Cel. PM  Fred Jorge Parente Saraiva.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=499",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=499",
+  "veiculo_publicacao": "DIário Oficial do Município"
+}

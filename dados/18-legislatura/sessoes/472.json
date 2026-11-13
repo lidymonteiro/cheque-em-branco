@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/472",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/472/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/472/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/472_ata_sessao.pdf",
+      "filename": "472_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-05-16",
+  "description": "29ª Reunião Ordinária - 16/05/2022",
+  "endTime": "11:37",
+  "id": "472",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/472_pauta_sessao.pdf",
+      "filename": "472_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:09",
+  "title": "29ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

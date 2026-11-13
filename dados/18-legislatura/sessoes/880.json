@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/880",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/880/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/880/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/880_ata_sessao.pdf",
+      "filename": "880_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-11-07",
+  "description": "68ª Reunião Ordinária - 07/11/2023",
+  "endTime": "13:03",
+  "id": "880",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/880_pauta_sessao.pdf",
+      "filename": "880_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:05",
+  "title": "68ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

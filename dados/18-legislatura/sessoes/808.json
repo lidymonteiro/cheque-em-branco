@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/808",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/808/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/808/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/808_ata_sessao.pdf",
+      "filename": "808_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-09-01",
+  "description": "105ª Reunião Solene - 01/09/2023",
+  "endTime": "",
+  "id": "808",
+  "pauta": [],
+  "startTime": "10:09",
+  "title": "105ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

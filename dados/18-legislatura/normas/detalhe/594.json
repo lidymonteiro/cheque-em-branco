@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/594",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/594",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/594_anexo_523",
+          "filename": "594_anexo_523",
+          "size": "584.6 KB"
+        }
+      ],
+      "id": "523",
+      "title": "PDF da Publicação do Decreto Legislativo 988 do dia 05/08/2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-08-02",
+  "data_publicacao": "2021-08-05",
+  "description": "CONCEDE O TÍTULO DE CIDADÃO DO RECIFE AO EXMO. SR. JUIZ DE DIREITO, DOUTOR HERIBERTO CARVALHO GALVÃO.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 988, de 02/08/2021",
+  "id": "594",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/107328",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=247",
+          "@type": "Autor",
+          "id": "247",
+          "primeiro_autor": true,
+          "title": "Fabiano Ferraz"
+        }
+      ],
+      "autoria_nomes": "Fabiano Ferraz",
+      "description": "CONCEDE O TÍTULO DE CIDADÃO DO RECIFE AO EXMO. SR. JUIZ DE DIREITO, DOUTOR HERIBERTO CARVALHO GALVÃO.",
+      "id": "107328",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=107328",
+      "title": "Projeto de Decreto Legislativo nº 11/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA3MzI4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 14,
+  "num_pag_inicio_publ": 14,
+  "publicacao": {
+    "numPagFim": 14,
+    "numPagInicio": 14,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 988/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-08-02",
+    "dataPromulgacaoBR": "02/08/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 988, de 02/08/2021",
+    "numNorma": 988,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE O TÍTULO DE CIDADÃO DO RECIFE AO EXMO. SR. JUIZ DE DIREITO, DOUTOR HERIBERTO CARVALHO GALVÃO.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=594",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=594",
+  "veiculo_publicacao": "Diário oficial do município"
+}

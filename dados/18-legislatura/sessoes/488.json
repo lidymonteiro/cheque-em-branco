@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/488",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/488/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/488/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/488_ata_sessao.pdf",
+      "filename": "488_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-05-12",
+  "description": "40ª Reunião Solene - 12/05/2022",
+  "endTime": "",
+  "id": "488",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "40ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/699",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/699/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/699/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/699_ata_sessao.pdf",
+      "filename": "699_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-04-24",
+  "description": "30ª Reunião Solene - 24/04/2023",
+  "endTime": "",
+  "id": "699",
+  "pauta": [],
+  "startTime": "18:20",
+  "title": "30ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

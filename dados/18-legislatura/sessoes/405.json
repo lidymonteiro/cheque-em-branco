@@ -1,0 +1,16 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/405",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/405/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/405/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [],
+  "date": "2021-12-14",
+  "description": "17ª Reunião Extraordinária - 14/12/2021",
+  "endTime": "",
+  "id": "405",
+  "pauta": [],
+  "startTime": "13:00",
+  "title": "17ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/386",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/386/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/386/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/386_ata_sessao.pdf",
+      "filename": "386_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-08-17",
+  "description": "10ª Reunião Extraordinária - 17/08/2021",
+  "endTime": "",
+  "id": "386",
+  "pauta": [],
+  "startTime": "12:55",
+  "title": "10ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

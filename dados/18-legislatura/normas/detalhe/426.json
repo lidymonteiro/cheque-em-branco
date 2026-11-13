@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/426",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/426",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/426_anexo_340",
+          "filename": "426_anexo_340",
+          "size": "2.4 MB"
+        }
+      ],
+      "id": "340",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1113/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-11-13",
+  "data_publicacao": "2023-11-21",
+  "description": "CONCEDE O TÍTULO DE CIDADÃ DO RECIFE À SRA. MARGARETH MENEZES DA PURIFICAÇÃO COSTA.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=426&texto_original=1",
+      "filename": "426_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "27.2 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1113, de 13/11/2023",
+  "id": "426",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=426&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/144027",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=241",
+          "@type": "Autor",
+          "id": "241",
+          "primeiro_autor": true,
+          "title": "Joselito Ferreira"
+        }
+      ],
+      "autoria_nomes": "Joselito Ferreira",
+      "description": "CONCEDE O TÍTULO DE CIDADÃ DO RECIFE À SRA. MARGARETH MENEZES DA PURIFICAÇÃO COSTA.",
+      "id": "144027",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=144027",
+      "title": "Projeto de Decreto Legislativo nº 37/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ0MDI3"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 23,
+  "num_pag_inicio_publ": 23,
+  "publicacao": {
+    "numPagFim": 23,
+    "numPagInicio": 23,
+    "veiculo": "DIário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1113/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-11-13",
+    "dataPromulgacaoBR": "13/11/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1113, de 13/11/2023",
+    "numNorma": 1113,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE O TÍTULO DE CIDADÃ DO RECIFE À SRA. MARGARETH MENEZES DA PURIFICAÇÃO COSTA.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=426",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=426",
+  "veiculo_publicacao": "DIário Oficial do Município"
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/629",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/629/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/629/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/629_ata_sessao.pdf",
+      "filename": "629_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-12-13",
+  "description": "82ª Reunião Ordinária - 13/12/2022",
+  "endTime": "12:34",
+  "id": "629",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/629_pauta_sessao.pdf",
+      "filename": "629_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:24",
+  "title": "82ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

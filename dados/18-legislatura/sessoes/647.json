@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/647",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/647/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/647/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/647_ata_sessao.pdf",
+      "filename": "647_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-02-02",
+  "description": "1ª Reunião Solene - 02/02/2023",
+  "endTime": "",
+  "id": "647",
+  "pauta": [],
+  "startTime": "16:40",
+  "title": "1ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

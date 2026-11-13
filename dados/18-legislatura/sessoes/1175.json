@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1175",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1175/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1175/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1175_ata_sessao.pdf",
+      "filename": "1175_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-12-23",
+  "description": "12ª Reunião Extraordinária - 23/12/2024",
+  "endTime": "10:25",
+  "id": "1175",
+  "pauta": [],
+  "startTime": "08:43",
+  "title": "12ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

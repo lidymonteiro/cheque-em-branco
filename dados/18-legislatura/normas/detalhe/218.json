@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/218",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/218",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/218_anexo_223",
+          "filename": "218_anexo_223",
+          "size": "251.3 KB"
+        }
+      ],
+      "id": "223",
+      "title": "PDF da publicação da lei 19205/2024 "
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-04-11",
+  "data_publicacao": "2024-04-13",
+  "description": "Considera a Feira Domingo na Rua, conhecida como “Feira do Bom Jesus”, Patrimônio Turístico e Cultural do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=218&texto_original=1",
+      "filename": "218_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "57.3 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19205, de 11/04/2024",
+  "id": "218",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=218&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/114908",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=245",
+          "@type": "Autor",
+          "id": "245",
+          "primeiro_autor": true,
+          "title": "Marco Aurélio Filho"
+        }
+      ],
+      "autoria_nomes": "Marco Aurélio Filho",
+      "description": "Considera a Feira Domingo na Rua, conhecida como “Feira do Bom Jesus”, Patrimônio Turístico e Cultural do Recife.",
+      "id": "114908",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=114908",
+      "title": "Projeto de Lei Ordinária nº 357/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE0OTA4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19205/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-04-11",
+    "dataPromulgacaoBR": "11/04/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19205, de 11/04/2024",
+    "numNorma": 19205,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Considera a Feira Domingo na Rua, conhecida como “Feira do Bom Jesus”, Patrimônio Turístico e Cultural do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=218",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=218",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/613",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/613/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/613/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/613_ata_sessao.pdf",
+      "filename": "613_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-12-05",
+  "description": "79ª Reunião Ordinária - 05/12/2022",
+  "endTime": "13:12",
+  "id": "613",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/613_pauta_sessao.pdf",
+      "filename": "613_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:27",
+  "title": "79ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

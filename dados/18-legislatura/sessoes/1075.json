@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1075",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1075/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1075/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1075_ata_sessao.pdf",
+      "filename": "1075_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-06-13",
+  "description": "93ª Reunião Solene - 13/06/2024",
+  "endTime": "",
+  "id": "1075",
+  "pauta": [],
+  "startTime": "18:29",
+  "title": "93ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

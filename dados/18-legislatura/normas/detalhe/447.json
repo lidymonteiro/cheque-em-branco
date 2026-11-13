@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/447",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/447",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/447_anexo_367",
+          "filename": "447_anexo_367",
+          "size": "370.5 KB"
+        }
+      ],
+      "id": "367",
+      "title": "PDF da Publicação do Decreto Legislativo de Nº 1047/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-08-16",
+  "data_publicacao": "2022-08-23",
+  "description": "Concede a Medalha de Mérito José Mariano ao Senhor Manoel Ferreira da Silva.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=447&texto_original=1",
+      "filename": "447_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "27.9 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1047, de 16/08/2022",
+  "id": "447",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=447&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/125643",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=213",
+          "@type": "Autor",
+          "id": "213",
+          "primeiro_autor": true,
+          "title": "Renato Antunes"
+        }
+      ],
+      "autoria_nomes": "Renato Antunes",
+      "description": "Concede a Medalha de Mérito José Mariano ao Senhor Manoel Ferreira da Silva.",
+      "id": "125643",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=125643",
+      "title": "Projeto de Decreto Legislativo nº 25/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTI1NjQz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 10,
+  "num_pag_inicio_publ": 10,
+  "publicacao": {
+    "numPagFim": 10,
+    "numPagInicio": 10,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1047/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-08-16",
+    "dataPromulgacaoBR": "16/08/2022",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1047, de 16/08/2022",
+    "numNorma": 1047,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito José Mariano ao Senhor Manoel Ferreira da Silva.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=447",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=447",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

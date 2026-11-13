@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1156",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1156/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1156/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1156_ata_sessao.pdf",
+      "filename": "1156_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-11-26",
+  "description": "132ª Reunião Solene - 26/11/2024",
+  "endTime": "",
+  "id": "1156",
+  "pauta": [],
+  "startTime": "18:29",
+  "title": "132ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

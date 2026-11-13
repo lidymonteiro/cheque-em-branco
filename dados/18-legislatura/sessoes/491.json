@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/491",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/491/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/491/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/491_ata_sessao.pdf",
+      "filename": "491_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-05-23",
+  "description": "31ª Reunião Ordinária - 23/05/2022",
+  "endTime": "",
+  "id": "491",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/491_pauta_sessao.pdf",
+      "filename": "491_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "31ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

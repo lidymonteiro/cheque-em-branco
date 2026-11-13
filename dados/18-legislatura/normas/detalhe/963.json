@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/963",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/963",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/963_anexo_895",
+          "filename": "963_anexo_895",
+          "size": "406.6 KB"
+        }
+      ],
+      "id": "895",
+      "title": "pdf da Publicação da Resolução de Nº 2798/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-10-25",
+  "data_publicacao": "2023-10-26",
+  "description": "Autorizar o Vereador PAULO SERGIO MOREIRA MUNIZ FILHO a ausentar-se do país no período de 20 de novembro de 2023 a 28 de novembro de 2023.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=963&texto_original=1",
+      "filename": "963_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "46 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2798, de 25/10/2023",
+  "id": "963",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=963&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/145513",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Autorizar o Vereador PAULO SERGIO MOREIRA MUNIZ FILHO a ausentar-se do país no período de 20 de novembro de 2023 a 28 de novembro de 2023.",
+      "id": "145513",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=145513",
+      "title": "Projeto de Resolução nº 30/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ1NTEz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 33,
+  "num_pag_inicio_publ": 33,
+  "publicacao": {
+    "numPagFim": 33,
+    "numPagInicio": 33,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2798/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-10-25",
+    "dataPromulgacaoBR": "25/10/2023",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2798, de 25/10/2023",
+    "numNorma": 2798,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "Autorizar o Vereador PAULO SERGIO MOREIRA MUNIZ FILHO a ausentar-se do país no período de 20 de novembro de 2023 a 28 de novembro de 2023.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=963",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=963",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

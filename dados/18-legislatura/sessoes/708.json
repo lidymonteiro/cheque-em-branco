@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/708",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/708/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/708/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/708_ata_sessao.pdf",
+      "filename": "708_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-08",
+  "description": "22ª Reunião Ordinária - 08/05/2023",
+  "endTime": "12:28",
+  "id": "708",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/708_pauta_sessao.pdf",
+      "filename": "708_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:33",
+  "title": "22ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

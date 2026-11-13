@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/370",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/370",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/370_anexo_312",
+          "filename": "370_anexo_312",
+          "size": "487.8 KB"
+        }
+      ],
+      "id": "312",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1091/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-08-22",
+  "data_publicacao": "2023-08-24",
+  "description": "Concede a Medalha de Mérito José Mariano ao Secretário Executivo de Articulação Política do Recife, Tarcísio Montenegro Amaral Ribeiro.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=370&texto_original=1",
+      "filename": "370_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "29.2 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1091, de 22/08/2023",
+  "id": "370",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=370&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/136832",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=202",
+          "@type": "Autor",
+          "id": "202",
+          "primeiro_autor": true,
+          "title": "Natália de Menudo"
+        }
+      ],
+      "autoria_nomes": "Natália de Menudo",
+      "description": "Concede a Medalha de Mérito José Mariano ao Secretário Executivo de Articulação Política do Recife, Tarcísio Montenegro Amaral Ribeiro.",
+      "id": "136832",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=136832",
+      "title": "Projeto de Decreto Legislativo nº 13/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM2ODMy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 16,
+  "num_pag_inicio_publ": 16,
+  "publicacao": {
+    "numPagFim": 16,
+    "numPagInicio": 16,
+    "veiculo": "DIário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1091/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-08-22",
+    "dataPromulgacaoBR": "22/08/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1091, de 22/08/2023",
+    "numNorma": 1091,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito José Mariano ao Secretário Executivo de Articulação Política do Recife, Tarcísio Montenegro Amaral Ribeiro.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=370",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=370",
+  "veiculo_publicacao": "DIário Oficial do Município"
+}

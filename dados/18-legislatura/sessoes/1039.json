@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1039",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1039/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1039/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1039_ata_sessao.pdf",
+      "filename": "1039_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-05-21",
+  "description": "65ª Reunião Solene - 21/05/2024",
+  "endTime": "",
+  "id": "1039",
+  "pauta": [],
+  "startTime": "15:13",
+  "title": "65ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

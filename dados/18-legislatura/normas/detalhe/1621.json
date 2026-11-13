@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1621",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1621",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1621_anexo_1614",
+          "filename": "1621_anexo_1614",
+          "size": "302.9 KB"
+        }
+      ],
+      "id": "1614",
+      "title": "PDF da publicação da lei 18.933/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-06-07",
+  "data_publicacao": "2022-06-09",
+  "description": "Denomina “Avenida Arlindo dos 8 (oito) Baixos” a Avenida paralela à Avenida Hildebrando de Vasconcelos, próxima ao Rio Beberibe, Bairro Dois Unidos, no município do Recife.\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1621&texto_original=1",
+      "filename": "1621_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "41.1 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18933, de 07/06/2022",
+  "id": "1621",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1621&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/117659",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=233",
+          "@type": "Autor",
+          "id": "233",
+          "primeiro_autor": true,
+          "title": "Samuel Salazar"
+        }
+      ],
+      "autoria_nomes": "Samuel Salazar",
+      "description": "Denomina “Avenida Arlindo dos 8 (oito) Baixos” a Avenida paralela à Avenida Hildebrando de Vasconcelos, próxima ao Rio Beberibe, Bairro Dois Unidos, no município do Recife.\r\n",
+      "id": "117659",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=117659",
+      "title": "Projeto de Lei Ordinária nº 414/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE3NjU5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18933/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-06-07",
+    "dataPromulgacaoBR": "07/06/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18933, de 07/06/2022",
+    "numNorma": 18933,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Denomina “Avenida Arlindo dos 8 (oito) Baixos” a Avenida paralela à Avenida Hildebrando de Vasconcelos, próxima ao Rio Beberibe, Bairro Dois Unidos, no município do Recife.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1621",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1621",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

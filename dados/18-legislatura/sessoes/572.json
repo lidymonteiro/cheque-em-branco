@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/572",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/572/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/572/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/572_ata_sessao.pdf",
+      "filename": "572_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-09-14",
+  "description": "86ª Reunião Solene - 14/09/2022",
+  "endTime": "",
+  "id": "572",
+  "pauta": [],
+  "startTime": "15:20",
+  "title": "86ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

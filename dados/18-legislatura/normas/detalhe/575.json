@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/575",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/575",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/575_anexo_493",
+          "filename": "575_anexo_493",
+          "size": "613.6 KB"
+        }
+      ],
+      "id": "493",
+      "title": "PDF da Publicação do Decreto Legislativo 981 do dia 08/06/2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-07-05",
+  "data_publicacao": "2021-06-08",
+  "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO À SENHORA INALDETE PINHEIRO DE ANDRADE.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 981, de 05/07/2021",
+  "id": "575",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/105151",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=251",
+          "@type": "Autor",
+          "id": "251",
+          "primeiro_autor": true,
+          "title": "Cida Pedrosa"
+        }
+      ],
+      "autoria_nomes": "Cida Pedrosa",
+      "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO À SENHORA INALDETE PINHEIRO DE ANDRADE.",
+      "id": "105151",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=105151",
+      "title": "Projeto de Decreto Legislativo nº 7/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA1MTUx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 9,
+  "num_pag_inicio_publ": 9,
+  "publicacao": {
+    "numPagFim": 9,
+    "numPagInicio": 9,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 981/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-07-05",
+    "dataPromulgacaoBR": "05/07/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 981, de 05/07/2021",
+    "numNorma": 981,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO À SENHORA INALDETE PINHEIRO DE ANDRADE.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=575",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=575",
+  "veiculo_publicacao": "Diário oficial do município"
+}

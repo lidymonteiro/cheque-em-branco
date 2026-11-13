@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/577",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/577/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/577/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/577_ata_sessao.pdf",
+      "filename": "577_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-09-27",
+  "description": "62ª Reunião Ordinária - 27/09/2022",
+  "endTime": "11:15",
+  "id": "577",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/577_pauta_sessao.pdf",
+      "filename": "577_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:29",
+  "title": "62ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

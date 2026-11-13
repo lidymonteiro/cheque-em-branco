@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1739",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1739",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1739_anexo_1740",
+          "filename": "1739_anexo_1740",
+          "size": "311.4 KB"
+        }
+      ],
+      "id": "1740",
+      "title": "PDF da publicação da lei 18.891/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-01-05",
+  "data_publicacao": "2022-01-08",
+  "description": "VEDA A NOMEAÇÃO PARA CARGOS EM COMISSÃO DE PESSOAS QUE TENHAM SIDO CONDENADAS PELAS LEIS FEDERAIS Nº 11.340, DE 7 DE AGOSTO DE 2006 (LEI MARIA DA PENHA) E Nº 13.104, DE 9 DE MARÇO DE 2015 (LEI DO FEMINICÍDIO), NO ÂMBITO DO MUNICÍPIO DO RECIFE.\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1739&texto_original=1",
+      "filename": "1739_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "77.4 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18891, de 05/01/2022",
+  "id": "1739",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1739&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/108851",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=253",
+          "@type": "Autor",
+          "id": "253",
+          "primeiro_autor": true,
+          "title": "Doduel Varela"
+        }
+      ],
+      "autoria_nomes": "Doduel Varela",
+      "description": "VEDA A NOMEAÇÃO PARA CARGOS EM COMISSÃO DE PESSOAS QUE TENHAM SIDO CONDENADAS PELAS LEIS FEDERAIS Nº 11.340, DE 7 DE AGOSTO DE 2006 (LEI MARIA DA PENHA) E Nº 13.104, DE 9 DE MARÇO DE 2015 (LEI DO FEMINICÍDIO), NO ÂMBITO DO MUNICÍPIO DO RECIFE.\r\n",
+      "id": "108851",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=108851",
+      "title": "Projeto de Lei Ordinária nº 219/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA4ODUx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18891/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-01-05",
+    "dataPromulgacaoBR": "05/01/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18891, de 05/01/2022",
+    "numNorma": 18891,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "VEDA A NOMEAÇÃO PARA CARGOS EM COMISSÃO DE PESSOAS QUE TENHAM SIDO CONDENADAS PELAS LEIS FEDERAIS Nº 11.340, DE 7 DE AGOSTO DE 2006 (LEI MARIA DA PENHA) E Nº 13.104, DE 9 DE MARÇO DE 2015 (LEI DO FEMINICÍDIO), NO ÂMBITO DO MUNICÍPIO DO RECIFE.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1739",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1739",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

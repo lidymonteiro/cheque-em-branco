@@ -1,0 +1,16 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/403",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/403/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/403/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [],
+  "date": "2021-12-13",
+  "description": "16ª Reunião Extraordinária - 13/12/2021",
+  "endTime": "",
+  "id": "403",
+  "pauta": [],
+  "startTime": "13:00",
+  "title": "16ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

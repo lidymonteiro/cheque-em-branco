@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/37",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/37",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/37_anexo_28",
+          "filename": "37_anexo_28",
+          "size": "263.6 KB"
+        }
+      ],
+      "id": "28",
+      "title": "PDF da publicação da lei 19.019/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-12-28",
+  "data_publicacao": "2022-12-29",
+  "description": "Inclui, no Calendário Oficial de Eventos do Município do Recife, o Concurso “Comida di Buteco”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=37&texto_original=1",
+      "filename": "37_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "57.7 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19019, de 28/12/2022",
+  "id": "37",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=37&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/122090",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=135",
+          "@type": "Autor",
+          "id": "135",
+          "primeiro_autor": true,
+          "title": "Almir Fernando"
+        }
+      ],
+      "autoria_nomes": "Almir Fernando",
+      "description": "Inclui, no Calendário Oficial de Eventos do Município do Recife, o Concurso “Comida di Buteco”.",
+      "id": "122090",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=122090",
+      "title": "Projeto de Lei Ordinária nº 109/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTIyMDkw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19019/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-12-28",
+    "dataPromulgacaoBR": "28/12/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19019, de 28/12/2022",
+    "numNorma": 19019,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Inclui, no Calendário Oficial de Eventos do Município do Recife, o Concurso “Comida di Buteco”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=37",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=37",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/641",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/641/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/641/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/641_ata_sessao.pdf",
+      "filename": "641_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-02-07",
+  "description": "1ª Reunião Ordinária - 07/02/2023",
+  "endTime": "",
+  "id": "641",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/641_pauta_sessao.pdf",
+      "filename": "641_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "1ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

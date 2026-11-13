@@ -1,0 +1,1512 @@
+{
+  "@type": "Vereador",
+  "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/175",
+  "id": "175",
+  "_scope": "all",
+  "title": "Renato Antunes",
+  "description": "Renato Antunes",
+  "nome_exibicao": "Renato Antunes",
+  "nome_exibicao_partido": "Renato Antunes",
+  "email": "renatoiabv@yahoo.com.br",
+  "telefone_gabinete": "(81) 3301-1277",
+  "whatsapp_gabinete": "",
+  "cod_autor": "213",
+  "em_exercicio": false,
+  "partido_atual": {
+    "sgl": "PL",
+    "nome": "Partido Liberal",
+    "cod_partido": 10,
+    "url_logo": ""
+  },
+  "biografia": "<p>Renato Antunes, casado com Túlia, pai de Renan e Théo, é recifense, nascido em 16 janeiro de 1981. Formado em Ciências Contábeis pela Universidade Federal de Pernambuco, é pós graduado em Gestão Pública. Servidor público de carreira do Estado de Pernambuco, ocupa o cargo de Gestor Governamental, desde 2011. Foi integrante das fileiras do Exército Brasileiro, onde ingressou como aluno do Centro de Preparação de Oficiais da Reserva do Recife - CPOR/Recife. Aluno dedicado, foi classificado em primeiro lugar no universo de 144 alunos, sendo declarado Aspirante à oficial de Infantaria do Exército Brasileiro no ano de 2000. Ao longo de oito anos de serviço militar desempenhou funções técnicas e operacionais, demonstrando elevado grau de disciplina e liderança. Na vida militar aprendeu a cultivar os valores da cidadania, respeito ao próximo, disciplina e da ética. No ano 2007 teve sua primeira experiência no legislativo municipal, quando fez parte do Parlamento Jovem do Recife, sendo este momento um marco para sua caminhada política na cidade. Enquanto Gestor público, desenvolveu atividades na Central de Licitações do Estado, e ocupou a Diretoria de Gestão da Empresa Pernambucana de Transportes Intermunicipais( EPTI ), saindo de lá para disputa de mandato eletivo nas eleições municipais de 2016, onde depois de uma linda e voluntária campanha foi eleito vereador da Cidade do Recife pelo Partido Social Cristão, com o voto de 4.261 eleitores. Na Câmara Municipal pretende utilizar da experiência técnica para apresentar soluções aos problemas enfrentados na cidade. Evangélico, o mandato será pautado pelo diálogo , respeito e que consiga englobar todos os recifenses. <br><br><strong>As informações acima são de responsabilidade do Gabinete do Vereador Renato Antunes e foram atualizadas em 31 de Janeiro de 2017.</strong></p>",
+  "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/175_foto_parlamentar&v=1793522508171674359",
+  "image": [
+    {
+      "content-type": "image/png",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/175_foto_parlamentar&v=1793522508171674359",
+      "filename": "175_foto_parlamentar",
+      "width": "350",
+      "height": "350",
+      "size": "96626"
+    }
+  ],
+  "labels": {
+    "reuniao_sessao": "Reunião",
+    "reuniao_sessao_plural": "Reuniões",
+    "nome_mesa": "Comissão Executiva"
+  },
+  "ui": {
+    "showFrequencia": true,
+    "showVotacao": true
+  },
+  "filiacoes": [
+    {
+      "data_filiacao": "1-01-01",
+      "data_desfiliacao": "2022-03-04",
+      "filiacao_atual": false,
+      "token": "PSC",
+      "title": "Partido Social Cristão"
+    },
+    {
+      "data_filiacao": "2022-03-04",
+      "data_desfiliacao": "",
+      "filiacao_atual": true,
+      "token": "PL",
+      "title": "Partido Liberal"
+    }
+  ],
+  "mandatos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@legislaturas/18",
+      "@type": "Mandato",
+      "id": 18,
+      "votos": 8104,
+      "start": "2021-01-01",
+      "end": "2023-01-31",
+      "natureza": "Titular",
+      "legislatura_ano_inicio": 2021,
+      "legislatura_ano_fim": 2024
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@legislaturas/17",
+      "@type": "Mandato",
+      "id": 17,
+      "votos": 4261,
+      "start": "2017-01-01",
+      "end": "2020-12-31",
+      "natureza": "Titular",
+      "legislatura_ano_inicio": 2017,
+      "legislatura_ano_fim": 2020
+    }
+  ],
+  "mesas": [],
+  "comissoes": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/51",
+      "@type": "ParticipanteComissao",
+      "id": "51",
+      "title": "Membro Efetivo",
+      "comissao": "Comissão de Legislação e Justiça",
+      "cod_cargo": 3,
+      "start": "2021-02-11",
+      "end": "2022-12-31",
+      "description": "11/02/2021 a 31/12/2022",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/54",
+      "@type": "ParticipanteComissao",
+      "id": "54",
+      "title": "Suplente",
+      "comissao": "Comissão de Políticas Públicas da Juventude",
+      "cod_cargo": 14,
+      "start": "2021-02-11",
+      "end": "2022-12-31",
+      "description": "11/02/2021 a 31/12/2022",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/61",
+      "@type": "ParticipanteComissao",
+      "id": "61",
+      "title": "Membro Efetivo",
+      "comissao": "Comissão Mista para opinar sobre as contas do Poder Executivo",
+      "cod_cargo": 3,
+      "start": "2021-02-11",
+      "end": "2022-12-31",
+      "description": "11/02/2021 a 31/12/2022",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/51",
+      "@type": "ParticipanteComissao",
+      "id": "51",
+      "title": "Membro Efetivo",
+      "comissao": "Comissão de Legislação e Justiça",
+      "cod_cargo": 3,
+      "start": "2019-01-01",
+      "end": "2020-12-31",
+      "description": "01/01/2019 a 31/12/2020",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31",
+      "@type": "ParticipanteComissao",
+      "id": "31",
+      "title": "Suplente",
+      "comissao": "Comissão de Educação, Cultura, Turismo e Esportes",
+      "cod_cargo": 14,
+      "start": "2019-01-01",
+      "end": "2020-12-31",
+      "description": "01/01/2019 a 31/12/2020",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/50",
+      "@type": "ParticipanteComissao",
+      "id": "50",
+      "title": "Suplente",
+      "comissao": "Comissão de Finanças e Orçamento",
+      "cod_cargo": 14,
+      "start": "2019-01-01",
+      "end": "2020-12-31",
+      "description": "01/01/2019 a 31/12/2020",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/56",
+      "@type": "ParticipanteComissao",
+      "id": "56",
+      "title": "Suplente",
+      "comissao": "Comissão de Redação",
+      "cod_cargo": 14,
+      "start": "2019-01-01",
+      "end": "2020-12-31",
+      "description": "01/01/2019 a 31/12/2020",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/50",
+      "@type": "ParticipanteComissao",
+      "id": "50",
+      "title": "Suplente",
+      "comissao": "Comissão de Finanças e Orçamento",
+      "cod_cargo": 14,
+      "start": "2017-05-09",
+      "end": "2018-12-31",
+      "description": "09/05/2017 a 31/12/2018",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/51",
+      "@type": "ParticipanteComissao",
+      "id": "51",
+      "title": "Suplente",
+      "comissao": "Comissão de Legislação e Justiça",
+      "cod_cargo": 14,
+      "start": "2017-05-09",
+      "end": "2018-12-31",
+      "description": "09/05/2017 a 31/12/2018",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/56",
+      "@type": "ParticipanteComissao",
+      "id": "56",
+      "title": "Suplente",
+      "comissao": "Comissão de Redação",
+      "cod_cargo": 14,
+      "start": "2017-05-09",
+      "end": "2018-12-31",
+      "description": "09/05/2017 a 31/12/2018",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31",
+      "@type": "ParticipanteComissao",
+      "id": "31",
+      "title": "Vice-Presidente",
+      "comissao": "Comissão de Educação, Cultura, Turismo e Esportes",
+      "cod_cargo": 2,
+      "start": "2017-02-06",
+      "end": "2018-12-31",
+      "description": "06/02/2017 a 31/12/2018",
+      "mandato": "Titular"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/42",
+      "@type": "ParticipanteComissao",
+      "id": "42",
+      "title": "Suplente",
+      "comissao": "Finanças, Orçamento e Desenvolvimento Econômico-inativa",
+      "cod_cargo": 14,
+      "start": "2017-02-06",
+      "end": "2018-12-31",
+      "description": "06/02/2017 a 31/12/2018",
+      "mandato": "Suplente"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/41",
+      "@type": "ParticipanteComissao",
+      "id": "41",
+      "title": "Suplente",
+      "comissao": "Legislação, Justiça e Redação-inativa",
+      "cod_cargo": 14,
+      "start": "2017-02-06",
+      "end": "2018-12-31",
+      "description": "06/02/2017 a 31/12/2018",
+      "mandato": "Suplente"
+    }
+  ],
+  "proposicoes": {
+    "page": 1,
+    "page_size": 10,
+    "ordem_dat_apresentacao": "desc",
+    "total": 1932,
+    "items": [
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=132656",
+        "id": "132656",
+        "title": "REQ 12453/2022",
+        "ementa": "Indicação à Presidente da EMLURB para retirar os entulhos da Rua Professor José Amarino dos Reis, no bairro do Alto Santa Terezinha.",
+        "data_apresentacao": "06/12/2022",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2022",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=132580",
+        "id": "132580",
+        "title": "REQ 12379/2022",
+        "ementa": "Indicação à Presidente da EMLURB para determinar a religação das luminárias da Ponte do Santana, Rua Souza Bandeira, no bairro da Torre.",
+        "data_apresentacao": "01/12/2022",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2022",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=132390",
+        "id": "132390",
+        "title": "REQ 12199/2022",
+        "ementa": "Indicação à Presidente da EMLURB para determinar a realização dos serviços de recapeamento e de drenagem em toda extensão da Rua Apuiarés no bairro  da Torre.",
+        "data_apresentacao": "28/11/2022",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2022",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=132386",
+        "id": "132386",
+        "title": "REQ 12195/2022",
+        "ementa": "Indicação à Presidente da EMLURB para determinar a realização dos serviços de capinação, de reposição de paralelepípedos e de poda em toda a extensão da Via, principalmente em frente aos números 792, 410, 435, 256, Rua José de Holanda, no bairro da  Torre.",
+        "data_apresentacao": "28/11/2022",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2022",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=132383",
+        "id": "132383",
+        "title": "REQ 12192/2022",
+        "ementa": "Indicação à Presidente da EMLURB para determinar os serviços de implantação de cestas de basquete, de telas de proteção ao redor da quadra, de retirada de entulhos, de pintura com a marcação da quadra e de implantação de refletores, na Rua Ciclovia República da Argélia ,no bairro do  Cordeiro.",
+        "data_apresentacao": "28/11/2022",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2022",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=132382",
+        "id": "132382",
+        "title": "REQ 12191/2022",
+        "ementa": "Indicação à Presidente da EMLURB para determinar a realização dos serviços de reposição de paralelepípedos, de capinação e de poda em toda a extensão da Via, principalmente em frente números 792, 410, 435, 256, Rua Pio IX, no bairro da Madalena.",
+        "data_apresentacao": "28/11/2022",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2022",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=132380",
+        "id": "132380",
+        "title": "REQ 12189/2022",
+        "ementa": "Indicação à Presidente da EMLURB para determinar a realização dos serviços de poda em frente aos números 824, 661, 547, 515, de capinação, de desobstrução das canaletas no trecho do Conjunto Habitacional da Torre e de desobstrução e de troca de tampa das canaletas no cruzamento com a Rua Pio IX e a Rua José de Holanda, no bairro da Torre.",
+        "data_apresentacao": "28/11/2022",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2022",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=132375",
+        "id": "132375",
+        "title": "REQ 12184/2022",
+        "ementa": "Indicação à Presidente da EMLURB para determinar a realização dos serviços de terraplanagem e recapeamento drenagem varrição capinação e de desobstrução de canaletas em toda a extensão da Rua Tapaua, no bairro da Torre.",
+        "data_apresentacao": "28/11/2022",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2022",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=132373",
+        "id": "132373",
+        "title": "REQ 12182/2022",
+        "ementa": "Indicação à Presidente da EMLURB para determinar a realização dos serviços de poda, de capinação, de reconstrução e de desobstrução das canaletas no trecho do Conjunto Habitacional da Torre, assim como o serviço de troca de tampa de canaleta, ao lado do conjunto Habitacional da Torre, Rua Antônio de Pádua M. Fernandes, no bairro da  Torre.",
+        "data_apresentacao": "28/11/2022",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2022",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=132368",
+        "id": "132368",
+        "title": "REQ 12177/2022",
+        "ementa": "Indicação à Presidente da EMLURB para determinar a realização dos serviços de varrição, de capinação e de desobstrução de canaletas em frente ao nº 10 B, do na  Rua Lagoa do Rancho, no bairro da Torre.",
+        "data_apresentacao": "28/11/2022",
+        "tipo": "Requerimento",
+        "item_kind": "materia",
+        "emenda_impositiva": false,
+        "ano": "2022",
+        "ultima_votacao_resultado": "Aprovado",
+        "ultima_votacao_kind": "votacao"
+      }
+    ],
+    "filters": {
+      "tipo": "",
+      "ano": "",
+      "tipo_desc": ""
+    },
+    "facets_todos": {
+      "tipo": [
+        {
+          "value": "em:emenda",
+          "label": "Emenda",
+          "count": 10
+        },
+        {
+          "value": "PDL",
+          "label": "Projeto de Decreto Legislativo",
+          "count": 13
+        },
+        {
+          "value": "PLO",
+          "label": "Projeto de Lei Ordinária",
+          "count": 25
+        },
+        {
+          "value": "PRES",
+          "label": "Projeto de Resolução",
+          "count": 1
+        },
+        {
+          "value": "REQ",
+          "label": "Requerimento",
+          "count": 1883
+        }
+      ],
+      "ano": [
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 325
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 659
+        },
+        {
+          "value": "2020",
+          "label": "2020",
+          "count": 389
+        },
+        {
+          "value": "2019",
+          "label": "2019",
+          "count": 93
+        },
+        {
+          "value": "2018",
+          "label": "2018",
+          "count": 91
+        },
+        {
+          "value": "2017",
+          "label": "2017",
+          "count": 375
+        }
+      ]
+    },
+    "facets": {
+      "tipo": [
+        {
+          "value": "em:emenda",
+          "label": "Emenda",
+          "count": 10
+        },
+        {
+          "value": "PDL",
+          "label": "Projeto de Decreto Legislativo",
+          "count": 13
+        },
+        {
+          "value": "PLO",
+          "label": "Projeto de Lei Ordinária",
+          "count": 25
+        },
+        {
+          "value": "PRES",
+          "label": "Projeto de Resolução",
+          "count": 1
+        },
+        {
+          "value": "REQ",
+          "label": "Requerimento",
+          "count": 1883
+        }
+      ],
+      "ano": [
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 325
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 659
+        },
+        {
+          "value": "2020",
+          "label": "2020",
+          "count": 389
+        },
+        {
+          "value": "2019",
+          "label": "2019",
+          "count": 93
+        },
+        {
+          "value": "2018",
+          "label": "2018",
+          "count": 91
+        },
+        {
+          "value": "2017",
+          "label": "2017",
+          "count": 375
+        }
+      ],
+      "xy": [
+        {
+          "tipo": "PDL",
+          "ano": "2017",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2017",
+          "count": 3
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2017",
+          "count": 371
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2018",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2018",
+          "count": 4
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2018",
+          "count": 86
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2019",
+          "count": 3
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2019",
+          "count": 6
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2019",
+          "count": 84
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2020",
+          "count": 3
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2020",
+          "count": 3
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2020",
+          "count": 383
+        },
+        {
+          "tipo": "em:emenda",
+          "ano": "2021",
+          "count": 10
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2021",
+          "count": 6
+        },
+        {
+          "tipo": "PRES",
+          "ano": "2021",
+          "count": 1
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2021",
+          "count": 642
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2022",
+          "count": 5
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2022",
+          "count": 3
+        },
+        {
+          "tipo": "REQ",
+          "ano": "2022",
+          "count": 317
+        }
+      ]
+    }
+  },
+  "relatorias": {
+    "page": 1,
+    "page_size": 10,
+    "ordem_dat_apresentacao": "desc",
+    "total": 11,
+    "items": [
+      {
+        "id": "535",
+        "title": "PDL 31/2022",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=126807",
+        "comissao": "Comissão de Legislação e Justiça",
+        "num_parecer": 197,
+        "ano_parecer": 2022,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "08/06/2022",
+        "data_designacao": "20/06/2022",
+        "data_destituicao": "20/06/2022",
+        "tipo": "Projeto de Decreto Legislativo",
+        "ano": "2022"
+      },
+      {
+        "id": "777",
+        "title": "PLO 191/2022",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=125588",
+        "comissao": "Comissão de Legislação e Justiça",
+        "num_parecer": 237,
+        "ano_parecer": 2022,
+        "conclusao_parecer": "Contrário",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "17/05/2022",
+        "data_designacao": "25/08/2022",
+        "data_destituicao": "25/08/2022",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2022"
+      },
+      {
+        "id": "426",
+        "title": "PLO 121/2022",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=123101",
+        "comissao": "Comissão de Legislação e Justiça",
+        "num_parecer": 163,
+        "ano_parecer": 2022,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "29/03/2022",
+        "data_designacao": "19/05/2022",
+        "data_destituicao": "19/05/2022",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2022"
+      },
+      {
+        "id": "283",
+        "title": "PLO 54/2022",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=120269",
+        "comissao": "Comissão de Legislação e Justiça",
+        "num_parecer": 124,
+        "ano_parecer": 2022,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "10/02/2022",
+        "data_designacao": "19/04/2022",
+        "data_destituicao": "19/04/2022",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2022"
+      },
+      {
+        "id": "246",
+        "title": "PLO 3/2022",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=119417",
+        "comissao": "Comissão de Legislação e Justiça",
+        "num_parecer": 113,
+        "ano_parecer": 2022,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "03/01/2022",
+        "data_designacao": "08/04/2022",
+        "data_destituicao": "08/04/2022",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2022"
+      },
+      {
+        "id": "272",
+        "title": "PLO 1/2022",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=119414",
+        "comissao": "Comissão de Legislação e Justiça",
+        "num_parecer": 106,
+        "ano_parecer": 2022,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "03/01/2022",
+        "data_designacao": "18/04/2022",
+        "data_destituicao": "18/04/2022",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2022"
+      },
+      {
+        "id": "270",
+        "title": "PLO 418/2021",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=117832",
+        "comissao": "Comissão de Legislação e Justiça",
+        "num_parecer": 105,
+        "ano_parecer": 2022,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "06/12/2021",
+        "data_designacao": "18/04/2022",
+        "data_destituicao": "18/04/2022",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2021"
+      },
+      {
+        "id": "276",
+        "title": "PLO 413/2021",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=117330",
+        "comissao": "Comissão de Legislação e Justiça",
+        "num_parecer": 119,
+        "ano_parecer": 2022,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "30/11/2021",
+        "data_designacao": "18/04/2022",
+        "data_destituicao": "18/04/2022",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2021"
+      },
+      {
+        "id": "275",
+        "title": "PLO 406/2021",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=117166",
+        "comissao": "Comissão de Legislação e Justiça",
+        "num_parecer": 118,
+        "ano_parecer": 2022,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "29/11/2021",
+        "data_designacao": "18/04/2022",
+        "data_destituicao": "18/04/2022",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2021"
+      },
+      {
+        "id": "423",
+        "title": "PLO 358/2021",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=114909",
+        "comissao": "Comissão de Legislação e Justiça",
+        "num_parecer": 161,
+        "ano_parecer": 2022,
+        "conclusao_parecer": "Favorável",
+        "resultado_comissao": "Aprovado",
+        "data_apresentacao": "18/10/2021",
+        "data_designacao": "19/05/2022",
+        "data_destituicao": "19/05/2022",
+        "tipo": "Projeto de Lei Ordinária",
+        "ano": "2021"
+      }
+    ],
+    "filters": {
+      "tipo": "",
+      "ano": "",
+      "tipo_desc": ""
+    },
+    "facets_todos": {
+      "tipo": [
+        {
+          "value": "PDL",
+          "label": "Projeto de Decreto Legislativo",
+          "count": 1
+        },
+        {
+          "value": "PLO",
+          "label": "Projeto de Lei Ordinária",
+          "count": 10
+        }
+      ],
+      "ano": [
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 6
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 5
+        }
+      ]
+    },
+    "facets": {
+      "tipo": [
+        {
+          "value": "PDL",
+          "label": "Projeto de Decreto Legislativo",
+          "count": 1
+        },
+        {
+          "value": "PLO",
+          "label": "Projeto de Lei Ordinária",
+          "count": 10
+        }
+      ],
+      "ano": [
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 6
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 5
+        }
+      ],
+      "xy": [
+        {
+          "tipo": "PLO",
+          "ano": "2021",
+          "count": 5
+        },
+        {
+          "tipo": "PDL",
+          "ano": "2022",
+          "count": 1
+        },
+        {
+          "tipo": "PLO",
+          "ano": "2022",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "frequencia": {
+    "page": 1,
+    "page_size": 10,
+    "ordem_data_sessao": "desc",
+    "total": 204,
+    "items": [
+      {
+        "id": "falta-744",
+        "sessao_id": "744",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=744&dat_sessao=21/12/2022",
+        "title": "85ª Reunião Ordinária",
+        "identificacao_sessao": "85ª Reunião Ordinária",
+        "identificacao_legislativa": "3ª Sessão Legislativa da 18ª Legislatura",
+        "numero_sessao": "85",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2022-12-21",
+        "data_sessao_br": "21/12/2022",
+        "ano": "2022",
+        "frequencia": "F",
+        "frequencia_label": "Falta",
+        "justificativa": ""
+      },
+      {
+        "id": "4674",
+        "sessao_id": "636",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=636&dat_sessao=20/12/2022",
+        "title": "84ª Reunião Ordinária",
+        "identificacao_sessao": "84ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "numero_sessao": "84",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2022-12-20",
+        "data_sessao_br": "20/12/2022",
+        "ano": "2022",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "4635",
+        "sessao_id": "631",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=631&dat_sessao=19/12/2022",
+        "title": "83ª Reunião Ordinária",
+        "identificacao_sessao": "83ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "numero_sessao": "83",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2022-12-19",
+        "data_sessao_br": "19/12/2022",
+        "ano": "2022",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "4557",
+        "sessao_id": "629",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=629&dat_sessao=13/12/2022",
+        "title": "82ª Reunião Ordinária",
+        "identificacao_sessao": "82ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "numero_sessao": "82",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2022-12-13",
+        "data_sessao_br": "13/12/2022",
+        "ano": "2022",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "4596",
+        "sessao_id": "630",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=630&dat_sessao=13/12/2022",
+        "title": "18ª Reunião Extraordinária",
+        "identificacao_sessao": "18ª Reunião Extraordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "numero_sessao": "18",
+        "tipo_sessao_id": "2",
+        "tipo_sessao": "Extraordinária",
+        "data_sessao": "2022-12-13",
+        "data_sessao_br": "13/12/2022",
+        "ano": "2022",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "4518",
+        "sessao_id": "622",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=622&dat_sessao=12/12/2022",
+        "title": "81ª Reunião Ordinária",
+        "identificacao_sessao": "81ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "numero_sessao": "81",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2022-12-12",
+        "data_sessao_br": "12/12/2022",
+        "ano": "2022",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "4479",
+        "sessao_id": "621",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=621&dat_sessao=06/12/2022",
+        "title": "80ª Reunião Ordinária",
+        "identificacao_sessao": "80ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "numero_sessao": "80",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2022-12-06",
+        "data_sessao_br": "06/12/2022",
+        "ano": "2022",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "4440",
+        "sessao_id": "613",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=613&dat_sessao=05/12/2022",
+        "title": "79ª Reunião Ordinária",
+        "identificacao_sessao": "79ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "numero_sessao": "79",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2022-12-05",
+        "data_sessao_br": "05/12/2022",
+        "ano": "2022",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      },
+      {
+        "id": "4400",
+        "sessao_id": "612",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=612&dat_sessao=29/11/2022",
+        "title": "78ª Reunião Ordinária",
+        "identificacao_sessao": "78ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "numero_sessao": "78",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2022-11-29",
+        "data_sessao_br": "29/11/2022",
+        "ano": "2022",
+        "frequencia": "A",
+        "frequencia_label": "Ausência justificada",
+        "justificativa": ""
+      },
+      {
+        "id": "4361",
+        "sessao_id": "611",
+        "@id": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=611&dat_sessao=28/11/2022",
+        "title": "77ª Reunião Ordinária",
+        "identificacao_sessao": "77ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "numero_sessao": "77",
+        "tipo_sessao_id": "1",
+        "tipo_sessao": "Ordinária",
+        "data_sessao": "2022-11-28",
+        "data_sessao_br": "28/11/2022",
+        "ano": "2022",
+        "frequencia": "P",
+        "frequencia_label": "Presente",
+        "justificativa": ""
+      }
+    ],
+    "filters": {
+      "tipo": "",
+      "ano": "",
+      "tipo_desc": ""
+    },
+    "fonte": "ordem_dia",
+    "fonte_rotulo": "Presença na ordem do dia",
+    "fonte_tabela": "ordem_dia_presenca",
+    "resumo": {
+      "presencas": 104,
+      "ausencias_justificadas": 2,
+      "faltas": 98,
+      "total_sessoes": 204,
+      "frequencia_percentual": 51.96
+    },
+    "facets_select": {
+      "tipo": [
+        {
+          "value": "2",
+          "label": "Extraordinária",
+          "count": 36
+        },
+        {
+          "value": "1",
+          "label": "Ordinária",
+          "count": 168
+        }
+      ],
+      "ano": [
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 103
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 99
+        },
+        {
+          "value": "2020",
+          "label": "2020",
+          "count": 2
+        }
+      ]
+    },
+    "facets_todos": {
+      "tipo": [
+        {
+          "value": "2",
+          "label": "Extraordinária",
+          "count": 36
+        },
+        {
+          "value": "1",
+          "label": "Ordinária",
+          "count": 168
+        }
+      ],
+      "ano": [
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 103
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 99
+        },
+        {
+          "value": "2020",
+          "label": "2020",
+          "count": 2
+        }
+      ]
+    },
+    "facets": {
+      "tipo": [
+        {
+          "value": "2",
+          "label": "Extraordinária",
+          "count": 36
+        },
+        {
+          "value": "1",
+          "label": "Ordinária",
+          "count": 168
+        }
+      ],
+      "ano": [
+        {
+          "value": "2022",
+          "label": "2022",
+          "count": 103
+        },
+        {
+          "value": "2021",
+          "label": "2021",
+          "count": 99
+        },
+        {
+          "value": "2020",
+          "label": "2020",
+          "count": 2
+        }
+      ],
+      "xy": [
+        {
+          "tipo": "1",
+          "ano": "2020",
+          "count": 2
+        },
+        {
+          "tipo": "1",
+          "ano": "2021",
+          "count": 81
+        },
+        {
+          "tipo": "2",
+          "ano": "2021",
+          "count": 18
+        },
+        {
+          "tipo": "1",
+          "ano": "2022",
+          "count": 85
+        },
+        {
+          "tipo": "2",
+          "ano": "2022",
+          "count": 18
+        }
+      ]
+    }
+  },
+  "votacoes": {
+    "page": 1,
+    "page_size": 10,
+    "ordem_data_sessao": "desc",
+    "total": 64,
+    "items": [
+      {
+        "cod_materia": 131967,
+        "cod_votacao": "27798",
+        "id": "27798",
+        "title": "PLE 52/2022",
+        "ementa": "Altera os requisitos para investidura e a jornada de trabalho do cargo de Auxiliar de Desenvolvimento Infantil, e dá outras providências.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=131967",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2022",
+        "data_sessao": "2022-12-13",
+        "data_sessao_br": "13/12/2022",
+        "data_votacao": "2022-12-13",
+        "data_votacao_br": "13/12/2022",
+        "identificacao_sessao": "82ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=629&dat_sessao=13/12/2022",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 131973,
+        "cod_votacao": "27799",
+        "id": "27799",
+        "title": "PLE 58/2022",
+        "ementa": "Altera a Lei Municipal nº 16.065/95 que estabelece normas para a urbanização de logradouro, por iniciativa da comunidade.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=131973",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2022",
+        "data_sessao": "2022-12-13",
+        "data_sessao_br": "13/12/2022",
+        "data_votacao": "2022-12-13",
+        "data_votacao_br": "13/12/2022",
+        "identificacao_sessao": "82ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=629&dat_sessao=13/12/2022",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 131968,
+        "cod_votacao": "27800",
+        "id": "27800",
+        "title": "PLE 53/2022",
+        "ementa": "Altera a Lei Municipal nº 14.728, de 8 de março de 1985.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=131968",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2022",
+        "data_sessao": "2022-12-13",
+        "data_sessao_br": "13/12/2022",
+        "data_votacao": "2022-12-13",
+        "data_votacao_br": "13/12/2022",
+        "identificacao_sessao": "82ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=629&dat_sessao=13/12/2022",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 131968,
+        "cod_votacao": "27803",
+        "id": "27803",
+        "title": "PLE 53/2022",
+        "ementa": "Altera a Lei Municipal nº 14.728, de 8 de março de 1985.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=131968",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2022",
+        "data_sessao": "2022-12-13",
+        "data_sessao_br": "13/12/2022",
+        "data_votacao": "2022-12-13",
+        "data_votacao_br": "13/12/2022",
+        "identificacao_sessao": "18ª Reunião Extraordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=630&dat_sessao=13/12/2022",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 131970,
+        "cod_votacao": "27804",
+        "id": "27804",
+        "title": "PLE 55/2022",
+        "ementa": "Institui o Código de Limpeza Urbana e Manejo de Resíduos Sólidos Urbanos do Município do Recife e dá outras providencias",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=131970",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2022",
+        "data_sessao": "2022-12-13",
+        "data_sessao_br": "13/12/2022",
+        "data_votacao": "2022-12-13",
+        "data_votacao_br": "13/12/2022",
+        "identificacao_sessao": "18ª Reunião Extraordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=630&dat_sessao=13/12/2022",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 131972,
+        "cod_votacao": "27805",
+        "id": "27805",
+        "title": "PLE 57/2022",
+        "ementa": "Dispõe sobre os Conselhos Tutelares da Cidade do Recife e estabelece outras providências.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=131972",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2022",
+        "data_sessao": "2022-12-13",
+        "data_sessao_br": "13/12/2022",
+        "data_votacao": "2022-12-13",
+        "data_votacao_br": "13/12/2022",
+        "identificacao_sessao": "18ª Reunião Extraordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=630&dat_sessao=13/12/2022",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 131967,
+        "cod_votacao": "27696",
+        "id": "27696",
+        "title": "PLE 52/2022",
+        "ementa": "Altera os requisitos para investidura e a jornada de trabalho do cargo de Auxiliar de Desenvolvimento Infantil, e dá outras providências.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=131967",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2022",
+        "data_sessao": "2022-12-12",
+        "data_sessao_br": "12/12/2022",
+        "data_votacao": "2022-12-12",
+        "data_votacao_br": "12/12/2022",
+        "identificacao_sessao": "81ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=622&dat_sessao=12/12/2022",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 131973,
+        "cod_votacao": "27697",
+        "id": "27697",
+        "title": "PLE 58/2022",
+        "ementa": "Altera a Lei Municipal nº 16.065/95 que estabelece normas para a urbanização de logradouro, por iniciativa da comunidade.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=131973",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2022",
+        "data_sessao": "2022-12-12",
+        "data_sessao_br": "12/12/2022",
+        "data_votacao": "2022-12-12",
+        "data_votacao_br": "12/12/2022",
+        "identificacao_sessao": "81ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=622&dat_sessao=12/12/2022",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 131962,
+        "cod_votacao": "27519",
+        "id": "27519",
+        "title": "PLE 50/2022",
+        "ementa": "Autoriza o Poder Executivo a contratar operação de crédito com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES, e dá outras providências.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=131962",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2022",
+        "data_sessao": "2022-12-06",
+        "data_sessao_br": "06/12/2022",
+        "data_votacao": "2022-12-06",
+        "data_votacao_br": "06/12/2022",
+        "identificacao_sessao": "80ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=621&dat_sessao=06/12/2022",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      },
+      {
+        "cod_materia": 131711,
+        "cod_votacao": "26845",
+        "id": "26845",
+        "title": "PLE 44/2022",
+        "ementa": "Reduz temporariamente a alíquota do imposto sobre serviços de qualquer Natureza incidente sobre os sobre serviços tributáveis definidos nos subitens 12.07,12.08,12.13,12.15,17.09,17.10, do artigo 102 da lei Municipal nº 15.563, de 27 de dezembro de 1991.",
+        "materia_href": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=131711",
+        "tipo": "Projeto de Lei do Executivo",
+        "ano": "2022",
+        "data_sessao": "2022-11-22",
+        "data_sessao_br": "22/11/2022",
+        "data_votacao": "2022-11-22",
+        "data_votacao_br": "22/11/2022",
+        "identificacao_sessao": "76ª Reunião Ordinária",
+        "identificacao_legislativa": "2ª Sessão Legislativa da 18ª Legislatura",
+        "sessao_href": "https://e-processo.recife.pe.leg.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=609&dat_sessao=22/11/2022",
+        "vot_parlamentar": "Sim",
+        "voto_classe": "sim",
+        "voto_label": "Sim",
+        "autoria": "Prefeito do Recife"
+      }
+    ],
+    "resumo": {
+      "voto_sim": 55,
+      "voto_nao": 9,
+      "voto_abstencao": 0
+    },
+    "filters": {
+      "tipo": "",
+      "voto": "",
+      "voto_desc": "",
+      "tipo_desc": ""
+    },
+    "facets_todos": {
+      "tipo": [
+        {
+          "value": "ADP",
+          "label": "Aditamento a Parecer",
+          "count": 1
+        },
+        {
+          "value": "PAR",
+          "label": "Parecer",
+          "count": 6
+        },
+        {
+          "value": "PDL",
+          "label": "Projeto de Decreto Legislativo",
+          "count": 7
+        },
+        {
+          "value": "PLE",
+          "label": "Projeto de Lei do Executivo",
+          "count": 46
+        },
+        {
+          "value": "REQ",
+          "label": "Requerimento",
+          "count": 4
+        }
+      ],
+      "voto": [
+        {
+          "value": "sim",
+          "label": "Sim",
+          "count": 55
+        },
+        {
+          "value": "nao",
+          "label": "Não",
+          "count": 9
+        },
+        {
+          "value": "abstencao",
+          "label": "Abstenção",
+          "count": 0
+        }
+      ]
+    },
+    "facets": {
+      "tipo": [
+        {
+          "value": "ADP",
+          "label": "Aditamento a Parecer",
+          "count": 1
+        },
+        {
+          "value": "PAR",
+          "label": "Parecer",
+          "count": 6
+        },
+        {
+          "value": "PDL",
+          "label": "Projeto de Decreto Legislativo",
+          "count": 7
+        },
+        {
+          "value": "PLE",
+          "label": "Projeto de Lei do Executivo",
+          "count": 46
+        },
+        {
+          "value": "REQ",
+          "label": "Requerimento",
+          "count": 4
+        }
+      ],
+      "voto": [
+        {
+          "value": "sim",
+          "label": "Sim",
+          "count": 55
+        },
+        {
+          "value": "nao",
+          "label": "Não",
+          "count": 9
+        },
+        {
+          "value": "abstencao",
+          "label": "Abstenção",
+          "count": 0
+        }
+      ],
+      "xy": [
+        {
+          "tipo": "PAR",
+          "voto": "nao",
+          "count": 1
+        },
+        {
+          "tipo": "PLE",
+          "voto": "nao",
+          "count": 7
+        },
+        {
+          "tipo": "REQ",
+          "voto": "nao",
+          "count": 1
+        },
+        {
+          "tipo": "ADP",
+          "voto": "sim",
+          "count": 1
+        },
+        {
+          "tipo": "PAR",
+          "voto": "sim",
+          "count": 5
+        },
+        {
+          "tipo": "PDL",
+          "voto": "sim",
+          "count": 7
+        },
+        {
+          "tipo": "PLE",
+          "voto": "sim",
+          "count": 39
+        },
+        {
+          "tipo": "REQ",
+          "voto": "sim",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "verba_indenizatoria_ativa": false
+}

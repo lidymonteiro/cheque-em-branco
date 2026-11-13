@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/350",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/350/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/350/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/350_ata_sessao.pdf",
+      "filename": "350_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-06-16",
+  "description": "8ª Reunião Extraordinária - 16/06/2021",
+  "endTime": "13:00",
+  "id": "350",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "8ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

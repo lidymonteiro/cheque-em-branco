@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/988",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/988/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/988/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/988_ata_sessao.pdf",
+      "filename": "988_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-04-09",
+  "description": "18ª Reunião Ordinária - 09/04/2024",
+  "endTime": "12:32",
+  "id": "988",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/988_pauta_sessao.pdf",
+      "filename": "988_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:43",
+  "title": "18ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

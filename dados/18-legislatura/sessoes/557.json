@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/557",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/557/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/557/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/557_ata_sessao.pdf",
+      "filename": "557_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-09-05",
+  "description": "13ª Reunião Extraordinária - 05/09/2022",
+  "endTime": "11:38",
+  "id": "557",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/557_pauta_sessao.pdf",
+      "filename": "557_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "11:16",
+  "title": "13ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

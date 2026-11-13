@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/593",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/593/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/593/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/593_ata_sessao.pdf",
+      "filename": "593_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-10-18",
+  "description": "68ª Reunião Ordinária - 18/10/2022",
+  "endTime": "11:23",
+  "id": "593",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/593_pauta_sessao.pdf",
+      "filename": "593_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:07",
+  "title": "68ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1106",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1106/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1106/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1106_ata_sessao.pdf",
+      "filename": "1106_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-08-06",
+  "description": "43ª Reunião Ordinária - 06/08/2024",
+  "endTime": "12:28",
+  "id": "1106",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1106_pauta_sessao.pdf",
+      "filename": "1106_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:34",
+  "title": "43ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

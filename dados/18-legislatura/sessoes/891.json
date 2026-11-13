@@ -1,0 +1,16 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/891",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/891/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/891/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [],
+  "date": "2023-11-14",
+  "description": "86ª Reunião Ordinária - 14/11/2023",
+  "endTime": "",
+  "id": "891",
+  "pauta": [],
+  "startTime": "16:38",
+  "title": "86ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

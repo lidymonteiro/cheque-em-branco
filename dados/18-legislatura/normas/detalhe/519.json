@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/519",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/519",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/519_anexo_443",
+          "filename": "519_anexo_443",
+          "size": "335.9 KB"
+        }
+      ],
+      "id": "443",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1137/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-03-18",
+  "data_publicacao": "2024-03-21",
+  "description": "Concede a Medalha de Mérito José Mariano ao Sr. Manoel Nascimento Costa. \r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=519&texto_original=1",
+      "filename": "519_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "25.3 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1137, de 18/03/2024",
+  "id": "519",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=519&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/147375",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=262",
+          "@type": "Autor",
+          "id": "262",
+          "primeiro_autor": true,
+          "title": "Elaine Cristina"
+        }
+      ],
+      "autoria_nomes": "Elaine Cristina",
+      "description": "Concede a Medalha de Mérito José Mariano ao Sr. Manoel Nascimento Costa. \r\n",
+      "id": "147375",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=147375",
+      "title": "Projeto de Decreto Legislativo nº 63/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ3Mzc1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 41,
+  "num_pag_inicio_publ": 41,
+  "publicacao": {
+    "numPagFim": 41,
+    "numPagInicio": 41,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1137/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-03-18",
+    "dataPromulgacaoBR": "18/03/2024",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1137, de 18/03/2024",
+    "numNorma": 1137,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito José Mariano ao Sr. Manoel Nascimento Costa. \r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=519",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=519",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

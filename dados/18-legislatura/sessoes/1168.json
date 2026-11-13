@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1168",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1168/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1168/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1168_ata_sessao.pdf",
+      "filename": "1168_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-12-06",
+  "description": "141ª Reunião Solene - 06/12/2024",
+  "endTime": "",
+  "id": "1168",
+  "pauta": [],
+  "startTime": "10:56",
+  "title": "141ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/959",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/959",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/959_anexo_891",
+          "filename": "959_anexo_891",
+          "size": "2.5 MB"
+        }
+      ],
+      "id": "891",
+      "title": "pdf da Publicação da Resolução de Nº 2792/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-08-21",
+  "data_publicacao": "2023-08-22",
+  "description": "Autoriza a Vice-Prefeita do Recife a se ausentar do País no período de 21 de Agosto de 2023 a 31 de Agosto de 2023, com destino às cidades de Vancouver (Canadá) e Guadalajara (México), em missão oficial.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=959&texto_original=1",
+      "filename": "959_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "46.2 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2792, de 21/08/2023",
+  "id": "959",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=959&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/142975",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Autoriza a Vice-Prefeita do Recife a se ausentar do País no período de 21 de Agosto de 2023 a 31 de Agosto de 2023, com destino às cidades de Vancouver (Canadá) e Guadalajara (México), em missão oficial.",
+      "id": "142975",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=142975",
+      "title": "Projeto de Resolução nº 21/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQyOTc1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 20,
+  "num_pag_inicio_publ": 20,
+  "publicacao": {
+    "numPagFim": 20,
+    "numPagInicio": 20,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2792/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-08-21",
+    "dataPromulgacaoBR": "21/08/2023",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2792, de 21/08/2023",
+    "numNorma": 2792,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "Autoriza a Vice-Prefeita do Recife a se ausentar do País no período de 21 de Agosto de 2023 a 31 de Agosto de 2023, com destino às cidades de Vancouver (Canadá) e Guadalajara (México), em missão oficial.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=959",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=959",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

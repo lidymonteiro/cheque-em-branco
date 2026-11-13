@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/685",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/685/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/685/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/685_ata_sessao.pdf",
+      "filename": "685_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-04-10",
+  "description": "21ª Reunião Solene - 10/04/2023",
+  "endTime": "",
+  "id": "685",
+  "pauta": [],
+  "startTime": "15:30",
+  "title": "21ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

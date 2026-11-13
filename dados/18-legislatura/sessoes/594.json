@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/594",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/594/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/594/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/594_ata_sessao.pdf",
+      "filename": "594_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-10-17",
+  "description": "15ª Reunião Extraordinária - 17/10/2022",
+  "endTime": "12:12",
+  "id": "594",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/594_pauta_sessao.pdf",
+      "filename": "594_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "11:39",
+  "title": "15ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

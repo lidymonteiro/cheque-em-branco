@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/598",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/598/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/598/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/598_ata_sessao.pdf",
+      "filename": "598_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-10-25",
+  "description": "70ª Reunião Ordinária - 25/10/2022",
+  "endTime": "12:26",
+  "id": "598",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/598_pauta_sessao.pdf",
+      "filename": "598_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:25",
+  "title": "70ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

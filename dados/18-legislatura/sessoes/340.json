@@ -1,0 +1,16 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/340",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/340/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/340/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [],
+  "date": "2021-05-11",
+  "description": "28ª Reunião Ordinária - 11/05/2021",
+  "endTime": "13:00",
+  "id": "340",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "28ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

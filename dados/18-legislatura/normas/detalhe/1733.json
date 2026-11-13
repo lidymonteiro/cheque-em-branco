@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1733",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1733",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1733_anexo_1734",
+          "filename": "1733_anexo_1734",
+          "size": "306.4 KB"
+        }
+      ],
+      "id": "1734",
+      "title": "PDF da publicação da lei 18897/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-03-09",
+  "data_publicacao": "2022-03-12",
+  "description": "ALTERA A LEI Nº 17.610, DE 30 DE MARÇO DE 2010, QUE CRIA A UNIDADE DE CONSERVAÇÃO DA PAISAGEM PARQUE DA JAQUEIRA, NO MUNICÍPIO DO RECIFE, PARA DENOMINÁ-LA “UNIDADE DE CONSERVAÇÃO DA PAISAGEM (UCP) PARQUE DA JAQUEIRA GOVERNADOR JOAQUIM FRANCISCO”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1733&texto_original=1",
+      "filename": "1733_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "45.9 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18897, de 09/03/2022",
+  "id": "1733",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1733&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/111055",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=250",
+          "@type": "Autor",
+          "id": "250",
+          "primeiro_autor": true,
+          "title": "Alcides Cardoso"
+        }
+      ],
+      "autoria_nomes": "Alcides Cardoso",
+      "description": "ALTERA A LEI Nº 17.610, DE 30 DE MARÇO DE 2010, QUE CRIA A UNIDADE DE CONSERVAÇÃO DA PAISAGEM PARQUE DA JAQUEIRA, NO MUNICÍPIO DO RECIFE, PARA DENOMINÁ-LA &#8220;UNIDADE DE CONSERVAÇÃO DA PAISAGEM (UCP) PARQUE DA JAQUEIRA GOVERNADOR JOAQUIM FRANCISCO&#8221;.",
+      "id": "111055",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=111055",
+      "title": "Projeto de Lei Ordinária nº 272/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTExMDU1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18897/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-03-09",
+    "dataPromulgacaoBR": "09/03/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18897, de 09/03/2022",
+    "numNorma": 18897,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "ALTERA A LEI Nº 17.610, DE 30 DE MARÇO DE 2010, QUE CRIA A UNIDADE DE CONSERVAÇÃO DA PAISAGEM PARQUE DA JAQUEIRA, NO MUNICÍPIO DO RECIFE, PARA DENOMINÁ-LA “UNIDADE DE CONSERVAÇÃO DA PAISAGEM (UCP) PARQUE DA JAQUEIRA GOVERNADOR JOAQUIM FRANCISCO”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1733",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1733",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

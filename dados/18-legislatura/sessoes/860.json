@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/860",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/860/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/860/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/860_ata_sessao.pdf",
+      "filename": "860_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-10-16",
+  "description": "142ª Reunião Solene - 16/10/2023",
+  "endTime": "",
+  "id": "860",
+  "pauta": [],
+  "startTime": "15:31",
+  "title": "142ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

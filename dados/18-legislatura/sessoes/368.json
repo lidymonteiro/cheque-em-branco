@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/368",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/368/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/368/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/368_ata_sessao.pdf",
+      "filename": "368_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-09-20",
+  "description": "55ª Reunião Ordinária - 20/09/2021",
+  "endTime": "13:30",
+  "id": "368",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "55ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/856",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/856/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/856/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/856_ata_sessao.pdf",
+      "filename": "856_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-10-16",
+  "description": "61ª Reunião Ordinária - 16/10/2023",
+  "endTime": "11:38",
+  "id": "856",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/856_pauta_sessao.pdf",
+      "filename": "856_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:12",
+  "title": "61ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

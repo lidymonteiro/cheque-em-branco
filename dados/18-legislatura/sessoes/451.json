@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/451",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/451/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/451/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/451_ata_sessao.pdf",
+      "filename": "451_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-03-30",
+  "description": "16ª Reunião Solene - 30/03/2022",
+  "endTime": "",
+  "id": "451",
+  "pauta": [],
+  "startTime": "15:00",
+  "title": "16ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

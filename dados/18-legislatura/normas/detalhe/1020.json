@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1020",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1020",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1020_anexo_964",
+          "filename": "1020_anexo_964",
+          "size": "511.2 KB"
+        }
+      ],
+      "id": "964",
+      "title": "pdf da Publicação da Resolução de Nº 2757/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-11-09",
+  "data_publicacao": "2021-11-18",
+  "description": "INSTITUI A “FRENTE PARLAMENTAR EM DEFESA DO PLANO DE DRENAGEM DO RECIFE” NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1020&texto_original=1",
+      "filename": "1020_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "941.8 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2757, de 09/11/2021",
+  "id": "1020",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1020&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/107783",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=213",
+          "@type": "Autor",
+          "id": "213",
+          "primeiro_autor": true,
+          "title": "Renato Antunes"
+        }
+      ],
+      "autoria_nomes": "Renato Antunes",
+      "description": "INSTITUI A &#8220;FRENTE PARLAMENTAR EM DEFESA DO PLANO DE DRENAGEM DO RECIFE&#8221; NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE.",
+      "id": "107783",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=107783",
+      "title": "Projeto de Resolução nº 22/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA3Nzgz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 23,
+  "num_pag_inicio_publ": 23,
+  "publicacao": {
+    "numPagFim": 23,
+    "numPagInicio": 23,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2757/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-11-09",
+    "dataPromulgacaoBR": "09/11/2021",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2757, de 09/11/2021",
+    "numNorma": 2757,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "INSTITUI A “FRENTE PARLAMENTAR EM DEFESA DO PLANO DE DRENAGEM DO RECIFE” NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1020",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1020",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

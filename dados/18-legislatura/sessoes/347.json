@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/347",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/347/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/347/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/347_ata_sessao.pdf",
+      "filename": "347_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-06-07",
+  "description": "36ª Reunião Ordinária - 07/06/2021",
+  "endTime": "13:00",
+  "id": "347",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "36ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

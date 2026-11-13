@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/672",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/672/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/672/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/672_ata_sessao.pdf",
+      "filename": "672_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-03-27",
+  "description": "2ª Reunião Extraordinária - 27/03/2023",
+  "endTime": "12:30",
+  "id": "672",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/672_pauta_sessao.pdf",
+      "filename": "672_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:03",
+  "title": "2ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1155",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1155/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1155/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1155_ata_sessao.pdf",
+      "filename": "1155_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-12-02",
+  "description": "10ª Reunião Extraordinária - 02/12/2024",
+  "endTime": "13:49",
+  "id": "1155",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1155_pauta_sessao.pdf",
+      "filename": "1155_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "13:24",
+  "title": "10ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

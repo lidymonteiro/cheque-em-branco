@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1382",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1382",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1382_anexo_1370",
+          "filename": "1382_anexo_1370",
+          "size": "279.7 KB"
+        }
+      ],
+      "id": "1370",
+      "title": "PDF da publicação da lei 19103 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-10-04",
+  "data_publicacao": "2023-10-10",
+  "description": "Institui, no Calendário Oficial de Eventos do Município do Recife, o “Dia dos Motoristas de Aplicativos”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1382&texto_original=1",
+      "filename": "1382_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "57.9 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19103, de 04/10/2023",
+  "id": "1382",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1382&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/136632",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=239",
+          "@type": "Autor",
+          "id": "239",
+          "primeiro_autor": true,
+          "title": "Andreza Romero"
+        }
+      ],
+      "autoria_nomes": "Andreza Romero",
+      "description": "Institui, no Calendário Oficial de Eventos do Município do Recife, o “Dia dos Motoristas de Aplicativos”.",
+      "id": "136632",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=136632",
+      "title": "Projeto de Lei Ordinária nº 60/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM2NjMy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19103/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-10-04",
+    "dataPromulgacaoBR": "04/10/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19103, de 04/10/2023",
+    "numNorma": 19103,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui, no Calendário Oficial de Eventos do Município do Recife, o “Dia dos Motoristas de Aplicativos”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1382",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1382",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

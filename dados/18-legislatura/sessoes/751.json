@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/751",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/751/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/751/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/751_ata_sessao.pdf",
+      "filename": "751_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-06-09",
+  "description": "66ª Reunião Solene - 09/06/2023",
+  "endTime": "",
+  "id": "751",
+  "pauta": [],
+  "startTime": "10:15",
+  "title": "66ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

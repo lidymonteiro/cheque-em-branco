@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/652",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/652/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/652/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/652_ata_sessao.pdf",
+      "filename": "652_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-02-27",
+  "description": "4ª Reunião Ordinária - 27/02/2023",
+  "endTime": "13:03",
+  "id": "652",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/652_pauta_sessao.pdf",
+      "filename": "652_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:14",
+  "title": "4ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/435",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/435/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/435/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/435_ata_sessao.pdf",
+      "filename": "435_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-04-04",
+  "description": "17ª Reunião Ordinária - 04/04/2022",
+  "endTime": "13:03",
+  "id": "435",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/435_pauta_sessao.pdf",
+      "filename": "435_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:05",
+  "title": "17ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

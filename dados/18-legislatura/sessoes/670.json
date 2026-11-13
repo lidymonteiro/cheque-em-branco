@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/670",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/670/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/670/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/670_ata_sessao.pdf",
+      "filename": "670_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-03-22",
+  "description": "12ª Reunião Solene - 22/03/2023",
+  "endTime": "",
+  "id": "670",
+  "pauta": [],
+  "startTime": "15:10",
+  "title": "12ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

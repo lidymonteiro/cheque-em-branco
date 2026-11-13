@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1123",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1123/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1123/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1123_ata_sessao.pdf",
+      "filename": "1123_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-10-01",
+  "description": "59ª Reunião Ordinária - 01/10/2024",
+  "endTime": "10:52",
+  "id": "1123",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1123_pauta_sessao.pdf",
+      "filename": "1123_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:10",
+  "title": "59ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

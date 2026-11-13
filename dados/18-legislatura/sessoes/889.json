@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/889",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/889/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/889/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/889_ata_sessao.pdf",
+      "filename": "889_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-11-20",
+  "description": "71ª Reunião Ordinária - 20/11/2023",
+  "endTime": "11:45",
+  "id": "889",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/889_pauta_sessao.pdf",
+      "filename": "889_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:26",
+  "title": "71ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1036",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1036/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1036/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1036_ata_sessao.pdf",
+      "filename": "1036_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-05-21",
+  "description": "5ª Reunião Extraordinária - 21/05/2024",
+  "endTime": "13:35",
+  "id": "1036",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1036_pauta_sessao.pdf",
+      "filename": "1036_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "13:20",
+  "title": "5ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

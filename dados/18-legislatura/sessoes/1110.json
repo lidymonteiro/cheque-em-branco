@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1110",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1110/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1110/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1110_ata_sessao.pdf",
+      "filename": "1110_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-08-19",
+  "description": "46ª Reunião Ordinária - 19/08/2024",
+  "endTime": "11:27",
+  "id": "1110",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1110_pauta_sessao.pdf",
+      "filename": "1110_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:34",
+  "title": "46ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

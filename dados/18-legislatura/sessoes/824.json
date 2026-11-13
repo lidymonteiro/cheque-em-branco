@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/824",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/824/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/824/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/824_ata_sessao.pdf",
+      "filename": "824_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-09-25",
+  "description": "55ª Reunião Ordinária - 25/09/2023",
+  "endTime": "12:12",
+  "id": "824",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/824_pauta_sessao.pdf",
+      "filename": "824_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:18",
+  "title": "55ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,140 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/415/votacao",
+  "@type": "votacaoNominal",
+  "description": "1ª Reunião Extraordinária – 15/02/2022",
+  "items": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/117605",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Comissao",
+          "id": "133",
+          "primeiro_autor": true,
+          "title": "Comissão de Educação, Cultura, Turismo e Esportes"
+        }
+      ],
+      "contrario": 0,
+      "description": "DA COMISSÃO DE EDUCAÇÃO, CULTURA, TURISMO E ESPORTES, sobre o Projeto de Lei Ordinária nº 268/2021 que Denomina de “Rua  Waldeci Marinheiro da Silva” o logradouro situado no Bairro Ibura, no município do Recife. Pela APROVAÇÃO.",
+      "favoravel": 0,
+      "id": "117605",
+      "presidencia": 0,
+      "quorum": "Maioria simples",
+      "tipo_votacao": "Nominal",
+      "title": "Parecer nº 860/2021",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@type": "Parecer",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/51",
+          "@type": "Comissão",
+          "description": "Comissão de Legislação e Justiça",
+          "id": "51",
+          "title": "CLJ"
+        }
+      ],
+      "contrario": 0,
+      "description": "Parecer CLJ nº 20/2022, com relatoria de Felipe Francismar, FAVORÁVEL ao PLE 4/2022",
+      "favoravel": 0,
+      "id": "8",
+      "presidencia": 0,
+      "quorum": "Maioria absoluta",
+      "tipo_votacao": "Nominal",
+      "title": "Parecer CLJ nº 20/2022",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@type": "Parecer",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/50",
+          "@type": "Comissão",
+          "description": "Comissão de Finanças e Orçamento",
+          "id": "50",
+          "title": "CFO"
+        }
+      ],
+      "contrario": 0,
+      "description": "Parecer CFO nº 97/2022, com relatoria de Samuel Salazar, FAVORÁVEL ao PLE 4/2022",
+      "favoravel": 0,
+      "id": "19",
+      "presidencia": 0,
+      "quorum": "Maioria absoluta",
+      "tipo_votacao": "Nominal",
+      "title": "Parecer CFO nº 97/2022",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/111055",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Parlamentar",
+          "id": "250",
+          "primeiro_autor": true,
+          "title": "Alcides Cardoso"
+        }
+      ],
+      "contrario": 0,
+      "description": "ALTERA A LEI Nº 17.610, DE 30 DE MARÇO DE 2010, QUE CRIA A UNIDADE DE CONSERVAÇÃO DA PAISAGEM PARQUE DA JAQUEIRA, NO MUNICÍPIO DO RECIFE, PARA DENOMINÁ-LA &#8220;UNIDADE DE CONSERVAÇÃO DA PAISAGEM (UCP) PARQUE DA JAQUEIRA GOVERNADOR JOAQUIM FRANCISCO&#8221;.",
+      "favoravel": 0,
+      "id": "111055",
+      "presidencia": 0,
+      "quorum": "Maioria absoluta",
+      "tipo_votacao": "Nominal",
+      "title": "Projeto de Lei Ordinária nº 272/2021",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    }
+  ],
+  "title": "Lista de votação nominal"
+}

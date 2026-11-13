@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/572",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/572",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/572_anexo_488",
+          "filename": "572_anexo_488",
+          "size": "709.9 KB"
+        }
+      ],
+      "id": "488",
+      "title": "PDF da Publicação do Decreto Legislativo 979 do dia 15/05/2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-05-17",
+  "data_publicacao": "2021-05-27",
+  "description": "CONCEDE A MEDALHA DE MÉRITO OLEGÁRIO MARIANO À SRA. VERA REGINA PAULA BARONI.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 979, de 17/05/2021",
+  "id": "572",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/103770",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=243",
+          "@type": "Autor",
+          "id": "243",
+          "primeiro_autor": true,
+          "title": "Liana Cirne"
+        }
+      ],
+      "autoria_nomes": "Liana Cirne",
+      "description": "CONCEDE A MEDALHA DE MÉRITO OLEGÁRIO MARIANO À SRA. VERA REGINA PAULA BARONI.",
+      "id": "103770",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=103770",
+      "title": "Projeto de Decreto Legislativo nº 5/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTAzNzcw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 8,
+  "num_pag_inicio_publ": 8,
+  "publicacao": {
+    "numPagFim": 8,
+    "numPagInicio": 8,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 979/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-05-17",
+    "dataPromulgacaoBR": "17/05/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 979, de 17/05/2021",
+    "numNorma": 979,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE A MEDALHA DE MÉRITO OLEGÁRIO MARIANO À SRA. VERA REGINA PAULA BARONI.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=572",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=572",
+  "veiculo_publicacao": "Diário oficial do município"
+}

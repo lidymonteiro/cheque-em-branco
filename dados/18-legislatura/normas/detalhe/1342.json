@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1342",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1342",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1342_anexo_1323",
+          "filename": "1342_anexo_1323",
+          "size": "316.5 KB"
+        }
+      ],
+      "id": "1323",
+      "title": "PDF da publicação da lei 18.976/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-08-31",
+  "data_publicacao": "2022-09-03",
+  "description": "Altera a Lei Municipal n° 18.212, de 15 de janeiro de 2016, que “Institui procedimentos para licenciamento, construção e instalação de postos de abastecimento de combustíveis automotivos no município do Recife.”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1342&texto_original=1",
+      "filename": "1342_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "64.4 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18976, de 31/08/2022",
+  "id": "1342",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1342&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/129309",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=233",
+          "@type": "Autor",
+          "id": "233",
+          "primeiro_autor": true,
+          "title": "Samuel Salazar"
+        }
+      ],
+      "autoria_nomes": "Samuel Salazar",
+      "description": "Altera a Lei Municipal n° 18.212, de 15 de janeiro de 2016, que “Institui procedimentos para licenciamento, construção e instalação de postos de abastecimento de combustíveis automotivos no município do Recife.”.",
+      "id": "129309",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=129309",
+      "title": "Projeto de Lei Ordinária nº 245/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTI5MzA5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 6,
+  "num_pag_inicio_publ": 6,
+  "publicacao": {
+    "numPagFim": 6,
+    "numPagInicio": 6,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18976/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-08-31",
+    "dataPromulgacaoBR": "31/08/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18976, de 31/08/2022",
+    "numNorma": 18976,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Altera a Lei Municipal n° 18.212, de 15 de janeiro de 2016, que “Institui procedimentos para licenciamento, construção e instalação de postos de abastecimento de combustíveis automotivos no município do Recife.”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1342",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1342",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

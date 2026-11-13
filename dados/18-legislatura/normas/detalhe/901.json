@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/901",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/901",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/901_anexo_805",
+          "filename": "901_anexo_805",
+          "size": "294 KB"
+        }
+      ],
+      "id": "805",
+      "title": "pdf da Publicação da Resolução de Nº 2788/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-06-05",
+  "data_publicacao": "2023-06-08",
+  "description": "Altera a Resolução nº 2759, de 20 de dezembro de 2021, que Cria a Escola do Legislativo no âmbito da Câmara Municipal do Recife e dá outras providências.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=901&texto_original=1",
+      "filename": "901_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "54.1 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2788, de 05/06/2023",
+  "id": "901",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=901&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/139645",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Altera a Resolução nº 2759, de 20 de dezembro de 2021, que Cria a Escola do Legislativo no âmbito da Câmara Municipal do Recife e dá outras providências.",
+      "id": "139645",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=139645",
+      "title": "Projeto de Resolução nº 14/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM5NjQ1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 13,
+  "num_pag_inicio_publ": 13,
+  "publicacao": {
+    "numPagFim": 13,
+    "numPagInicio": 13,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2788/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-06-05",
+    "dataPromulgacaoBR": "05/06/2023",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2788, de 05/06/2023",
+    "numNorma": 2788,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "Altera a Resolução nº 2759, de 20 de dezembro de 2021, que Cria a Escola do Legislativo no âmbito da Câmara Municipal do Recife e dá outras providências.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=901",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=901",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

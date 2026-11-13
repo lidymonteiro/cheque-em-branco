@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1025",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1025",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1025_anexo_969",
+          "filename": "1025_anexo_969",
+          "size": "1.1 MB"
+        }
+      ],
+      "id": "969",
+      "title": "pdf da Publicação da Resolução de Nº 2751/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-09-28",
+  "data_publicacao": "2021-09-30",
+  "description": "DISPÕE SOBRE A CRIAÇÃO, NO ÂMBITO DA CÂMARA DOS VEREADORES DO MUNICÍPIO DO RECIFE, DO NOVO PARLAMENTO JOVEM E DÁ OUTRAS PROVIDÊNCIAS.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1025&texto_original=1",
+      "filename": "1025_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "1.6 MB"
+    }
+  ],
+  "heading_label": "Resolução nº 2751, de 28/09/2021",
+  "id": "1025",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1025&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/113906",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "DISPÕE SOBRE A CRIAÇÃO, NO ÂMBITO DA CÂMARA DOS VEREADORES DO MUNICÍPIO DO RECIFE, DO NOVO PARLAMENTO JOVEM E DÁ OUTRAS PROVIDÊNCIAS.",
+      "id": "113906",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=113906",
+      "title": "Projeto de Resolução nº 31/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTEzOTA2"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 33,
+  "num_pag_inicio_publ": 32,
+  "publicacao": {
+    "numPagFim": 33,
+    "numPagInicio": 32,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2751/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-09-28",
+    "dataPromulgacaoBR": "28/09/2021",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2751, de 28/09/2021",
+    "numNorma": 2751,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "DISPÕE SOBRE A CRIAÇÃO, NO ÂMBITO DA CÂMARA DOS VEREADORES DO MUNICÍPIO DO RECIFE, DO NOVO PARLAMENTO JOVEM E DÁ OUTRAS PROVIDÊNCIAS.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1025",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1025",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

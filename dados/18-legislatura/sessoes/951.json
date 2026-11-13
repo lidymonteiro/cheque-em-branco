@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/951",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/951/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/951/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/951_ata_sessao.pdf",
+      "filename": "951_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-03-05",
+  "description": "8ª Reunião Ordinária - 05/03/2024",
+  "endTime": "11:35",
+  "id": "951",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/951_pauta_sessao.pdf",
+      "filename": "951_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:24",
+  "title": "8ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

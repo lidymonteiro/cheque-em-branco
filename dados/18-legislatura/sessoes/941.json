@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/941",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/941/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/941/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/941_ata_sessao.pdf",
+      "filename": "941_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-02-19",
+  "description": "3ª Reunião Ordinária - 19/02/2024",
+  "endTime": "12:57",
+  "id": "941",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/941_pauta_sessao.pdf",
+      "filename": "941_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "12:50",
+  "title": "3ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

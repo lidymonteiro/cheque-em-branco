@@ -1,0 +1,101 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1683",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1683",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1683_anexo_1815",
+          "filename": "1683_anexo_1815",
+          "size": "274.5 KB"
+        }
+      ],
+      "id": "1815",
+      "title": "PDF da publicação da lei 19240/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-06-03",
+  "data_publicacao": "2024-06-08",
+  "description": "Dispõe sobre a proibição do comércio de cobre queimado sem a demonstração legal da origem do recurso no Município do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1683&texto_original=1",
+      "filename": "1683_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "79.5 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19240, de 03/06/2024",
+  "id": "1683",
+  "links": {
+    "downloadTextoCompilado": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1683&texto_consolidado=1",
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1683&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/144131",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=204",
+          "@type": "Autor",
+          "id": "204",
+          "primeiro_autor": true,
+          "title": "Rinaldo Júnior"
+        }
+      ],
+      "autoria_nomes": "Rinaldo Júnior",
+      "description": "Dispõe sobre a proibição do comércio de cobre queimado sem a demonstração legal da origem do recurso no Município do Recife.",
+      "id": "144131",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=144131",
+      "title": "Projeto de Lei Ordinária nº 219/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ0MTMx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1683&texto_consolidado=1",
+      "filename": "1683_texto_consolidado.pdf",
+      "size": "79.5 KB"
+    }
+  ],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19240/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-06-03",
+    "dataPromulgacaoBR": "03/06/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19240, de 03/06/2024",
+    "numNorma": 19240,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre a proibição do comércio de cobre queimado sem a demonstração legal da origem do recurso no Município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1683",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1683",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

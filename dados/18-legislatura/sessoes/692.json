@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/692",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/692/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/692/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/692_ata_sessao.pdf",
+      "filename": "692_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-04-18",
+  "description": "4ª Reunião Extraordinária - 18/04/2023",
+  "endTime": "11:52",
+  "id": "692",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/692_pauta_sessao.pdf",
+      "filename": "692_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "11:26",
+  "title": "4ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

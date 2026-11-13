@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/991",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/991/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/991/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/991_ata_sessao.pdf",
+      "filename": "991_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-04-10",
+  "description": "32ª Reunião Solene - 10/04/2024",
+  "endTime": "",
+  "id": "991",
+  "pauta": [],
+  "startTime": "14:51",
+  "title": "32ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1120",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1120/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1120/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1120_ata_sessao.pdf",
+      "filename": "1120_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-09-23",
+  "description": "56ª Reunião Ordinária - 23/09/2024",
+  "endTime": "11:25",
+  "id": "1120",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1120_pauta_sessao.pdf",
+      "filename": "1120_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:09",
+  "title": "56ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

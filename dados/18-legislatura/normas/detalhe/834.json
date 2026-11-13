@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/834",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/834",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/834_anexo_770",
+          "filename": "834_anexo_770",
+          "size": "316.7 KB"
+        }
+      ],
+      "id": "770",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1150/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-05-06",
+  "data_publicacao": "2024-05-11",
+  "description": "Concede o Título de Cidadã do Recife a Irmã Jucilene de Souza.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 1150, de 06/05/2024",
+  "id": "834",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/149711",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=248",
+          "@type": "Autor",
+          "id": "248",
+          "primeiro_autor": true,
+          "title": "Felipe Alecrim"
+        }
+      ],
+      "autoria_nomes": "Felipe Alecrim",
+      "description": "Concede o Título de Cidadã do Recife a Irmã Jucilene de Souza.",
+      "id": "149711",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=149711",
+      "title": "Projeto de Decreto Legislativo nº 13/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ5NzEx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 28,
+  "num_pag_inicio_publ": 28,
+  "publicacao": {
+    "numPagFim": 28,
+    "numPagInicio": 28,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1150/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-05-06",
+    "dataPromulgacaoBR": "06/05/2024",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1150, de 06/05/2024",
+    "numNorma": 1150,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede o Título de Cidadã do Recife a Irmã Jucilene de Souza.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=834",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=834",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

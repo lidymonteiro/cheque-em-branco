@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/616",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/616",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/616_anexo_551",
+          "filename": "616_anexo_551",
+          "size": "275.4 KB"
+        }
+      ],
+      "id": "551",
+      "title": "Pdf da Publicação da Resolução de Nº 2803/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-04-02",
+  "data_publicacao": "2024-04-06",
+  "description": "Autoriza a Vereadora ANA LUCIA DO REGO FERREIRA (Professora Ana Lúcia) a se ausentar do País.",
+  "file": [],
+  "heading_label": "Resolução nº 2803, de 02/04/2024",
+  "id": "616",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/150189",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Autoriza a Vereadora ANA LUCIA DO REGO FERREIRA (Professora Ana Lúcia) a se ausentar do País.",
+      "id": "150189",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=150189",
+      "title": "Projeto de Resolução nº 3/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTUwMTg5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 12,
+  "num_pag_inicio_publ": 12,
+  "publicacao": {
+    "numPagFim": 12,
+    "numPagInicio": 12,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2803/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-04-02",
+    "dataPromulgacaoBR": "02/04/2024",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2803, de 02/04/2024",
+    "numNorma": 2803,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "Autoriza a Vereadora ANA LUCIA DO REGO FERREIRA (Professora Ana Lúcia) a se ausentar do País.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=616",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=616",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/811",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/811",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/811_anexo_745",
+          "filename": "811_anexo_745",
+          "size": "703.5 KB"
+        }
+      ],
+      "id": "745",
+      "title": "Publicação no Diário Oficial do Município"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-05-16",
+  "data_publicacao": "2022-05-21",
+  "description": "Concede o Título de Cidadão do Recife ao Senhor ALARICO ANTÔNIO FROTA MONT’ALVERNE. ",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 1022, de 16/05/2022",
+  "id": "811",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/117663",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=250",
+          "@type": "Autor",
+          "id": "250",
+          "primeiro_autor": true,
+          "title": "Alcides Cardoso"
+        }
+      ],
+      "autoria_nomes": "Alcides Cardoso",
+      "description": "Concede o Título de Cidadão do Recife ao Senhor ALARICO ANTÔNIO FROTA MONT’ALVERNE. ",
+      "id": "117663",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=117663",
+      "title": "Projeto de Decreto Legislativo nº 38/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE3NjYz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 14,
+  "num_pag_inicio_publ": 14,
+  "publicacao": {
+    "numPagFim": 14,
+    "numPagInicio": 14,
+    "veiculo": "Diário oficial da prefeitura"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1022/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-05-16",
+    "dataPromulgacaoBR": "16/05/2022",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1022, de 16/05/2022",
+    "numNorma": 1022,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede o Título de Cidadão do Recife ao Senhor ALARICO ANTÔNIO FROTA MONT’ALVERNE. ",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=811",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=811",
+  "veiculo_publicacao": "Diário oficial da prefeitura"
+}

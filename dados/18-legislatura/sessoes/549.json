@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/549",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/549/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/549/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/549_ata_sessao.pdf",
+      "filename": "549_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-08-30",
+  "description": "54ª Reunião Ordinária - 30/08/2022",
+  "endTime": "11:19",
+  "id": "549",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/549_pauta_sessao.pdf",
+      "filename": "549_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:15",
+  "title": "54ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

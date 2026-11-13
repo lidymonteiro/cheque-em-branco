@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/552",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/552/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/552/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/552_ata_sessao.pdf",
+      "filename": "552_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-08-26",
+  "description": "74ª Reunião Solene - 26/08/2022",
+  "endTime": "",
+  "id": "552",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "74ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/473",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/473/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/473/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/473_ata_sessao.pdf",
+      "filename": "473_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-05-10",
+  "description": "28ª Reunião Ordinária - 10/05/2022",
+  "endTime": "12:39",
+  "id": "473",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/473_pauta_sessao.pdf",
+      "filename": "473_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "11:53",
+  "title": "28ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

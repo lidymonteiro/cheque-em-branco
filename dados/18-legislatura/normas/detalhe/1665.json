@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1665",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1665",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1665_anexo_1657",
+          "filename": "1665_anexo_1657",
+          "size": "324.6 KB"
+        }
+      ],
+      "id": "1657",
+      "title": "PDF da publicação da lei 19.159/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-12-15",
+  "data_publicacao": "2023-12-16",
+  "description": "Altera o item 7 do ANEXO VII da Lei Municipal nº 16.286, de 22 de janeiro de 1997, que Dispõe sobre o parcelamento do solo e demais modificações da propriedade urbana.\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1665&texto_original=1",
+      "filename": "1665_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "51.1 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19159, de 15/12/2023",
+  "id": "1665",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1665&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/140595",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=162",
+          "@type": "Autor",
+          "id": "162",
+          "primeiro_autor": true,
+          "title": "Gilberto Alves"
+        }
+      ],
+      "autoria_nomes": "Gilberto Alves",
+      "description": "Altera o item 7 do ANEXO VII da Lei Municipal nº 16.286, de 22 de janeiro de 1997, que Dispõe sobre o parcelamento do solo e demais modificações da propriedade urbana.\r\n",
+      "id": "140595",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=140595",
+      "title": "Projeto de Lei Ordinária nº 133/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQwNTk1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 6,
+  "num_pag_inicio_publ": 6,
+  "publicacao": {
+    "numPagFim": 6,
+    "numPagInicio": 6,
+    "veiculo": "Diário Oficial do Munícipio "
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19159/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-12-15",
+    "dataPromulgacaoBR": "15/12/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19159, de 15/12/2023",
+    "numNorma": 19159,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Altera o item 7 do ANEXO VII da Lei Municipal nº 16.286, de 22 de janeiro de 1997, que Dispõe sobre o parcelamento do solo e demais modificações da propriedade urbana.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1665",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1665",
+  "veiculo_publicacao": "Diário Oficial do Munícipio "
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/859",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/859/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/859/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/859_ata_sessao.pdf",
+      "filename": "859_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-10-17",
+  "description": "62ª Reunião Ordinária - 17/10/2023",
+  "endTime": "11:19",
+  "id": "859",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/859_pauta_sessao.pdf",
+      "filename": "859_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:19",
+  "title": "62ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

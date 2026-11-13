@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1676",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1676",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1676_anexo_1678",
+          "filename": "1676_anexo_1678",
+          "size": "1 MB"
+        }
+      ],
+      "id": "1678",
+      "title": "PDF da publicação da lei 18.929/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-05-20",
+  "data_publicacao": "2022-05-21",
+  "description": "Institui no âmbito do Município do Recife o “Dia Municipal do Programa Mãos que Ajudam\".",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1676&texto_original=1",
+      "filename": "1676_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "26.6 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18929, de 20/05/2022",
+  "id": "1676",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1676&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/117166",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=254",
+          "@type": "Autor",
+          "id": "254",
+          "primeiro_autor": true,
+          "title": "Prof Mirinho"
+        }
+      ],
+      "autoria_nomes": "Prof Mirinho",
+      "description": "Institui no âmbito do Município do Recife o “Dia Municipal do Programa Mãos que Ajudam\".",
+      "id": "117166",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=117166",
+      "title": "Projeto de Lei Ordinária nº 406/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE3MTY2"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Munícipio "
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18929/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-05-20",
+    "dataPromulgacaoBR": "20/05/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18929, de 20/05/2022",
+    "numNorma": 18929,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui no âmbito do Município do Recife o “Dia Municipal do Programa Mãos que Ajudam\".",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1676",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1676",
+  "veiculo_publicacao": "Diário Oficial do Munícipio "
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1688",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1688",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1688_anexo_1811",
+          "filename": "1688_anexo_1811",
+          "size": "870.7 KB"
+        }
+      ],
+      "id": "1811",
+      "title": "PDF da publicação da lei 19236/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-05-28",
+  "data_publicacao": "2024-06-01",
+  "description": "Altera o nome da “Rua Itanhenga”, no Bairro Tejipió, no município do Recife, passando o referido logradouro a denominar-se “Rua Itanhenga - Arquiteta Mabel Rios Diniz”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1688&texto_original=1",
+      "filename": "1688_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "80.9 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19236, de 28/05/2024",
+  "id": "1688",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1688&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/146030",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=241",
+          "@type": "Autor",
+          "id": "241",
+          "primeiro_autor": true,
+          "title": "Joselito Ferreira"
+        }
+      ],
+      "autoria_nomes": "Joselito Ferreira",
+      "description": "Altera o nome da “Rua Itanhenga”, no Bairro Tejipió, no município do Recife, passando o referido logradouro a denominar-se “Rua Itanhenga - Arquiteta Mabel Rios Diniz”.",
+      "id": "146030",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=146030",
+      "title": "Projeto de Lei Ordinária nº 265/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ2MDMw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19236/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-05-28",
+    "dataPromulgacaoBR": "28/05/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19236, de 28/05/2024",
+    "numNorma": 19236,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Altera o nome da “Rua Itanhenga”, no Bairro Tejipió, no município do Recife, passando o referido logradouro a denominar-se “Rua Itanhenga - Arquiteta Mabel Rios Diniz”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1688",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1688",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

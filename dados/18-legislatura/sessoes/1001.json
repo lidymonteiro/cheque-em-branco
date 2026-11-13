@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1001",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1001/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1001/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1001_ata_sessao.pdf",
+      "filename": "1001_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-04-17",
+  "description": "39ª Reunião Solene - 17/04/2024",
+  "endTime": "",
+  "id": "1001",
+  "pauta": [],
+  "startTime": "14:34",
+  "title": "39ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

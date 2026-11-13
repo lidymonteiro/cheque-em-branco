@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1686",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1686",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1686_anexo_1685",
+          "filename": "1686_anexo_1685",
+          "size": "469.3 KB"
+        }
+      ],
+      "id": "1685",
+      "title": "PDF da publicação da resolução 2805/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-07-02",
+  "data_publicacao": "2024-07-06",
+  "description": "Autorizar a Vereadora MARIA APARECIDA PEDROSA BEZERRA a ausentar-se do País, em viagem cultural, às suas expensas, no período de 16 de julho de 2024 a 26 de julho de 2024, com destino à China, para participação do Festival da Juventude de Poesia, a convite da China Writers Association.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1686&texto_original=1",
+      "filename": "1686_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "381.5 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2805, de 02/07/2024",
+  "id": "1686",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1686&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/154463",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Autorizar a Vereadora MARIA APARECIDA PEDROSA BEZERRA a ausentar-se do País, em viagem cultural, às suas expensas, no período de 16 de julho de 2024 a 26 de julho de 2024, com destino à China, para participação do Festival da Juventude de Poesia, a convite da China Writers Association.",
+      "id": "154463",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=154463",
+      "title": "Projeto de Resolução nº 10/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTU0NDYz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 16,
+  "num_pag_inicio_publ": 16,
+  "publicacao": {
+    "numPagFim": 16,
+    "numPagInicio": 16,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2805/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-07-02",
+    "dataPromulgacaoBR": "02/07/2024",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2805, de 02/07/2024",
+    "numNorma": 2805,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "Autorizar a Vereadora MARIA APARECIDA PEDROSA BEZERRA a ausentar-se do País, em viagem cultural, às suas expensas, no período de 16 de julho de 2024 a 26 de julho de 2024, com destino à China, para participação do Festival da Juventude de Poesia, a convite da China Writers Association.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1686",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1686",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

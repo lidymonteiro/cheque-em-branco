@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/981",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/981/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/981/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/981_ata_sessao.pdf",
+      "filename": "981_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-03-26",
+  "description": "25ª Reunião Solene - 26/03/2024",
+  "endTime": "",
+  "id": "981",
+  "pauta": [],
+  "startTime": "18:21",
+  "title": "25ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

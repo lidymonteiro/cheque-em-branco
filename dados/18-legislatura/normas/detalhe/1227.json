@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1227",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1227",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1227_anexo_1180",
+          "filename": "1227_anexo_1180",
+          "size": "315.9 KB"
+        }
+      ],
+      "id": "1180",
+      "title": "PDF da publicação da lei 19043 2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-04-20",
+  "data_publicacao": "2023-04-22",
+  "description": "Acrescenta Projeto em favor da Secretaria de Planejamento, Gestão e Transformação Digital no Anexo da Lei Municipal nº 19.007, de 13 de dezembro de 2022 (Revisão 2023 do PPA 2022- 2025), e no Anexo II da Lei Municipal nº 19.006, de 13 de dezembro de 2022 (LOA 2023), e autoriza a abertura de crédito especial, por anulação parcial de dotação, no orçamento do corrente exercício.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1227&texto_original=1",
+      "filename": "1227_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "66.3 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19043, de 20/04/2023",
+  "id": "1227",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1227&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/135995",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Acrescenta Projeto em favor da Secretaria de Planejamento, Gestão e Transformação Digital no Anexo da Lei Municipal nº 19.007, de 13 de dezembro de 2022 (Revisão 2023 do PPA 2022- 2025), e no Anexo II da Lei Municipal nº 19.006, de 13 de dezembro de 2022 (LOA 2023), e autoriza a abertura de crédito especial, por anulação parcial de dotação, no orçamento do corrente exercício.",
+      "id": "135995",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=135995",
+      "title": "Projeto de Lei do Executivo nº 13/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM1OTk1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19043/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-04-20",
+    "dataPromulgacaoBR": "20/04/2023",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19043, de 20/04/2023",
+    "numNorma": 19043,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Acrescenta Projeto em favor da Secretaria de Planejamento, Gestão e Transformação Digital no Anexo da Lei Municipal nº 19.007, de 13 de dezembro de 2022 (Revisão 2023 do PPA 2022- 2025), e no Anexo II da Lei Municipal nº 19.006, de 13 de dezembro de 2022 (LOA 2023), e autoriza a abertura de crédito especial, por anulação parcial de dotação, no orçamento do corrente exercício.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1227",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1227",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

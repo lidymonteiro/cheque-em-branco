@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1944",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1944",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1944_anexo_1959",
+          "filename": "1944_anexo_1959",
+          "size": "341.2 KB"
+        }
+      ],
+      "id": "1959",
+      "title": "PDF da publicação da resolução 2810/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-12-09",
+  "data_publicacao": "2024-12-12",
+  "description": "Autoriza o Vereador ALCIDES JOSE DE ALBUQUERQUE CARDOSO a se ausentar do País.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1944&texto_original=1",
+      "filename": "1944_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "341.2 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2810, de 09/12/2024",
+  "id": "1944",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1944&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/157212",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Autoriza o Vereador ALCIDES JOSE DE ALBUQUERQUE CARDOSO a se ausentar do País.",
+      "id": "157212",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=157212",
+      "title": "Projeto de Resolução nº 15/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTU3MjEy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 27,
+  "num_pag_inicio_publ": 27,
+  "publicacao": {
+    "numPagFim": 27,
+    "numPagInicio": 27,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2810/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-12-09",
+    "dataPromulgacaoBR": "09/12/2024",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2810, de 09/12/2024",
+    "numNorma": 2810,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "Autoriza o Vereador ALCIDES JOSE DE ALBUQUERQUE CARDOSO a se ausentar do País.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1944",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1944",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

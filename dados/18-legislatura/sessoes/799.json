@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/799",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/799/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/799/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/799_ata_sessao.pdf",
+      "filename": "799_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-08-23",
+  "description": "97ª Reunião Solene - 23/08/2023",
+  "endTime": "",
+  "id": "799",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/799_pauta_sessao.pdf",
+      "filename": "799_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "15:20",
+  "title": "97ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

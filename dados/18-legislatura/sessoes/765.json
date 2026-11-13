@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/765",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/765/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/765/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/765_ata_sessao.pdf",
+      "filename": "765_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-06-26",
+  "description": "74ª Reunião Solene - 26/06/2023",
+  "endTime": "",
+  "id": "765",
+  "pauta": [],
+  "startTime": "18:28",
+  "title": "74ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

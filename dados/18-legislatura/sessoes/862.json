@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/862",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/862/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/862/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/862_ata_sessao.pdf",
+      "filename": "862_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-10-24",
+  "description": "64ª Reunião Ordinária - 24/10/2023",
+  "endTime": "11:33",
+  "id": "862",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/862_pauta_sessao.pdf",
+      "filename": "862_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:32",
+  "title": "64ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

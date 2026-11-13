@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/648",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/648/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/648/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/648_ata_sessao.pdf",
+      "filename": "648_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-02-13",
+  "description": "2ª Reunião Ordinária - 13/02/2023",
+  "endTime": "12:43",
+  "id": "648",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/648_pauta_sessao.pdf",
+      "filename": "648_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:37",
+  "title": "2ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

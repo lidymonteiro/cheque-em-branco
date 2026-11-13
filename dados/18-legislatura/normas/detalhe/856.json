@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/856",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/856",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/856_anexo_820",
+          "filename": "856_anexo_820",
+          "size": "281.5 KB"
+        }
+      ],
+      "id": "820",
+      "title": "PDF da publicação da lei 18845/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-10-06",
+  "data_publicacao": "2021-10-07",
+  "description": "VEDA QUALQUER DISCRIMINAÇÃO À CRIANÇA E AO ADOLESCENTE COM DEFICIÊNCIA OU DOENÇA CRÔNICA NOS ESTABELECIMENTOS DE ENSINO DA REDE PARTICULAR SITUADOS NO MUNICÍPIO DO RECIFE.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=856&texto_original=1",
+      "filename": "856_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "91.1 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18845, de 06/10/2021",
+  "id": "856",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=856&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/100889",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=233",
+          "@type": "Autor",
+          "id": "233",
+          "primeiro_autor": true,
+          "title": "Samuel Salazar"
+        }
+      ],
+      "autoria_nomes": "Samuel Salazar",
+      "description": "VEDA QUALQUER DISCRIMINAÇÃO À CRIANÇA E AO ADOLESCENTE COM DEFICIÊNCIA OU DOENÇA CRÔNICA NOS ESTABELECIMENTOS DE ENSINO DA REDE PARTICULAR SITUADOS NO MUNICÍPIO DO RECIFE.",
+      "id": "100889",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=100889",
+      "title": "Projeto de Lei Ordinária nº 174/2020",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTAwODg5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18845/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-10-06",
+    "dataPromulgacaoBR": "06/10/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18845, de 06/10/2021",
+    "numNorma": 18845,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "VEDA QUALQUER DISCRIMINAÇÃO À CRIANÇA E AO ADOLESCENTE COM DEFICIÊNCIA OU DOENÇA CRÔNICA NOS ESTABELECIMENTOS DE ENSINO DA REDE PARTICULAR SITUADOS NO MUNICÍPIO DO RECIFE.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=856",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=856",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

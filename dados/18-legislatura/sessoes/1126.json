@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1126",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1126/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1126/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1126_ata_sessao.pdf",
+      "filename": "1126_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-10-15",
+  "description": "62ª Reunião Ordinária - 15/10/2024",
+  "endTime": "11:13",
+  "id": "1126",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1126_pauta_sessao.pdf",
+      "filename": "1126_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:11",
+  "title": "62ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

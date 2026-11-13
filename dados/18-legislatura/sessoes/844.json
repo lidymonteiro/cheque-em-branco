@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/844",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/844/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/844/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/844_ata_sessao.pdf",
+      "filename": "844_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-10-02",
+  "description": "130ª Reunião Solene - 02/10/2023",
+  "endTime": "",
+  "id": "844",
+  "pauta": [],
+  "startTime": "18:30",
+  "title": "130ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

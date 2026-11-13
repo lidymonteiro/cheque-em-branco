@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1033",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1033/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1033/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1033_ata_sessao.pdf",
+      "filename": "1033_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-05-16",
+  "description": "62ª Reunião Solene - 16/05/2024",
+  "endTime": "",
+  "id": "1033",
+  "pauta": [],
+  "startTime": "18:23",
+  "title": "62ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

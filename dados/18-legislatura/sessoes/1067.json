@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1067",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1067/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1067/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1067_ata_sessao.pdf",
+      "filename": "1067_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-06-17",
+  "description": "37ª Reunião Ordinária - 17/06/2024",
+  "endTime": "11:47",
+  "id": "1067",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1067_pauta_sessao.pdf",
+      "filename": "1067_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "07:57",
+  "title": "37ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/700",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/700/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/700/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/700_ata_sessao.pdf",
+      "filename": "700_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-02",
+  "description": "21ª Reunião Ordinária - 02/05/2023",
+  "endTime": "12:13",
+  "id": "700",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/700_pauta_sessao.pdf",
+      "filename": "700_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:57",
+  "title": "21ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

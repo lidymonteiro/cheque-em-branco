@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/342",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/342/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/342/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/342_ata_sessao.pdf",
+      "filename": "342_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-05-18",
+  "description": "31ª Reunião Ordinária - 18/05/2021",
+  "endTime": "13:00",
+  "id": "342",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "31ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/815",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/815",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/815_anexo_749",
+          "filename": "815_anexo_749",
+          "size": "641.6 KB"
+        }
+      ],
+      "id": "749",
+      "title": "Publicação no Diário Oficial do Município"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-03-21",
+  "data_publicacao": "2022-03-26",
+  "description": "Concede a Medalha de Mérito José\r\nMariano ao Sr. Henrique Seixas.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 1017, de 21/03/2022",
+  "id": "815",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116495",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=252",
+          "@type": "Autor",
+          "id": "252",
+          "primeiro_autor": true,
+          "title": "Zé Neto"
+        }
+      ],
+      "autoria_nomes": "Zé Neto",
+      "description": "Concede a Medalha de Mérito José\r\nMariano ao Sr. Henrique Seixas.",
+      "id": "116495",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=116495",
+      "title": "Projeto de Decreto Legislativo nº 36/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE2NDk1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 33,
+  "num_pag_inicio_publ": 33,
+  "publicacao": {
+    "numPagFim": 33,
+    "numPagInicio": 33,
+    "veiculo": "Diário oficial da prefeitura"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1017/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-03-21",
+    "dataPromulgacaoBR": "21/03/2022",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1017, de 21/03/2022",
+    "numNorma": 1017,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito José\r\nMariano ao Sr. Henrique Seixas.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=815",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=815",
+  "veiculo_publicacao": "Diário oficial da prefeitura"
+}

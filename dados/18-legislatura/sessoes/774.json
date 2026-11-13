@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/774",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/774/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/774/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/774_ata_sessao.pdf",
+      "filename": "774_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-08-07",
+  "description": "41ª Reunião Ordinária - 07/08/2023",
+  "endTime": "",
+  "id": "774",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/774_pauta_sessao.pdf",
+      "filename": "774_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "41ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

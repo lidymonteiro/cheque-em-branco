@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/667",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/667/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/667/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/667_ata_sessao.pdf",
+      "filename": "667_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-03-17",
+  "description": "11ª Reunião Solene - 17/03/2023",
+  "endTime": "",
+  "id": "667",
+  "pauta": [],
+  "startTime": "15:35",
+  "title": "11ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

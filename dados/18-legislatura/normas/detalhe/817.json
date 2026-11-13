@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/817",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/817",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/817_anexo_751",
+          "filename": "817_anexo_751",
+          "size": "682.3 KB"
+        }
+      ],
+      "id": "751",
+      "title": "Publicação no Diário Oficial do Município"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-03-21",
+  "data_publicacao": "2023-03-28",
+  "description": "Concede a Medalha de Mérito\r\nOlegária Mariano a Sra. Carli Lima\r\nAmorim.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 1072, de 21/03/2023",
+  "id": "817",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/116274",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=249",
+          "@type": "Autor",
+          "id": "249",
+          "primeiro_autor": true,
+          "title": "Dilson Batista"
+        }
+      ],
+      "autoria_nomes": "Dilson Batista",
+      "description": "Concede a Medalha de Mérito\r\nOlegária Mariano a Sra. Carli Lima\r\nAmorim.",
+      "id": "116274",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=116274",
+      "title": "Projeto de Decreto Legislativo nº 32/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE2Mjc0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 12,
+  "num_pag_inicio_publ": 12,
+  "publicacao": {
+    "numPagFim": 12,
+    "numPagInicio": 12,
+    "veiculo": "Diário oficial da prefeitura"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1072/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-03-21",
+    "dataPromulgacaoBR": "21/03/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1072, de 21/03/2023",
+    "numNorma": 1072,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito\r\nOlegária Mariano a Sra. Carli Lima\r\nAmorim.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=817",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=817",
+  "veiculo_publicacao": "Diário oficial da prefeitura"
+}

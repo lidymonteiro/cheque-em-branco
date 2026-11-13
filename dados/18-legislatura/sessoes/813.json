@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/813",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/813/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/813/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/813_ata_sessao.pdf",
+      "filename": "813_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-09-11",
+  "description": "9ª Reunião Extraordinária - 11/09/2023",
+  "endTime": "12:43",
+  "id": "813",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/813_pauta_sessao.pdf",
+      "filename": "813_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "11:32",
+  "title": "9ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

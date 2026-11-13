@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1017",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1017/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1017/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1017_ata_sessao.pdf",
+      "filename": "1017_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-05-07",
+  "description": "26ª Reunião Ordinária - 07/05/2024",
+  "endTime": "11:30",
+  "id": "1017",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1017_pauta_sessao.pdf",
+      "filename": "1017_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:34",
+  "title": "26ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

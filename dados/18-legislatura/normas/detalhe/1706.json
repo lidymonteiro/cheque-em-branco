@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1706",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1706",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1706_anexo_1699",
+          "filename": "1706_anexo_1699",
+          "size": "415.4 KB"
+        }
+      ],
+      "id": "1699",
+      "title": "Publicação no Diário Oficial do Município"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-06-11",
+  "data_publicacao": "2024-06-13",
+  "description": "Concede a Medalha de Mérito José Mariano ao Sr. Eduardo Henrique da Fonte de Albuquerque Silva.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 1163, de 11/06/2024",
+  "id": "1706",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/152574",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=259",
+          "@type": "Autor",
+          "id": "259",
+          "primeiro_autor": true,
+          "title": "Ronaldo Lopes"
+        }
+      ],
+      "autoria_nomes": "Ronaldo Lopes",
+      "description": "Concede a Medalha de Mérito José Mariano ao Sr. Eduardo Henrique da Fonte de Albuquerque Silva.",
+      "id": "152574",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=152574",
+      "title": "Projeto de Decreto Legislativo nº 32/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTUyNTc0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 25,
+  "num_pag_inicio_publ": 25,
+  "publicacao": {
+    "numPagFim": 25,
+    "numPagInicio": 25,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1163/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-06-11",
+    "dataPromulgacaoBR": "11/06/2024",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1163, de 11/06/2024",
+    "numNorma": 1163,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito José Mariano ao Sr. Eduardo Henrique da Fonte de Albuquerque Silva.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1706",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1706",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

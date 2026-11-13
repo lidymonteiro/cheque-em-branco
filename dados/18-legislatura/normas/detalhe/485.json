@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/485",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/485",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/485_anexo_406",
+          "filename": "485_anexo_406",
+          "size": "401.6 KB"
+        }
+      ],
+      "id": "406",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1118/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-11-27",
+  "data_publicacao": "2023-11-30",
+  "description": "Concede o Título de Cidadã do Recife à Juíza de Direito Wilka Pinto Vilela.\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=485&texto_original=1",
+      "filename": "485_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "26.4 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1118, de 27/11/2023",
+  "id": "485",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=485&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/145123",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=158",
+          "@type": "Autor",
+          "id": "158",
+          "primeiro_autor": true,
+          "title": "Aline Mariano"
+        }
+      ],
+      "autoria_nomes": "Aline Mariano",
+      "description": "Concede o Título de Cidadã do Recife à Juíza de Direito Wilka Pinto Vilela.\r\n",
+      "id": "145123",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=145123",
+      "title": "Projeto de Decreto Legislativo nº 45/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ1MTIz"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 34,
+  "num_pag_inicio_publ": 34,
+  "publicacao": {
+    "numPagFim": 34,
+    "numPagInicio": 34,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1118/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-11-27",
+    "dataPromulgacaoBR": "27/11/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1118, de 27/11/2023",
+    "numNorma": 1118,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede o Título de Cidadã do Recife à Juíza de Direito Wilka Pinto Vilela.\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=485",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=485",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

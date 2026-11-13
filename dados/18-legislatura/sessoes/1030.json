@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1030",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1030/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1030/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1030_ata_sessao.pdf",
+      "filename": "1030_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-05-15",
+  "description": "59ª Reunião Solene - 15/05/2024",
+  "endTime": "",
+  "id": "1030",
+  "pauta": [],
+  "startTime": "10:32",
+  "title": "59ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

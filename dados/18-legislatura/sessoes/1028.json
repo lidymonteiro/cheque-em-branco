@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1028",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1028/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1028/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1028_ata_sessao.pdf",
+      "filename": "1028_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-05-20",
+  "description": "29ª Reunião Ordinária - 20/05/2024",
+  "endTime": "13:07",
+  "id": "1028",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1028_pauta_sessao.pdf",
+      "filename": "1028_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:12",
+  "title": "29ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

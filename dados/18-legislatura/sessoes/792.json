@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/792",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/792/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/792/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/792_ata_sessao.pdf",
+      "filename": "792_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-08-17",
+  "description": "92ª Reunião Solene - 17/08/2023",
+  "endTime": "",
+  "id": "792",
+  "pauta": [],
+  "startTime": "18:42",
+  "title": "92ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/309",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/309/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/309/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/309_ata_sessao.pdf",
+      "filename": "309_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-02-02",
+  "description": "1ª Reunião Ordinária - 02/02/2021",
+  "endTime": "13:00",
+  "id": "309",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "1ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

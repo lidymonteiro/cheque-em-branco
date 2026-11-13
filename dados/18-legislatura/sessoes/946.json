@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/946",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/946/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/946/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/946_ata_sessao.pdf",
+      "filename": "946_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-02-26",
+  "description": "1ª Reunião Extraordinária - 26/02/2024",
+  "endTime": "13:15",
+  "id": "946",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/946_pauta_sessao.pdf",
+      "filename": "946_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "11:57",
+  "title": "1ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

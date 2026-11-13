@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/6",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/6",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/6_anexo_120",
+          "filename": "6_anexo_120",
+          "size": "277.7 KB"
+        }
+      ],
+      "id": "120",
+      "title": "PDF da publicação da lei 19196/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-03-26",
+  "data_publicacao": "2024-03-26",
+  "description": "Institui o “Dia Municipal em Defesa da Democracia¨. no Calendário Oficial de Eventos do Município do Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=6&texto_original=1",
+      "filename": "6_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "60 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19196, de 26/03/2024",
+  "id": "6",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=6&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/144021",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=204",
+          "@type": "Autor",
+          "id": "204",
+          "primeiro_autor": true,
+          "title": "Rinaldo Júnior"
+        }
+      ],
+      "autoria_nomes": "Rinaldo Júnior",
+      "description": "Institui o “Dia Municipal em Defesa da Democracia¨. no Calendário Oficial de Eventos do Município do Recife.",
+      "id": "144021",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=144021",
+      "title": "Projeto de Lei Ordinária nº 213/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ0MDIx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 2,
+  "num_pag_inicio_publ": 2,
+  "publicacao": {
+    "numPagFim": 2,
+    "numPagInicio": 2,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19196/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-03-26",
+    "dataPromulgacaoBR": "26/03/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19196, de 26/03/2024",
+    "numNorma": 19196,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui o “Dia Municipal em Defesa da Democracia¨. no Calendário Oficial de Eventos do Município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=6",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=6",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

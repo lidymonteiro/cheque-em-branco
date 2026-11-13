@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/784",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/784/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/784/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/784_ata_sessao.pdf",
+      "filename": "784_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-08-10",
+  "description": "87ª Reunião Solene - 10/08/2023",
+  "endTime": "",
+  "id": "784",
+  "pauta": [],
+  "startTime": "15:33",
+  "title": "87ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/383",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/383/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/383/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/383_ata_sessao.pdf",
+      "filename": "383_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-05-25",
+  "description": "6ª Reunião Extraordinária - 25/05/2021",
+  "endTime": "",
+  "id": "383",
+  "pauta": [],
+  "startTime": "13:44",
+  "title": "6ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

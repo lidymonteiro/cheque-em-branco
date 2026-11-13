@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/592",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/592/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/592/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/592_ata_sessao.pdf",
+      "filename": "592_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-10-17",
+  "description": "67ª Reunião Ordinária - 17/10/2022",
+  "endTime": "11:30",
+  "id": "592",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/592_pauta_sessao.pdf",
+      "filename": "592_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:19",
+  "title": "67ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

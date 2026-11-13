@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/334",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/334/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/334/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/334_ata_sessao.pdf",
+      "filename": "334_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-04-20",
+  "description": "23ª Reunião Ordinária - 20/04/2021",
+  "endTime": "13:00",
+  "id": "334",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "23ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1857",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1857",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1857_anexo_1870",
+          "filename": "1857_anexo_1870",
+          "size": "803.1 KB"
+        }
+      ],
+      "id": "1870",
+      "title": "PDF da publicação da lei 19.306/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-09-16",
+  "data_publicacao": "2024-09-19",
+  "description": "Institui a “Semana de Incentivo à Doação de Cabelos às Pessoas Carentes em Tratamento de Câncer” no Calendário Oficial de Eventos do Município do Recife.",
+  "file": [],
+  "heading_label": "Lei Ordinária nº 19306, de 16/09/2024",
+  "id": "1857",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/146319",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=158",
+          "@type": "Autor",
+          "id": "158",
+          "primeiro_autor": true,
+          "title": "Aline Mariano"
+        }
+      ],
+      "autoria_nomes": "Aline Mariano",
+      "description": "Institui a “Semana de Incentivo à Doação de Cabelos às Pessoas Carentes em Tratamento de Câncer” no Calendário Oficial de Eventos do Município do Recife.",
+      "id": "146319",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=146319",
+      "title": "Projeto de Lei Ordinária nº 274/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ2MzE5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19306/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-09-16",
+    "dataPromulgacaoBR": "16/09/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19306, de 16/09/2024",
+    "numNorma": 19306,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui a “Semana de Incentivo à Doação de Cabelos às Pessoas Carentes em Tratamento de Câncer” no Calendário Oficial de Eventos do Município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1857",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1857",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

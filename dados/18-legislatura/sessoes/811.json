@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/811",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/811/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/811/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/811_ata_sessao.pdf",
+      "filename": "811_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-09-11",
+  "description": "51ª Reunião Ordinária - 11/09/2023",
+  "endTime": "11:28",
+  "id": "811",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/811_pauta_sessao.pdf",
+      "filename": "811_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:13",
+  "title": "51ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

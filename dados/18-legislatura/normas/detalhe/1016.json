@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1016",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1016",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1016_anexo_960",
+          "filename": "1016_anexo_960",
+          "size": "715.6 KB"
+        }
+      ],
+      "id": "960",
+      "title": "pdf da Publicação da Resolução de Nº 2747/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-03-21",
+  "data_publicacao": "2021-09-25",
+  "description": "INSTITUI, NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE, A “FRENTE PARLAMENTAR EM DEFESA DO SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL (SUAS)”.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1016&texto_original=1",
+      "filename": "1016_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "934.1 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2747, de 21/03/2021",
+  "id": "1016",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1016&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/104891",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=208",
+          "@type": "Autor",
+          "id": "208",
+          "primeiro_autor": true,
+          "title": "Ivan Moraes"
+        }
+      ],
+      "autoria_nomes": "Ivan Moraes",
+      "description": "INSTITUI, NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE, A &#8220;FRENTE PARLAMENTAR EM DEFESA DO SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL (SUAS)&#8221;.",
+      "id": "104891",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=104891",
+      "title": "Projeto de Resolução nº 14/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA0ODkx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 24,
+  "num_pag_inicio_publ": 24,
+  "publicacao": {
+    "numPagFim": 24,
+    "numPagInicio": 24,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2747/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-03-21",
+    "dataPromulgacaoBR": "21/03/2021",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2747, de 21/03/2021",
+    "numNorma": 2747,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "INSTITUI, NO ÂMBITO DA CÂMARA MUNICIPAL DO RECIFE, A “FRENTE PARLAMENTAR EM DEFESA DO SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL (SUAS)”.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1016",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1016",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

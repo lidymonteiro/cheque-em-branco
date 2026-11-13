@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1065",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1065/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1065/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1065_ata_sessao.pdf",
+      "filename": "1065_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-06-11",
+  "description": "36ª Reunião Ordinária - 11/06/2024",
+  "endTime": "12:45",
+  "id": "1065",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1065_pauta_sessao.pdf",
+      "filename": "1065_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:21",
+  "title": "36ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

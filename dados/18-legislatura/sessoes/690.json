@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/690",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/690/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/690/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/690_ata_sessao.pdf",
+      "filename": "690_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-04-13",
+  "description": "25ª Reunião Solene - 13/04/2023",
+  "endTime": "",
+  "id": "690",
+  "pauta": [],
+  "startTime": "10:16",
+  "title": "25ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

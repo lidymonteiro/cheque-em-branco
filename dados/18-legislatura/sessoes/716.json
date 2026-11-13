@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/716",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/716/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/716/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/716_ata_sessao.pdf",
+      "filename": "716_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-08",
+  "description": "42ª Reunião Solene - 08/05/2023",
+  "endTime": "",
+  "id": "716",
+  "pauta": [],
+  "startTime": "15:00",
+  "title": "42ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

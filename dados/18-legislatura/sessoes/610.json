@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/610",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/610/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/610/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/610_ata_sessao.pdf",
+      "filename": "610_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-11-22",
+  "description": "17ª Reunião Extraordinária - 22/11/2022",
+  "endTime": "11:57",
+  "id": "610",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/610_pauta_sessao.pdf",
+      "filename": "610_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "11:38",
+  "title": "17ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

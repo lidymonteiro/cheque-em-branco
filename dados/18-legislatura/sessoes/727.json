@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/727",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/727/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/727/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/727_ata_sessao.pdf",
+      "filename": "727_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-05-18",
+  "description": "49ª Reunião Solene - 18/05/2023",
+  "endTime": "",
+  "id": "727",
+  "pauta": [],
+  "startTime": "15:20",
+  "title": "49ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

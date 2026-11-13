@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/384",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/384/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/384/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/384_ata_sessao.pdf",
+      "filename": "384_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-06-08",
+  "description": "7ª Reunião Extraordinária - 08/06/2021",
+  "endTime": "",
+  "id": "384",
+  "pauta": [],
+  "startTime": "14:54",
+  "title": "7ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

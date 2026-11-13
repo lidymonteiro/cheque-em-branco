@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/863",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/863/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/863/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/863_ata_sessao.pdf",
+      "filename": "863_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-10-17",
+  "description": "143ª Reunião Solene - 17/10/2023",
+  "endTime": "",
+  "id": "863",
+  "pauta": [],
+  "startTime": "14:43",
+  "title": "143ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

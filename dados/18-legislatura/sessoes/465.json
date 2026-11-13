@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/465",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/465/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/465/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/465_ata_sessao.pdf",
+      "filename": "465_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-04-26",
+  "description": "24ª Reunião Ordinária - 26/04/2022",
+  "endTime": "12:17",
+  "id": "465",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/465_pauta_sessao.pdf",
+      "filename": "465_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:19",
+  "title": "24ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/448",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/448/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/448/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/448_ata_sessao.pdf",
+      "filename": "448_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-04-11",
+  "description": "19ª Reunião Ordinária - 11/04/2022",
+  "endTime": "12:34",
+  "id": "448",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/448_pauta_sessao.pdf",
+      "filename": "448_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:03",
+  "title": "19ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

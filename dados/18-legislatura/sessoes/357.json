@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/357",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/357/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/357/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/357_ata_sessao.pdf",
+      "filename": "357_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-08-03",
+  "description": "45ª Reunião Ordinária - 03/08/2021",
+  "endTime": "13:00",
+  "id": "357",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "45ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

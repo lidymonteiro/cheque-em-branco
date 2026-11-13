@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/396",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/396",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/396_anexo_325",
+          "filename": "396_anexo_325",
+          "size": "277.1 KB"
+        }
+      ],
+      "id": "325",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1101/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-09-11",
+  "data_publicacao": "2023-09-14",
+  "description": "Concede o Título de Cidadão do Recife ao Sr. Hemerson da Silva Ferreira (Mc Tocha).",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=396&texto_original=1",
+      "filename": "396_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "27.3 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1101, de 11/09/2023",
+  "id": "396",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=396&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/138999",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=261",
+          "@type": "Autor",
+          "id": "261",
+          "primeiro_autor": true,
+          "title": "Victor André Gomes"
+        }
+      ],
+      "autoria_nomes": "Victor André Gomes",
+      "description": "Concede o Título de Cidadão do Recife ao Sr. Hemerson da Silva Ferreira (Mc Tocha).",
+      "id": "138999",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=138999",
+      "title": "Projeto de Decreto Legislativo nº 24/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM4OTk5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 27,
+  "num_pag_inicio_publ": 27,
+  "publicacao": {
+    "numPagFim": 27,
+    "numPagInicio": 27,
+    "veiculo": "DIário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1101/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-09-11",
+    "dataPromulgacaoBR": "11/09/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1101, de 11/09/2023",
+    "numNorma": 1101,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede o Título de Cidadão do Recife ao Sr. Hemerson da Silva Ferreira (Mc Tocha).",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=396",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=396",
+  "veiculo_publicacao": "DIário Oficial do Município"
+}

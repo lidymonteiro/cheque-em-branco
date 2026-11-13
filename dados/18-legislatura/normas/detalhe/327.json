@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/327",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/327",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/327_anexo_298",
+          "filename": "327_anexo_298",
+          "size": "294 KB"
+        }
+      ],
+      "id": "298",
+      "title": "Pdf da Publicação do Decreto Legislativo de Nº 1083/2023"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-06-05",
+  "data_publicacao": "2023-06-08",
+  "description": "Concede a Medalha de Mérito José Mariano ao Excelentíssimo Sr. Humberto Costa Vasconcelos Júnior, Desembargador do Tribunal de Justiça de Pernambuco.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=327&texto_original=1",
+      "filename": "327_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "29.5 KB"
+    }
+  ],
+  "heading_label": "Decreto Legislativo nº 1083, de 05/06/2023",
+  "id": "327",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=327&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/135917",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=187",
+          "@type": "Autor",
+          "id": "187",
+          "primeiro_autor": true,
+          "title": "Eriberto Rafael"
+        }
+      ],
+      "autoria_nomes": "Eriberto Rafael",
+      "description": "Concede a Medalha de Mérito José Mariano ao Excelentíssimo Sr. Humberto Costa Vasconcelos Júnior, Desembargador do Tribunal de Justiça de Pernambuco.",
+      "id": "135917",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=135917",
+      "title": "Projeto de Decreto Legislativo nº 6/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTM1OTE3"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 13,
+  "num_pag_inicio_publ": 13,
+  "publicacao": {
+    "numPagFim": 13,
+    "numPagInicio": 13,
+    "veiculo": "DIário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1083/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-06-05",
+    "dataPromulgacaoBR": "05/06/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1083, de 05/06/2023",
+    "numNorma": 1083,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito José Mariano ao Excelentíssimo Sr. Humberto Costa Vasconcelos Júnior, Desembargador do Tribunal de Justiça de Pernambuco.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=327",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=327",
+  "veiculo_publicacao": "DIário Oficial do Município"
+}

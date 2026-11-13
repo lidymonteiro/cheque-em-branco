@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/659",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/659/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/659/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/659_ata_sessao.pdf",
+      "filename": "659_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-03-14",
+  "description": "8ª Reunião Ordinária - 14/03/2023",
+  "endTime": "12:20",
+  "id": "659",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/659_pauta_sessao.pdf",
+      "filename": "659_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:14",
+  "title": "8ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

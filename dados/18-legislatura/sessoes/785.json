@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/785",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/785/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/785/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/785_ata_sessao.pdf",
+      "filename": "785_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-08-15",
+  "description": "44ª Reunião Ordinária - 15/08/2023",
+  "endTime": "12:02",
+  "id": "785",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/785_pauta_sessao.pdf",
+      "filename": "785_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:01",
+  "title": "44ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

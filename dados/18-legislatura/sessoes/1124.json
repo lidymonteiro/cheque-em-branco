@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1124",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1124/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1124/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1124_ata_sessao.pdf",
+      "filename": "1124_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-10-08",
+  "description": "60ª Reunião Ordinária - 08/10/2024",
+  "endTime": "11:13",
+  "id": "1124",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1124_pauta_sessao.pdf",
+      "filename": "1124_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:05",
+  "title": "60ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

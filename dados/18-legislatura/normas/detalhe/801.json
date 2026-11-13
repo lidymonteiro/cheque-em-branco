@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/801",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/801",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/801_anexo_735",
+          "filename": "801_anexo_735",
+          "size": "635.6 KB"
+        }
+      ],
+      "id": "735",
+      "title": "Publicação no Diário Oficial do Município"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-02-15",
+  "data_publicacao": "2022-02-17",
+  "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO PREFEITO JOÃO HENRIQUE DE ANDRADE LIMA CAMPOS",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 1014, de 15/02/2021",
+  "id": "801",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/114978",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=249",
+          "@type": "Autor",
+          "id": "249",
+          "primeiro_autor": true,
+          "title": "Dilson Batista"
+        }
+      ],
+      "autoria_nomes": "Dilson Batista",
+      "description": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO PREFEITO JOÃO HENRIQUE DE ANDRADE LIMA CAMPOS",
+      "id": "114978",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=114978",
+      "title": "Projeto de Decreto Legislativo nº 30/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTE0OTc4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 15,
+  "num_pag_inicio_publ": 15,
+  "publicacao": {
+    "numPagFim": 15,
+    "numPagInicio": 15,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1014/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-02-15",
+    "dataPromulgacaoBR": "15/02/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1014, de 15/02/2021",
+    "numNorma": 1014,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE A MEDALHA DE MÉRITO JOSÉ MARIANO AO PREFEITO JOÃO HENRIQUE DE ANDRADE LIMA CAMPOS",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=801",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=801",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1827",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1827",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1827_anexo_1825",
+          "filename": "1827_anexo_1825",
+          "size": "275.8 KB"
+        }
+      ],
+      "id": "1825",
+      "title": "PDF da publicação da lei 19250/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-06-19",
+  "data_publicacao": "2024-06-20",
+  "description": "Reconhece o grafitismo e o muralismo como manifestações de arte conceitual urbana e popular no âmbito do município do Recife",
+  "file": [],
+  "heading_label": "Lei Ordinária nº 19250, de 19/06/2024",
+  "id": "1827",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/146872",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=202",
+          "@type": "Autor",
+          "id": "202",
+          "primeiro_autor": true,
+          "title": "Natália de Menudo"
+        }
+      ],
+      "autoria_nomes": "Natália de Menudo",
+      "description": "Reconhece o grafitismo e o muralismo como manifestações de arte conceitual urbana e popular no âmbito do município do Recife",
+      "id": "146872",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=146872",
+      "title": "Projeto de Lei Ordinária nº 292/2023",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ2ODcy"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19250/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-06-19",
+    "dataPromulgacaoBR": "19/06/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19250, de 19/06/2024",
+    "numNorma": 19250,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Reconhece o grafitismo e o muralismo como manifestações de arte conceitual urbana e popular no âmbito do município do Recife",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1827",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1827",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

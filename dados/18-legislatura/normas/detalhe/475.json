@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/475",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/475",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/475_anexo_396",
+          "filename": "475_anexo_396",
+          "size": "288.4 KB"
+        }
+      ],
+      "id": "396",
+      "title": "PDF da Publicação do Decreto Legislativo de Nº 1082/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2023-06-05",
+  "data_publicacao": "2023-06-08",
+  "description": "Concede a Medalha de Mérito José Mariano ao Agente da Polícia Federal, o Sr. Roberto Francisco dos Santos, pelos relevantes serviços prestados na segurança pública.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 1082, de 05/06/2023",
+  "id": "475",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/131678",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=202",
+          "@type": "Autor",
+          "id": "202",
+          "primeiro_autor": true,
+          "title": "Natália de Menudo"
+        }
+      ],
+      "autoria_nomes": "Natália de Menudo",
+      "description": "Concede a Medalha de Mérito José Mariano ao Agente da Polícia Federal, o Sr. Roberto Francisco dos Santos, pelos relevantes serviços prestados na segurança pública.",
+      "id": "131678",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=131678",
+      "title": "Projeto de Decreto Legislativo nº 57/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTMxNjc4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 13,
+  "num_pag_inicio_publ": 13,
+  "publicacao": {
+    "numPagFim": 13,
+    "numPagInicio": 13,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1082/2023",
+  "title_parts": {
+    "anoNorma": 2023,
+    "dataPromulgacao": "2023-06-05",
+    "dataPromulgacaoBR": "05/06/2023",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1082, de 05/06/2023",
+    "numNorma": 1082,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito José Mariano ao Agente da Polícia Federal, o Sr. Roberto Francisco dos Santos, pelos relevantes serviços prestados na segurança pública.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=475",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=475",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

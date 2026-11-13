@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/388",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/388/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/388/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/388_ata_sessao.pdf",
+      "filename": "388_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-09-20",
+  "description": "12ª Reunião Extraordinária - 20/09/2021",
+  "endTime": "",
+  "id": "388",
+  "pauta": [],
+  "startTime": "13:38",
+  "title": "12ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

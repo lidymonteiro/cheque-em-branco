@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/367",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/367/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/367/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/367_ata_sessao.pdf",
+      "filename": "367_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2021-09-14",
+  "description": "54ª Reunião Ordinária - 14/09/2021",
+  "endTime": "13:00",
+  "id": "367",
+  "pauta": [],
+  "startTime": "10:00",
+  "title": "54ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

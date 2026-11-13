@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/512",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/512/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/512/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/512_ata_sessao.pdf",
+      "filename": "512_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-06-22",
+  "description": "50ª Reunião Solene - 22/06/2022",
+  "endTime": "",
+  "id": "512",
+  "pauta": [],
+  "startTime": "09:45",
+  "title": "50ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

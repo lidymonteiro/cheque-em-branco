@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1728",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1728",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1728_anexo_1729",
+          "filename": "1728_anexo_1729",
+          "size": "311.6 KB"
+        }
+      ],
+      "id": "1729",
+      "title": "PDF da publicação da lei 18.902/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-03-29",
+  "data_publicacao": "2022-03-31",
+  "description": "Dispõe sobre o auxílio Municipal Emergencial - AME Carnaval do Recife 2022, destinado à Concessão de benefício financeiro aos comerciantes informais e catadores de materiais recicláveis que atuaram nos polos centralizado e descentralizados do carnaval do Recife em 2020 e preencham os demais requisitos previstos nesta Lei, diante da impossibilidade de realização de eventos carnavalescos em 2022.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1728&texto_original=1",
+      "filename": "1728_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "34.7 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18902, de 29/03/2022",
+  "id": "1728",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1728&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/121474",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Dispõe sobre o auxílio Municipal Emergencial - AME Carnaval do Recife 2022, destinado à Concessão de benefício financeiro aos comerciantes informais e catadores de materiais recicláveis que atuaram nos polos centralizado e descentralizados do carnaval do Recife em 2020 e preencham os demais requisitos previstos nesta Lei, diante da impossibilidade de realização de eventos carnavalescos em 2022.",
+      "id": "121474",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=121474",
+      "title": "Projeto de Lei do Executivo nº 6/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTIxNDc0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18902/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-03-29",
+    "dataPromulgacaoBR": "29/03/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18902, de 29/03/2022",
+    "numNorma": 18902,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Dispõe sobre o auxílio Municipal Emergencial - AME Carnaval do Recife 2022, destinado à Concessão de benefício financeiro aos comerciantes informais e catadores de materiais recicláveis que atuaram nos polos centralizado e descentralizados do carnaval do Recife em 2020 e preencham os demais requisitos previstos nesta Lei, diante da impossibilidade de realização de eventos carnavalescos em 2022.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1728",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1728",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

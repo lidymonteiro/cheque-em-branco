@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1889",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1889",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1889_anexo_1905",
+          "filename": "1889_anexo_1905",
+          "size": "342.3 KB"
+        }
+      ],
+      "id": "1905",
+      "title": "PDF da publicação da lei 19321/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-11-19",
+  "data_publicacao": "2024-11-21",
+  "description": "Altera a Lei nº 16.856, de 16 de abril de 2003, que dispõe sobre o serviço de Transporte Complementar de Passageiros do Município do Recife -STCP/Recife.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1889&texto_original=1",
+      "filename": "1889_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "342.3 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 19321, de 19/11/2024",
+  "id": "1889",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1889&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/156609",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "Altera a Lei nº 16.856, de 16 de abril de 2003, que dispõe sobre o serviço de Transporte Complementar de Passageiros do Município do Recife -STCP/Recife.",
+      "id": "156609",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=156609",
+      "title": "Projeto de Lei do Executivo nº 29/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTU2NjA5"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19321/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-11-19",
+    "dataPromulgacaoBR": "19/11/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19321, de 19/11/2024",
+    "numNorma": 19321,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Altera a Lei nº 16.856, de 16 de abril de 2003, que dispõe sobre o serviço de Transporte Complementar de Passageiros do Município do Recife -STCP/Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1889",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1889",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/747",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/747/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/747/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/747_ata_sessao.pdf",
+      "filename": "747_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-06-01",
+  "description": "62ª Reunião Solene - 01/06/2023",
+  "endTime": "",
+  "id": "747",
+  "pauta": [],
+  "startTime": "16:30",
+  "title": "62ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

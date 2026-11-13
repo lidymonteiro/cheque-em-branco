@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/681",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/681/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/681/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/681_ata_sessao.pdf",
+      "filename": "681_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-03-29",
+  "description": "20ª Reunião Solene - 29/03/2023",
+  "endTime": "",
+  "id": "681",
+  "pauta": [],
+  "startTime": "17:20",
+  "title": "20ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

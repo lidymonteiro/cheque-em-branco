@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1757",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1757",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1757_anexo_1758",
+          "filename": "1757_anexo_1758",
+          "size": "652.1 KB"
+        }
+      ],
+      "id": "1758",
+      "title": "PDF da Publicação da Lei °19.285"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-07-24",
+  "data_publicacao": "2024-07-25",
+  "description": "Denomina “Praça Antônio Laurino Bandeira” a praça a ser inaugurada na Rua Âmbar, no município do Recife.",
+  "file": [],
+  "heading_label": "Lei Ordinária nº 19285, de 24/07/2024",
+  "id": "1757",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/147924",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=135",
+          "@type": "Autor",
+          "id": "135",
+          "primeiro_autor": true,
+          "title": "Almir Fernando"
+        }
+      ],
+      "autoria_nomes": "Almir Fernando",
+      "description": "Denomina “Praça Antônio Laurino Bandeira” a praça a ser inaugurada na Rua Âmbar, no município do Recife.",
+      "id": "147924",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=147924",
+      "title": "Projeto de Lei Ordinária nº 13/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTQ3OTI0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 19285/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-07-24",
+    "dataPromulgacaoBR": "24/07/2024",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 19285, de 24/07/2024",
+    "numNorma": 19285,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Denomina “Praça Antônio Laurino Bandeira” a praça a ser inaugurada na Rua Âmbar, no município do Recife.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1757",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1757",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

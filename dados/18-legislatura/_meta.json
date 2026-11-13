@@ -1,0 +1,312 @@
+{
+  "legislatura": 18,
+  "periodo": {
+    "inicio": "2021-01-01",
+    "fim": "2024-12-31"
+  },
+  "data_eleicao": "2020-11-15",
+  "fonte": "https://e-processo.recife.pe.leg.br",
+  "coletado_em": "2026-11-12T22:32:13-03:00",
+  "datasets": {
+    "vereadores": {
+      "endpoint": "/@@legislaturas/18",
+      "entradas_brutas": 57,
+      "distintos": 49,
+      "erros": []
+    },
+    "sessoes": {
+      "endpoint": "/@@sessoes/tipo/{t}/ano/{a} (+ /id/{id}/votacao, /presenca)",
+      "anos": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "total_sessoes": 871,
+      "erros": [],
+      "coletado_em": "2026-11-12T23:18:44-03:00"
+    },
+    "materias": {
+      "endpoint": "/@@materias?ano=&tipo= (cache-aware)",
+      "nivel": "lista",
+      "anos": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "total": 53775,
+      "por_grupo": {
+        "Projeto de Resolução/2021": {
+          "coletados": 41,
+          "total_api": 41
+        },
+        "Projeto de Resolução/2022": {
+          "coletados": 26,
+          "total_api": 26
+        },
+        "Projeto de Resolução/2023": {
+          "coletados": 34,
+          "total_api": 34
+        },
+        "Projeto de Resolução/2024": {
+          "coletados": 17,
+          "total_api": 17
+        },
+        "Requerimento/2021": {
+          "coletados": 14891,
+          "total_api": 14891
+        },
+        "Requerimento/2022": {
+          "coletados": 13051,
+          "total_api": 13051
+        },
+        "Requerimento/2023": {
+          "coletados": 13683,
+          "total_api": 13683
+        },
+        "Requerimento/2024": {
+          "coletados": 10124,
+          "total_api": 10124
+        },
+        "Projeto de Decreto Legislativo/2021": {
+          "coletados": 40,
+          "total_api": 40
+        },
+        "Projeto de Decreto Legislativo/2022": {
+          "coletados": 62,
+          "total_api": 62
+        },
+        "Projeto de Decreto Legislativo/2023": {
+          "coletados": 67,
+          "total_api": 67
+        },
+        "Projeto de Decreto Legislativo/2024": {
+          "coletados": 50,
+          "total_api": 50
+        },
+        "Projeto de Lei Ordinária/2021": {
+          "coletados": 443,
+          "total_api": 443
+        },
+        "Projeto de Lei Ordinária/2022": {
+          "coletados": 328,
+          "total_api": 328
+        },
+        "Projeto de Lei Ordinária/2023": {
+          "coletados": 313,
+          "total_api": 313
+        },
+        "Projeto de Lei Ordinária/2024": {
+          "coletados": 221,
+          "total_api": 221
+        },
+        "Projeto de Lei do Executivo/2021": {
+          "coletados": 51,
+          "total_api": 51
+        },
+        "Projeto de Lei do Executivo/2022": {
+          "coletados": 60,
+          "total_api": 60
+        },
+        "Projeto de Lei do Executivo/2023": {
+          "coletados": 70,
+          "total_api": 70
+        },
+        "Projeto de Lei do Executivo/2024": {
+          "coletados": 33,
+          "total_api": 33
+        },
+        "Projeto de Emenda à Lei Orgânica/2021": {
+          "coletados": 1,
+          "total_api": 1
+        },
+        "Projeto de Emenda à Lei Orgânica/2022": {
+          "coletados": 2,
+          "total_api": 2
+        },
+        "Projeto de Emenda à Lei Orgânica/2023": {
+          "coletados": 3,
+          "total_api": 3
+        },
+        "Projeto de Emenda à Lei Orgânica/2024": {
+          "coletados": 2,
+          "total_api": 2
+        },
+        "Emenda a Projeto de Lei do Executivo/2021": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Emenda a Projeto de Lei do Executivo/2022": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Emenda a Projeto de Lei do Executivo/2023": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Emenda a Projeto de Lei do Executivo/2024": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Proposta de Revisão à Lei Orgânica/2021": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Proposta de Revisão à Lei Orgânica/2022": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Proposta de Revisão à Lei Orgânica/2023": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Proposta de Revisão à Lei Orgânica/2024": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Veto/2021": {
+          "coletados": 28,
+          "total_api": 28
+        },
+        "Veto/2022": {
+          "coletados": 36,
+          "total_api": 36
+        },
+        "Veto/2023": {
+          "coletados": 34,
+          "total_api": 34
+        },
+        "Veto/2024": {
+          "coletados": 19,
+          "total_api": 19
+        },
+        "Projeto de Lei Complementar/2021": {
+          "coletados": 1,
+          "total_api": 1
+        },
+        "Projeto de Lei Complementar/2022": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Projeto de Lei Complementar/2023": {
+          "coletados": 2,
+          "total_api": 2
+        },
+        "Projeto de Lei Complementar/2024": {
+          "coletados": 2,
+          "total_api": 2
+        },
+        "Aditamento a Parecer/2021": {
+          "coletados": 7,
+          "total_api": 7
+        },
+        "Aditamento a Parecer/2022": {
+          "coletados": 12,
+          "total_api": 12
+        },
+        "Aditamento a Parecer/2023": {
+          "coletados": 13,
+          "total_api": 13
+        },
+        "Aditamento a Parecer/2024": {
+          "coletados": 8,
+          "total_api": 8
+        }
+      },
+      "erros": [],
+      "coletado_em": "2026-11-12T23:46:54-03:00"
+    },
+    "normas": {
+      "endpoint": "/@@normas?ano=&tipo= (cache-aware)",
+      "nivel": "lista",
+      "anos": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "total": 842,
+      "por_grupo": {
+        "Lei Ordinária/2021": {
+          "coletados": 109,
+          "total_api": 109
+        },
+        "Lei Ordinária/2022": {
+          "coletados": 139,
+          "total_api": 139
+        },
+        "Lei Ordinária/2023": {
+          "coletados": 155,
+          "total_api": 155
+        },
+        "Lei Ordinária/2024": {
+          "coletados": 158,
+          "total_api": 158
+        },
+        "Lei Complementar/2021": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Lei Complementar/2022": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Lei Complementar/2023": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Lei Complementar/2024": {
+          "coletados": 0,
+          "total_api": 0
+        },
+        "Resolução/2021": {
+          "coletados": 26,
+          "total_api": 26
+        },
+        "Resolução/2022": {
+          "coletados": 19,
+          "total_api": 19
+        },
+        "Resolução/2023": {
+          "coletados": 19,
+          "total_api": 19
+        },
+        "Resolução/2024": {
+          "coletados": 13,
+          "total_api": 13
+        },
+        "Decreto Legislativo/2021": {
+          "coletados": 35,
+          "total_api": 35
+        },
+        "Decreto Legislativo/2022": {
+          "coletados": 61,
+          "total_api": 61
+        },
+        "Decreto Legislativo/2023": {
+          "coletados": 50,
+          "total_api": 50
+        },
+        "Decreto Legislativo/2024": {
+          "coletados": 58,
+          "total_api": 58
+        }
+      },
+      "erros": [],
+      "coletado_em": "2026-11-13T04:23:40-03:00",
+      "detalhe": {
+        "endpoint": "/@@normas/{id}",
+        "total": 842,
+        "erros": [],
+        "coletado_em": "2026-11-13T04:39:49-03:00"
+      }
+    },
+    "comissoes": {
+      "endpoint": "/@@comissoes/{id}",
+      "total": 18,
+      "erros": [],
+      "coletado_em": "2026-11-13T04:35:00-03:00"
+    }
+  }
+}

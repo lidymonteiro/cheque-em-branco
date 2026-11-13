@@ -1,0 +1,980 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/53",
+  "@type": "Comissao",
+  "ativa": true,
+  "composicao_exibir_datas_membros": false,
+  "composicao_periodo_effective": 17,
+  "composicao_periodos": [
+    {
+      "atual": true,
+      "end": "2026-12-31",
+      "id": 17,
+      "label": "11/02/2025 a 31/12/2026",
+      "start": "2025-02-11"
+    },
+    {
+      "atual": false,
+      "end": "2024-12-31",
+      "id": 14,
+      "label": "13/02/2023 a 31/12/2024",
+      "start": "2023-02-13"
+    },
+    {
+      "atual": false,
+      "end": "2022-12-31",
+      "id": 13,
+      "label": "11/02/2021 a 31/12/2022",
+      "start": "2021-02-11"
+    },
+    {
+      "atual": false,
+      "end": "2020-12-31",
+      "id": 12,
+      "label": "01/01/2019 a 31/12/2020",
+      "start": "2019-01-01"
+    },
+    {
+      "atual": false,
+      "end": "2018-12-31",
+      "id": 9,
+      "label": "01/01/2017 a 31/12/2018",
+      "start": "2017-01-01"
+    }
+  ],
+  "description": "CMA",
+  "id": "53",
+  "items": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/433",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Presidente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Júnior de Cleto",
+      "id": "433",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/433_foto_parlamentar&v=1793522508313674844",
+          "filename": "433_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Titular",
+      "nom_parlamentar": "Júnior de Cleto",
+      "nome_exibicao": "Júnior de Cleto",
+      "nome_exibicao_partido": "Júnior de Cleto",
+      "ordem": 1,
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "partido_sigla": "PSB",
+      "partido_vigente": {
+        "title": "Partido Socialista Brasileiro",
+        "token": "PSB"
+      },
+      "title": "Júnior de Cleto",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/433_foto_parlamentar&v=1793522508313674844"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/42",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Vice-Presidente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Osmar Ricardo Cabral Barreto",
+      "id": "42",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/42_foto_parlamentar&v=1793522508301674803",
+          "filename": "42_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Titular",
+      "nom_parlamentar": "Osmar Ricardo",
+      "nome_exibicao": "Osmar Ricardo",
+      "nome_exibicao_partido": "Osmar Ricardo",
+      "ordem": 2,
+      "partido": [
+        {
+          "title": "Partido dos Trabalhadores",
+          "token": "PT"
+        }
+      ],
+      "partido_sigla": "PT",
+      "partido_vigente": {
+        "title": "Partido dos Trabalhadores",
+        "token": "PT"
+      },
+      "title": "Osmar Ricardo",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/42_foto_parlamentar&v=1793522508301674803"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/437",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Membro Efetivo",
+      "dat_designacao": "09/07/2026",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Douglas Brito ",
+      "id": "437",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/437_foto_parlamentar&v=1793522508317674858",
+          "filename": "437_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Titular",
+      "nom_parlamentar": "Douglas Brito Ativista",
+      "nome_exibicao": "Douglas Brito Ativista",
+      "nome_exibicao_partido": "Douglas Brito Ativista",
+      "ordem": 4,
+      "partido": [
+        {
+          "title": "AVANTE",
+          "token": "Avante"
+        }
+      ],
+      "partido_sigla": "Avante",
+      "partido_vigente": {
+        "title": "AVANTE",
+        "token": "Avante"
+      },
+      "title": "Douglas Brito Ativista",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/437_foto_parlamentar&v=1793522508317674858"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/426",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Suplente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Agora é Rubem",
+      "id": "426",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/426_foto_parlamentar&v=1793522508283674742",
+          "filename": "426_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Suplente",
+      "nom_parlamentar": "Agora é Rubem",
+      "nome_exibicao": "Agora é Rubem",
+      "nome_exibicao_partido": "Agora é Rubem",
+      "ordem": 5,
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "partido_sigla": "PSB",
+      "partido_vigente": {
+        "title": "Partido Socialista Brasileiro",
+        "token": "PSB"
+      },
+      "title": "Agora é Rubem",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/426_foto_parlamentar&v=1793522508283674742"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/148",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Suplente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Davi Muniz",
+      "id": "148",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/148_foto_parlamentar&v=1793522508136674239",
+          "filename": "148_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Suplente",
+      "nom_parlamentar": "Davi Muniz",
+      "nome_exibicao": "Davi Muniz",
+      "nome_exibicao_partido": "Davi Muniz",
+      "ordem": 5,
+      "partido": [
+        {
+          "title": "Partido Social Democrata",
+          "token": "PSD"
+        }
+      ],
+      "partido_sigla": "PSD",
+      "partido_vigente": {
+        "title": "Partido Social Democrata",
+        "token": "PSD"
+      },
+      "title": "Davi Muniz",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/148_foto_parlamentar&v=1793522508136674239"
+    }
+  ],
+  "periodos": [
+    {
+      "atual": false,
+      "description": "01/01/2001 a 31/12/2002",
+      "end": "2002-12-31",
+      "id": 15,
+      "items": [],
+      "start": "2001-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2003 a 31/12/2004",
+      "end": "2004-12-31",
+      "id": 1,
+      "items": [],
+      "start": "2003-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2005 a 31/12/2006",
+      "end": "2006-12-31",
+      "id": 2,
+      "items": [],
+      "start": "2005-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "05/02/2007 a 31/12/2008",
+      "end": "2008-12-31",
+      "id": 3,
+      "items": [],
+      "start": "2007-02-05",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "04/02/2009 a 31/12/2010",
+      "end": "2010-12-31",
+      "id": 4,
+      "items": [],
+      "start": "2009-02-04",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2011 a 31/12/2012",
+      "end": "2012-12-31",
+      "id": 5,
+      "items": [],
+      "start": "2011-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/02/2013 a 31/12/2014",
+      "end": "2014-12-31",
+      "id": 6,
+      "items": [],
+      "start": "2013-02-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2015 a 31/12/2016",
+      "end": "2016-12-31",
+      "id": 7,
+      "items": [],
+      "start": "2015-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2017 a 31/12/2018",
+      "end": "2018-12-31",
+      "id": 9,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/71",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Augusto Carreras",
+          "id": "71",
+          "mandato": "Titular",
+          "nom_parlamentar": "Augusto Carreras",
+          "nome_exibicao": "Augusto Carreras",
+          "nome_exibicao_partido": "Augusto Carreras",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Augusto Carreras"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/161",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Wanderson Florêncio",
+          "id": "161",
+          "mandato": "Titular",
+          "nom_parlamentar": "Wanderson Florêncio",
+          "nome_exibicao": "Wanderson Florêncio",
+          "nome_exibicao_partido": "Wanderson Florêncio",
+          "partido": [
+            {
+              "title": "Partido Social Cristão",
+              "token": "PSC"
+            }
+          ],
+          "partido_sigla": "PSC",
+          "partido_vigente": {
+            "title": "Partido Social Cristão",
+            "token": "PSC"
+          },
+          "title": "Wanderson Florêncio"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/136",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Marcos di Bria",
+          "id": "136",
+          "mandato": "Titular",
+          "nom_parlamentar": "Marcos di Bria",
+          "nome_exibicao": "Marcos di Bria",
+          "nome_exibicao_partido": "Marcos di Bria",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Marcos di Bria"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/173",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Ricardo Cruz",
+          "id": "173",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Ricardo Cruz",
+          "nome_exibicao": "Ricardo Cruz",
+          "nome_exibicao_partido": "Ricardo Cruz",
+          "partido": [
+            {
+              "title": "Partido Progressista",
+              "token": "PP"
+            }
+          ],
+          "partido_sigla": "PP",
+          "partido_vigente": {
+            "title": "Partido Progressista",
+            "token": "PP"
+          },
+          "title": "Ricardo Cruz"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/160",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Romero Jatobá Cavalcanti Neto",
+          "id": "160",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Romerinho Jatobá",
+          "nome_exibicao": "Romerinho Jatobá",
+          "nome_exibicao_partido": "Romerinho Jatobá",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Romerinho Jatobá"
+        }
+      ],
+      "start": "2017-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "21/08/2017 a 16/04/2018",
+      "end": "2018-04-16",
+      "id": 11,
+      "items": [],
+      "start": "2017-08-21",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2019 a 31/12/2020",
+      "end": "2020-12-31",
+      "id": 12,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/178",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "João da Costa",
+          "id": "178",
+          "mandato": "Titular",
+          "nom_parlamentar": "João da Costa",
+          "nome_exibicao": "João da Costa",
+          "nome_exibicao_partido": "João da Costa",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "João da Costa"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/179",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Goretti Queiroz",
+          "id": "179",
+          "mandato": "Titular",
+          "nom_parlamentar": "Goretti Queiroz",
+          "nome_exibicao": "Goretti Queiroz",
+          "nome_exibicao_partido": "Goretti Queiroz",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Goretti Queiroz"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/71",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Augusto Carreras",
+          "id": "71",
+          "mandato": "Titular",
+          "nom_parlamentar": "Augusto Carreras",
+          "nome_exibicao": "Augusto Carreras",
+          "nome_exibicao_partido": "Augusto Carreras",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Augusto Carreras"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/136",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Marcos di Bria",
+          "id": "136",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Marcos di Bria",
+          "nome_exibicao": "Marcos di Bria",
+          "nome_exibicao_partido": "Marcos di Bria",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Marcos di Bria"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/173",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Ricardo Cruz",
+          "id": "173",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Ricardo Cruz",
+          "nome_exibicao": "Ricardo Cruz",
+          "nome_exibicao_partido": "Ricardo Cruz",
+          "partido": [
+            {
+              "title": "Partido Progressista",
+              "token": "PP"
+            }
+          ],
+          "partido_sigla": "PP",
+          "partido_vigente": {
+            "title": "Partido Progressista",
+            "token": "PP"
+          },
+          "title": "Ricardo Cruz"
+        }
+      ],
+      "start": "2019-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "11/02/2021 a 31/12/2022",
+      "end": "2022-12-31",
+      "id": 13,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/402",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Andreza Romero",
+          "id": "402",
+          "mandato": "Titular",
+          "nom_parlamentar": "Andreza Romero",
+          "nome_exibicao": "Andreza Romero",
+          "nome_exibicao_partido": "Andreza Romero",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Andreza Romero"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/406",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Liana Cirne",
+          "id": "406",
+          "mandato": "Titular",
+          "nom_parlamentar": "Liana Cirne",
+          "nome_exibicao": "Liana Cirne",
+          "nome_exibicao_partido": "Liana Cirne",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Liana Cirne"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/166",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Rinaldo Júnior",
+          "id": "166",
+          "mandato": "Titular",
+          "nom_parlamentar": "Rinaldo Júnior",
+          "nome_exibicao": "Rinaldo Júnior",
+          "nome_exibicao_partido": "Rinaldo Júnior",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Rinaldo Júnior"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/148",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Davi Muniz",
+          "id": "148",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Davi Muniz",
+          "nome_exibicao": "Davi Muniz",
+          "nome_exibicao_partido": "Davi Muniz",
+          "partido": [
+            {
+              "title": "Partido Social Democrata",
+              "token": "PSD"
+            }
+          ],
+          "partido_sigla": "PSD",
+          "partido_vigente": {
+            "title": "Partido Social Democrata",
+            "token": "PSD"
+          },
+          "title": "Davi Muniz"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/414",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Cida Pedrosa",
+          "id": "414",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Cida Pedrosa",
+          "nome_exibicao": "Cida Pedrosa",
+          "nome_exibicao_partido": "Cida Pedrosa",
+          "partido": [
+            {
+              "title": "Partido Comunista do Brasil",
+              "token": "PCdoB"
+            }
+          ],
+          "partido_sigla": "PCdoB",
+          "partido_vigente": {
+            "title": "Partido Comunista do Brasil",
+            "token": "PCdoB"
+          },
+          "title": "Cida Pedrosa"
+        }
+      ],
+      "start": "2021-02-11",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "13/02/2023 a 31/12/2024",
+      "end": "2024-12-31",
+      "id": 14,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/425",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Ebinho Florêncio",
+          "id": "425",
+          "mandato": "Titular",
+          "nom_parlamentar": "Ebinho Florêncio",
+          "nome_exibicao": "Ebinho Florêncio",
+          "nome_exibicao_partido": "Ebinho Florêncio",
+          "partido": [
+            {
+              "title": "Rede",
+              "token": "REDE"
+            }
+          ],
+          "partido_sigla": "REDE",
+          "partido_vigente": {
+            "title": "Rede",
+            "token": "REDE"
+          },
+          "title": "Ebinho Florêncio"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/406",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Liana Cirne",
+          "id": "406",
+          "mandato": "Titular",
+          "nom_parlamentar": "Liana Cirne",
+          "nome_exibicao": "Liana Cirne",
+          "nome_exibicao_partido": "Liana Cirne",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Liana Cirne"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/414",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Cida Pedrosa",
+          "id": "414",
+          "mandato": "Titular",
+          "nom_parlamentar": "Cida Pedrosa",
+          "nome_exibicao": "Cida Pedrosa",
+          "nome_exibicao_partido": "Cida Pedrosa",
+          "partido": [
+            {
+              "title": "Partido Comunista do Brasil",
+              "token": "PCdoB"
+            }
+          ],
+          "partido_sigla": "PCdoB",
+          "partido_vigente": {
+            "title": "Partido Comunista do Brasil",
+            "token": "PCdoB"
+          },
+          "title": "Cida Pedrosa"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/148",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Davi Muniz",
+          "id": "148",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Davi Muniz",
+          "nome_exibicao": "Davi Muniz",
+          "nome_exibicao_partido": "Davi Muniz",
+          "partido": [
+            {
+              "title": "Partido Social Democrata",
+              "token": "PSD"
+            }
+          ],
+          "partido_sigla": "PSD",
+          "partido_vigente": {
+            "title": "Partido Social Democrata",
+            "token": "PSD"
+          },
+          "title": "Davi Muniz"
+        }
+      ],
+      "start": "2023-02-13",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "08/01/2025 a 10/02/2025",
+      "end": "2025-02-10",
+      "id": 16,
+      "items": [],
+      "start": "2025-01-08",
+      "title": "Composição da Comissão"
+    }
+  ],
+  "reunioes": {
+    "@type": "ReunioesComissao",
+    "description": "Lista de reuniões da comissão 53",
+    "items": [
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/53/reunioes/596",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/596_pauta.pdf",
+            "filename": "596_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-10-08",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "08/10/2026 - 11:00",
+        "hora_abertura": "11:00",
+        "hora_encerramento": "12:00",
+        "id": "596",
+        "title": "2ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/53/reunioes/585",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/585_ata.pdf",
+            "filename": "585_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/585_pauta.pdf",
+            "filename": "585_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-08-06",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "06/08/2026 - 10:00",
+        "hora_abertura": "10:00",
+        "hora_encerramento": "10:30",
+        "id": "585",
+        "title": "1ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/53/reunioes/586",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/586_ata.pdf",
+            "filename": "586_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/586_pauta.pdf",
+            "filename": "586_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-06-10",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "10/06/2025 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "15:00",
+        "id": "586",
+        "title": "2ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/53/reunioes/443",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/443_ata.pdf",
+            "filename": "443_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [],
+        "data": "2025-03-26",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "26/03/2025 - 15:34",
+        "hora_abertura": "15:34",
+        "hora_encerramento": "16:09",
+        "id": "443",
+        "title": "1ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/53/reunioes/168",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/168_ata.pdf",
+            "filename": "168_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/168_pauta.pdf",
+            "filename": "168_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-06-20",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "20/06/2022 - 09:00",
+        "hora_abertura": "09:00",
+        "hora_encerramento": "10:00",
+        "id": "168",
+        "title": "9ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/53/reunioes/161",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/161_ata.pdf",
+            "filename": "161_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/161_pauta.pdf",
+            "filename": "161_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-06-10",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "10/06/2022 - 10:00",
+        "hora_abertura": "10:00",
+        "hora_encerramento": "11:00",
+        "id": "161",
+        "title": "8ª Reunião Ordinária"
+      }
+    ]
+  },
+  "tipo": "Permanente",
+  "title": "Comissão de Meio Ambiente"
+}

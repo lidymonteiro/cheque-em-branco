@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1061",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1061/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1061/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1061_ata_sessao.pdf",
+      "filename": "1061_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-06-05",
+  "description": "82ª Reunião Solene - 05/06/2024",
+  "endTime": "",
+  "id": "1061",
+  "pauta": [],
+  "startTime": "17:22",
+  "title": "82ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

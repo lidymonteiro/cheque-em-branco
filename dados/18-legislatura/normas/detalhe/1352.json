@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1352",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1352",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1352_anexo_1333",
+          "filename": "1352_anexo_1333",
+          "size": "376.9 KB"
+        }
+      ],
+      "id": "1333",
+      "title": "PDF da publicação da lei 18.970/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2022-07-27",
+  "data_publicacao": "2022-08-04",
+  "description": "Altera a Lei nº 17.997, de 25 de março de 2014, a Lei nº 17.102, de 1º de julho de 2005, a Lei nº 17.277, de 20 de dezembro de 2006, a Lei nº 17.202, de 05 de maio de 2006, e a Lei nº 17.178, de 1º de janeiro de 2006, e revoga a Lei nº 17.092, de 20 de maio de 2005, a Lei nº 17.159, de 21 de dezembro de 2005, e a Lei nº 17.522, de 31 de dezembro de 2008, e dá outras providências. ",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1352&texto_original=1",
+      "filename": "1352_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "34.5 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18970, de 27/07/2022",
+  "id": "1352",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1352&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/128165",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Altera a Lei nº 17.997, de 25 de março de 2014, a Lei nº 17.102, de 1º de julho de 2005, a Lei nº 17.277, de 20 de dezembro de 2006, a Lei nº 17.202, de 05 de maio de 2006, e a Lei nº 17.178, de 1º de janeiro de 2006, e revoga a Lei nº 17.092, de 20 de maio de 2005, a Lei nº 17.159, de 21 de dezembro de 2005, e a Lei nº 17.522, de 31 de dezembro de 2008, e dá outras providências. ",
+      "id": "128165",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=128165",
+      "title": "Projeto de Lei Ordinária nº 228/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTI4MTY1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 4,
+  "num_pag_inicio_publ": 4,
+  "publicacao": {
+    "numPagFim": 4,
+    "numPagInicio": 4,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18970/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-07-27",
+    "dataPromulgacaoBR": "27/07/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18970, de 27/07/2022",
+    "numNorma": 18970,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Altera a Lei nº 17.997, de 25 de março de 2014, a Lei nº 17.102, de 1º de julho de 2005, a Lei nº 17.277, de 20 de dezembro de 2006, a Lei nº 17.202, de 05 de maio de 2006, e a Lei nº 17.178, de 1º de janeiro de 2006, e revoga a Lei nº 17.092, de 20 de maio de 2005, a Lei nº 17.159, de 21 de dezembro de 2005, e a Lei nº 17.522, de 31 de dezembro de 2008, e dá outras providências. ",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1352",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1352",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

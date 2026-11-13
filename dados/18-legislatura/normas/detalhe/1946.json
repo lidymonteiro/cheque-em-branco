@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1946",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1946",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1946_anexo_1961",
+          "filename": "1946_anexo_1961",
+          "size": "340.5 KB"
+        }
+      ],
+      "id": "1961",
+      "title": "PDF da publicação da resolução 2808/2024"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-11-04",
+  "data_publicacao": "2024-11-09",
+  "description": "Autoriza o Prefeito do Recife a se ausentar do País.\r\n\r\n",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1946&texto_original=1",
+      "filename": "1946_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "340.5 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2808, de 04/11/2024",
+  "id": "1946",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1946&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/156471",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=139",
+          "@type": "Autor",
+          "id": "139",
+          "primeiro_autor": true,
+          "title": "Comissão Executiva"
+        }
+      ],
+      "autoria_nomes": "Comissão Executiva",
+      "description": "Autoriza o Prefeito do Recife a se ausentar do País.\r\n\r\n",
+      "id": "156471",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=156471",
+      "title": "Projeto de Resolução nº 13/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTU2NDcx"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 14,
+  "num_pag_inicio_publ": 14,
+  "publicacao": {
+    "numPagFim": 14,
+    "numPagInicio": 14,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2808/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-11-04",
+    "dataPromulgacaoBR": "04/11/2024",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2808, de 04/11/2024",
+    "numNorma": 2808,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "Autoriza o Prefeito do Recife a se ausentar do País.\r\n\r\n",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1946",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1946",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

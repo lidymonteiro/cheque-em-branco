@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1070",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1070",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1070_anexo_1012",
+          "filename": "1070_anexo_1012",
+          "size": "349 KB"
+        }
+      ],
+      "id": "1012",
+      "title": "PDF da publicação da lei 18.996/2022"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 12,
+  "cod_situacao": 12,
+  "data_norma": "2022-11-04",
+  "data_publicacao": "2022-11-10",
+  "description": "Institui, no Calendário Oficial de Eventos do Município do Recife, o “Novembro Brega”, mês dedicado à valorização do Movimento Brega.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1070&texto_original=1",
+      "filename": "1070_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "76.3 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18996, de 04/11/2022",
+  "id": "1070",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1070&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/130440",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=245",
+          "@type": "Autor",
+          "id": "245",
+          "primeiro_autor": true,
+          "title": "Marco Aurélio Filho"
+        }
+      ],
+      "autoria_nomes": "Marco Aurélio Filho",
+      "description": "Institui, no Calendário Oficial de Eventos do Município do Recife, o “Novembro Brega”, mês dedicado à valorização do Movimento Brega.",
+      "id": "130440",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=130440",
+      "title": "Projeto de Lei Ordinária nº 261/2022",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTMwNDQw"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 11,
+  "num_pag_inicio_publ": 11,
+  "publicacao": {
+    "numPagFim": 11,
+    "numPagInicio": 11,
+    "veiculo": "Diário Oficial do Munícipio"
+  },
+  "status": "Em vigor, com revogação parcial",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18996/2022",
+  "title_parts": {
+    "anoNorma": 2022,
+    "dataPromulgacao": "2022-11-04",
+    "dataPromulgacaoBR": "04/11/2022",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18996, de 04/11/2022",
+    "numNorma": 18996,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "Institui, no Calendário Oficial de Eventos do Município do Recife, o “Novembro Brega”, mês dedicado à valorização do Movimento Brega.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1070",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1070",
+  "veiculo_publicacao": "Diário Oficial do Munícipio"
+}

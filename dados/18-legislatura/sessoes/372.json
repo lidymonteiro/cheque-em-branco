@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/372",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/372/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/372/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [],
+  "date": "2021-10-04",
+  "description": "59ª Reunião Ordinária - 04/10/2021",
+  "endTime": "",
+  "id": "372",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/372_pauta_sessao.pdf",
+      "filename": "372_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:00",
+  "title": "59ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

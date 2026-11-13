@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/932",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/932/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/932/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/932_ata_sessao.pdf",
+      "filename": "932_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-12-27",
+  "description": "18ª Reunião Extraordinária - 27/12/2023",
+  "endTime": "10:16",
+  "id": "932",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/932_pauta_sessao.pdf",
+      "filename": "932_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "10:08",
+  "title": "18ª Reunião Extraordinária",
+  "type": "Extraordinária",
+  "type_id": 2
+}

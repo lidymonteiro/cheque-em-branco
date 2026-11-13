@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1117",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1117/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1117/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/1117_ata_sessao.pdf",
+      "filename": "1117_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-09-10",
+  "description": "53ª Reunião Ordinária - 10/09/2024",
+  "endTime": "11:02",
+  "id": "1117",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/1117_pauta_sessao.pdf",
+      "filename": "1117_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:32",
+  "title": "53ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

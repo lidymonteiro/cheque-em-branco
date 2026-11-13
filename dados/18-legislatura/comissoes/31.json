@@ -1,0 +1,4829 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31",
+  "@type": "Comissao",
+  "ativa": true,
+  "composicao_exibir_datas_membros": false,
+  "composicao_periodo_effective": 17,
+  "composicao_periodos": [
+    {
+      "atual": true,
+      "end": "2026-12-31",
+      "id": 17,
+      "label": "11/02/2025 a 31/12/2026",
+      "start": "2025-02-11"
+    },
+    {
+      "atual": false,
+      "end": "2024-12-31",
+      "id": 14,
+      "label": "13/02/2023 a 31/12/2024",
+      "start": "2023-02-13"
+    },
+    {
+      "atual": false,
+      "end": "2022-12-31",
+      "id": 13,
+      "label": "11/02/2021 a 31/12/2022",
+      "start": "2021-02-11"
+    },
+    {
+      "atual": false,
+      "end": "2020-12-31",
+      "id": 12,
+      "label": "01/01/2019 a 31/12/2020",
+      "start": "2019-01-01"
+    },
+    {
+      "atual": false,
+      "end": "2018-12-31",
+      "id": 9,
+      "label": "01/01/2017 a 31/12/2018",
+      "start": "2017-01-01"
+    },
+    {
+      "atual": false,
+      "end": "2014-12-31",
+      "id": 6,
+      "label": "01/02/2013 a 31/12/2014",
+      "start": "2013-02-01"
+    },
+    {
+      "atual": false,
+      "end": "2012-12-31",
+      "id": 5,
+      "label": "01/01/2011 a 31/12/2012",
+      "start": "2011-01-01"
+    },
+    {
+      "atual": false,
+      "end": "2010-12-31",
+      "id": 4,
+      "label": "04/02/2009 a 31/12/2010",
+      "start": "2009-02-04"
+    },
+    {
+      "atual": false,
+      "end": "2008-12-31",
+      "id": 3,
+      "label": "05/02/2007 a 31/12/2008",
+      "start": "2007-02-05"
+    },
+    {
+      "atual": false,
+      "end": "2006-12-31",
+      "id": 2,
+      "label": "01/01/2005 a 31/12/2006",
+      "start": "2005-01-01"
+    }
+  ],
+  "description": "CECTE",
+  "id": "31",
+  "items": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/165",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Presidente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Ana Lúcia do Rego Ferreira",
+      "id": "165",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/165_foto_parlamentar&v=1793522508158674314",
+          "filename": "165_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Titular",
+      "nom_parlamentar": "Professora Ana Lúcia",
+      "nome_exibicao": "Professora Ana Lúcia",
+      "nome_exibicao_partido": "Professora Ana Lúcia",
+      "ordem": 1,
+      "partido": [
+        {
+          "title": "Republicanos",
+          "token": "REP"
+        }
+      ],
+      "partido_sigla": "REP",
+      "partido_vigente": {
+        "title": "Republicanos",
+        "token": "REP"
+      },
+      "title": "Professora Ana Lúcia",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/165_foto_parlamentar&v=1793522508158674314"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/414",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Vice-Presidente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Cida Pedrosa",
+      "id": "414",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/414_foto_parlamentar&v=1793522508262674670",
+          "filename": "414_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Titular",
+      "nom_parlamentar": "Cida Pedrosa",
+      "nome_exibicao": "Cida Pedrosa",
+      "nome_exibicao_partido": "Cida Pedrosa",
+      "ordem": 2,
+      "partido": [
+        {
+          "title": "Partido Comunista do Brasil",
+          "token": "PCdoB"
+        }
+      ],
+      "partido_sigla": "PCdoB",
+      "partido_vigente": {
+        "title": "Partido Comunista do Brasil",
+        "token": "PCdoB"
+      },
+      "title": "Cida Pedrosa",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/414_foto_parlamentar&v=1793522508262674670"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/411",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Membro Efetivo",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Felipe Alecrim",
+      "id": "411",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/411_foto_parlamentar&v=1793522508260674663",
+          "filename": "411_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Titular",
+      "nom_parlamentar": "Felipe Alecrim",
+      "nome_exibicao": "Felipe Alecrim",
+      "nome_exibicao_partido": "Felipe Alecrim",
+      "ordem": 4,
+      "partido": [
+        {
+          "title": "Novo",
+          "token": "NOVO"
+        }
+      ],
+      "partido_sigla": "NOVO",
+      "partido_vigente": {
+        "title": "Novo",
+        "token": "NOVO"
+      },
+      "title": "Felipe Alecrim",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/411_foto_parlamentar&v=1793522508260674663"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/172",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Suplente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "Hélio Guabiraba",
+      "id": "172",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/172_foto_parlamentar&v=1793522508167674345",
+          "filename": "172_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Suplente",
+      "nom_parlamentar": "Hélio Guabiraba",
+      "nome_exibicao": "Hélio Guabiraba",
+      "nome_exibicao_partido": "Hélio Guabiraba",
+      "ordem": 5,
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "partido_sigla": "PSB",
+      "partido_vigente": {
+        "title": "Partido Socialista Brasileiro",
+        "token": "PSB"
+      },
+      "title": "Hélio Guabiraba",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/172_foto_parlamentar&v=1793522508167674345"
+    },
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/415",
+      "@type": "ParticipanteComissao",
+      "ativo": true,
+      "cargo": "Suplente",
+      "dat_designacao": "11/02/2025",
+      "dat_desligamento": "",
+      "dat_desligamento_exibicao": "",
+      "description": "José Lourenço de Sobral Neto",
+      "id": "415",
+      "image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/415_foto_parlamentar&v=1793522508263674673",
+          "filename": "415_foto_parlamentar",
+          "height": "0",
+          "size": "0",
+          "width": "0"
+        }
+      ],
+      "mandato": "Suplente",
+      "nom_parlamentar": "Zé Neto",
+      "nome_exibicao": "Zé Neto",
+      "nome_exibicao_partido": "Zé Neto",
+      "ordem": 5,
+      "partido": [
+        {
+          "title": "Partido Socialista Brasileiro",
+          "token": "PSB"
+        }
+      ],
+      "partido_sigla": "PSB",
+      "partido_vigente": {
+        "title": "Partido Socialista Brasileiro",
+        "token": "PSB"
+      },
+      "title": "Zé Neto",
+      "url_foto": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=parlamentar/fotos/415_foto_parlamentar&v=1793522508263674673"
+    }
+  ],
+  "periodos": [
+    {
+      "atual": false,
+      "description": "01/01/2001 a 31/12/2002",
+      "end": "2002-12-31",
+      "id": 15,
+      "items": [],
+      "start": "2001-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2003 a 31/12/2004",
+      "end": "2004-12-31",
+      "id": 1,
+      "items": [],
+      "start": "2003-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2005 a 31/12/2006",
+      "end": "2006-12-31",
+      "id": 2,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/105",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Osmar Ricardo",
+          "id": "105",
+          "mandato": "Titular",
+          "nom_parlamentar": "Osmar Ricardo",
+          "nome_exibicao": "Osmar Ricardo",
+          "nome_exibicao_partido": "Osmar Ricardo",
+          "partido": [],
+          "partido_sigla": "",
+          "partido_vigente": null,
+          "title": "Osmar Ricardo"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/90",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Antonio Luiz Neto",
+          "id": "90",
+          "mandato": "Titular",
+          "nom_parlamentar": "Antonio Luiz Neto",
+          "nome_exibicao": "Antonio Luiz Neto",
+          "nome_exibicao_partido": "Antonio Luiz Neto",
+          "partido": [
+            {
+              "title": "Partido Trabalhista Brasileiro",
+              "token": "PTB"
+            }
+          ],
+          "partido_sigla": "PTB",
+          "partido_vigente": {
+            "title": "Partido Trabalhista Brasileiro",
+            "token": "PTB"
+          },
+          "title": "Antonio Luiz Neto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/102",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Luciana Azevedo",
+          "id": "102",
+          "mandato": "Titular",
+          "nom_parlamentar": "Luciana Azevedo",
+          "nome_exibicao": "Luciana Azevedo",
+          "nome_exibicao_partido": "Luciana Azevedo",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Luciana Azevedo"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/80",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Severino Gabriel Beltrão",
+          "id": "80",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Severino Gabriel",
+          "nome_exibicao": "Severino Gabriel",
+          "nome_exibicao_partido": "Severino Gabriel",
+          "partido": [
+            {
+              "title": "Partido Progressista",
+              "token": "PP"
+            }
+          ],
+          "partido_sigla": "PP",
+          "partido_vigente": {
+            "title": "Partido Progressista",
+            "token": "PP"
+          },
+          "title": "Severino Gabriel"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/29",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Luiz Helvecio de Santiago Araújo",
+          "id": "29",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Luiz Helvecio",
+          "nome_exibicao": "Luiz Helvecio",
+          "nome_exibicao_partido": "Luiz Helvecio",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Luiz Helvecio"
+        }
+      ],
+      "start": "2005-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "05/02/2007 a 31/12/2008",
+      "end": "2008-12-31",
+      "id": 3,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/67",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "André Ferreira",
+          "id": "67",
+          "mandato": "Titular",
+          "nom_parlamentar": "André Ferreira",
+          "nome_exibicao": "André Ferreira",
+          "nome_exibicao_partido": "André Ferreira",
+          "partido": [
+            {
+              "title": "Partido do Movimento Democrático Brasileiro",
+              "token": "PMDB"
+            }
+          ],
+          "partido_sigla": "PMDB",
+          "partido_vigente": {
+            "title": "Partido do Movimento Democrático Brasileiro",
+            "token": "PMDB"
+          },
+          "title": "André Ferreira"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/79",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Roberto Teixeira",
+          "id": "79",
+          "mandato": "Titular",
+          "nom_parlamentar": "Roberto Teixeira",
+          "nome_exibicao": "Roberto Teixeira",
+          "nome_exibicao_partido": "Roberto Teixeira",
+          "partido": [
+            {
+              "title": "Partido Progressista",
+              "token": "PP"
+            }
+          ],
+          "partido_sigla": "PP",
+          "partido_vigente": {
+            "title": "Partido Progressista",
+            "token": "PP"
+          },
+          "title": "Roberto Teixeira"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/80",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Severino Gabriel Beltrão",
+          "id": "80",
+          "mandato": "Titular",
+          "nom_parlamentar": "Severino Gabriel",
+          "nome_exibicao": "Severino Gabriel",
+          "nome_exibicao_partido": "Severino Gabriel",
+          "partido": [
+            {
+              "title": "Partido Progressista",
+              "token": "PP"
+            }
+          ],
+          "partido_sigla": "PP",
+          "partido_vigente": {
+            "title": "Partido Progressista",
+            "token": "PP"
+          },
+          "title": "Severino Gabriel"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/116",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Antonio Souza de Oliveira",
+          "id": "116",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Antonio Oliveira",
+          "nome_exibicao": "Antonio Oliveira",
+          "nome_exibicao_partido": "Antonio Oliveira",
+          "partido": [
+            {
+              "title": "Partido Trabalhista do Brasil",
+              "token": "PT DO B"
+            }
+          ],
+          "partido_sigla": "PT DO B",
+          "partido_vigente": {
+            "title": "Partido Trabalhista do Brasil",
+            "token": "PT DO B"
+          },
+          "title": "Antonio Oliveira"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/29",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Luiz Helvecio de Santiago Araújo",
+          "id": "29",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Luiz Helvecio",
+          "nome_exibicao": "Luiz Helvecio",
+          "nome_exibicao_partido": "Luiz Helvecio",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Luiz Helvecio"
+        }
+      ],
+      "start": "2007-02-05",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "04/02/2009 a 31/12/2010",
+      "end": "2010-12-31",
+      "id": 4,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/3",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Antonio Luiz Neto",
+          "id": "3",
+          "mandato": "Titular",
+          "nom_parlamentar": "Antonio Luiz Neto",
+          "nome_exibicao": "Antonio Luiz Neto",
+          "nome_exibicao_partido": "Antonio Luiz Neto",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Antonio Luiz Neto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/51",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Josenildo Sinesio da Silva",
+          "id": "51",
+          "mandato": "Titular",
+          "nom_parlamentar": "Josenildo Sinesio",
+          "nome_exibicao": "Josenildo Sinesio",
+          "nome_exibicao_partido": "Josenildo Sinesio",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Josenildo Sinesio"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/111",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Luiz Eustáquio ",
+          "id": "111",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Luiz Eustáquio",
+          "nome_exibicao": "Luiz Eustáquio",
+          "nome_exibicao_partido": "Luiz Eustáquio",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Luiz Eustáquio"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/129",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Jadeval de Lima",
+          "id": "129",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Jadeval de Lima",
+          "nome_exibicao": "Jadeval de Lima",
+          "nome_exibicao_partido": "Jadeval de Lima",
+          "partido": [
+            {
+              "title": "Partido Democrático Trabalhista",
+              "token": "PDT"
+            }
+          ],
+          "partido_sigla": "PDT",
+          "partido_vigente": {
+            "title": "Partido Democrático Trabalhista",
+            "token": "PDT"
+          },
+          "title": "Jadeval de Lima"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/79",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Roberto Teixeira",
+          "id": "79",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Roberto Teixeira",
+          "nome_exibicao": "Roberto Teixeira",
+          "nome_exibicao_partido": "Roberto Teixeira",
+          "partido": [
+            {
+              "title": "Partido Progressista",
+              "token": "PP"
+            }
+          ],
+          "partido_sigla": "PP",
+          "partido_vigente": {
+            "title": "Partido Progressista",
+            "token": "PP"
+          },
+          "title": "Roberto Teixeira"
+        }
+      ],
+      "start": "2009-02-04",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2011 a 31/12/2012",
+      "end": "2012-12-31",
+      "id": 5,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/3",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Antonio Luiz Neto",
+          "id": "3",
+          "mandato": "Titular",
+          "nom_parlamentar": "Antonio Luiz Neto",
+          "nome_exibicao": "Antonio Luiz Neto",
+          "nome_exibicao_partido": "Antonio Luiz Neto",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Antonio Luiz Neto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/111",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Luiz Eustáquio ",
+          "id": "111",
+          "mandato": "Titular",
+          "nom_parlamentar": "Luiz Eustáquio",
+          "nome_exibicao": "Luiz Eustáquio",
+          "nome_exibicao_partido": "Luiz Eustáquio",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Luiz Eustáquio"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/142",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Ricardo Sérgio de Magalhães  Melo",
+          "id": "142",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Sérgio Magalhães",
+          "nome_exibicao": "Sérgio Magalhães",
+          "nome_exibicao_partido": "Sérgio Magalhães",
+          "partido": [
+            {
+              "title": "Partido Social Democrata",
+              "token": "PSD"
+            }
+          ],
+          "partido_sigla": "PSD",
+          "partido_vigente": {
+            "title": "Partido Social Democrata",
+            "token": "PSD"
+          },
+          "title": "Sérgio Magalhães"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/129",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Jadeval de Lima",
+          "id": "129",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Jadeval de Lima",
+          "nome_exibicao": "Jadeval de Lima",
+          "nome_exibicao_partido": "Jadeval de Lima",
+          "partido": [
+            {
+              "title": "Partido Democrático Trabalhista",
+              "token": "PDT"
+            }
+          ],
+          "partido_sigla": "PDT",
+          "partido_vigente": {
+            "title": "Partido Democrático Trabalhista",
+            "token": "PDT"
+          },
+          "title": "Jadeval de Lima"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/42",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Osmar Ricardo Cabral Barreto",
+          "id": "42",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Osmar Ricardo",
+          "nome_exibicao": "Osmar Ricardo",
+          "nome_exibicao_partido": "Osmar Ricardo",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Osmar Ricardo"
+        }
+      ],
+      "start": "2011-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/02/2013 a 31/12/2014",
+      "end": "2014-12-31",
+      "id": 6,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/130",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Jairo Brito",
+          "id": "130",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Jairo Britto",
+          "nome_exibicao": "Jairo Britto",
+          "nome_exibicao_partido": "Jairo Britto",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Jairo Britto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/147",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "André Régis",
+          "id": "147",
+          "mandato": "Titular",
+          "nom_parlamentar": "André Régis",
+          "nome_exibicao": "André Régis",
+          "nome_exibicao_partido": "André Régis",
+          "partido": [
+            {
+              "title": "Partido Social Democrata Brasileiro",
+              "token": "PSDB"
+            }
+          ],
+          "partido_sigla": "PSDB",
+          "partido_vigente": {
+            "title": "Partido Social Democrata Brasileiro",
+            "token": "PSDB"
+          },
+          "title": "André Régis"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/153",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Isabella Menezes de Roldão Fiorenzano",
+          "id": "153",
+          "mandato": "Titular",
+          "nom_parlamentar": "Isabella de Roldão",
+          "nome_exibicao": "Isabella de Roldão",
+          "nome_exibicao_partido": "Isabella de Roldão",
+          "partido": [
+            {
+              "title": "Partido Democrático Trabalhista",
+              "token": "PDT"
+            }
+          ],
+          "partido_sigla": "PDT",
+          "partido_vigente": {
+            "title": "Partido Democrático Trabalhista",
+            "token": "PDT"
+          },
+          "title": "Isabella de Roldão"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/3",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Antonio Luiz Neto",
+          "id": "3",
+          "mandato": "Titular",
+          "nom_parlamentar": "Antonio Luiz Neto",
+          "nome_exibicao": "Antonio Luiz Neto",
+          "nome_exibicao_partido": "Antonio Luiz Neto",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Antonio Luiz Neto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/120",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Aerto Luna",
+          "id": "120",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Aerto Luna",
+          "nome_exibicao": "Aerto Luna",
+          "nome_exibicao_partido": "Aerto Luna",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Aerto Luna"
+        }
+      ],
+      "start": "2013-02-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2015 a 31/12/2016",
+      "end": "2016-12-31",
+      "id": 7,
+      "items": [],
+      "start": "2015-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2017 a 31/12/2018",
+      "end": "2018-12-31",
+      "id": 9,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/165",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Ana Lúcia do Rego Ferreira",
+          "id": "165",
+          "mandato": "Titular",
+          "nom_parlamentar": "Professora Ana Lúcia",
+          "nome_exibicao": "Professora Ana Lúcia",
+          "nome_exibicao_partido": "Professora Ana Lúcia",
+          "partido": [
+            {
+              "title": "Republicanos",
+              "token": "REP"
+            }
+          ],
+          "partido_sigla": "REP",
+          "partido_vigente": {
+            "title": "Republicanos",
+            "token": "REP"
+          },
+          "title": "Professora Ana Lúcia"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/164",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Natália de Menudo",
+          "id": "164",
+          "mandato": "Titular",
+          "nom_parlamentar": "Natália de Menudo",
+          "nome_exibicao": "Natália de Menudo",
+          "nome_exibicao_partido": "Natália de Menudo",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Natália de Menudo"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/175",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Renato Antunes",
+          "id": "175",
+          "mandato": "Titular",
+          "nom_parlamentar": "Renato Antunes",
+          "nome_exibicao": "Renato Antunes",
+          "nome_exibicao_partido": "Renato Antunes",
+          "partido": [
+            {
+              "title": "Partido Liberal",
+              "token": "PL"
+            }
+          ],
+          "partido_sigla": "PL",
+          "partido_vigente": {
+            "title": "Partido Liberal",
+            "token": "PL"
+          },
+          "title": "Renato Antunes"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/147",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "André Régis",
+          "id": "147",
+          "mandato": "Suplente",
+          "nom_parlamentar": "André Régis",
+          "nome_exibicao": "André Régis",
+          "nome_exibicao_partido": "André Régis",
+          "partido": [
+            {
+              "title": "Partido Social Democrata Brasileiro",
+              "token": "PSDB"
+            }
+          ],
+          "partido_sigla": "PSDB",
+          "partido_vigente": {
+            "title": "Partido Social Democrata Brasileiro",
+            "token": "PSDB"
+          },
+          "title": "André Régis"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/152",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Felipe Francismar",
+          "id": "152",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Felipe Francismar",
+          "nome_exibicao": "Felipe Francismar",
+          "nome_exibicao_partido": "Felipe Francismar",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Felipe Francismar"
+        }
+      ],
+      "start": "2017-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "21/08/2017 a 16/04/2018",
+      "end": "2018-04-16",
+      "id": 11,
+      "items": [],
+      "start": "2017-08-21",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "01/01/2019 a 31/12/2020",
+      "end": "2020-12-31",
+      "id": 12,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/165",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Ana Lúcia do Rego Ferreira",
+          "id": "165",
+          "mandato": "Titular",
+          "nom_parlamentar": "Professora Ana Lúcia",
+          "nome_exibicao": "Professora Ana Lúcia",
+          "nome_exibicao_partido": "Professora Ana Lúcia",
+          "partido": [
+            {
+              "title": "Republicanos",
+              "token": "REP"
+            }
+          ],
+          "partido_sigla": "REP",
+          "partido_vigente": {
+            "title": "Republicanos",
+            "token": "REP"
+          },
+          "title": "Professora Ana Lúcia"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/146",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Aimee Carvalho",
+          "id": "146",
+          "mandato": "Titular",
+          "nom_parlamentar": "Aimee Carvalho",
+          "nome_exibicao": "Aimee Carvalho",
+          "nome_exibicao_partido": "Aimee Carvalho",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Aimee Carvalho"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/172",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Hélio Guabiraba",
+          "id": "172",
+          "mandato": "Titular",
+          "nom_parlamentar": "Hélio Guabiraba",
+          "nome_exibicao": "Hélio Guabiraba",
+          "nome_exibicao_partido": "Hélio Guabiraba",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Hélio Guabiraba"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/175",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Renato Antunes",
+          "id": "175",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Renato Antunes",
+          "nome_exibicao": "Renato Antunes",
+          "nome_exibicao_partido": "Renato Antunes",
+          "partido": [
+            {
+              "title": "Partido Liberal",
+              "token": "PL"
+            }
+          ],
+          "partido_sigla": "PL",
+          "partido_vigente": {
+            "title": "Partido Liberal",
+            "token": "PL"
+          },
+          "title": "Renato Antunes"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/167",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Chico Kiko",
+          "id": "167",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Chico Kiko",
+          "nome_exibicao": "Chico Kiko",
+          "nome_exibicao_partido": "Chico Kiko",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Chico Kiko"
+        }
+      ],
+      "start": "2019-01-01",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "11/02/2021 a 31/12/2022",
+      "end": "2022-12-31",
+      "id": 13,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/165",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Ana Lúcia do Rego Ferreira",
+          "id": "165",
+          "mandato": "Titular",
+          "nom_parlamentar": "Professora Ana Lúcia",
+          "nome_exibicao": "Professora Ana Lúcia",
+          "nome_exibicao_partido": "Professora Ana Lúcia",
+          "partido": [
+            {
+              "title": "Republicanos",
+              "token": "REP"
+            }
+          ],
+          "partido_sigla": "REP",
+          "partido_vigente": {
+            "title": "Republicanos",
+            "token": "REP"
+          },
+          "title": "Professora Ana Lúcia"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/414",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Cida Pedrosa",
+          "id": "414",
+          "mandato": "Titular",
+          "nom_parlamentar": "Cida Pedrosa",
+          "nome_exibicao": "Cida Pedrosa",
+          "nome_exibicao_partido": "Cida Pedrosa",
+          "partido": [
+            {
+              "title": "Partido Comunista do Brasil",
+              "token": "PCdoB"
+            }
+          ],
+          "partido_sigla": "PCdoB",
+          "partido_vigente": {
+            "title": "Partido Comunista do Brasil",
+            "token": "PCdoB"
+          },
+          "title": "Cida Pedrosa"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/172",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Hélio Guabiraba",
+          "id": "172",
+          "mandato": "Titular",
+          "nom_parlamentar": "Hélio Guabiraba",
+          "nome_exibicao": "Hélio Guabiraba",
+          "nome_exibicao_partido": "Hélio Guabiraba",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Hélio Guabiraba"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/130",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Jairo Brito",
+          "id": "130",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Jairo Britto",
+          "nome_exibicao": "Jairo Britto",
+          "nome_exibicao_partido": "Jairo Britto",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Jairo Britto"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/417",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Prof Mirinho",
+          "id": "417",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Prof Mirinho",
+          "nome_exibicao": "Prof Mirinho",
+          "nome_exibicao_partido": "Prof Mirinho",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "partido_sigla": "MDB",
+          "partido_vigente": {
+            "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+            "token": "MDB"
+          },
+          "title": "Prof Mirinho"
+        }
+      ],
+      "start": "2021-02-11",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "13/02/2023 a 31/12/2024",
+      "end": "2024-12-31",
+      "id": 14,
+      "items": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/165",
+          "@type": "ParticipanteComissao",
+          "cargo": "Presidente",
+          "description": "Ana Lúcia do Rego Ferreira",
+          "id": "165",
+          "mandato": "Titular",
+          "nom_parlamentar": "Professora Ana Lúcia",
+          "nome_exibicao": "Professora Ana Lúcia",
+          "nome_exibicao_partido": "Professora Ana Lúcia",
+          "partido": [
+            {
+              "title": "Republicanos",
+              "token": "REP"
+            }
+          ],
+          "partido_sigla": "REP",
+          "partido_vigente": {
+            "title": "Republicanos",
+            "token": "REP"
+          },
+          "title": "Professora Ana Lúcia"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/414",
+          "@type": "ParticipanteComissao",
+          "cargo": "Vice-Presidente",
+          "description": "Cida Pedrosa",
+          "id": "414",
+          "mandato": "Titular",
+          "nom_parlamentar": "Cida Pedrosa",
+          "nome_exibicao": "Cida Pedrosa",
+          "nome_exibicao_partido": "Cida Pedrosa",
+          "partido": [
+            {
+              "title": "Partido Comunista do Brasil",
+              "token": "PCdoB"
+            }
+          ],
+          "partido_sigla": "PCdoB",
+          "partido_vigente": {
+            "title": "Partido Comunista do Brasil",
+            "token": "PCdoB"
+          },
+          "title": "Cida Pedrosa"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/172",
+          "@type": "ParticipanteComissao",
+          "cargo": "Membro Efetivo",
+          "description": "Hélio Guabiraba",
+          "id": "172",
+          "mandato": "Titular",
+          "nom_parlamentar": "Hélio Guabiraba",
+          "nome_exibicao": "Hélio Guabiraba",
+          "nome_exibicao_partido": "Hélio Guabiraba",
+          "partido": [
+            {
+              "title": "Partido Socialista Brasileiro",
+              "token": "PSB"
+            }
+          ],
+          "partido_sigla": "PSB",
+          "partido_vigente": {
+            "title": "Partido Socialista Brasileiro",
+            "token": "PSB"
+          },
+          "title": "Hélio Guabiraba"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/417",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Prof Mirinho",
+          "id": "417",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Prof Mirinho",
+          "nome_exibicao": "Prof Mirinho",
+          "nome_exibicao_partido": "Prof Mirinho",
+          "partido": [
+            {
+              "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+              "token": "MDB"
+            }
+          ],
+          "partido_sigla": "MDB",
+          "partido_vigente": {
+            "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+            "token": "MDB"
+          },
+          "title": "Prof Mirinho"
+        },
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@vereadores/406",
+          "@type": "ParticipanteComissao",
+          "cargo": "Suplente",
+          "description": "Liana Cirne",
+          "id": "406",
+          "mandato": "Suplente",
+          "nom_parlamentar": "Liana Cirne",
+          "nome_exibicao": "Liana Cirne",
+          "nome_exibicao_partido": "Liana Cirne",
+          "partido": [
+            {
+              "title": "Partido dos Trabalhadores",
+              "token": "PT"
+            }
+          ],
+          "partido_sigla": "PT",
+          "partido_vigente": {
+            "title": "Partido dos Trabalhadores",
+            "token": "PT"
+          },
+          "title": "Liana Cirne"
+        }
+      ],
+      "start": "2023-02-13",
+      "title": "Composição da Comissão"
+    },
+    {
+      "atual": false,
+      "description": "08/01/2025 a 10/02/2025",
+      "end": "2025-02-10",
+      "id": 16,
+      "items": [],
+      "start": "2025-01-08",
+      "title": "Composição da Comissão"
+    }
+  ],
+  "reunioes": {
+    "@type": "ReunioesComissao",
+    "description": "Lista de reuniões da comissão 31",
+    "items": [
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/607",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [],
+        "arquivo_pauta": [],
+        "data": "2026-11-17",
+        "data_fim": "2026-11-17",
+        "data_fim_br": "17/11/2026",
+        "description": "17/11/2026 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "607",
+        "title": "12ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/605",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/605_ata.pdf",
+            "filename": "605_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/605_pauta.pdf",
+            "filename": "605_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-11-12",
+        "data_fim": "2026-11-12",
+        "data_fim_br": "12/11/2026",
+        "description": "12/11/2026 - 10:00",
+        "hora_abertura": "10:00",
+        "hora_encerramento": "11:00",
+        "id": "605",
+        "title": "2ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/600",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/600_ata.pdf",
+            "filename": "600_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/600_pauta.pdf",
+            "filename": "600_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-11-05",
+        "data_fim": "2026-11-05",
+        "data_fim_br": "05/11/2026",
+        "description": "05/11/2026 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "600",
+        "title": "11ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/595",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/595_ata.pdf",
+            "filename": "595_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/595_pauta.pdf",
+            "filename": "595_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-10-27",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "27/10/2026 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "595",
+        "title": "10ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/591",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/591_ata.pdf",
+            "filename": "591_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/591_pauta.pdf",
+            "filename": "591_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-09-08",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "08/09/2026 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "591",
+        "title": "9ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/590",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/590_ata.pdf",
+            "filename": "590_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/590_pauta.pdf",
+            "filename": "590_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-08-25",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "25/08/2026 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "590",
+        "title": "8ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/588",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/588_ata.pdf",
+            "filename": "588_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/588_pauta.pdf",
+            "filename": "588_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-08-11",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "11/08/2026 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "588",
+        "title": "7ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/566",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/566_ata.pdf",
+            "filename": "566_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/566_pauta.pdf",
+            "filename": "566_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-06-25",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "25/06/2026 - 16:30",
+        "hora_abertura": "16:30",
+        "hora_encerramento": "17:30",
+        "id": "566",
+        "title": "6ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/564",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/564_ata.pdf",
+            "filename": "564_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/564_pauta.pdf",
+            "filename": "564_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-06-05",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "05/06/2026 - 11:30",
+        "hora_abertura": "11:30",
+        "hora_encerramento": "12:30",
+        "id": "564",
+        "title": "1ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/554",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/554_ata.pdf",
+            "filename": "554_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/554_pauta.pdf",
+            "filename": "554_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-05-26",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "26/05/2026 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "554",
+        "title": "5ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/545",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/545_ata.pdf",
+            "filename": "545_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/545_pauta.pdf",
+            "filename": "545_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-05-13",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "13/05/2026 - 12:00",
+        "hora_abertura": "12:00",
+        "hora_encerramento": "13:00",
+        "id": "545",
+        "title": "4ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/544",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/544_ata.pdf",
+            "filename": "544_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/544_pauta.pdf",
+            "filename": "544_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-04-28",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "28/04/2026 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "544",
+        "title": "3ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/532",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/532_ata.pdf",
+            "filename": "532_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/532_pauta.pdf",
+            "filename": "532_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-03-31",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "31/03/2026 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "532",
+        "title": "2ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/505",
+        "@type": "ReuniaoComissao",
+        "ano": "2026",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/505_ata.pdf",
+            "filename": "505_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/505_pauta.pdf",
+            "filename": "505_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2026-03-10",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "10/03/2026 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "505",
+        "title": "1ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/503",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/503_ata.pdf",
+            "filename": "503_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/503_pauta.pdf",
+            "filename": "503_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-12-15",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "15/12/2025 - 15:15",
+        "hora_abertura": "15:15",
+        "hora_encerramento": "16:15",
+        "id": "503",
+        "title": "16ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/499",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/499_ata.pdf",
+            "filename": "499_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/499_pauta.pdf",
+            "filename": "499_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-12-04",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "04/12/2025 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "499",
+        "title": "15ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/493",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/493_ata.pdf",
+            "filename": "493_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/493_pauta.pdf",
+            "filename": "493_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-11-28",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "28/11/2025 - 09:35",
+        "hora_abertura": "09:35",
+        "hora_encerramento": "10:35",
+        "id": "493",
+        "title": "14ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/490",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/490_ata.pdf",
+            "filename": "490_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/490_pauta.pdf",
+            "filename": "490_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-11-18",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "18/11/2025 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "490",
+        "title": "13ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/486",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/486_ata.pdf",
+            "filename": "486_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/486_pauta.pdf",
+            "filename": "486_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-11-11",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "11/11/2025 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "486",
+        "title": "12ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/485",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/485_ata.pdf",
+            "filename": "485_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/485_pauta.pdf",
+            "filename": "485_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-11-03",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "03/11/2025 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "485",
+        "title": "5ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/479",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/479_ata.pdf",
+            "filename": "479_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/479_pauta.pdf",
+            "filename": "479_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-10-30",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "30/10/2025 - 16:30",
+        "hora_abertura": "16:30",
+        "hora_encerramento": "17:30",
+        "id": "479",
+        "title": "11ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/477",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/477_ata.pdf",
+            "filename": "477_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/477_pauta.pdf",
+            "filename": "477_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-10-22",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "22/10/2025 - 16:00",
+        "hora_abertura": "16:00",
+        "hora_encerramento": "17:00",
+        "id": "477",
+        "title": "10ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/465",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/465_ata.pdf",
+            "filename": "465_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/465_pauta.pdf",
+            "filename": "465_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-10-13",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "13/10/2025 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "465",
+        "title": "4ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/457",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/457_ata.pdf",
+            "filename": "457_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/457_pauta.pdf",
+            "filename": "457_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-09-23",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "23/09/2025 - 16:00",
+        "hora_abertura": "16:00",
+        "hora_encerramento": "17:00",
+        "id": "457",
+        "title": "9ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/445",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/445_ata.pdf",
+            "filename": "445_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/445_pauta.pdf",
+            "filename": "445_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-09-01",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "01/09/2025 - 15:30",
+        "hora_abertura": "15:30",
+        "hora_encerramento": "16:30",
+        "id": "445",
+        "title": "8ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/437",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/437_ata.pdf",
+            "filename": "437_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/437_pauta.pdf",
+            "filename": "437_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-08-11",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "11/08/2025 - 13:45",
+        "hora_abertura": "13:45",
+        "hora_encerramento": "14:45",
+        "id": "437",
+        "title": "3ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/424",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/424_ata.pdf",
+            "filename": "424_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/424_pauta.pdf",
+            "filename": "424_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-06-30",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "30/06/2025 - 13:50",
+        "hora_abertura": "13:50",
+        "hora_encerramento": "14:50",
+        "id": "424",
+        "title": "2ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/416",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/416_ata.pdf",
+            "filename": "416_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/416_pauta.pdf",
+            "filename": "416_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-06-11",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "11/06/2025 - 11:00",
+        "hora_abertura": "11:00",
+        "hora_encerramento": "12:00",
+        "id": "416",
+        "title": "7ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/408",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/408_ata.pdf",
+            "filename": "408_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/408_pauta.pdf",
+            "filename": "408_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-05-20",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "20/05/2025 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "408",
+        "title": "6ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/407",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/407_ata.pdf",
+            "filename": "407_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/407_pauta.pdf",
+            "filename": "407_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-05-06",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "06/05/2025 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "407",
+        "title": "5ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/395",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/395_ata.pdf",
+            "filename": "395_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/395_pauta.pdf",
+            "filename": "395_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-04-29",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "29/04/2025 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "395",
+        "title": "4ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/394",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/394_ata.pdf",
+            "filename": "394_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/394_pauta.pdf",
+            "filename": "394_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-04-08",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "08/04/2025 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "394",
+        "title": "3ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/387",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/387_ata.pdf",
+            "filename": "387_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/387_pauta.pdf",
+            "filename": "387_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-03-28",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "28/03/2025 - 10:00",
+        "hora_abertura": "10:00",
+        "hora_encerramento": "11:00",
+        "id": "387",
+        "title": "1ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/386",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/386_ata.pdf",
+            "filename": "386_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/386_pauta.pdf",
+            "filename": "386_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-03-11",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "11/03/2025 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "386",
+        "title": "2ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/385",
+        "@type": "ReuniaoComissao",
+        "ano": "2025",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/385_ata.pdf",
+            "filename": "385_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/385_pauta.pdf",
+            "filename": "385_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2025-02-12",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "12/02/2025 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "15:00",
+        "id": "385",
+        "title": "1ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/376",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/376_ata.pdf",
+            "filename": "376_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/376_pauta.pdf",
+            "filename": "376_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-12-10",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "10/12/2024 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "376",
+        "title": "13ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/369",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/369_ata.pdf",
+            "filename": "369_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/369_pauta.pdf",
+            "filename": "369_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-11-21",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "21/11/2024 - 10:00",
+        "hora_abertura": "10:00",
+        "hora_encerramento": "11:00",
+        "id": "369",
+        "title": "12ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/366",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/366_ata.pdf",
+            "filename": "366_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/366_pauta.pdf",
+            "filename": "366_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-11-05",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "05/11/2024 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "366",
+        "title": "11ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/308",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/308_ata.pdf",
+            "filename": "308_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/308_pauta.pdf",
+            "filename": "308_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-09-02",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "02/09/2024 - 13:00",
+        "hora_abertura": "13:00",
+        "hora_encerramento": "14:00",
+        "id": "308",
+        "title": "10ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/307",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/307_ata.pdf",
+            "filename": "307_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/307_pauta.pdf",
+            "filename": "307_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-07-01",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "01/07/2024 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "15:00",
+        "id": "307",
+        "title": "1ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/303",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/303_ata.pdf",
+            "filename": "303_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/303_pauta.pdf",
+            "filename": "303_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-06-25",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "25/06/2024 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "303",
+        "title": "9ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/301",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/301_ata.pdf",
+            "filename": "301_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/301_pauta.pdf",
+            "filename": "301_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-06-10",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "10/06/2024 - 13:00",
+        "hora_abertura": "13:00",
+        "hora_encerramento": "14:00",
+        "id": "301",
+        "title": "8ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/300",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/300_ata.pdf",
+            "filename": "300_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/300_pauta.pdf",
+            "filename": "300_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-05-28",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "28/05/2024 - 16:00",
+        "hora_abertura": "16:00",
+        "hora_encerramento": "17:00",
+        "id": "300",
+        "title": "7ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/296",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/296_ata.pdf",
+            "filename": "296_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/296_pauta.pdf",
+            "filename": "296_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-05-24",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "24/05/2024 - 10:50",
+        "hora_abertura": "10:50",
+        "hora_encerramento": "11:50",
+        "id": "296",
+        "title": "6ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/292",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/292_ata.pdf",
+            "filename": "292_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/292_pauta.pdf",
+            "filename": "292_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-05-07",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "07/05/2024 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "292",
+        "title": "5ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/288",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/288_ata.pdf",
+            "filename": "288_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/288_pauta.pdf",
+            "filename": "288_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-04-25",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "25/04/2024 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "288",
+        "title": "4ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/281",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/281_ata.pdf",
+            "filename": "281_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/281_pauta.pdf",
+            "filename": "281_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-04-09",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "09/04/2024 - 13:00",
+        "hora_abertura": "13:00",
+        "hora_encerramento": "14:00",
+        "id": "281",
+        "title": "3ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/277",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/277_ata.pdf",
+            "filename": "277_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/277_pauta.pdf",
+            "filename": "277_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-03-11",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "11/03/2024 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "277",
+        "title": "2ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/275",
+        "@type": "ReuniaoComissao",
+        "ano": "2024",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/275_ata.pdf",
+            "filename": "275_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/275_pauta.pdf",
+            "filename": "275_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2024-02-20",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "20/02/2024 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "275",
+        "title": "1ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/273",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/273_ata.pdf",
+            "filename": "273_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/273_pauta.pdf",
+            "filename": "273_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-12-19",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "19/12/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "273",
+        "title": "20ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/271",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/271_ata.pdf",
+            "filename": "271_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/271_pauta.pdf",
+            "filename": "271_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-12-04",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "04/12/2023 - 13:00",
+        "hora_abertura": "13:00",
+        "hora_encerramento": "14:00",
+        "id": "271",
+        "title": "19ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/256",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/256_ata.pdf",
+            "filename": "256_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/256_pauta.pdf",
+            "filename": "256_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-11-28",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "28/11/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "256",
+        "title": "18ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/254",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/254_ata.pdf",
+            "filename": "254_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/254_pauta.pdf",
+            "filename": "254_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-11-07",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "07/11/2023 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "16:00",
+        "id": "254",
+        "title": "17ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/253",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/253_ata.pdf",
+            "filename": "253_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/253_pauta.pdf",
+            "filename": "253_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-10-17",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "17/10/2023 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "15:00",
+        "id": "253",
+        "title": "16ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/252",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/252_ata.pdf",
+            "filename": "252_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/252_pauta.pdf",
+            "filename": "252_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-10-10",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "10/10/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "252",
+        "title": "15ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/246",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/246_ata.pdf",
+            "filename": "246_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/246_pauta.pdf",
+            "filename": "246_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-09-26",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "26/09/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "246",
+        "title": "14ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/244",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/244_ata.pdf",
+            "filename": "244_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/244_pauta.pdf",
+            "filename": "244_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-09-19",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "19/09/2023 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "15:00",
+        "id": "244",
+        "title": "13ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/241",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/241_ata.pdf",
+            "filename": "241_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/241_pauta.pdf",
+            "filename": "241_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-09-12",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "12/09/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "241",
+        "title": "12ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/240",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/240_ata.pdf",
+            "filename": "240_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/240_pauta.pdf",
+            "filename": "240_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-09-04",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "04/09/2023 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "16:00",
+        "id": "240",
+        "title": "11ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/239",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/239_ata.pdf",
+            "filename": "239_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/239_pauta.pdf",
+            "filename": "239_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-08-22",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "22/08/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "239",
+        "title": "10ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/238",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/238_ata.pdf",
+            "filename": "238_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/238_pauta.pdf",
+            "filename": "238_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-08-08",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "08/08/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "238",
+        "title": "9ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/236",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/236_ata.pdf",
+            "filename": "236_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/236_pauta.pdf",
+            "filename": "236_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-07-04",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "04/07/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "236",
+        "title": "8ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/229",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/229_ata.pdf",
+            "filename": "229_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/229_pauta.pdf",
+            "filename": "229_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-06-20",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "20/06/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "229",
+        "title": "7ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/227",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/227_ata.pdf",
+            "filename": "227_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/227_pauta.pdf",
+            "filename": "227_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-05-25",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "25/05/2023 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "15:00",
+        "id": "227",
+        "title": "6ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/221",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/221_ata.pdf",
+            "filename": "221_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/221_pauta.pdf",
+            "filename": "221_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-05-09",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "09/05/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "221",
+        "title": "5ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/218",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/218_ata.pdf",
+            "filename": "218_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/218_pauta.pdf",
+            "filename": "218_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-04-18",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "18/04/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "218",
+        "title": "4ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/211",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/211_ata.pdf",
+            "filename": "211_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/211_pauta.pdf",
+            "filename": "211_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-04-11",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "11/04/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "211",
+        "title": "3ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/204",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/204_ata.pdf",
+            "filename": "204_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/204_pauta.pdf",
+            "filename": "204_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-03-20",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "20/03/2023 - 13:30",
+        "hora_abertura": "13:30",
+        "hora_encerramento": "14:30",
+        "id": "204",
+        "title": "1ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/212",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/212_ata.pdf",
+            "filename": "212_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/212_pauta.pdf",
+            "filename": "212_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-03-14",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "14/03/2023 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "212",
+        "title": "2ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/197",
+        "@type": "ReuniaoComissao",
+        "ano": "2023",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/197_ata.pdf",
+            "filename": "197_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/197_pauta.pdf",
+            "filename": "197_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2023-02-15",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "15/02/2023 - 16:00",
+        "hora_abertura": "16:00",
+        "hora_encerramento": "17:00",
+        "id": "197",
+        "title": "1ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/194",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/194_ata.pdf",
+            "filename": "194_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/194_pauta.pdf",
+            "filename": "194_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-12-20",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "20/12/2022 - 16:30",
+        "hora_abertura": "16:30",
+        "hora_encerramento": "17:30",
+        "id": "194",
+        "title": "20ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/193",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/193_ata.pdf",
+            "filename": "193_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/193_pauta.pdf",
+            "filename": "193_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-11-30",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "30/11/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "193",
+        "title": "19ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/191",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/191_ata.pdf",
+            "filename": "191_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/191_pauta.pdf",
+            "filename": "191_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-11-23",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "23/11/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "191",
+        "title": "18ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/190",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/190_ata.pdf",
+            "filename": "190_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/190_pauta.pdf",
+            "filename": "190_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-11-09",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "09/11/2022 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "15:00",
+        "id": "190",
+        "title": "17ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/189",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/189_ata.pdf",
+            "filename": "189_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/189_pauta.pdf",
+            "filename": "189_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-10-26",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "26/10/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "189",
+        "title": "16ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/188",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/188_ata.pdf",
+            "filename": "188_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/188_pauta.pdf",
+            "filename": "188_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-10-19",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "19/10/2022 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "15:00",
+        "id": "188",
+        "title": "15ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/186",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/186_ata.pdf",
+            "filename": "186_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/186_pauta.pdf",
+            "filename": "186_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-10-11",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "11/10/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "186",
+        "title": "14ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/178",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/178_ata.pdf",
+            "filename": "178_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/178_pauta.pdf",
+            "filename": "178_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-08-29",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "29/08/2022 - 15:30",
+        "hora_abertura": "15:30",
+        "hora_encerramento": "16:30",
+        "id": "178",
+        "title": "13ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/173",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/173_ata.pdf",
+            "filename": "173_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/173_pauta.pdf",
+            "filename": "173_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-08-04",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "04/08/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "173",
+        "title": "12ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/169",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/169_ata.pdf",
+            "filename": "169_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/169_pauta.pdf",
+            "filename": "169_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-06-30",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "30/06/2022 - 16:00",
+        "hora_abertura": "16:00",
+        "hora_encerramento": "17:00",
+        "id": "169",
+        "title": "4ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/160",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/160_ata.pdf",
+            "filename": "160_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/160_pauta.pdf",
+            "filename": "160_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-06-28",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "28/06/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "160",
+        "title": "11ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/164",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/164_ata.pdf",
+            "filename": "164_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/164_pauta.pdf",
+            "filename": "164_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-06-16",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "16/06/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "164",
+        "title": "3ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/147",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/147_ata.pdf",
+            "filename": "147_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/147_pauta.pdf",
+            "filename": "147_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-06-07",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "07/06/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "147",
+        "title": "10ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/141",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/141_ata.pdf",
+            "filename": "141_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/141_pauta.pdf",
+            "filename": "141_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-05-24",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "24/05/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "141",
+        "title": "9ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/138",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/138_ata.pdf",
+            "filename": "138_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/138_pauta.pdf",
+            "filename": "138_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-05-09",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "09/05/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "138",
+        "title": "8ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/126",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/126_ata.pdf",
+            "filename": "126_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/126_pauta.pdf",
+            "filename": "126_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-04-26",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "26/04/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "126",
+        "title": "7ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/117",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/117_ata.pdf",
+            "filename": "117_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/117_pauta.pdf",
+            "filename": "117_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-04-12",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "12/04/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "117",
+        "title": "6ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/113",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/113_ata.pdf",
+            "filename": "113_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/113_pauta.pdf",
+            "filename": "113_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-03-29",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "29/03/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "113",
+        "title": "5ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/116",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/116_ata.pdf",
+            "filename": "116_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/116_pauta.pdf",
+            "filename": "116_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-03-15",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "15/03/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "116",
+        "title": "4ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/105",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/105_ata.pdf",
+            "filename": "105_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/105_pauta.pdf",
+            "filename": "105_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-03-07",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "07/03/2022 - 15:00",
+        "hora_abertura": "15:00",
+        "hora_encerramento": "16:00",
+        "id": "105",
+        "title": "2ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/104",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/104_ata.pdf",
+            "filename": "104_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/104_pauta.pdf",
+            "filename": "104_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-02-22",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "22/02/2022 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "104",
+        "title": "3ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/103",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/103_ata.pdf",
+            "filename": "103_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/103_pauta.pdf",
+            "filename": "103_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-02-17",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "17/02/2022 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "15:00",
+        "id": "103",
+        "title": "1ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/101",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/101_ata.pdf",
+            "filename": "101_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/101_pauta.pdf",
+            "filename": "101_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-02-09",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "09/02/2022 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "101",
+        "title": "2ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/100",
+        "@type": "ReuniaoComissao",
+        "ano": "2022",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/100_ata.pdf",
+            "filename": "100_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/100_pauta.pdf",
+            "filename": "100_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2022-02-02",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "02/02/2022 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "100",
+        "title": "1ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/93",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/93_ata.pdf",
+            "filename": "93_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/93_pauta.pdf",
+            "filename": "93_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-12-14",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "14/12/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "93",
+        "title": "21ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/86",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/86_ata.pdf",
+            "filename": "86_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/86_pauta.pdf",
+            "filename": "86_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-12-01",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "01/12/2021 - 09:00",
+        "hora_abertura": "09:00",
+        "hora_encerramento": "10:00",
+        "id": "86",
+        "title": "20ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/83",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/83_ata.pdf",
+            "filename": "83_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/83_pauta.pdf",
+            "filename": "83_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-11-16",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "16/11/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "83",
+        "title": "19ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/81",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/81_ata.pdf",
+            "filename": "81_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/81_pauta.pdf",
+            "filename": "81_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-11-09",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "09/11/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "81",
+        "title": "18ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/76",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/76_ata.pdf",
+            "filename": "76_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/76_pauta.pdf",
+            "filename": "76_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-10-19",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "19/10/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "",
+        "id": "76",
+        "title": "17ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/75",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/75_ata.pdf",
+            "filename": "75_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/75_pauta.pdf",
+            "filename": "75_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-09-28",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "28/09/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "75",
+        "title": "16ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/74",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/74_ata.pdf",
+            "filename": "74_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/74_pauta.pdf",
+            "filename": "74_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-09-15",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "15/09/2021 - 13:30",
+        "hora_abertura": "13:30",
+        "hora_encerramento": "14:30",
+        "id": "74",
+        "title": "15ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/72",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/72_ata.pdf",
+            "filename": "72_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/72_pauta.pdf",
+            "filename": "72_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-08-10",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "10/08/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "72",
+        "title": "14ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/71",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/71_ata.pdf",
+            "filename": "71_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/71_pauta.pdf",
+            "filename": "71_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-08-03",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "03/08/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "71",
+        "title": "13ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/70",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/70_ata.pdf",
+            "filename": "70_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/70_pauta.pdf",
+            "filename": "70_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-06-30",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "30/06/2021 - 10:00",
+        "hora_abertura": "10:00",
+        "hora_encerramento": "11:00",
+        "id": "70",
+        "title": "12ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/69",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/69_ata.pdf",
+            "filename": "69_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/69_pauta.pdf",
+            "filename": "69_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-06-23",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "23/06/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "69",
+        "title": "11ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/67",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/67_ata.pdf",
+            "filename": "67_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/67_pauta.pdf",
+            "filename": "67_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-05-24",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "24/05/2021 - 18:00",
+        "hora_abertura": "18:00",
+        "hora_encerramento": "19:00",
+        "id": "67",
+        "title": "10ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/65",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/65_ata.pdf",
+            "filename": "65_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/65_pauta.pdf",
+            "filename": "65_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-05-11",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "11/05/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "65",
+        "title": "9ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/64",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/64_ata.pdf",
+            "filename": "64_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/64_pauta.pdf",
+            "filename": "64_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-05-04",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "04/05/2021 - 14:00",
+        "hora_abertura": "14:00",
+        "hora_encerramento": "15:00",
+        "id": "64",
+        "title": "8ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/63",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/63_ata.pdf",
+            "filename": "63_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/63_pauta.pdf",
+            "filename": "63_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-04-30",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "30/04/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "63",
+        "title": "2ª Reunião Extraordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/78",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/78_ata.pdf",
+            "filename": "78_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/78_pauta.pdf",
+            "filename": "78_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-04-27",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "27/04/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "78",
+        "title": "7ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/62",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/62_ata.pdf",
+            "filename": "62_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/62_pauta.pdf",
+            "filename": "62_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-04-20",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "20/04/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "62",
+        "title": "6ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/61",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/61_ata.pdf",
+            "filename": "61_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/61_pauta.pdf",
+            "filename": "61_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-04-14",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "14/04/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "61",
+        "title": "5ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/60",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/60_ata.pdf",
+            "filename": "60_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/60_pauta.pdf",
+            "filename": "60_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-04-06",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "06/04/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "60",
+        "title": "4ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/77",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/77_ata.pdf",
+            "filename": "77_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/77_pauta.pdf",
+            "filename": "77_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-03-30",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "30/03/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "77",
+        "title": "3ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/57",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/57_ata.pdf",
+            "filename": "57_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/57_pauta.pdf",
+            "filename": "57_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-03-09",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "09/03/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "",
+        "id": "57",
+        "title": "2ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/79",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/79_ata.pdf",
+            "filename": "79_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/79_pauta.pdf",
+            "filename": "79_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-02-23",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "23/02/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "79",
+        "title": "1ª Reunião Ordinária"
+      },
+      {
+        "@id": "https://e-processo.recife.pe.leg.br/@@comissoes/31/reunioes/58",
+        "@type": "ReuniaoComissao",
+        "ano": "2021",
+        "arquivo_ata": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/58_ata.pdf",
+            "filename": "58_ata.pdf",
+            "size": ""
+          }
+        ],
+        "arquivo_pauta": [
+          {
+            "content-type": "application/pdf",
+            "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=reuniao_comissao/58_pauta.pdf",
+            "filename": "58_pauta.pdf",
+            "size": ""
+          }
+        ],
+        "data": "2021-02-15",
+        "data_fim": null,
+        "data_fim_br": null,
+        "description": "15/02/2021 - 14:30",
+        "hora_abertura": "14:30",
+        "hora_encerramento": "15:30",
+        "id": "58",
+        "title": "1ª Reunião Extraordinária"
+      }
+    ]
+  },
+  "tipo": "Permanente",
+  "title": "Comissão de Educação, Cultura, Turismo e Esportes"
+}

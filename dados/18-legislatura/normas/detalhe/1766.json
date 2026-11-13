@@ -1,0 +1,78 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1766",
+  "@type": "Norma",
+  "anexos": [],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-07-05",
+  "data_publicacao": "",
+  "description": "CRIA NO ÂMBITO DO MUNICÍPIO DO RECIFE, O PRÊMIO ARTESÃO DO ANO.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1766&texto_original=1",
+      "filename": "1766_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "754.6 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2745, de 05/07/2021",
+  "id": "1766",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1766&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/75423",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=204",
+          "@type": "Autor",
+          "id": "204",
+          "primeiro_autor": true,
+          "title": "Rinaldo Júnior"
+        }
+      ],
+      "autoria_nomes": "Rinaldo Júnior",
+      "description": "CRIA NO ÂMBITO DO MUNICÍPIO DO RECIFE, O PRÊMIO ARTESÃO DO ANO.",
+      "id": "75423",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=75423",
+      "title": "Projeto de Resolução nº 51/2017",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=NzU0MjM="
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": null,
+  "num_pag_inicio_publ": null,
+  "publicacao": {
+    "numPagFim": null,
+    "numPagInicio": null,
+    "veiculo": null
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2745/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-07-05",
+    "dataPromulgacaoBR": "05/07/2021",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2745, de 05/07/2021",
+    "numNorma": 2745,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "CRIA NO ÂMBITO DO MUNICÍPIO DO RECIFE, O PRÊMIO ARTESÃO DO ANO.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1766",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1766",
+  "veiculo_publicacao": ""
+}

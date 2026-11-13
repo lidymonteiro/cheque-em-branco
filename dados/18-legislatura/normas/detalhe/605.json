@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/605",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/605",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/605_anexo_541",
+          "filename": "605_anexo_541",
+          "size": "753.4 KB"
+        }
+      ],
+      "id": "541",
+      "title": "PDF da Publicação do Decreto Legislativo 1000 do dia 27/11/2021 no diário oficial do município."
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-11-22",
+  "data_publicacao": "2021-11-27",
+  "description": "CONCEDE O TÍTULO DE CIDADÃ DO RECIFE À EXCELENTÍSSIMA DESEMBARGADORA DO TRIBUNAL DE JUSTIÇA DE PERNAMBUCO, DRA. DAISY MARIA DE ANDRADE COSTA PEREIRA. ",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 1000, de 22/11/2021",
+  "id": "605",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/113557",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=203",
+          "@type": "Autor",
+          "id": "203",
+          "primeiro_autor": true,
+          "title": "Professora Ana Lúcia"
+        }
+      ],
+      "autoria_nomes": "Professora Ana Lúcia",
+      "description": "CONCEDE O TÍTULO DE CIDADÃ DO RECIFE À EXCELENTÍSSIMA DESEMBARGADORA DO TRIBUNAL DE JUSTIÇA DE PERNAMBUCO, DRA. DAISY MARIA DE ANDRADE COSTA PEREIRA. ",
+      "id": "113557",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=113557",
+      "title": "Projeto de Decreto Legislativo nº 22/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTEzNTU3"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 20,
+  "num_pag_inicio_publ": 20,
+  "publicacao": {
+    "numPagFim": 20,
+    "numPagInicio": 20,
+    "veiculo": "Diário oficial do município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1000/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-11-22",
+    "dataPromulgacaoBR": "22/11/2021",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1000, de 22/11/2021",
+    "numNorma": 1000,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "CONCEDE O TÍTULO DE CIDADÃ DO RECIFE À EXCELENTÍSSIMA DESEMBARGADORA DO TRIBUNAL DE JUSTIÇA DE PERNAMBUCO, DRA. DAISY MARIA DE ANDRADE COSTA PEREIRA. ",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=605",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=605",
+  "veiculo_publicacao": "Diário oficial do município"
+}

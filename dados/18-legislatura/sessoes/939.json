@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/939",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/939/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/939/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/939_ata_sessao.pdf",
+      "filename": "939_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-12-21",
+  "description": "191ª Reunião Solene - 21/12/2023",
+  "endTime": "",
+  "id": "939",
+  "pauta": [],
+  "startTime": "10:50",
+  "title": "191ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

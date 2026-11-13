@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/866",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/866",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/866_anexo_831",
+          "filename": "866_anexo_831",
+          "size": "285.2 KB"
+        }
+      ],
+      "id": "831",
+      "title": "PDF da publicação da lei 18862/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-11-29",
+  "data_publicacao": "2021-11-30",
+  "description": "ALTERA A LEI MUNICIPAL Nº 18.348, DE 21 DE JUNHO DE 2017, A QUAL OBRIGA A INSTALAÇÃO DE RECIPIENTES COM ÁLCOOL GEL ANTI-SÉPTICO, NOS ESTABELECIMENTOS QUE MENCIONA E DÁ OUTRAS  PROVIDÊNCIAS, A FIM DE DETERMINAR QUE OS ESTABELECIMENTOS PRIVADOS ONDE SEJA UTILIZADA IDENTIFICAÇÃO BIOMÉTRICA DISPONIBILIZEM RECIPIENTE COM ÁLCOOL GEL ANTISSÉPTICO NAS   PROXIMIDADES DESSE EQUIPAMENTO",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=866&texto_original=1",
+      "filename": "866_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "85.7 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18862, de 29/11/2021",
+  "id": "866",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=866&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/105525",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=247",
+          "@type": "Autor",
+          "id": "247",
+          "primeiro_autor": true,
+          "title": "Fabiano Ferraz"
+        }
+      ],
+      "autoria_nomes": "Fabiano Ferraz",
+      "description": "ALTERA A LEI MUNICIPAL Nº 18.348, DE 21 DE JUNHO DE 2017, A QUAL OBRIGA A INSTALAÇÃO DE RECIPIENTES COM ÁLCOOL GEL ANTI-SÉPTICO, NOS ESTABELECIMENTOS QUE MENCIONA E DÁ OUTRAS  PROVIDÊNCIAS, A FIM DE DETERMINAR QUE OS ESTABELECIMENTOS PRIVADOS ONDE SEJA UTILIZADA IDENTIFICAÇÃO BIOMÉTRICA DISPONIBILIZEM RECIPIENTE COM ÁLCOOL GEL ANTISSÉPTICO NAS   PROXIMIDADES DESSE EQUIPAMENTO",
+      "id": "105525",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=105525",
+      "title": "Projeto de Lei Ordinária nº 103/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA1NTI1"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18862/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-11-29",
+    "dataPromulgacaoBR": "29/11/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18862, de 29/11/2021",
+    "numNorma": 18862,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "ALTERA A LEI MUNICIPAL Nº 18.348, DE 21 DE JUNHO DE 2017, A QUAL OBRIGA A INSTALAÇÃO DE RECIPIENTES COM ÁLCOOL GEL ANTI-SÉPTICO, NOS ESTABELECIMENTOS QUE MENCIONA E DÁ OUTRAS  PROVIDÊNCIAS, A FIM DE DETERMINAR QUE OS ESTABELECIMENTOS PRIVADOS ONDE SEJA UTILIZADA IDENTIFICAÇÃO BIOMÉTRICA DISPONIBILIZEM RECIPIENTE COM ÁLCOOL GEL ANTISSÉPTICO NAS   PROXIMIDADES DESSE EQUIPAMENTO",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=866",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=866",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

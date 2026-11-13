@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/623",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/623/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/623/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/623_ata_sessao.pdf",
+      "filename": "623_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-11-29",
+  "description": "113ª Reunião Solene - 29/11/2022",
+  "endTime": "",
+  "id": "623",
+  "pauta": [],
+  "startTime": "16:25",
+  "title": "113ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

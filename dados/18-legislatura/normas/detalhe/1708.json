@@ -1,0 +1,84 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1708",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/1708",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/1708_anexo_1703",
+          "filename": "1708_anexo_1703",
+          "size": "291.7 KB"
+        }
+      ],
+      "id": "1703",
+      "title": "Publicação no Diário Oficial do Município"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2024-07-02",
+  "data_publicacao": "2024-07-06",
+  "description": "Concede a Medalha de Mérito José Mariano ao Dr. José Maria Sultanum.",
+  "file": [],
+  "heading_label": "Decreto Legislativo nº 1168, de 02/07/2024",
+  "id": "1708",
+  "links": {
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/153218",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=212",
+          "@type": "Autor",
+          "id": "212",
+          "primeiro_autor": true,
+          "title": "Rodrigo Coutinho"
+        }
+      ],
+      "autoria_nomes": "Rodrigo Coutinho",
+      "description": "Concede a Medalha de Mérito José Mariano ao Dr. José Maria Sultanum.",
+      "id": "153218",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=153218",
+      "title": "Projeto de Decreto Legislativo nº 34/2024",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTUzMjE4"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 16,
+  "num_pag_inicio_publ": 16,
+  "publicacao": {
+    "numPagFim": 16,
+    "numPagInicio": 16,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Decreto Legislativo nº 1168/2024",
+  "title_parts": {
+    "anoNorma": 2024,
+    "dataPromulgacao": "2024-07-02",
+    "dataPromulgacaoBR": "02/07/2024",
+    "desTipoNorma": "Decreto Legislativo",
+    "headingLabel": "Decreto Legislativo nº 1168, de 02/07/2024",
+    "numNorma": 1168,
+    "sglTipoNorma": "DL"
+  },
+  "txt_ementa": "Concede a Medalha de Mérito José Mariano ao Dr. José Maria Sultanum.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1708",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1708",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

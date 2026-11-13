@@ -1,0 +1,23 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/895",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/895/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/895/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/895_ata_sessao.pdf",
+      "filename": "895_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2023-11-17",
+  "description": "166ª Reunião Solene - 17/11/2023",
+  "endTime": "",
+  "id": "895",
+  "pauta": [],
+  "startTime": "10:40",
+  "title": "166ª Reunião Solene",
+  "type": "Solene",
+  "type_id": 3
+}

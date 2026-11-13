@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/622",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/622/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/622/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/622_ata_sessao.pdf",
+      "filename": "622_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2022-12-12",
+  "description": "81ª Reunião Ordinária - 12/12/2022",
+  "endTime": "12:39",
+  "id": "622",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/622_pauta_sessao.pdf",
+      "filename": "622_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "09:53",
+  "title": "81ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}

@@ -1,0 +1,41 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/1040/votacao",
+  "@type": "votacaoNominal",
+  "description": "66ª Reunião Extraordinária – 16/06/2024",
+  "items": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/151741",
+      "@type": "Materia",
+      "abstencao": 0,
+      "apuracao": [],
+      "ausente": 0,
+      "autoria": [
+        {
+          "description": "Poder Executivo",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "contrario": 0,
+      "description": "Dispõe sobre as diretrizes para elaboração e execução da Lei Orçamentária de 2025.",
+      "favoravel": 0,
+      "id": "151741",
+      "presidencia": 0,
+      "quorum": "Maioria qualificada - 3/5",
+      "tipo_votacao": "Nominal",
+      "title": "Projeto de Lei do Executivo nº 13/2024",
+      "turno": "2ª Discussão",
+      "votos": [
+        {
+          "abstencao": [],
+          "ausente": [],
+          "contrario": [],
+          "favoravel": [],
+          "presidencia": []
+        }
+      ]
+    }
+  ],
+  "title": "Lista de votação nominal"
+}

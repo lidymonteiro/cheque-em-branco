@@ -1,0 +1,78 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/1767",
+  "@type": "Norma",
+  "anexos": [],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-05-18",
+  "data_publicacao": "",
+  "description": "ACRESCENTA O ART. 264-A, ACRESCENTA O § 2º AO ART. 224, ACRESCENTA O PARÁGRAFO ÚNICO AO ART. 225 E MODIFICA A ALÍNEA “E” DO INCISO II DO ART. 323 DA RESOLUÇÃO Nº 2624, DE 20 DE DEZEMBRO DE2016 REGIMENTO INTERNO DA CÂMARA MUNICIPAL DO RECIFE",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1767&texto_original=1",
+      "filename": "1767_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "934.8 KB"
+    }
+  ],
+  "heading_label": "Resolução nº 2741, de 18/05/2021",
+  "id": "1767",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=1767&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/93787",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=201",
+          "@type": "Autor",
+          "id": "201",
+          "primeiro_autor": true,
+          "title": "Fred Ferreira"
+        }
+      ],
+      "autoria_nomes": "Fred Ferreira",
+      "description": "ACRESCENTA O ART. 264-A, ACRESCENTA O § 2º AO ART. 224, ACRESCENTA O PARÁGRAFO ÚNICO AO ART. 225 E MODIFICA A ALÍNEA &#8220;E&#8221; DO INCISO II DO ART. 323 DA RESOLUÇÃO Nº 2624, DE 20 DE DEZEMBRO DE2016 REGIMENTO INTERNO DA CÂMARA MUNICIPAL DO RECIFE",
+      "id": "93787",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=93787",
+      "title": "Projeto de Resolução nº 57/2019",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=OTM3ODc="
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": null,
+  "num_pag_inicio_publ": null,
+  "publicacao": {
+    "numPagFim": null,
+    "numPagInicio": null,
+    "veiculo": null
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Resolução nº 2741/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-05-18",
+    "dataPromulgacaoBR": "18/05/2021",
+    "desTipoNorma": "Resolução",
+    "headingLabel": "Resolução nº 2741, de 18/05/2021",
+    "numNorma": 2741,
+    "sglTipoNorma": "RS"
+  },
+  "txt_ementa": "ACRESCENTA O ART. 264-A, ACRESCENTA O § 2º AO ART. 224, ACRESCENTA O PARÁGRAFO ÚNICO AO ART. 225 E MODIFICA A ALÍNEA “E” DO INCISO II DO ART. 323 DA RESOLUÇÃO Nº 2624, DE 20 DE DEZEMBRO DE2016 REGIMENTO INTERNO DA CÂMARA MUNICIPAL DO RECIFE",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1767",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=1767",
+  "veiculo_publicacao": ""
+}

@@ -1,0 +1,93 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@normas/727",
+  "@type": "Norma",
+  "anexos": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@normas/727",
+      "@type": "Anexo",
+      "file": [
+        {
+          "content-type": "application/pdf",
+          "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=norma_juridica/727_anexo_668",
+          "filename": "727_anexo_668",
+          "size": "330.4 KB"
+        }
+      ],
+      "id": "668",
+      "title": "PDF da publicação da lei 18819/2021"
+    }
+  ],
+  "arquivo_permanente": [],
+  "assuntos": [],
+  "codSituacao": 1,
+  "cod_situacao": 1,
+  "data_norma": "2021-08-13",
+  "data_publicacao": "2021-08-14",
+  "description": "CRIA NOVA UNIDADE ORÇAMENTÁRIA E AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL AO ORÇAMENTO FISCAL DO MUNICÍPIO.",
+  "file": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=727&texto_original=1",
+      "filename": "727_texto_integral.pdf",
+      "ind_assinado": false,
+      "size": "330.4 KB"
+    }
+  ],
+  "heading_label": "Lei Ordinária nº 18819, de 13/08/2021",
+  "id": "727",
+  "links": {
+    "downloadTextoOriginal": "https://e-processo.recife.pe.leg.br/@@download_norma?cod_norma=727&texto_original=1",
+    "pesquisaNormas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas",
+    "pesquisa_normas": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/pesquisa_normas"
+  },
+  "materia": [
+    {
+      "@id": "https://e-processo.recife.pe.leg.br/@@materias/109754",
+      "@type": "MateriaLegislativa",
+      "autoria": [
+        {
+          "@id": "https://e-processo.recife.pe.leg.br/@@autor?id=63",
+          "@type": "Autor",
+          "id": "63",
+          "primeiro_autor": true,
+          "title": "Prefeito do Recife"
+        }
+      ],
+      "autoria_nomes": "Prefeito do Recife",
+      "description": "CRIA NOVA UNIDADE ORÇAMENTÁRIA E AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL AO ORÇAMENTO FISCAL DO MUNICÍPIO.",
+      "id": "109754",
+      "remoteUrl": "https://e-processo.recife.pe.leg.br/@@pasta_digital?cod_materia=109754",
+      "title": "Projeto de Lei do Executivo nº 23/2021",
+      "url_consulta": "https://e-processo.recife.pe.leg.br/consultas/materia/materia_mostrar_proc?cod_materia=MTA5NzU0"
+    }
+  ],
+  "normas_que_referem_esta": [],
+  "normas_referidas_por_esta": [],
+  "normas_vinculadas": [],
+  "num_pag_fim_publ": 3,
+  "num_pag_inicio_publ": 3,
+  "publicacao": {
+    "numPagFim": 3,
+    "numPagInicio": 3,
+    "veiculo": "Diário Oficial do Município"
+  },
+  "status": "Em vigor",
+  "texto_atualizado": [],
+  "texto_compilado": [],
+  "texto_original_assinado": false,
+  "title": "Lei Ordinária nº 18819/2021",
+  "title_parts": {
+    "anoNorma": 2021,
+    "dataPromulgacao": "2021-08-13",
+    "dataPromulgacaoBR": "13/08/2021",
+    "desTipoNorma": "Lei Ordinária",
+    "headingLabel": "Lei Ordinária nº 18819, de 13/08/2021",
+    "numNorma": 18819,
+    "sglTipoNorma": "LEI"
+  },
+  "txt_ementa": "CRIA NOVA UNIDADE ORÇAMENTÁRIA E AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL AO ORÇAMENTO FISCAL DO MUNICÍPIO.",
+  "txt_observacao": "",
+  "uriConsultaPublica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=727",
+  "uri_consulta_publica": "https://e-processo.recife.pe.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=727",
+  "veiculo_publicacao": "Diário Oficial do Município"
+}

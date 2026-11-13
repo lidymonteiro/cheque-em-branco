@@ -1,0 +1,30 @@
+{
+  "@id": "https://e-processo.recife.pe.leg.br/@@sessoes/id/996",
+  "@id_presenca": "https://e-processo.recife.pe.leg.br/@@sessoes/id/996/presenca",
+  "@id_votacao": "https://e-processo.recife.pe.leg.br/@@sessoes/id/996/votacao",
+  "@type": "SessaoPlenaria",
+  "ata": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=ata_sessao/996_ata_sessao.pdf",
+      "filename": "996_ata_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "date": "2024-04-16",
+  "description": "20ª Reunião Ordinária - 16/04/2024",
+  "endTime": "11:19",
+  "id": "996",
+  "pauta": [
+    {
+      "content-type": "application/pdf",
+      "download": "https://e-processo.recife.pe.leg.br/@@sapl_documentos_download?path=pauta_sessao/996_pauta_sessao.pdf",
+      "filename": "996_pauta_sessao.pdf",
+      "size": ""
+    }
+  ],
+  "startTime": "08:26",
+  "title": "20ª Reunião Ordinária",
+  "type": "Ordinária",
+  "type_id": 1
+}
